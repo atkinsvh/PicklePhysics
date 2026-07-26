@@ -1,0 +1,14 @@
+Site: Physics Book Website Graphics
+Category: Galaxy and Space Graphics
+Asset: Nebula accent graphic
+Kind: illustration
+Size: 512x512
+
+Prompt:
+physics education website graphic, nebula accent graphic, galaxy, stars, spectrum, wavelength, frequency, textbook style, no text, high quality, best quality
+
+Negative prompt:
+lowres, bad anatomy, bad hands, text, error, missing fingers, extra digit, fewer digits, cropped, worst quality, low quality, blurry, pixelated, watermark, signature, letters, words, UI screenshot, clutter, neon glare, incorrect labels, wrong equations, random numbers, unreadable axes, overcrowded labels
+
+Notes:
+None

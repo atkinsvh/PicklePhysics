@@ -1,0 +1,14 @@
+Site: Pickle Book Website Graphics
+Category: Chibi Pickle Stickers
+Asset: Pickle presenting an answer
+Kind: sticker
+Size: 512x512
+
+Prompt:
+chibi pickle sticker, pickle presenting an answer, pickle character, friendly expression, intelligent look, clean dark outline, classic dill pickle body, elongated cucumber shape, bumpy warty pickle texture, pickle ridges, dark green pickle skin, light green bumps, fresh pickle appearance, academic detail, soft shading, simple silhouette, white sticker border, transparent background, website asset, no text, high quality, best quality
+
+Negative prompt:
+lowres, bad anatomy, bad hands, text, error, missing fingers, extra digit, fewer digits, cropped, worst quality, low quality, blurry, pixelated, watermark, signature, letters, words, UI screenshot, clutter, neon glare, scary expression, gross food texture, photorealistic pickle, inconsistent character, malformed arms, extra limbs, smooth skin, tomato shape, round body
+
+Notes:
+None

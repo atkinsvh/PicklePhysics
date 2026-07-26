@@ -1,0 +1,14 @@
+Site: Physics Book Website Graphics
+Category: Branding
+Asset: Physics book-cover graphic
+Kind: book_cover
+Size: 512x768
+
+Prompt:
+physics textbook cover, physics book cover graphic, galaxy, stars, electromagnetic spectrum, photon energy, scientific composition, empty space for title, no text, high quality, best quality
+
+Negative prompt:
+lowres, bad anatomy, bad hands, text, error, missing fingers, extra digit, fewer digits, cropped, worst quality, low quality, blurry, pixelated, watermark, signature, letters, words, UI screenshot, clutter, neon glare, incorrect labels, wrong equations, random numbers, unreadable axes, overcrowded labels
+
+Notes:
+None

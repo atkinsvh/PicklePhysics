@@ -1,0 +1,14 @@
+Site: Physics Book Website Graphics
+Category: Branding
+Asset: Horizontal logo
+Kind: horizontal_logo
+Size: 768x448
+
+Prompt:
+physics education UI mark, horizontal logo, scientific line art, star accent, spectrum accent, dark navy, luminous colors, centered, vector, simple silhouette, no text, high quality, best quality
+
+Negative prompt:
+lowres, bad anatomy, bad hands, text, error, missing fingers, extra digit, fewer digits, cropped, worst quality, low quality, blurry, pixelated, watermark, signature, letters, words, UI screenshot, clutter, neon glare, incorrect labels, wrong equations, random numbers, unreadable axes, overcrowded labels
+
+Notes:
+Add final logo typography later in a vector editor.

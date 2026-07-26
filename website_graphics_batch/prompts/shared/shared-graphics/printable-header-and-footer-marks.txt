@@ -1,0 +1,14 @@
+Site: Shared Graphics for Both Websites
+Category: Shared Graphics
+Asset: Printable header and footer marks
+Kind: illustration
+Size: 512x512
+
+Prompt:
+educational website asset, printable header and footer marks, clean modern publishing style, reusable, no text, high quality, best quality
+
+Negative prompt:
+lowres, bad anatomy, bad hands, text, error, missing fingers, extra digit, fewer digits, cropped, worst quality, low quality, blurry, pixelated, watermark, signature, letters, words, UI screenshot, clutter, neon glare
+
+Notes:
+None

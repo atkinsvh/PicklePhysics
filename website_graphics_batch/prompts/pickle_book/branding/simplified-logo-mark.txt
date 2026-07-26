@@ -1,0 +1,14 @@
+Site: Pickle Book Website Graphics
+Category: Branding
+Asset: Simplified logo mark
+Kind: logo
+Size: 512x512
+
+Prompt:
+educational brand mark, pickle book website, simplified logo mark, fresh green accent, clean vector shape, friendly design, simple silhouette, logo concept, no text, high quality, best quality
+
+Negative prompt:
+lowres, bad anatomy, bad hands, text, error, missing fingers, extra digit, fewer digits, cropped, worst quality, low quality, blurry, pixelated, watermark, signature, letters, words, UI screenshot, clutter, neon glare, scary expression, gross food texture, photorealistic pickle, inconsistent character, malformed arms, extra limbs, smooth skin, tomato shape, round body, photorealistic scene, complex background, tiny details
+
+Notes:
+Add final logo typography later in a vector editor.

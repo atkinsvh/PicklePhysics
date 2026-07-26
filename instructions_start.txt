@@ -1,0 +1,778 @@
+Build two separate professional educational websites that publish complete books from Markdown files. The two websites should share the same technical foundation and reading features, but each must have its own branding, visual identity, domain configuration, content directory, navigation, and design system.
+
+## Core Goal
+
+Create two polished, production-ready websites where visitors can read full educational books online.
+
+Each book will be supplied as a collection of `.md` Markdown files. The websites must automatically transform those files into structured chapters and reading pages without requiring the book content to be manually copied into components.
+
+The final websites should feel like serious educational publishing platforms rather than personal blogs.
+
+---
+
+# Website One: Chibi Pickle Book
+
+## Identity
+
+Create a professional educational website with a friendly chibi-pickle theme.
+
+The pickle artwork should appear mainly as decorative stickers, small illustrations, chapter markers, progress rewards, loading graphics, empty-state illustrations, and occasional margin decorations.
+
+The site must remain readable and academically credible. Do not make the interface look childish, cluttered, or like a toy website.
+
+Use the temporary title:
+
+**[PICKLE BOOK TITLE]**
+
+Use the temporary domain:
+
+**[PICKLE WEBSITE DOMAIN]**
+
+## Visual Direction
+
+Use:
+
+* Clean white or lightly tinted page backgrounds
+* Fresh green accent colors
+* Dark readable body text
+* Rounded cards used selectively
+* Small chibi pickle sticker illustrations
+* Subtle paper, notebook, or textbook influences
+* Simple educational icons
+* Generous spacing
+* Strong typography
+* Restrained animations
+
+Create several reusable chibi-pickle sticker concepts, such as:
+
+* Pickle reading a book
+* Pickle holding a pencil
+* Pickle celebrating chapter completion
+* Pickle wearing glasses
+* Pickle pointing toward an important note
+* Pickle carrying a small stack of books
+* Pickle displaying a warning sign
+* Pickle presenting a quiz question
+* Pickle sleeping beside a bookmark
+* Pickle holding a lightbulb
+
+The illustrations should have a consistent sticker style with clean outlines and transparent backgrounds.
+
+Do not place large cartoon illustrations behind body text.
+
+---
+
+# Website Two: Physics Spectrum and Energy Book
+
+## Identity
+
+Create a professional physics education website with a galaxy, stars, electromagnetic spectrum, light, wavelength, frequency, and energy theme.
+
+The design should communicate scientific depth, discovery, and advanced learning without becoming visually distracting.
+
+Use the temporary title:
+
+**[PHYSICS BOOK TITLE]**
+
+Use the temporary domain:
+
+**[PHYSICS WEBSITE DOMAIN]**
+
+## Visual Direction
+
+Use:
+
+* Deep navy, charcoal, or near-black backgrounds in selected interface areas
+* Bright readable article pages
+* Galaxy and star-field accents
+* Subtle spectral gradients
+* Wavelength and frequency motifs
+* Energy-wave diagrams
+* Constellation-like connecting lines
+* Scientific grid patterns
+* Glowing but restrained interface accents
+* Elegant data visualizations
+* Professional textbook typography
+
+Represent electromagnetic spectrum energy using carefully controlled spectral colors where appropriate.
+
+Possible decorative elements include:
+
+* Photon trails
+* Waveforms
+* Stars and distant galaxies
+* Prism refraction
+* Spectral bands
+* Frequency lines
+* Atomic energy transitions
+* Small constellation diagrams
+* Energy-level markers
+* Light-cone or spacetime-inspired patterns
+
+Do not use constant flashing, excessive glowing effects, hard-to-read neon text, or animation that interferes with reading.
+
+---
+
+# Shared Technical Architecture
+
+Build both websites using:
+
+* Next.js
+* TypeScript
+* Tailwind CSS
+* React components
+* Static generation where practical
+* Markdown or MDX content loading
+* Responsive layouts
+* Semantic HTML
+* Accessible navigation
+* Search-engine-friendly metadata
+
+Use a structure similar to:
+
+```text
+project-root/
+├── app/
+├── components/
+├── content/
+│   ├── chapter-01.md
+│   ├── chapter-02.md
+│   ├── chapter-03.md
+│   └── ...
+├── public/
+│   ├── images/
+│   ├── stickers/
+│   └── diagrams/
+├── lib/
+├── styles/
+└── config/
+```
+
+Each website must be its own deployable project. Do not combine them into one public-facing application.
+
+A reusable internal codebase or shared component package is acceptable, but the deployed websites must remain independent.
+
+---
+
+# Markdown Book System
+
+Read all Markdown files from the website’s `/content` directory.
+
+Each Markdown file represents a chapter, lesson, appendix, introduction, glossary section, or other book section.
+
+Support front matter similar to:
+
+```yaml
+---
+title: "Chapter Title"
+chapter: 1
+section: "Section Name"
+description: "Short chapter summary"
+author: "Author Name"
+order: 1
+readingTime: 12
+difficulty: "Introductory"
+keywords:
+  - keyword one
+  - keyword two
+---
+```
+
+The system should:
+
+* Sort chapters using the `order` or `chapter` field
+* Generate clean URLs from filenames or slugs
+* Build the table of contents automatically
+* Display chapter metadata
+* Calculate reading time when it is not provided
+* Generate previous and next chapter links
+* Build section groupings
+* Support nested chapters when needed
+* Detect missing front matter gracefully
+* Render Markdown tables
+* Render blockquotes
+* Render ordered and unordered lists
+* Render footnotes
+* Render code blocks
+* Render inline code
+* Render mathematical notation
+* Render images and captions
+* Render callout boxes
+* Render citations and references
+* Render definition lists
+* Render horizontal rules
+* Render headings with anchor links
+
+Support KaTeX or MathJax for mathematical equations.
+
+Support syntax such as:
+
+```markdown
+$$
+E = hf
+$$
+```
+
+and:
+
+```markdown
+The energy of a photon is described by \(E = hf\).
+```
+
+---
+
+# Content Components
+
+Create Markdown-compatible components or syntax for:
+
+## Important Note
+
+A visually distinct information box for major concepts.
+
+## Definition
+
+A term, its definition, and an optional example.
+
+## Warning
+
+A caution, misconception, safety note, or common error.
+
+## Example
+
+A worked example with clearly separated steps.
+
+## Key Concept
+
+A highlighted principle the reader should remember.
+
+## Question
+
+A reflective or review question.
+
+## Answer
+
+A collapsible answer or explanation.
+
+## Formula
+
+A formula with symbol definitions and units.
+
+## Experiment
+
+An experiment or demonstration with materials, steps, observations, and explanation.
+
+## Summary
+
+An end-of-chapter summary.
+
+## Learning Objectives
+
+A list of what the reader should understand after completing the chapter.
+
+## Vocabulary
+
+A chapter vocabulary list that can also populate the global glossary.
+
+---
+
+# Homepage
+
+Each website should have a unique homepage featuring:
+
+* Book title
+* Subtitle or educational promise
+* Brief book description
+* Primary “Start Reading” button
+* “Continue Reading” button when progress exists
+* Featured chapters
+* Book contents preview
+* Intended audience
+* Learning outcomes
+* About the book
+* About the author or organization
+* Search field
+* Recently viewed section
+* Estimated book length
+* Topic categories
+* Footer navigation
+
+The homepage should clearly communicate that the visitor can read the complete book online.
+
+---
+
+# Reading Interface
+
+Create a focused online reading experience.
+
+Desktop layout:
+
+* Collapsible table of contents on the left
+* Main article column in the center
+* Optional chapter outline or contextual tools on the right
+
+Mobile layout:
+
+* Clean single-column reading view
+* Slide-out table of contents
+* Sticky but compact reading controls
+* Large touch targets
+
+The article layout should include:
+
+* Chapter title
+* Chapter number
+* Description
+* Estimated reading time
+* Difficulty level
+* Learning objectives
+* Main chapter content
+* End-of-chapter summary
+* Previous chapter
+* Next chapter
+* Back to contents
+* Reading progress
+* Bookmark control
+
+Use an article width that supports comfortable long-form reading.
+
+---
+
+# Navigation
+
+Include:
+
+* Home
+* Read the Book
+* Full Table of Contents
+* Search
+* Glossary
+* Resources
+* About
+* References
+
+Automatically generate chapter navigation from the Markdown files.
+
+Support nested navigation where one chapter contains multiple lessons or subsections.
+
+---
+
+# Search
+
+Create full-text search across:
+
+* Chapter titles
+* Headings
+* Body text
+* Definitions
+* Vocabulary
+* Formulas
+* Keywords
+* Descriptions
+
+Search results should show:
+
+* Page title
+* Chapter number
+* Relevant text excerpt
+* Section heading
+* Match highlighting
+* Direct link to the matching section
+
+Search should work quickly and should not require an external paid service.
+
+---
+
+# Reading Progress
+
+Store reading progress locally unless a user-account system is added later.
+
+Track:
+
+* Last chapter opened
+* Last reading position
+* Completed chapters
+* Bookmarked chapters
+* Bookmarked passages
+* Recently viewed pages
+* Overall completion percentage
+
+Allow the reader to reset their progress.
+
+For the pickle website, chapter completion can trigger a small celebratory pickle sticker.
+
+For the physics website, chapter completion can trigger a restrained star, photon, or constellation animation.
+
+Animations should respect reduced-motion accessibility settings.
+
+---
+
+# Glossary
+
+Generate a searchable glossary using vocabulary and definition entries from the Markdown files.
+
+Each glossary entry should include:
+
+* Term
+* Definition
+* Related chapter
+* Related concepts
+* Link to the original section
+* Alternate terms when available
+
+For the physics website, allow glossary terms to include symbols, equations, and units.
+
+---
+
+# Physics-Specific Features
+
+The physics website should support additional educational components.
+
+## Formula Cards
+
+Display:
+
+* Formula
+* Formula name
+* Meaning
+* Variable definitions
+* Units
+* Conditions where the formula applies
+* Related formulas
+* Link to the relevant chapter
+
+## Spectrum Explorer
+
+Create an interactive electromagnetic spectrum component covering:
+
+* Radio waves
+* Microwaves
+* Infrared
+* Visible light
+* Ultraviolet
+* X-rays
+* Gamma rays
+
+For each range, show:
+
+* Typical wavelength
+* Typical frequency
+* Relative photon energy
+* Common sources
+* Common applications
+* Potential hazards
+* Position on the electromagnetic spectrum
+
+Use scientifically responsible labels and avoid implying that category boundaries are perfectly fixed.
+
+## Unit Converter
+
+Include useful conversions between:
+
+* Wavelength
+* Frequency
+* Photon energy
+* Nanometers
+* Micrometers
+* Meters
+* Hertz
+* Kilohertz
+* Megahertz
+* Gigahertz
+* Terahertz
+* Electronvolts
+* Joules
+
+Clearly display the equations used.
+
+## Interactive Diagrams
+
+Allow optional interactive diagrams for:
+
+* Wave amplitude
+* Wavelength
+* Frequency
+* Photon energy
+* Refraction
+* Reflection
+* Absorption
+* Emission spectra
+* Atomic energy transitions
+* Inverse-square relationships
+
+Every visualization must include text explanations and accessible labels.
+
+---
+
+# Pickle-Specific Features
+
+The pickle website should support a reusable sticker system.
+
+Create a sticker component that accepts values such as:
+
+```tsx
+<PickleSticker
+  pose="reading"
+  size="small"
+  message="Key idea!"
+/>
+```
+
+Suggested poses:
+
+```text
+reading
+writing
+thinking
+celebrating
+warning
+questioning
+sleeping
+experimenting
+pointing
+welcoming
+```
+
+Stickers may be used beside:
+
+* Definitions
+* Chapter introductions
+* Review questions
+* Study tips
+* Warnings
+* Chapter-completion messages
+* Empty bookmark lists
+* Search pages with no results
+
+Keep sticker placement consistent and restrained.
+
+---
+
+# Reader Controls
+
+Include:
+
+* Font-size adjustment
+* Line-spacing adjustment
+* Light mode
+* Dark mode
+* System theme
+* Reading-width adjustment
+* Print chapter
+* Copy section link
+* Bookmark chapter
+* Bookmark passage
+* Return to previous position
+* Hide decorative artwork
+* Reduced-motion support
+
+Save reader preferences locally.
+
+---
+
+# Accessibility
+
+Meet WCAG 2.2 AA standards as closely as practical.
+
+Include:
+
+* Keyboard navigation
+* Visible focus indicators
+* Proper heading hierarchy
+* Semantic landmarks
+* Skip-to-content link
+* Alternative text
+* Sufficient color contrast
+* Reduced-motion support
+* Screen-reader labels
+* Accessible expandable sections
+* Accessible search
+* Accessible mathematical content
+* No information communicated through color alone
+
+Decorative stickers and galaxy imagery should be hidden from screen readers when they do not add meaning.
+
+---
+
+# SEO and Sharing
+
+Generate metadata for every chapter.
+
+Include:
+
+* Page title
+* Meta description
+* Canonical URL
+* Open Graph image
+* Social sharing image
+* Structured data
+* Book schema where appropriate
+* Article or chapter schema
+* Sitemap
+* Robots file
+* RSS or update feed when practical
+
+Use the chapter description and keywords from front matter.
+
+---
+
+# References and Citations
+
+Support:
+
+* Footnotes
+* Endnotes
+* Bibliography entries
+* External source links
+* DOI links
+* Textbook citations
+* Web references
+* Figure citations
+* Chapter references
+
+Create a global references page that can aggregate citations from all chapters.
+
+Do not fabricate references that are not present in the Markdown files.
+
+---
+
+# Performance
+
+Optimize for:
+
+* Fast first load
+* Static page generation
+* Lazy-loaded nonessential artwork
+* Optimized images
+* Minimal JavaScript on reading pages
+* Font performance
+* Responsive images
+* Good Core Web Vitals
+
+The reading experience should remain functional even when optional animations or interactive graphics fail to load.
+
+---
+
+# Content Integrity
+
+Preserve the original Markdown wording unless transformation is required for rendering.
+
+Do not silently rewrite, summarize, censor, or remove book content.
+
+Display a clear development warning when:
+
+* A Markdown link is broken
+* An image is missing
+* Front matter is malformed
+* Two pages use the same slug
+* A chapter number is duplicated
+* A navigation destination cannot be found
+
+Create a content validation script that checks the Markdown files before deployment.
+
+---
+
+# Administrative Workflow
+
+The author should be able to update the websites by:
+
+1. Adding or editing Markdown files
+2. Adding images to the appropriate public folder
+3. Updating front matter
+4. Running the validation script
+5. Rebuilding or redeploying the website
+
+Do not require the author to edit React components for ordinary chapter updates.
+
+Create a clear `README.md` explaining:
+
+* How to add a chapter
+* How to reorder chapters
+* How to add images
+* How to add formulas
+* How to add citations
+* How to add definitions
+* How to add callout boxes
+* How to validate content
+* How to run locally
+* How to build
+* How to deploy
+* How to configure the domain
+
+---
+
+# Deployment
+
+Prepare each website for deployment on one of the following:
+
+* Vercel
+* Netlify
+* Cloudflare Pages
+* A standard Node.js server
+
+Include:
+
+* Environment-variable example file
+* Production build command
+* Development command
+* Static asset configuration
+* Domain configuration instructions
+* Error page
+* Not-found page
+* Basic analytics placeholder
+* Privacy-conscious analytics option
+
+Do not make either website dependent on proprietary hosting features unless clearly documented.
+
+---
+
+# Deliverables
+
+For each website, provide:
+
+1. Complete source code
+2. Clear project folder structure
+3. Sample Markdown chapters
+4. Markdown front-matter examples
+5. Reusable book components
+6. Responsive navigation
+7. Search functionality
+8. Reading-progress functionality
+9. Bookmark functionality
+10. Glossary generation
+11. Accessible reader settings
+12. Content-validation script
+13. README documentation
+14. Deployment instructions
+15. Placeholder branding assets
+16. Favicon and social-card placeholders
+17. Error handling
+18. Print-friendly chapter styling
+
+For the pickle website, also provide the reusable chibi-pickle sticker component and placeholder sticker assets.
+
+For the physics website, also provide the spectrum explorer, formula cards, scientific-unit utilities, and placeholder physics diagrams.
+
+---
+
+# Information to Replace
+
+Before final deployment, replace these placeholders:
+
+```text
+[PICKLE BOOK TITLE] Ed's Picklery and Emporium 
+[PICKLE WEBSITE DOMAIN] edspickle.shop
+[PICKLE BOOK DESCRIPTION] Life saving pickles that cure disorders
+[PICKLE AUTHOR NAME] Nick James
+
+[PHYSICS BOOK TITLE] Painting Walls, Chromatography
+[PHYSICS WEBSITE DOMAIN] incorporated.ink
+[PHYSICS BOOK DESCRIPTION] The ways of painting that have been unstudied, until now.
+[PHYSICS AUTHOR NAME] Nick James
+```
+
+The two projects should feel related in quality and functionality, but visually they must be unmistakably different:
+
+* Website One: fresh, friendly, academic, and decorated with chibi-pickle stickers.
+* Website Two: scientific, expansive, precise, and inspired by galaxies, stars, spectra, wavelength, frequency, and energy.
+
+Begin by generating the full folder structure and technical architecture for both projects. Then implement the shared Markdown publishing system, followed by the unique visual systems and specialized components for each website.

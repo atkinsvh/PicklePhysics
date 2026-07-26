@@ -1,0 +1,14 @@
+Site: Physics Book Website Graphics
+Category: Electromagnetic Spectrum Graphics
+Asset: Prism-refraction graphic
+Kind: diagram
+Size: 768x448
+
+Prompt:
+physics education illustration, prism refraction graphic, galaxy, stars, electromagnetic spectrum, wavelength, frequency, photon energy, clean composition, scientific grid, spectral color accents, no labels, no text, high quality, best quality
+
+Negative prompt:
+lowres, bad anatomy, bad hands, text, error, missing fingers, extra digit, fewer digits, cropped, worst quality, low quality, blurry, pixelated, watermark, signature, letters, words, UI screenshot, clutter, neon glare, incorrect labels, wrong equations, random numbers, unreadable axes, overcrowded labels
+
+Notes:
+For factual diagrams, add labels, arrows, equations, and scale values manually.

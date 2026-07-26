@@ -1,0 +1,14 @@
+Site: Shared Graphics for Both Websites
+Category: Shared Graphics
+Asset: Home-page hero graphic
+Kind: hero
+Size: 768x512
+
+Prompt:
+educational book website graphic, home page hero graphic, modern publishing style, readable composition, empty space for title, academic visual language, no text, high quality, best quality
+
+Negative prompt:
+lowres, bad anatomy, bad hands, text, error, missing fingers, extra digit, fewer digits, cropped, worst quality, low quality, blurry, pixelated, watermark, signature, letters, words, UI screenshot, clutter, neon glare
+
+Notes:
+None

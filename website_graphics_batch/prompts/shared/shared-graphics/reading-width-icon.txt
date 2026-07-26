@@ -1,0 +1,14 @@
+Site: Shared Graphics for Both Websites
+Category: Shared Graphics
+Asset: Reading-width icon
+Kind: icon
+Size: 384x384
+
+Prompt:
+educational website UI icon, reading width icon, simple vector shape, neutral modern style, centered, transparent background, no text, high quality, best quality
+
+Negative prompt:
+lowres, bad anatomy, bad hands, text, error, missing fingers, extra digit, fewer digits, cropped, worst quality, low quality, blurry, pixelated, watermark, signature, letters, words, UI screenshot, clutter, neon glare, photorealistic scene, complex background, tiny details
+
+Notes:
+None

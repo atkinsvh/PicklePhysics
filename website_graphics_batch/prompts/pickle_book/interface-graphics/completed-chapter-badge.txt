@@ -1,0 +1,14 @@
+Site: Pickle Book Website Graphics
+Category: Interface Graphics
+Asset: Completed-chapter badge
+Kind: badge
+Size: 384x384
+
+Prompt:
+educational UI icon, completed chapter badge, pickle book website, simple vector style, fresh green accent, dark outline, centered, transparent background, no text, high quality, best quality
+
+Negative prompt:
+lowres, bad anatomy, bad hands, text, error, missing fingers, extra digit, fewer digits, cropped, worst quality, low quality, blurry, pixelated, watermark, signature, letters, words, UI screenshot, clutter, neon glare, scary expression, gross food texture, photorealistic pickle, inconsistent character, malformed arms, extra limbs, smooth skin, tomato shape, round body, photorealistic scene, complex background, tiny details
+
+Notes:
+None

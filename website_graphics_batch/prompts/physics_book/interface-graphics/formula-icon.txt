@@ -1,0 +1,14 @@
+Site: Physics Book Website Graphics
+Category: Interface Graphics
+Asset: Formula icon
+Kind: icon
+Size: 384x384
+
+Prompt:
+physics education UI mark, formula icon, scientific line art, star accent, spectrum accent, dark navy, luminous colors, centered, vector, simple silhouette, no text, high quality, best quality
+
+Negative prompt:
+lowres, bad anatomy, bad hands, text, error, missing fingers, extra digit, fewer digits, cropped, worst quality, low quality, blurry, pixelated, watermark, signature, letters, words, UI screenshot, clutter, neon glare, incorrect labels, wrong equations, random numbers, unreadable axes, overcrowded labels, photorealistic scene, complex background, tiny details
+
+Notes:
+None

@@ -1,0 +1,20 @@
+{
+  "total_assets": 131,
+  "by_site": {
+    "pickle_book": 43,
+    "physics_book": 61,
+    "shared": 27
+  },
+  "by_category": {
+    "pickle_book/Branding": 6,
+    "pickle_book/Chibi Pickle Stickers": 20,
+    "pickle_book/Interface Graphics": 17,
+    "physics_book/Branding": 6,
+    "physics_book/Galaxy and Space Graphics": 11,
+    "physics_book/Electromagnetic Spectrum Graphics": 13,
+    "physics_book/Physics Diagrams": 16,
+    "physics_book/Interface Graphics": 15,
+    "shared/Shared Graphics": 27
+  },
+  "backend_note": "Manifest mode completed without generating images. Use --backend comfyui after starting ComfyUI to render files."
+}

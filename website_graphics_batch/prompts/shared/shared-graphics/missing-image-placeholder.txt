@@ -1,0 +1,14 @@
+Site: Shared Graphics for Both Websites
+Category: Shared Graphics
+Asset: Missing-image placeholder
+Kind: placeholder
+Size: 512x512
+
+Prompt:
+educational website support graphic, missing image placeholder, clean, neutral, pickle book and physics book, simple shapes, no text, high quality, best quality
+
+Negative prompt:
+lowres, bad anatomy, bad hands, text, error, missing fingers, extra digit, fewer digits, cropped, worst quality, low quality, blurry, pixelated, watermark, signature, letters, words, UI screenshot, clutter, neon glare
+
+Notes:
+None

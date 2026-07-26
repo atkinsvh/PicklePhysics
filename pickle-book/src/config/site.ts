@@ -1,0 +1,23 @@
+export const siteConfig = {
+  title: "Ed's Picklery and Emporium",
+  description: "Life saving pickles that cure disorders",
+  domain: "edspickle.shop",
+  author: "Nick James",
+  theme: "pickle" as const,
+  logo: "/images/branding/primary-logo-v01-01.png",
+  horizontalLogo: "/images/branding/horizontal-logo-v01-01.png",
+  simplifiedLogo: "/images/branding/simplified-logo-mark-v01-01.png",
+  favicon: "/images/branding/favicon-v01-01.png",
+  socialImage: "/images/branding/social-sharing-image-v01-01.png",
+  coverImage: "/images/branding/default-book-cover-graphic-v01-01.png",
+  navLinks: [
+    { href: "/", label: "Home" },
+    { href: "/read", label: "Read" },
+    { href: "/contents", label: "Contents" },
+    { href: "/search", label: "Search" },
+    { href: "/glossary", label: "Glossary" },
+    { href: "/about", label: "About" },
+    { href: "/resources", label: "Resources" },
+    { href: "/references", label: "References" },
+  ],
+};
