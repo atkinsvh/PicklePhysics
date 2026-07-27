@@ -15,7 +15,6 @@ export const siteConfig = {
     { href: "/read", label: "Read" },
     { href: "/contents", label: "Contents" },
     { href: "/search", label: "Search" },
-    { href: "/glossary", label: "Glossary" },
     { href: "/about", label: "About" },
     { href: "/resources", label: "Resources" },
     { href: "/references", label: "References" },
