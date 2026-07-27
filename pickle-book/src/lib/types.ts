@@ -10,6 +10,7 @@ export interface ChapterFrontMatter {
   draft?: boolean;
   glossary?: GlossaryTerm[];
 }
+
 export interface ChapterData {
   slug: string;
   frontMatter: ChapterFrontMatter;
@@ -19,16 +20,19 @@ export interface ChapterData {
   prev: { slug: string; title: string } | null;
   next: { slug: string; title: string } | null;
 }
+
 export interface TableOfContentsEntry {
   id: string;
   text: string;
   level: number;
 }
+
 export interface GlossaryTerm {
   term: string;
   definition: string;
   relatedTerms?: string[];
 }
+
 export interface ReadingProgress {
   lastChapter: string | null;
   lastPosition: number;
@@ -37,6 +41,7 @@ export interface ReadingProgress {
   recentlyViewed: string[];
   lastUpdated: number;
 }
+
 export interface SearchResult {
   slug: string;
   title: string;
@@ -45,10 +50,16 @@ export interface SearchResult {
   score: number;
   highlights: string[];
 }
+
+export type FontFamilyOption = "lato" | "lobster" | "cinzel" | "serif" | "sans-serif" | "monospace";
+
 export interface ReaderSettings {
   fontSize: number;
   lineSpacing: number;
   readingWidth: "narrow" | "medium" | "wide";
   theme: "light" | "dark" | "sepia";
   showStickers: boolean;
+  backgroundColor: string;
+  fontColor: string;
+  fontFamily: FontFamilyOption;
 }

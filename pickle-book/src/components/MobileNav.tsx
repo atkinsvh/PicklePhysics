@@ -3,10 +3,12 @@ import { useEffect } from "react";
 import Link from "next/link";
 import Image from "next/image";
 import { siteConfig } from "@/config/site";
+
 interface MobileNavProps {
   open: boolean;
   onClose: () => void;
 }
+
 export default function MobileNav({ open, onClose }: MobileNavProps) {
   useEffect(() => {
     if (open) {
@@ -18,6 +20,7 @@ export default function MobileNav({ open, onClose }: MobileNavProps) {
       document.body.style.overflow = "";
     };
   }, [open]);
+
   return (
     <>
       {open && (
@@ -27,11 +30,12 @@ export default function MobileNav({ open, onClose }: MobileNavProps) {
         />
       )}
       <div
-        className={`fixed top-0 right-0 h-full w-72 bg-white z-50 shadow-lg transform transition-transform duration-300 md:hidden ${
+        className={`fixed top-0 right-0 h-full w-72 z-50 shadow-lg transform transition-transform duration-300 md:hidden ${
           open ? "translate-x-0" : "translate-x-full"
         }`}
+        style={{ background: "var(--surface-color, #1e1e30)" }}
       >
-        <div className="flex items-center justify-between p-4 border-b border-border">
+        <div className="flex items-center justify-between p-4 border-b" style={{ borderColor: "var(--color-border)" }}>
           <Link href="/" onClick={onClose} className="flex items-center gap-2">
             <Image
               src={siteConfig.simplifiedLogo}
@@ -40,11 +44,12 @@ export default function MobileNav({ open, onClose }: MobileNavProps) {
               height={28}
               className="h-7 w-7"
             />
-            <span className="font-semibold text-sm text-foreground">{siteConfig.title}</span>
+            <span className="font-semibold text-sm" style={{ color: "var(--reader-color)" }}>{siteConfig.title}</span>
           </Link>
           <button
             onClick={onClose}
-            className="p-2 rounded-md text-muted hover:text-pickle-green hover:bg-pickle-light transition-colors"
+            className="p-2 rounded-md transition-colors hover:text-pickle-green hover:bg-pickle-light"
+            style={{ color: "var(--color-muted)" }}
             aria-label="Close menu"
           >
             <svg className="w-5 h-5" fill="none" stroke="currentColor" viewBox="0 0 24 24">
@@ -58,7 +63,8 @@ export default function MobileNav({ open, onClose }: MobileNavProps) {
               key={link.href}
               href={link.href}
               onClick={onClose}
-              className="block px-3 py-2.5 text-sm font-medium text-muted hover:text-pickle-green hover:bg-pickle-light rounded-md transition-colors"
+              className="block px-3 py-2.5 text-sm font-medium rounded-md transition-colors hover:text-pickle-green hover:bg-pickle-light"
+              style={{ color: "var(--color-muted)" }}
             >
               {link.label}
             </Link>

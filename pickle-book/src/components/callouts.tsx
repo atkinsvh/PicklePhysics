@@ -137,7 +137,7 @@ export function Answer({ title = "Answer", children }: { title?: string; childre
           <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M9 5l7 7-7 7" />
         </svg>
       </summary>
-      <div className="mt-2 px-4 py-3 text-sm leading-relaxed bg-white border border-t-0 border-border rounded-b-lg">
+      <div className="mt-2 px-4 py-3 text-sm leading-relaxed border border-t-0 border-border rounded-b-lg" style={{ background: "rgba(255,255,255,0.04)" }}>
         {children}
       </div>
     </details>

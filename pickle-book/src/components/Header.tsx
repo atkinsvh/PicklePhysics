@@ -4,10 +4,11 @@ import Link from "next/link";
 import Image from "next/image";
 import { siteConfig } from "@/config/site";
 import MobileNav from "./MobileNav";
+
 export default function Header() {
   const [mobileOpen, setMobileOpen] = useState(false);
   return (
-    <header className="sticky top-0 z-50 bg-white border-b border-border no-print">
+    <header className="sticky top-0 z-50 border-b border-border no-print" style={{ background: "var(--surface-color, #16162a)" }}>
       <div className="max-w-6xl mx-auto px-4 h-16 flex items-center justify-between">
         <Link href="/" className="flex items-center gap-3 group">
           <Image
@@ -18,7 +19,7 @@ export default function Header() {
             className="h-8 w-auto"
             priority
           />
-          <span className="hidden sm:inline font-semibold text-lg text-foreground group-hover:text-pickle-green transition-colors">
+          <span className="hidden sm:inline font-semibold text-lg transition-colors" style={{ color: "var(--reader-color, #e5e7eb)" }}>
             {siteConfig.title}
           </span>
         </Link>
@@ -27,7 +28,8 @@ export default function Header() {
             <Link
               key={link.href}
               href={link.href}
-              className="px-3 py-2 text-sm font-medium text-muted hover:text-pickle-green transition-colors rounded-md hover:bg-pickle-light"
+              className="px-3 py-2 text-sm font-medium transition-colors rounded-md hover:bg-white/10"
+              style={{ color: "var(--color-muted, #9ca3af)" }}
             >
               {link.label}
             </Link>
@@ -35,7 +37,8 @@ export default function Header() {
         </nav>
         <button
           onClick={() => setMobileOpen(true)}
-          className="md:hidden p-2 rounded-md text-muted hover:text-pickle-green hover:bg-pickle-light transition-colors"
+          className="md:hidden p-2 rounded-md transition-colors hover:bg-white/10"
+          style={{ color: "var(--color-muted, #9ca3af)" }}
           aria-label="Open menu"
         >
           <svg className="w-6 h-6" fill="none" stroke="currentColor" viewBox="0 0 24 24">
