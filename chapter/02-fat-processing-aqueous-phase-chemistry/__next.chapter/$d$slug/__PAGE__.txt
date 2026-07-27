@@ -1,0 +1,55 @@
+1:"$Sreact.fragment"
+2:I[90114,["/_next/static/chunks/2cdxtyl33onme.js","/_next/static/chunks/30x6623ill3zz.js","/_next/static/chunks/2gspel2gmkmqb.js"],"default"]
+8:I[66489,["/_next/static/chunks/2cdxtyl33onme.js","/_next/static/chunks/30x6623ill3zz.js","/_next/static/chunks/2gspel2gmkmqb.js"],"default"]
+9:I[98352,["/_next/static/chunks/2cdxtyl33onme.js","/_next/static/chunks/30x6623ill3zz.js","/_next/static/chunks/2gspel2gmkmqb.js"],"default"]
+a:I[70411,["/_next/static/chunks/2cdxtyl33onme.js","/_next/static/chunks/30x6623ill3zz.js","/_next/static/chunks/2gspel2gmkmqb.js"],"default"]
+b:I[10432,["/_next/static/chunks/2cdxtyl33onme.js","/_next/static/chunks/30x6623ill3zz.js","/_next/static/chunks/2gspel2gmkmqb.js"],"default"]
+c:I[93070,["/_next/static/chunks/2cdxtyl33onme.js","/_next/static/chunks/30x6623ill3zz.js"],"OutletBoundary"]
+d:"$Sreact.suspense"
+3:T11c5,<h1 id="aqueous-phase-chemistry-steps-1-8">Aqueous Phase Chemistry — Steps 1–8</h1>
+<blockquote>
+<p><em>The complete aqueous cleaning sequence. All aqueous chemistry grouped before the single dry step.</em></p>
+</blockquote>
+<h2 id="the-principle">The Principle</h2>
+<p>Water-based chemistry addresses three distinct contaminant classes through three distinct mechanisms:</p>
+<ol>
+<li><strong>Physical removal</strong> (filtration, washing) — particulates, soap, ionic residues</li>
+<li><strong>Chemical conversion</strong> (saponification) — FFAs → soap → aqueous phase</li>
+<li><strong>Complexation</strong> (chelation) — metal ions → metal acetates → aqueous phase</li>
+</ol>
+<h2 id="reagents-and-their-logic">Reagents and Their Logic</h2>
+<h3 id="baking-soda-nahco">Baking Soda (NaHCO₃)</h3>
+<p><strong>Mechanism:</strong> Weak base, pH ceiling 8.3. FFAs react: RCOOH + NaHCO₃ → RCOONa (soap) + H₂O + CO₂</p>
+<p><strong>Why not NaOH:</strong> Lye (NaOH) reaches pH 12–14 and can over-saponify triglycerides themselves, destroying product. Baking soda's pH ceiling is below the threshold for triglyceride saponification — self-limiting. More forgiving, no precise stoichiometry required.</p>
+<p><strong>The diagnostic:</strong> CO₂ effervescence is proportional to FFA content. Vigorous sustained bubbling = high FFA (>2%). Mild brief = moderate. None = low FFA. This is a free, built-in quality indicator.</p>
+<p><strong>Phospholipid removal (degumming):</strong> Alkaline conditions hydrolyze phospholipids. Phospholipids are amphiphilic — they migrate to the aqueous phase after hydrolysis. This is the same degumming step performed in industrial oil refining.</p>
+<h3 id="vinegar-acetic-acid-at-1">Vinegar (Acetic Acid at ~1%)</h3>
+<p><strong>Mechanism 1 — Metal chelation:</strong> CH₃COO⁻ forms soluble complexes with Fe²⁺ and Cu²⁺. Iron and copper are the primary pro-oxidant metal catalysts driving lipid peroxidation (Fenton chemistry: Fe²⁺ + H₂O₂ → Fe³⁺ + OH• + OH⁻). Their removal from the fat phase reduces the ongoing oxidation rate. Metal reduction: ~54%.</p>
+<p><strong>Mechanism 2 — Soap breaking:</strong> Any residual sodium soap from Step 2 is neutralized. RCOONa + CH₃COOH → RCOOH + CH₃COONa. The free fatty acid returns to the fat phase (undesirable) but the sodium acetate goes to aqueous phase. This is why the ethanol wash at Step 6 is needed to catch residual FFAs.</p>
+<p><strong>Mechanism 3 — Bentonite pre-activation:</strong> Acid treatment of clay surfaces increases their adsorption capacity. Commercial bleaching clay is acid-activated with H₂SO₄. Residual acetic acid from Step 4 provides mild activation for the bentonite in Step 10.</p>
+<h3 id="ethanol-40-vodka">Ethanol (40% Vodka)</h3>
+<p><strong>Mechanism:</strong> FFAs (logP ~4–6 as free acids, reduced due to carboxyl group polarity) dissolve preferentially in ethanol-water mixtures over triglycerides. At 40% ethanol, FFAs partition preferentially into the ethanol phase while triglycerides largely remain in the fat phase.</p>
+<p><strong>Critical placement:</strong> Must be before acetone fractionation (Step 9). If FFAs remain when acetone fractionation occurs, they partially co-crystallize with the stearin fraction. Saturated FFAs (stearic mp 70°C, palmitic mp 63°C) are near crystallization temperatures at 4–7°C. Their polarity (higher than triglycerides) makes them somewhat acetone-soluble but not fully excluded. Post-ethanol FFA level (~0.16%) is below the co-crystallization threshold.</p>
+<h2 id="solvent-recovery">Solvent Recovery</h2>
+<p>Ethanol (bp 78.4°C) is recoverable by distillation from the aqueous discard phase. See [[Solvent Phase Chemistry]] for recovery apparatus. The 22°C boiling point gap between acetone (56°C) and ethanol (78.4°C) allows clean separation in the same recovery still by running sequentially.</p>
+<h2 id="material-compatibility-for-aqueous-phase">Material Compatibility for Aqueous Phase</h2>
+<ul>
+<li>HDPE containers: excellent for all aqueous steps</li>
+<li>Stainless steel: excellent</li>
+<li>Glass: excellent</li>
+<li>Avoid: aluminum (reacts with alkaline solution in Step 2)</li>
+<li>→ Full compatibility table: [[Quick Reference]]</li>
+</ul>
+<h2 id="connections">Connections</h2>
+<ul>
+<li>[[11-Step Protocol]] — full sequence context</li>
+<li>[[Solvent Phase Chemistry]] — Phase B</li>
+<li>[[Quality Control]] — endpoints</li>
+<li>[[Lipid Oxidation Chemistry]] — why metals matter (Fenton)</li>
+</ul>
+0:{"rsc":["$","$1","c",{"children":[["$","div",null,{"className":"max-w-6xl mx-auto px-4 py-8","children":[["$","$L2",null,{"slug":"02-fat-processing-aqueous-phase-chemistry"}],["$","div",null,{"className":"grid grid-cols-1 lg:grid-cols-[1fr_280px] gap-8","children":[["$","article",null,{"children":[["$","header",null,{"className":"mb-8","children":[["$","div",null,{"className":"flex items-center gap-2 text-sm text-muted mb-3","children":[["$","span",null,{"className":"px-2 py-0.5 bg-pickle-light text-pickle-dark rounded text-xs font-medium","children":"Fat Processing"}],["$","span",null,{"children":["Chapter ",7]}]]}],["$","h1",null,{"className":"text-3xl md:text-4xl font-bold text-foreground mb-3","children":"Aqueous Phase Chemistry — Steps 1–8"}],["$","p",null,{"className":"text-lg text-muted leading-relaxed","children":"tags: [protocol, fat-processing, chemistry, aqueous]"}]]}],["$","div",null,{"className":"prose","dangerouslySetInnerHTML":{"__html":"$3"}}],"$L4"]}],"$L5"]}]]}],["$L6"],"$L7"]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"-f8JDEXe4WkXDL6nzUQi5"}
+4:["$","nav",null,{"className":"mt-12 pt-8 border-t border-border flex justify-between gap-4","children":[["$","div",null,{}],["$","div",null,{"className":"flex-1 p-4 bg-pickle-lighter rounded-lg text-center","children":["$","$L8",null,{"pose":"celebrating","size":"small","message":"You finished the book!","className":"inline-flex"}]}]]}]
+5:["$","aside",null,{"className":"hidden lg:block space-y-4 no-print","children":["$","div",null,{"className":"sticky top-20 space-y-4","children":[["$","div",null,{"className":"flex items-center gap-2","children":[["$","$L9",null,{"slug":"02-fat-processing-aqueous-phase-chemistry"}],["$","$La",null,{}]]}],["$","$Lb",null,{"headings":[{"id":"aqueous-phase-chemistry-steps-1-8","text":"Aqueous Phase Chemistry — Steps 1–8","level":1},{"id":"the-principle","text":"The Principle","level":2},{"id":"reagents-and-their-logic","text":"Reagents and Their Logic","level":2},{"id":"baking-soda-nahco","text":"Baking Soda (NaHCO₃)","level":3},{"id":"vinegar-acetic-acid-at-1","text":"Vinegar (Acetic Acid at ~1%)","level":3},{"id":"ethanol-40-vodka","text":"Ethanol (40% Vodka)","level":3},{"id":"solvent-recovery","text":"Solvent Recovery","level":2},{"id":"material-compatibility-for-aqueous-phase","text":"Material Compatibility for Aqueous Phase","level":2},{"id":"connections","text":"Connections","level":2}]}]]}]}]
+6:["$","script","script-0",{"src":"/_next/static/chunks/2gspel2gmkmqb.js","async":true}]
+7:["$","$Lc",null,{"children":["$","$d",null,{"name":"Next.MetadataOutlet","children":"$@e"}]}]
+e:null

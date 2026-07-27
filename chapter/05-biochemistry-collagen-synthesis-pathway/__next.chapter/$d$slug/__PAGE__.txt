@@ -1,0 +1,134 @@
+1:"$Sreact.fragment"
+2:I[90114,["/_next/static/chunks/2cdxtyl33onme.js","/_next/static/chunks/30x6623ill3zz.js","/_next/static/chunks/2gspel2gmkmqb.js"],"default"]
+8:I[66489,["/_next/static/chunks/2cdxtyl33onme.js","/_next/static/chunks/30x6623ill3zz.js","/_next/static/chunks/2gspel2gmkmqb.js"],"default"]
+9:I[98352,["/_next/static/chunks/2cdxtyl33onme.js","/_next/static/chunks/30x6623ill3zz.js","/_next/static/chunks/2gspel2gmkmqb.js"],"default"]
+a:I[70411,["/_next/static/chunks/2cdxtyl33onme.js","/_next/static/chunks/30x6623ill3zz.js","/_next/static/chunks/2gspel2gmkmqb.js"],"default"]
+b:I[10432,["/_next/static/chunks/2cdxtyl33onme.js","/_next/static/chunks/30x6623ill3zz.js","/_next/static/chunks/2gspel2gmkmqb.js"],"default"]
+c:I[93070,["/_next/static/chunks/2cdxtyl33onme.js","/_next/static/chunks/30x6623ill3zz.js"],"OutletBoundary"]
+d:"$Sreact.suspense"
+3:T1564,<h1 id="collagen-synthesis-pathway">Collagen Synthesis Pathway</h1>
+<blockquote>
+<p><em>The molecular pathway from gene transcription to mature cross-linked collagen fiber. 4-HNE impairs this at multiple independent points simultaneously.</em></p>
+</blockquote>
+<h2 id="the-pathway">The Pathway</h2>
+<pre><code>Collagen gene transcription [asiaticoside upregulates COL1A1]
+        ↓
+Procollagen synthesis (in rough ER)
+        ↓
+Prolyl hydroxylation → hydroxyproline [REQUIRES: vitamin C + Fe²⁺]
+Lysyl hydroxylation → hydroxylysine  [REQUIRES: vitamin C + Fe²⁺]
+        ↓
+Glycosylation of hydroxylysine residues
+        ↓
+Triple helix formation [3 chains, requires glycine at every 3rd position: Gly-X-Y]
+        ↓
+Secretion to extracellular space
+        ↓
+N- and C-terminal propeptide cleavage by procollagen proteases
+        ↓
+Collagen fibril formation (self-assembly)
+        ↓
+Lysyl oxidase cross-linking [REQUIRES: copper + B6]
+        ↓
+Mature cross-linked collagen fiber
+</code></pre>
+<h2 id="the-4-hne-attack-points">The 4-HNE Attack Points</h2>
+<p>4-HNE forms adducts with multiple enzymes in this pathway:</p>
+<p><strong>Prolyl hydroxylase (P4H):</strong></p>
+<ul>
+<li>Requires Fe²⁺ + ascorbate (identical requirement to TET enzymes)</li>
+<li>4-HNE adducts on the enzyme protein impair activity</li>
+<li>Under-hydroxylated proline → unstable triple helix → structural weakness</li>
+<li>This is mechanistically identical to the scurvy defect — vitamin C deficiency at the enzyme level</li>
+</ul>
+<p><strong>Lysyl hydroxylase:</strong></p>
+<ul>
+<li>Same requirements as prolyl hydroxylase</li>
+<li>Under-hydroxylated lysine → reduced glycosylation → impaired cross-linking site formation</li>
+</ul>
+<p><strong>Lysyl oxidase (LOX):</strong></p>
+<ul>
+<li>Cu²⁺ + pyridoxal phosphate (active B6)</li>
+<li>The cross-linking enzyme — converts lysine/hydroxylysine to reactive aldehydes that form covalent cross-links between collagen chains</li>
+<li>4-HNE specifically inhibits LOX through adduct formation</li>
+<li>Without LOX cross-linking, collagen fibers have dramatically reduced tensile strength</li>
+<li>This is the specific molecular mechanism of the connective tissue fragility in EDS</li>
+</ul>
+<h2 id="the-glycine-constraint">The Glycine Constraint</h2>
+<p>Collagen is one-third glycine by residue count (the Gly-X-Y repeat sequence). Glycine must occupy every third position in each procollagen chain for the triple helix to form. Modern dietary glycine intake from protein sources is typically inadequate because:</p>
+<ul>
+<li>Connective tissue (skin, cartilage, tendons) is no longer routinely consumed</li>
+<li>Standard dietary protein (muscle meat) is poor in glycine relative to proline and hydroxyproline</li>
+</ul>
+<p>Supplemental glycine (3–5g daily) restores adequate availability for collagen triple helix formation.</p>
+<h2 id="the-copper-b6-requirement-for-lox">The Copper-B6 Requirement for LOX</h2>
+<p>Lysyl oxidase specifically requires:</p>
+<ul>
+<li><strong>Copper (Cu²⁺):</strong> cofactor in the enzyme's active site (same copper that acts as pro-oxidant in Fenton chemistry when unsequestered — careful balance)</li>
+<li><strong>Pyridoxal phosphate (P5P, active B6):</strong> the carbonyl cofactor that forms the Schiff base with the amine substrate</li>
+</ul>
+<p>B6 as P5P is also the DAO enzyme cofactor (histamine metabolism) — the same form serves both histamine degradation and collagen cross-linking simultaneously.</p>
+<h2 id="c1q-the-efferocytosis-connection">C1q — The Efferocytosis Connection</h2>
+<p>C1q (complement protein initiating the classical pathway, critical for efferocytosis of apoptotic cells) is a collagen-domain protein with an identical structural requirement to structural collagen. Its synthesis requires:</p>
+<ul>
+<li>Vitamin C (prolyl/lysyl hydroxylation in the collagen-like domain)</li>
+<li>Glycine (every third position in the triple helix domain)</li>
+<li>The same enzymes that are impaired in EDS</li>
+</ul>
+<p>This is why [[Efferocytosis Failure]] and connective tissue pathology in EDS coexist and share the same upstream drivers — they share enzyme requirements. Restoring the redox environment for collagen synthesis simultaneously restores C1q production and therefore efferocytosis capacity.</p>
+<h2 id="collagen-turnover-rates">Collagen Turnover Rates</h2>
+<table>
+<thead>
+<tr>
+<th>Tissue</th>
+<th>Half-life</th>
+<th>Clinical implication</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Skin</td>
+<td>~2 years</td>
+<td>Meaningful improvement possible within months</td>
+</tr>
+<tr>
+<td>Tendon</td>
+<td>~2 years (with loading)</td>
+<td>Loading is essential to drive synthesis</td>
+</tr>
+<tr>
+<td>Ligament</td>
+<td>~2 years (with loading)</td>
+<td>Same as tendon</td>
+</tr>
+<tr>
+<td>Vascular collagen</td>
+<td>Months to 1 year</td>
+<td>Potentially responsive within year</td>
+</tr>
+<tr>
+<td>Cartilage</td>
+<td>~100 years</td>
+<td>Essentially irreplaceable in practice</td>
+</tr>
+<tr>
+<td>Gut collagen</td>
+<td>Weeks to months</td>
+<td>Fastest-responding tissue</td>
+</tr>
+</tbody>
+</table>
+<h2 id="connections">Connections</h2>
+<ul>
+<li>[[Phase 4 - Structural Repair]] — the intervention</li>
+<li>[[Phase 0 - Source Control and Redox]] — restores enzyme function</li>
+<li>[[Efferocytosis Failure]] — C1q shares enzyme requirements</li>
+<li>[[EDS-MCAS-Eczema Cluster]] — primary condition</li>
+<li>[[Glycine]] — the critical precursor</li>
+</ul>
+0:{"rsc":["$","$1","c",{"children":[["$","div",null,{"className":"max-w-6xl mx-auto px-4 py-8","children":[["$","$L2",null,{"slug":"05-biochemistry-collagen-synthesis-pathway"}],["$","div",null,{"className":"grid grid-cols-1 lg:grid-cols-[1fr_280px] gap-8","children":[["$","article",null,{"children":[["$","header",null,{"className":"mb-8","children":[["$","div",null,{"className":"flex items-center gap-2 text-sm text-muted mb-3","children":[["$","span",null,{"className":"px-2 py-0.5 bg-pickle-light text-pickle-dark rounded text-xs font-medium","children":"Biochemistry"}],["$","span",null,{"children":["Chapter ",25]}]]}],["$","h1",null,{"className":"text-3xl md:text-4xl font-bold text-foreground mb-3","children":"Collagen Synthesis Pathway"}],["$","p",null,{"className":"text-lg text-muted leading-relaxed","children":"tags: [biochemistry, collagen, EDS, connective-tissue]"}]]}],["$","div",null,{"className":"prose","dangerouslySetInnerHTML":{"__html":"$3"}}],"$L4"]}],"$L5"]}]]}],["$L6"],"$L7"]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"-f8JDEXe4WkXDL6nzUQi5"}
+4:["$","nav",null,{"className":"mt-12 pt-8 border-t border-border flex justify-between gap-4","children":[["$","div",null,{}],["$","div",null,{"className":"flex-1 p-4 bg-pickle-lighter rounded-lg text-center","children":["$","$L8",null,{"pose":"celebrating","size":"small","message":"You finished the book!","className":"inline-flex"}]}]]}]
+5:["$","aside",null,{"className":"hidden lg:block space-y-4 no-print","children":["$","div",null,{"className":"sticky top-20 space-y-4","children":[["$","div",null,{"className":"flex items-center gap-2","children":[["$","$L9",null,{"slug":"05-biochemistry-collagen-synthesis-pathway"}],["$","$La",null,{}]]}],["$","$Lb",null,{"headings":[{"id":"collagen-synthesis-pathway","text":"Collagen Synthesis Pathway","level":1},{"id":"the-pathway","text":"The Pathway","level":2},{"id":"the-4-hne-attack-points","text":"The 4-HNE Attack Points","level":2},{"id":"the-glycine-constraint","text":"The Glycine Constraint","level":2},{"id":"the-copper-b6-requirement-for-lox","text":"The Copper-B6 Requirement for LOX","level":2},{"id":"c1q-the-efferocytosis-connection","text":"C1q — The Efferocytosis Connection","level":2},{"id":"collagen-turnover-rates","text":"Collagen Turnover Rates","level":2},{"id":"connections","text":"Connections","level":2}]}]]}]}]
+6:["$","script","script-0",{"src":"/_next/static/chunks/2gspel2gmkmqb.js","async":true}]
+7:["$","$Lc",null,{"children":["$","$d",null,{"name":"Next.MetadataOutlet","children":"$@e"}]}]
+e:null

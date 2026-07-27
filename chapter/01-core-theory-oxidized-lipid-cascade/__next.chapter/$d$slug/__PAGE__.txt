@@ -1,0 +1,98 @@
+1:"$Sreact.fragment"
+2:I[90114,["/_next/static/chunks/2cdxtyl33onme.js","/_next/static/chunks/30x6623ill3zz.js","/_next/static/chunks/2gspel2gmkmqb.js"],"default"]
+8:I[66489,["/_next/static/chunks/2cdxtyl33onme.js","/_next/static/chunks/30x6623ill3zz.js","/_next/static/chunks/2gspel2gmkmqb.js"],"default"]
+9:I[98352,["/_next/static/chunks/2cdxtyl33onme.js","/_next/static/chunks/30x6623ill3zz.js","/_next/static/chunks/2gspel2gmkmqb.js"],"default"]
+a:I[70411,["/_next/static/chunks/2cdxtyl33onme.js","/_next/static/chunks/30x6623ill3zz.js","/_next/static/chunks/2gspel2gmkmqb.js"],"default"]
+b:I[10432,["/_next/static/chunks/2cdxtyl33onme.js","/_next/static/chunks/30x6623ill3zz.js","/_next/static/chunks/2gspel2gmkmqb.js"],"default"]
+c:I[93070,["/_next/static/chunks/2cdxtyl33onme.js","/_next/static/chunks/30x6623ill3zz.js"],"OutletBoundary"]
+d:"$Sreact.suspense"
+3:Tff8,<h1 id="oxidized-lipid-cascade">Oxidized Lipid Cascade</h1>
+<blockquote>
+<p><em>The complete causal chain from dietary oxidized fat to systemic disease. Every node is mechanistically characterized in peer-reviewed literature.</em></p>
+</blockquote>
+<h2 id="the-full-chain">The Full Chain</h2>
+<pre><code>Dietary oxidized fat (OXLAMs, 4-HNE, peroxides)
+        ↓
+Gut epithelium: 4-HNE adducts on occludin, claudin-1, ZO-1
+        ↓
+Intestinal permeability increases
+        ↓
+LPS translocates into portal circulation (from dysbiotic gram-negative bacteria)
+        ↓
+Hepatic glutathione depleted processing OXLAMs → systemic distribution
+        ↓
+OXLAMs activate TLR4 on mast cells, macrophages, dendritic cells
+        ↓
+NF-κB → systemic inflammatory baseline elevated
+        ↓
+MERTK and AXL efferocytosis receptors inactivated by OxLDL/OXLAMs
+        ↓
+Efferocytosis fails → apoptotic cells undergo secondary necrosis
+        ↓
+Nuclear material (DNA, histones, citrullinated proteins) released
+        ↓
+TLR7/TLR9 activation on B cells → autoantibody production
+        ↓
+Estrogen dominance (beta-glucuronidase from dysbiotic gut) removes Treg brake
+        ↓
+B cell hyperreactivity to self-antigens → autoimmune cascade
+        ↓
+4-HNE adducts on prolyl hydroxylase + lysyl oxidase
+        ↓
+Collagen synthesis and cross-linking impaired → connective tissue failure
+        ↓
+4-HNE adducts on histone proteins H2A, H3, H4
+        ↓
+Aberrant CpG methylation at anti-inflammatory gene promoters
+        ↓
+Epigenetic inflammatory programming → transgenerational transmission
+</code></pre>
+<h2 id="key-molecules">Key Molecules</h2>
+<h3 id="4-hydroxynonenal-4-hne">4-Hydroxynonenal (4-HNE)</h3>
+<ul>
+<li>Primary toxic aldehyde from linoleic acid oxidation</li>
+<li>Bifunctional electrophile — forms covalent adducts with proteins, DNA, lipids</li>
+<li>Specifically inhibits: prolyl hydroxylase, lysyl oxidase, Complex I/II (mitochondria), MERTK/AXL (efferocytosis), autophagy machinery</li>
+<li>Genotoxic and cytotoxic at concentrations found in end-of-life fryer oil</li>
+<li>Modifies histone proteins → epigenetic programming</li>
+<li>→ See [[Lipid Oxidation Chemistry]]</li>
+</ul>
+<h3 id="oxlams-oxidized-linoleic-acid-metabolites">OXLAMs (Oxidized Linoleic Acid Metabolites)</h3>
+<ul>
+<li>9-HODE, 13-HODE, 9-oxoODE, 13-oxoODE</li>
+<li>Direct TLR4 agonists — same receptor as LPS</li>
+<li>Activate mast cells through CD36 and TLR4</li>
+<li>Accumulate in adipose tissue as reservoir</li>
+<li>→ See [[Lipid Oxidation Chemistry]]</li>
+</ul>
+<h3 id="total-polar-compounds-tpc">Total Polar Compounds (TPC)</h3>
+<ul>
+<li>The aggregate non-volatile toxic burden</li>
+<li>Cannot be reduced by deodorization</li>
+<li>The only fraud-resistant quality measure</li>
+<li>European standard: 25–27% maximum</li>
+<li>US: no standard exists</li>
+<li>→ See [[TPC Standards]]</li>
+</ul>
+<h2 id="the-efferocytosis-node">The Efferocytosis Node</h2>
+<p>This is the initiating event for autoimmune disease in this framework. See [[Efferocytosis Failure]] for full mechanism.</p>
+<h2 id="the-estrogen-node">The Estrogen Node</h2>
+<p>Beta-glucuronidase from dysbiotic gram-negative bacteria deconjugates estrogen glucuronides → estrogen recirculation → estrogen dominance → TLR7/TLR9 upregulation on B cells. See [[Estrobolome]].</p>
+<h2 id="the-epigenetic-node">The Epigenetic Node</h2>
+<p>4-HNE adducts on histones + MDA modification of CpG sites = persistent inflammatory epigenetic program. See [[Epigenetic Transmission]].</p>
+<h2 id="connections">Connections</h2>
+<ul>
+<li>[[Substrate Thesis]] — why this matters at population level</li>
+<li>[[Efferocytosis Failure]] — the autoimmune initiating event</li>
+<li>[[Mast Cell Biology]] — NLRP3 inflammasome, FcεRI upregulation</li>
+<li>[[Collagen Synthesis Pathway]] — structural consequence</li>
+<li>[[4-HNE]] — primary molecular actor</li>
+<li>[[EDS-MCAS-Eczema Cluster]] — phenotypic expression</li>
+<li>[[Phase 0 - Source Control and Redox]] — the correction</li>
+</ul>
+0:{"rsc":["$","$1","c",{"children":[["$","div",null,{"className":"max-w-6xl mx-auto px-4 py-8","children":[["$","$L2",null,{"slug":"01-core-theory-oxidized-lipid-cascade"}],["$","div",null,{"className":"grid grid-cols-1 lg:grid-cols-[1fr_280px] gap-8","children":[["$","article",null,{"children":[["$","header",null,{"className":"mb-8","children":[["$","div",null,{"className":"flex items-center gap-2 text-sm text-muted mb-3","children":[["$","span",null,{"className":"px-2 py-0.5 bg-pickle-light text-pickle-dark rounded text-xs font-medium","children":"Core Theory"}],["$","span",null,{"children":["Chapter ",4]}]]}],["$","h1",null,{"className":"text-3xl md:text-4xl font-bold text-foreground mb-3","children":"Oxidized Lipid Cascade"}],["$","p",null,{"className":"text-lg text-muted leading-relaxed","children":"tags: [core-theory, biochemistry, mechanism, cascade]"}]]}],["$","div",null,{"className":"prose","dangerouslySetInnerHTML":{"__html":"$3"}}],"$L4"]}],"$L5"]}]]}],["$L6"],"$L7"]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"-f8JDEXe4WkXDL6nzUQi5"}
+4:["$","nav",null,{"className":"mt-12 pt-8 border-t border-border flex justify-between gap-4","children":[["$","div",null,{}],["$","div",null,{"className":"flex-1 p-4 bg-pickle-lighter rounded-lg text-center","children":["$","$L8",null,{"pose":"celebrating","size":"small","message":"You finished the book!","className":"inline-flex"}]}]]}]
+5:["$","aside",null,{"className":"hidden lg:block space-y-4 no-print","children":["$","div",null,{"className":"sticky top-20 space-y-4","children":[["$","div",null,{"className":"flex items-center gap-2","children":[["$","$L9",null,{"slug":"01-core-theory-oxidized-lipid-cascade"}],["$","$La",null,{}]]}],["$","$Lb",null,{"headings":[{"id":"oxidized-lipid-cascade","text":"Oxidized Lipid Cascade","level":1},{"id":"the-full-chain","text":"The Full Chain","level":2},{"id":"key-molecules","text":"Key Molecules","level":2},{"id":"4-hydroxynonenal-4-hne","text":"4-Hydroxynonenal (4-HNE)","level":3},{"id":"oxlams-oxidized-linoleic-acid-metabolites","text":"OXLAMs (Oxidized Linoleic Acid Metabolites)","level":3},{"id":"total-polar-compounds-tpc","text":"Total Polar Compounds (TPC)","level":3},{"id":"the-efferocytosis-node","text":"The Efferocytosis Node","level":2},{"id":"the-estrogen-node","text":"The Estrogen Node","level":2},{"id":"the-epigenetic-node","text":"The Epigenetic Node","level":2},{"id":"connections","text":"Connections","level":2}]}]]}]}]
+6:["$","script","script-0",{"src":"/_next/static/chunks/2gspel2gmkmqb.js","async":true}]
+7:["$","$Lc",null,{"children":["$","$d",null,{"name":"Next.MetadataOutlet","children":"$@e"}]}]
+e:null

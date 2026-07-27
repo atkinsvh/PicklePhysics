@@ -1,0 +1,70 @@
+1:"$Sreact.fragment"
+2:I[90114,["/_next/static/chunks/2cdxtyl33onme.js","/_next/static/chunks/30x6623ill3zz.js","/_next/static/chunks/2gspel2gmkmqb.js"],"default"]
+8:I[66489,["/_next/static/chunks/2cdxtyl33onme.js","/_next/static/chunks/30x6623ill3zz.js","/_next/static/chunks/2gspel2gmkmqb.js"],"default"]
+9:I[98352,["/_next/static/chunks/2cdxtyl33onme.js","/_next/static/chunks/30x6623ill3zz.js","/_next/static/chunks/2gspel2gmkmqb.js"],"default"]
+a:I[70411,["/_next/static/chunks/2cdxtyl33onme.js","/_next/static/chunks/30x6623ill3zz.js","/_next/static/chunks/2gspel2gmkmqb.js"],"default"]
+b:I[10432,["/_next/static/chunks/2cdxtyl33onme.js","/_next/static/chunks/30x6623ill3zz.js","/_next/static/chunks/2gspel2gmkmqb.js"],"default"]
+c:I[93070,["/_next/static/chunks/2cdxtyl33onme.js","/_next/static/chunks/30x6623ill3zz.js"],"OutletBoundary"]
+d:"$Sreact.suspense"
+3:T10f2,<h1 id="epigenetic-transmission">Epigenetic Transmission</h1>
+<blockquote>
+<p><em>How the damage propagates across generations. Not genetic — epigenetic. The distinction matters because epigenetic modifications are reversible and preventable.</em></p>
+</blockquote>
+<h2 id="the-mechanisms">The Mechanisms</h2>
+<h3 id="dna-methylation-changes">DNA Methylation Changes</h3>
+<p>4-HNE and MDA (malondialdehyde) modify cytosine at specific CpG sites, directly altering DNA methylation patterns at inflammatory gene promoters. The changes:</p>
+<ul>
+<li>Silence anti-inflammatory regulatory genes (FOXP3, IL-10)</li>
+<li>Activate pro-inflammatory gene promoters persistently</li>
+<li>Persist through cell division as epigenetic memory</li>
+<li>Can be transmitted through gametes (sperm and egg)</li>
+</ul>
+<h3 id="histone-modifications">Histone Modifications</h3>
+<p>4-HNE forms covalent adducts with histone proteins (H2A, H3, H4) at specific lysine and arginine residues:</p>
+<ul>
+<li>Disrupts electrostatic interactions compacting chromatin</li>
+<li>Modifies H3K27 methylation patterns</li>
+<li>Changes chromatin remodeling complex binding affinity</li>
+<li>Alters transcription factor access to gene promoters</li>
+</ul>
+<h3 id="non-coding-rna-vectors">Non-Coding RNA Vectors</h3>
+<p>miRNA, lncRNA, piRNA — the least understood but potentially most important transgenerational vector. Small RNA molecules are packaged into gametes and can transmit gene regulation patterns to offspring independent of DNA sequence.</p>
+<h2 id="the-transgenerational-logic">The Transgenerational Logic</h2>
+<pre><code>F0 (exposed generation): high oxidized lipid dietary exposure
+        ↓ epigenetic modification
+F1 (directly exposed in utero): germline epigenetic marks established
+        ↓ transmitted through gametes
+F2 (gestational exposure of F1 germline): second-generation effects
+        ↓
+F3 (first truly transgenerational generation — no direct exposure)
+</code></pre>
+<p>Most published studies go only to F2, which conflates direct exposure with true inheritance. F3 generation data is the rigorous standard. The generational worsening of the EDS-MCAS-eczema phenotype matches this transmission model.</p>
+<h2 id="what-the-epigenetic-machinery-needs">What the Epigenetic Machinery Needs</h2>
+<p>See [[One Carbon Metabolism]] and [[NAD Pool]] for the full substrate requirements.</p>
+<p><strong>For DNA methylation (DNMT function):</strong>
+SAM as universal methyl donor, requiring: 5-MTHF + B12 + B2 + zinc → methionine → SAM + Mg²⁺-ATP</p>
+<p><strong>For active demethylation (TET enzyme function):</strong>
+Alpha-ketoglutarate + Fe²⁺ (maintained by ascorbate) + O₂. Functional mitochondria are prerequisite.</p>
+<p><strong>For sirtuin HDAC (NAD⁺ dependent):</strong>
+NAD⁺ as consumed cosubstrate. Primary drain: PARP hyperactivation from oxidative DNA damage. Supply: NMN/NR.</p>
+<h2 id="the-deadlock">The Deadlock</h2>
+<p>4-HNE impairs mitochondria (Complex I/II adducts) → reduced TCA cycle → reduced alpha-ketoglutarate → TET enzymes can't demethylate → aberrant methylation persists. Meanwhile, oxidative DNA damage activates PARP → depletes NAD⁺ → sirtuins can't deacetylate → inflammatory marks accumulate. The same agent that writes the damage disables the repair machinery.</p>
+<p>Breaking the deadlock requires addressing all substrates simultaneously, not sequentially. → [[Phase 3 - Epigenetic Reprogramming]]</p>
+<h2 id="the-reversibility-argument">The Reversibility Argument</h2>
+<p>The generational timeline is too fast for genetic drift but exactly right for epigenetic accumulation. This is evidence for reversibility — what accumulated in 2–3 generations can, in principle, be reversed in 2–3 generations of correct substrate provision and reduced exposure. The protocol addresses this at every level.</p>
+<h2 id="connections">Connections</h2>
+<ul>
+<li>[[One Carbon Metabolism]] — SAM/methylation substrate</li>
+<li>[[NAD Pool]] — sirtuin substrate</li>
+<li>[[TET Enzymes]] — active demethylation machinery</li>
+<li>[[Phase 3 - Epigenetic Reprogramming]] — the intervention</li>
+<li>[[Oxidized Lipid Cascade]] — upstream cause</li>
+<li>[[EDS-MCAS-Eczema Cluster]] — the phenotypic expression</li>
+<li>[[Substrate Thesis]] — why the substrate matters</li>
+</ul>
+0:{"rsc":["$","$1","c",{"children":[["$","div",null,{"className":"max-w-6xl mx-auto px-4 py-8","children":[["$","$L2",null,{"slug":"01-core-theory-epigenetic-transmission"}],["$","div",null,{"className":"grid grid-cols-1 lg:grid-cols-[1fr_280px] gap-8","children":[["$","article",null,{"children":[["$","header",null,{"className":"mb-8","children":[["$","div",null,{"className":"flex items-center gap-2 text-sm text-muted mb-3","children":[["$","span",null,{"className":"px-2 py-0.5 bg-pickle-light text-pickle-dark rounded text-xs font-medium","children":"Core Theory"}],["$","span",null,{"children":["Chapter ",3]}]]}],["$","h1",null,{"className":"text-3xl md:text-4xl font-bold text-foreground mb-3","children":"Epigenetic Transmission"}],["$","p",null,{"className":"text-lg text-muted leading-relaxed","children":"tags: [core-theory, epigenetics, transgenerational, DNA-methylation]"}]]}],["$","div",null,{"className":"prose","dangerouslySetInnerHTML":{"__html":"$3"}}],"$L4"]}],"$L5"]}]]}],["$L6"],"$L7"]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"-f8JDEXe4WkXDL6nzUQi5"}
+4:["$","nav",null,{"className":"mt-12 pt-8 border-t border-border flex justify-between gap-4","children":[["$","div",null,{}],["$","div",null,{"className":"flex-1 p-4 bg-pickle-lighter rounded-lg text-center","children":["$","$L8",null,{"pose":"celebrating","size":"small","message":"You finished the book!","className":"inline-flex"}]}]]}]
+5:["$","aside",null,{"className":"hidden lg:block space-y-4 no-print","children":["$","div",null,{"className":"sticky top-20 space-y-4","children":[["$","div",null,{"className":"flex items-center gap-2","children":[["$","$L9",null,{"slug":"01-core-theory-epigenetic-transmission"}],["$","$La",null,{}]]}],["$","$Lb",null,{"headings":[{"id":"epigenetic-transmission","text":"Epigenetic Transmission","level":1},{"id":"the-mechanisms","text":"The Mechanisms","level":2},{"id":"dna-methylation-changes","text":"DNA Methylation Changes","level":3},{"id":"histone-modifications","text":"Histone Modifications","level":3},{"id":"non-coding-rna-vectors","text":"Non-Coding RNA Vectors","level":3},{"id":"the-transgenerational-logic","text":"The Transgenerational Logic","level":2},{"id":"what-the-epigenetic-machinery-needs","text":"What the Epigenetic Machinery Needs","level":2},{"id":"the-deadlock","text":"The Deadlock","level":2},{"id":"the-reversibility-argument","text":"The Reversibility Argument","level":2},{"id":"connections","text":"Connections","level":2}]}]]}]}]
+6:["$","script","script-0",{"src":"/_next/static/chunks/2gspel2gmkmqb.js","async":true}]
+7:["$","$Lc",null,{"children":["$","$d",null,{"name":"Next.MetadataOutlet","children":"$@e"}]}]
+e:null

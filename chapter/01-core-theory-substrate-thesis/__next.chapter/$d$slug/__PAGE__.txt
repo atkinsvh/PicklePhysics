@@ -1,0 +1,96 @@
+1:"$Sreact.fragment"
+2:I[90114,["/_next/static/chunks/2cdxtyl33onme.js","/_next/static/chunks/30x6623ill3zz.js","/_next/static/chunks/2gspel2gmkmqb.js"],"default"]
+8:I[66489,["/_next/static/chunks/2cdxtyl33onme.js","/_next/static/chunks/30x6623ill3zz.js","/_next/static/chunks/2gspel2gmkmqb.js"],"default"]
+9:I[98352,["/_next/static/chunks/2cdxtyl33onme.js","/_next/static/chunks/30x6623ill3zz.js","/_next/static/chunks/2gspel2gmkmqb.js"],"default"]
+a:I[70411,["/_next/static/chunks/2cdxtyl33onme.js","/_next/static/chunks/30x6623ill3zz.js","/_next/static/chunks/2gspel2gmkmqb.js"],"default"]
+b:I[10432,["/_next/static/chunks/2cdxtyl33onme.js","/_next/static/chunks/30x6623ill3zz.js","/_next/static/chunks/2gspel2gmkmqb.js"],"default"]
+c:I[93070,["/_next/static/chunks/2cdxtyl33onme.js","/_next/static/chunks/30x6623ill3zz.js"],"OutletBoundary"]
+d:"$Sreact.suspense"
+3:Te54,<h1 id="substrate-thesis">Substrate Thesis</h1>
+<blockquote>
+<p><em>Fat is not merely fuel. It is the primary environmental signal simultaneously shaping cellular membrane composition, inflammatory signaling, gut microbiome ecology, epigenetic programming, and structural tissue quality.</em></p>
+</blockquote>
+<h2 id="the-central-claim">The Central Claim</h2>
+<p>The modern industrial food system has, in two to three generations, converted the primary environmental fat signal received by mammalian biology from predominantly <strong>protective</strong> to predominantly <strong>damaging</strong>.</p>
+<p><strong>Protective (pre-industrial):</strong></p>
+<ul>
+<li>Maintained animal fats (tallow, lard, butter)</li>
+<li>[[In-Fryer Antioxidants|Antioxidant-doped]] cooking media</li>
+<li>[[Traditional Fat Maintenance|Maintained through empirical protocols]]</li>
+<li>Microbially processed ([[Fermented food traditions]])</li>
+<li>Low PUFA, high saturated/monounsaturated</li>
+</ul>
+<p><strong>Damaging (post-1950s):</strong></p>
+<ul>
+<li>PUFA-rich seed oils (soybean, canola, sunflower, corn)</li>
+<li>Repeatedly oxidized at high temperature</li>
+<li>Antioxidant-depleted</li>
+<li>Consumed continuously with no maintenance</li>
+<li>[[Deodorization as Fraud|Sensory-masked when degraded]]</li>
+</ul>
+<h2 id="why-fat-is-signal-not-just-fuel">Why Fat Is Signal Not Just Fuel</h2>
+<ol>
+<li><strong>Membrane composition</strong> — the fatty acids you eat become your cell membranes. PUFA incorporation increases membrane oxidizability.</li>
+<li><strong>Inflammatory signaling</strong> — [[OXLAMs]] activate [[TLR4]] directly, mimicking bacterial lipopolysaccharide</li>
+<li><strong>Gut microbiome ecology</strong> — fat composition selects for or against specific bacterial populations</li>
+<li><strong>Epigenetic programming</strong> — [[4-HNE]] forms adducts on histone proteins, altering gene expression</li>
+<li><strong>Structural tissue quality</strong> — dietary fat composition affects [[Collagen Synthesis Pathway|collagen synthesis enzyme function]] directly</li>
+</ol>
+<h2 id="the-two-variable-problem">The Two-Variable Problem</h2>
+<p>The hazard is not simply "animal fat vs. vegetable oil." It is the intersection of:</p>
+<ul>
+<li><strong>Fat type</strong> (PUFA content, oxidative vulnerability)</li>
+<li><strong>Maintenance practice</strong> (or absence thereof)</li>
+</ul>
+<p>A well-maintained saturated fat is dramatically more stable than a poorly maintained polyunsaturated one. Traditional kitchens got both variables right by default. Modern kitchens got both wrong simultaneously.</p>
+<h2 id="the-generational-timeline">The Generational Timeline</h2>
+<table>
+<thead>
+<tr>
+<th>Era</th>
+<th>Fat source</th>
+<th>Maintenance</th>
+<th>Outcome</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Pre-1900</td>
+<td>Animal fat primarily</td>
+<td>Active, empirical</td>
+<td>Low inflammatory disease burden</td>
+</tr>
+<tr>
+<td>1900–1950</td>
+<td>Transition</td>
+<td>Declining</td>
+<td>Beginning of metabolic shift</td>
+</tr>
+<tr>
+<td>1950–1970</td>
+<td>Seed oil adoption</td>
+<td>Largely abandoned</td>
+<td>Epidemic begins</td>
+</tr>
+<tr>
+<td>1970–present</td>
+<td>PUFA seed oils dominant</td>
+<td>None</td>
+<td>[[EDS-MCAS-Eczema Cluster]], autoimmune epidemic</td>
+</tr>
+</tbody>
+</table>
+<h2 id="connections">Connections</h2>
+<ul>
+<li>Full causal mechanism: [[Oxidized Lipid Cascade]]</li>
+<li>Transgenerational transmission: [[Epigenetic Transmission]]</li>
+<li>Ancient validation: [[Cross-Cultural Convergences]]</li>
+<li>The correction: [[11-Step Protocol]] + [[System Architecture]]</li>
+<li>Regulatory implication: [[Deodorization as Fraud]]</li>
+</ul>
+0:{"rsc":["$","$1","c",{"children":[["$","div",null,{"className":"max-w-6xl mx-auto px-4 py-8","children":[["$","$L2",null,{"slug":"01-core-theory-substrate-thesis"}],["$","div",null,{"className":"grid grid-cols-1 lg:grid-cols-[1fr_280px] gap-8","children":[["$","article",null,{"children":[["$","header",null,{"className":"mb-8","children":[["$","div",null,{"className":"flex items-center gap-2 text-sm text-muted mb-3","children":[["$","span",null,{"className":"px-2 py-0.5 bg-pickle-light text-pickle-dark rounded text-xs font-medium","children":"Core Theory"}],["$","span",null,{"children":["Chapter ",5]}]]}],["$","h1",null,{"className":"text-3xl md:text-4xl font-bold text-foreground mb-3","children":"Substrate Thesis"}],["$","p",null,{"className":"text-lg text-muted leading-relaxed","children":"tags: [core-theory, substrate, fat-protocol, hub]"}]]}],["$","div",null,{"className":"prose","dangerouslySetInnerHTML":{"__html":"$3"}}],"$L4"]}],"$L5"]}]]}],["$L6"],"$L7"]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"-f8JDEXe4WkXDL6nzUQi5"}
+4:["$","nav",null,{"className":"mt-12 pt-8 border-t border-border flex justify-between gap-4","children":[["$","div",null,{}],["$","div",null,{"className":"flex-1 p-4 bg-pickle-lighter rounded-lg text-center","children":["$","$L8",null,{"pose":"celebrating","size":"small","message":"You finished the book!","className":"inline-flex"}]}]]}]
+5:["$","aside",null,{"className":"hidden lg:block space-y-4 no-print","children":["$","div",null,{"className":"sticky top-20 space-y-4","children":[["$","div",null,{"className":"flex items-center gap-2","children":[["$","$L9",null,{"slug":"01-core-theory-substrate-thesis"}],["$","$La",null,{}]]}],["$","$Lb",null,{"headings":[{"id":"substrate-thesis","text":"Substrate Thesis","level":1},{"id":"the-central-claim","text":"The Central Claim","level":2},{"id":"why-fat-is-signal-not-just-fuel","text":"Why Fat Is Signal Not Just Fuel","level":2},{"id":"the-two-variable-problem","text":"The Two-Variable Problem","level":2},{"id":"the-generational-timeline","text":"The Generational Timeline","level":2},{"id":"connections","text":"Connections","level":2}]}]]}]}]
+6:["$","script","script-0",{"src":"/_next/static/chunks/2gspel2gmkmqb.js","async":true}]
+7:["$","$Lc",null,{"children":["$","$d",null,{"name":"Next.MetadataOutlet","children":"$@e"}]}]
+e:null

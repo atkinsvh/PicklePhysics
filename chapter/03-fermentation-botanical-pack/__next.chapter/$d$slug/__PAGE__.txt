@@ -1,0 +1,440 @@
+1:"$Sreact.fragment"
+2:I[90114,["/_next/static/chunks/2cdxtyl33onme.js","/_next/static/chunks/30x6623ill3zz.js","/_next/static/chunks/2gspel2gmkmqb.js"],"default"]
+8:I[66489,["/_next/static/chunks/2cdxtyl33onme.js","/_next/static/chunks/30x6623ill3zz.js","/_next/static/chunks/2gspel2gmkmqb.js"],"default"]
+9:I[98352,["/_next/static/chunks/2cdxtyl33onme.js","/_next/static/chunks/30x6623ill3zz.js","/_next/static/chunks/2gspel2gmkmqb.js"],"default"]
+a:I[70411,["/_next/static/chunks/2cdxtyl33onme.js","/_next/static/chunks/30x6623ill3zz.js","/_next/static/chunks/2gspel2gmkmqb.js"],"default"]
+b:I[10432,["/_next/static/chunks/2cdxtyl33onme.js","/_next/static/chunks/30x6623ill3zz.js","/_next/static/chunks/2gspel2gmkmqb.js"],"default"]
+c:I[93070,["/_next/static/chunks/2cdxtyl33onme.js","/_next/static/chunks/30x6623ill3zz.js"],"OutletBoundary"]
+d:"$Sreact.suspense"
+3:T2577,<h1 id="botanical-pack">Botanical Pack</h1>
+<blockquote>
+<p><em>Complete ingredient matrix for the 40-gallon medicinal ferment. 55–60kg total in nylon mesh bags organized for staggered monthly rotation.</em></p>
+</blockquote>
+<h2 id="vegetable-fraction-45kg-bag-series-a">Vegetable Fraction (~45kg) — Bag Series A</h2>
+<table>
+<thead>
+<tr>
+<th>Ingredient</th>
+<th>Weight</th>
+<th>%</th>
+<th>Primary compound(s)</th>
+<th>Primary target</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Red onion (minced)</td>
+<td>13.5kg</td>
+<td>30%</td>
+<td>Quercetin, anthocyanins</td>
+<td>Mast cell stabilization</td>
+</tr>
+<tr>
+<td>Fresh ginger (sliced)</td>
+<td>5.4kg</td>
+<td>12%</td>
+<td>Gingerols → shogaols</td>
+<td>5-LOX, anti-inflammatory</td>
+</tr>
+<tr>
+<td>Capers</td>
+<td>3.6kg</td>
+<td>8%</td>
+<td>Quercetin (~1700mg/100g — highest food concentration)</td>
+<td>Quercetin boost</td>
+</tr>
+<tr>
+<td>Fresh turmeric (sliced)</td>
+<td>3.6kg</td>
+<td>8%</td>
+<td>Curcumin (with piperine from peppercorns)</td>
+<td>NF-κB inhibition, Nrf2</td>
+</tr>
+<tr>
+<td>Cucumber / cauliflower</td>
+<td>5.4kg</td>
+<td>12%</td>
+<td>Bulk, palatability</td>
+<td>Carrier/texture</td>
+</tr>
+<tr>
+<td>Red cabbage</td>
+<td>4.5kg</td>
+<td>10%</td>
+<td>Anthocyanins, DIM precursors (indoles)</td>
+<td>Tight junctions, estrogen metabolism</td>
+</tr>
+<tr>
+<td>Celery</td>
+<td>2.25kg</td>
+<td>5%</td>
+<td>Luteolin, apigenin</td>
+<td>Mast cell</td>
+</tr>
+<tr>
+<td>Garlic (crushed)</td>
+<td>1.8kg</td>
+<td>4%</td>
+<td>Allicin → S-allylcysteine</td>
+<td>Antimicrobial, cardiovascular</td>
+</tr>
+<tr>
+<td>Centella asiatica (dried)</td>
+<td>2.7kg</td>
+<td>6%</td>
+<td>Asiaticoside, madecassoside</td>
+<td>Collagen type I transcription</td>
+</tr>
+<tr>
+<td>Dulse (dried)</td>
+<td>2.25kg</td>
+<td>5%</td>
+<td>Fucoidan, iodine, minerals</td>
+<td>Mast cell, thyroid</td>
+</tr>
+</tbody>
+</table>
+<p><strong>Additional vegetables:</strong></p>
+<ul>
+<li>Watermelon rind (minced) — citrulline for eNOS/angiogenesis</li>
+<li>Okra — MUC2 goblet cell stimulation, Akkermansia prebiotic</li>
+<li>Bitter melon — AMPK autophagy, insulin sensitivity (PCOS)</li>
+<li>Tart cherries (2kg) — anthocyanins, melatonin precursors, COX-2</li>
+</ul>
+<h2 id="botanical-mesh-bags-15kg-bag-series-b-staggered-monthly-rotation">Botanical Mesh Bags (~15kg) — Bag Series B, Staggered Monthly Rotation</h2>
+<h3 id="group-b1-antimicrobial-antioxidant-lymphatic">Group B1 (Antimicrobial / Antioxidant / Lymphatic)</h3>
+<table>
+<thead>
+<tr>
+<th>Ingredient</th>
+<th>Amount</th>
+<th>Primary target</th>
+<th>Key compound</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Nigella sativa seeds</td>
+<td>2kg</td>
+<td>5-LOX, Nrf2, mast cell</td>
+<td>Thymoquinone</td>
+</tr>
+<tr>
+<td>Dried olive leaves</td>
+<td>1.5kg</td>
+<td>Oleuropein → hydroxytyrosol</td>
+<td>EFSA health claim antioxidant</td>
+</tr>
+<tr>
+<td>Black peppercorns</td>
+<td>500g</td>
+<td>Curcumin bioavailability ×20</td>
+<td>Piperine (logP 3.4 — stays in peppercorn, consumed directly)</td>
+</tr>
+<tr>
+<td>Dried rosemary</td>
+<td>500g</td>
+<td>Nrf2 activation</td>
+<td>Carnosic acid</td>
+</tr>
+<tr>
+<td>Dried thyme</td>
+<td>500g</td>
+<td>Antimicrobial, antioxidant</td>
+<td>Thymol</td>
+</tr>
+<tr>
+<td>Dried citrus peel</td>
+<td>500g</td>
+<td>Lymphatic contractility</td>
+<td>Diosmin → diosmetin (fermentation deglycosylation)</td>
+</tr>
+<tr>
+<td>Butcher's broom root</td>
+<td>300g</td>
+<td>Lymphatic smooth muscle</td>
+<td>Ruscogenins</td>
+</tr>
+</tbody>
+</table>
+<h3 id="group-b2-vascular-collagen-angiogenesis">Group B2 (Vascular / Collagen / Angiogenesis)</h3>
+<table>
+<thead>
+<tr>
+<th>Ingredient</th>
+<th>Amount</th>
+<th>Primary target</th>
+<th>Key compound</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Grape leaves</td>
+<td>1kg</td>
+<td>Urolithin A precursor</td>
+<td>Ellagitannins (~150mg/leaf)</td>
+</tr>
+<tr>
+<td>Hawthorn berries</td>
+<td>1kg</td>
+<td>Angiogenesis, collagen</td>
+<td>Vitexin, OPCs</td>
+</tr>
+<tr>
+<td>Dan shen / red sage</td>
+<td>500g</td>
+<td>eNOS, angiogenesis</td>
+<td>Salvianolic acid B</td>
+</tr>
+<tr>
+<td>Oak leaves</td>
+<td>500g</td>
+<td>Crunch preservation, ellagitannins</td>
+<td>Tannins</td>
+</tr>
+</tbody>
+</table>
+<h3 id="group-b3-gut-integrity-autophagy-mucin">Group B3 (Gut Integrity / Autophagy / Mucin)</h3>
+<table>
+<thead>
+<tr>
+<th>Ingredient</th>
+<th>Amount</th>
+<th>Primary target</th>
+<th>Key compound</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Horseradish root</td>
+<td>1kg</td>
+<td>Sulforaphane analogues</td>
+<td>Glucosinolates → isothiocyanates</td>
+</tr>
+<tr>
+<td>Wheat germ</td>
+<td>2kg</td>
+<td>mTOR-independent autophagy</td>
+<td>Spermidine (highest food concentration, ~243mg/kg)</td>
+</tr>
+<tr>
+<td>Marshmallow root</td>
+<td>500g</td>
+<td>MUC2 goblet cell stimulation, emulsification</td>
+<td>Mucilage polysaccharides</td>
+</tr>
+<tr>
+<td>Slippery elm bark</td>
+<td>300g</td>
+<td>Tight junction support</td>
+<td>Mucilage</td>
+</tr>
+<tr>
+<td>Scutellaria / skullcap</td>
+<td>500g</td>
+<td>IgE suppression, Th17 inhibition</td>
+<td>Baicalin (STAT6 inhibition, PAD4 inhibition)</td>
+</tr>
+<tr>
+<td>Chicory root</td>
+<td>300g</td>
+<td>Butyrate-producing prebiotic</td>
+<td>Inulin (long-chain, reaches distal colon)</td>
+</tr>
+<tr>
+<td>Lion's mane mushroom</td>
+<td>300g</td>
+<td>Enteric NGF, remyelination</td>
+<td>Hericenones, erinacines</td>
+</tr>
+</tbody>
+</table>
+<h3 id="group-b4-immune-regulation-hormonal-epigenetic">Group B4 (Immune Regulation / Hormonal / Epigenetic)</h3>
+<table>
+<thead>
+<tr>
+<th>Ingredient</th>
+<th>Amount</th>
+<th>Primary target</th>
+<th>Key compound</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Chamomile</td>
+<td>300g</td>
+<td>GABA-A, mast cell, sleep</td>
+<td>Apigenin</td>
+</tr>
+<tr>
+<td>Frankincense (food grade)</td>
+<td>200g</td>
+<td>5-LOX inhibition</td>
+<td>AKBA (highly lipophilic — stays in botanical matter)</td>
+</tr>
+<tr>
+<td>Astragalus root</td>
+<td>500g</td>
+<td>Treg induction, telomerase</td>
+<td>Astragalosides, APS polysaccharides</td>
+</tr>
+<tr>
+<td>Nettle leaf</td>
+<td>1kg</td>
+<td>Tryptase inhibition, silica</td>
+<td>MMP-9/tryptase inhibitors</td>
+</tr>
+<tr>
+<td>Schisandra berries</td>
+<td>500g</td>
+<td>Hepatoprotection, Nrf2</td>
+<td>Schisandrins</td>
+</tr>
+<tr>
+<td>Vitex / chaste tree</td>
+<td>300g</td>
+<td>Progesterone support</td>
+<td>Dopaminergic compounds → prolactin suppression</td>
+</tr>
+<tr>
+<td>Rehmannia (processed)</td>
+<td>300g</td>
+<td>Fibroblast stimulation</td>
+<td>Catalpol, iridoid glycosides</td>
+</tr>
+<tr>
+<td>Astaxanthin (supplement)</td>
+<td>Add to brine</td>
+<td>Mitochondrial/renal protection</td>
+<td>Carotenoid spanning full lipid bilayer</td>
+</tr>
+</tbody>
+</table>
+<h3 id="additional-botanicals-across-groups">Additional botanicals across groups</h3>
+<table>
+<thead>
+<tr>
+<th>Ingredient</th>
+<th>Target</th>
+<th>Key mechanism</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Barberry root</td>
+<td>AMPK autophagy</td>
+<td>Berberine</td>
+</tr>
+<tr>
+<td>Japanese knotweed</td>
+<td>SIRT1 activation</td>
+<td>Resveratrol/pterostilbene precursors</td>
+</tr>
+<tr>
+<td>Andrographis</td>
+<td>TFEB autophagy, Treg induction</td>
+<td>Andrographolide</td>
+</tr>
+<tr>
+<td>Licorice root (small dose)</td>
+<td>Beclin-1 autophagy, IgE suppression</td>
+<td>Glycyrrhizin — DOSE SENSITIVE</td>
+</tr>
+<tr>
+<td>Cordyceps</td>
+<td>Angiogenesis, autophagy</td>
+<td>Cordycepin (HIF-1α activation)</td>
+</tr>
+<tr>
+<td>Cleavers (freeze-dried)</td>
+<td>Lymphangiogenesis</td>
+<td>Asperuloside</td>
+</tr>
+<tr>
+<td>Ashwagandha root</td>
+<td>Plasma cell niche disruption</td>
+<td>Withaferin A (CXCL12/CXCR4)</td>
+</tr>
+<tr>
+<td>Cinnamon bark</td>
+<td>Quorum sensing inhibition</td>
+<td>Cinnamaldehyde (TRPA1)</td>
+</tr>
+<tr>
+<td>Maca root</td>
+<td>HPA-HPG normalization</td>
+<td>Glucosinolate derivatives</td>
+</tr>
+<tr>
+<td>Shatavari root</td>
+<td>Progesterone support</td>
+<td>Steroidal saponins</td>
+</tr>
+<tr>
+<td>Reishi (decoction extract)</td>
+<td>Microbiome modulation</td>
+<td>Triterpenoids, beta-glucans</td>
+</tr>
+<tr>
+<td>Dan shen / red sage</td>
+<td>eNOS, angiogenesis</td>
+<td>Salvianolic acid B</td>
+</tr>
+</tbody>
+</table>
+<h2 id="rotation-schedule">Rotation Schedule</h2>
+<p>Stagger replacement weekly to maintain continuous compound concentration:</p>
+<ul>
+<li>Week 1: Replace B1 bags</li>
+<li>Week 2: Replace B2 bags</li>
+<li>Week 3: Replace B3 bags</li>
+<li>Week 4: Replace B4 bags</li>
+</ul>
+<p>Each group replaced monthly. Never replace all groups simultaneously — this would temporarily drop compound concentrations. The staggered system maintains steady-state compound availability.</p>
+<h2 id="special-handling-notes">Special Handling Notes</h2>
+<table>
+<thead>
+<tr>
+<th>Botanical</th>
+<th>Warning</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Licorice root</td>
+<td>Max 5g/L brine — glycyrrhizin affects aldosterone at high doses</td>
+</tr>
+<tr>
+<td>He shou wu (if used)</td>
+<td><strong>Processed form only</strong> — raw is hepatotoxic</td>
+</tr>
+<tr>
+<td>Horse chestnut</td>
+<td>Small amounts — dose-sensitive saponin</td>
+</tr>
+<tr>
+<td>Vitex</td>
+<td>Not for use during pregnancy</td>
+</tr>
+<tr>
+<td>Dan shen</td>
+<td>Monitor if on blood thinners — anticoagulant activity</td>
+</tr>
+</tbody>
+</table>
+<h2 id="connections">Connections</h2>
+<ul>
+<li>[[System Architecture]] — vessel and brine context</li>
+<li>[[Brine Formulation]] — the liquid these extract into</li>
+<li>[[Polyphenols]] — the dominant active chemistry</li>
+<li>[[Terpenoids]] — frankincense, rosemary, thyme actives</li>
+<li>[[Alkaloids]] — berberine, thymoquinone</li>
+<li>[[Quorum Sensing]] — cinnamon bark specifically</li>
+<li>[[Honey Culture System]] — weekly additions that complement this</li>
+</ul>
+0:{"rsc":["$","$1","c",{"children":[["$","div",null,{"className":"max-w-6xl mx-auto px-4 py-8","children":[["$","$L2",null,{"slug":"03-fermentation-botanical-pack"}],["$","div",null,{"className":"grid grid-cols-1 lg:grid-cols-[1fr_280px] gap-8","children":[["$","article",null,{"children":[["$","header",null,{"className":"mb-8","children":[["$","div",null,{"className":"flex items-center gap-2 text-sm text-muted mb-3","children":[["$","span",null,{"className":"px-2 py-0.5 bg-pickle-light text-pickle-dark rounded text-xs font-medium","children":"Fermentation"}],["$","span",null,{"children":["Chapter ",11]}]]}],["$","h1",null,{"className":"text-3xl md:text-4xl font-bold text-foreground mb-3","children":"Botanical Pack"}],["$","p",null,{"className":"text-lg text-muted leading-relaxed","children":"tags: [protocol, fermentation, botanicals, compounds]"}]]}],["$","div",null,{"className":"prose","dangerouslySetInnerHTML":{"__html":"$3"}}],"$L4"]}],"$L5"]}]]}],["$L6"],"$L7"]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"-f8JDEXe4WkXDL6nzUQi5"}
+4:["$","nav",null,{"className":"mt-12 pt-8 border-t border-border flex justify-between gap-4","children":[["$","div",null,{}],["$","div",null,{"className":"flex-1 p-4 bg-pickle-lighter rounded-lg text-center","children":["$","$L8",null,{"pose":"celebrating","size":"small","message":"You finished the book!","className":"inline-flex"}]}]]}]
+5:["$","aside",null,{"className":"hidden lg:block space-y-4 no-print","children":["$","div",null,{"className":"sticky top-20 space-y-4","children":[["$","div",null,{"className":"flex items-center gap-2","children":[["$","$L9",null,{"slug":"03-fermentation-botanical-pack"}],["$","$La",null,{}]]}],["$","$Lb",null,{"headings":[{"id":"botanical-pack","text":"Botanical Pack","level":1},{"id":"vegetable-fraction-45kg-bag-series-a","text":"Vegetable Fraction (~45kg) — Bag Series A","level":2},{"id":"botanical-mesh-bags-15kg-bag-series-b-staggered-monthly-rotation","text":"Botanical Mesh Bags (~15kg) — Bag Series B, Staggered Monthly Rotation","level":2},{"id":"group-b1-antimicrobial-antioxidant-lymphatic","text":"Group B1 (Antimicrobial / Antioxidant / Lymphatic)","level":3},{"id":"group-b2-vascular-collagen-angiogenesis","text":"Group B2 (Vascular / Collagen / Angiogenesis)","level":3},{"id":"group-b3-gut-integrity-autophagy-mucin","text":"Group B3 (Gut Integrity / Autophagy / Mucin)","level":3},{"id":"group-b4-immune-regulation-hormonal-epigenetic","text":"Group B4 (Immune Regulation / Hormonal / Epigenetic)","level":3},{"id":"additional-botanicals-across-groups","text":"Additional botanicals across groups","level":3},{"id":"rotation-schedule","text":"Rotation Schedule","level":2},{"id":"special-handling-notes","text":"Special Handling Notes","level":2},{"id":"connections","text":"Connections","level":2}]}]]}]}]
+6:["$","script","script-0",{"src":"/_next/static/chunks/2gspel2gmkmqb.js","async":true}]
+7:["$","$Lc",null,{"children":["$","$d",null,{"name":"Next.MetadataOutlet","children":"$@e"}]}]
+e:null

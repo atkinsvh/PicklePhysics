@@ -1,0 +1,187 @@
+1:"$Sreact.fragment"
+2:I[90114,["/_next/static/chunks/2cdxtyl33onme.js","/_next/static/chunks/30x6623ill3zz.js","/_next/static/chunks/2gspel2gmkmqb.js"],"default"]
+8:I[66489,["/_next/static/chunks/2cdxtyl33onme.js","/_next/static/chunks/30x6623ill3zz.js","/_next/static/chunks/2gspel2gmkmqb.js"],"default"]
+9:I[98352,["/_next/static/chunks/2cdxtyl33onme.js","/_next/static/chunks/30x6623ill3zz.js","/_next/static/chunks/2gspel2gmkmqb.js"],"default"]
+a:I[70411,["/_next/static/chunks/2cdxtyl33onme.js","/_next/static/chunks/30x6623ill3zz.js","/_next/static/chunks/2gspel2gmkmqb.js"],"default"]
+b:I[10432,["/_next/static/chunks/2cdxtyl33onme.js","/_next/static/chunks/30x6623ill3zz.js","/_next/static/chunks/2gspel2gmkmqb.js"],"default"]
+c:I[93070,["/_next/static/chunks/2cdxtyl33onme.js","/_next/static/chunks/30x6623ill3zz.js"],"OutletBoundary"]
+d:"$Sreact.suspense"
+3:T13eb,<h1 id="economics">Economics</h1>
+<blockquote>
+<p><em>The batch economics of four staggered 40-gallon fermentation tanks achieving monthly production from month 5 of operation.</em></p>
+</blockquote>
+<h2 id="per-batch-economics-single-40-gallon-tank">Per-Batch Economics (Single 40-gallon tank)</h2>
+<h3 id="input-costs">Input Costs</h3>
+<table>
+<thead>
+<tr>
+<th>Category</th>
+<th>Estimated cost</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Vegetable fraction (45kg)</td>
+<td>~$180</td>
+</tr>
+<tr>
+<td>Botanical pack (15kg)</td>
+<td>~$280</td>
+</tr>
+<tr>
+<td>Brine additives (glycine, ascorbic, P5P, glucarate, molasses, lecithin, black seed oil, glycerol)</td>
+<td>~$95</td>
+</tr>
+<tr>
+<td>Culture additions (honey rotation)</td>
+<td>~$45</td>
+</tr>
+<tr>
+<td>Salt (non-iodized, bulk)</td>
+<td>~$12</td>
+</tr>
+<tr>
+<td>Energy (temperature management, refrigeration)</td>
+<td>~$35</td>
+</tr>
+<tr>
+<td>Packaging (200 jars, lids, labels)</td>
+<td>~$180</td>
+</tr>
+<tr>
+<td>Consumables (mesh bags, strainers, testing supplies)</td>
+<td>~$40</td>
+</tr>
+<tr>
+<td>Water (filtered/dechlorinated)</td>
+<td>~$15</td>
+</tr>
+<tr>
+<td>Labor (estimated 20–25 hours per batch cycle)</td>
+<td>~<code class="language-math math-inline">370 (at </code>15–18/hr)</td>
+</tr>
+<tr>
+<td><strong>Total batch cost</strong></td>
+<td><strong>~$1,250</strong></td>
+</tr>
+</tbody>
+</table>
+<h3 id="output-and-revenue">Output and Revenue</h3>
+<table>
+<thead>
+<tr>
+<th>Metric</th>
+<th>Value</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Approximate jar yield</td>
+<td>~200–225 jars per batch</td>
+</tr>
+<tr>
+<td>Working yield (accounting for QC failures, sampling, waste)</td>
+<td>~200 jars</td>
+</tr>
+<tr>
+<td>Retail price target</td>
+<td>$32–38 per 6oz jar</td>
+</tr>
+<tr>
+<td>Gross revenue per batch</td>
+<td><code class="language-math math-inline">6,400–</code>7,600</td>
+</tr>
+<tr>
+<td>Gross margin</td>
+<td>~81–83%</td>
+</tr>
+</tbody>
+</table>
+<h3 id="four-tank-staggered-system">Four-Tank Staggered System</h3>
+<p>Four tanks staggered by 30 days = monthly production of one batch starting from month 5 of operation:</p>
+<table>
+<thead>
+<tr>
+<th>Month</th>
+<th>Activity</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Month 1</td>
+<td>Tank 1 starts</td>
+</tr>
+<tr>
+<td>Month 2</td>
+<td>Tank 2 starts</td>
+</tr>
+<tr>
+<td>Month 3</td>
+<td>Tank 3 starts</td>
+</tr>
+<tr>
+<td>Month 4</td>
+<td>Tank 4 starts</td>
+</tr>
+<tr>
+<td><strong>Month 5</strong></td>
+<td><strong>Tank 1 harvested → first production batch</strong></td>
+</tr>
+<tr>
+<td>Month 6</td>
+<td>Tank 2 harvested → second batch</td>
+</tr>
+<tr>
+<td>Ongoing</td>
+<td>Monthly production cycle</td>
+</tr>
+</tbody>
+</table>
+<p><strong>Annual gross revenue at steady state (month 5+):</strong></p>
+<ul>
+<li>12 batches × ~<code class="language-math math-inline">7,000 average = **~</code>84,000 annual gross**</li>
+<li>Less batch costs: 12 × <code class="language-math math-inline">1,250 = </code>15,000</li>
+<li><strong>Annual gross profit: ~$69,000</strong></li>
+</ul>
+<h3 id="scaling-considerations">Scaling Considerations</h3>
+<p>The batch economics are favorable to scale because:</p>
+<ul>
+<li>Most fixed costs (equipment, setup) are absorbed in first year</li>
+<li>Labor efficiency improves with experience and routine</li>
+<li>Bulk purchasing reduces per-batch ingredient costs</li>
+<li>Customer retention is high (monthly subscription product)</li>
+</ul>
+<p>Two operators working part-time (40 hours/month combined) can manage a four-tank operation with good systems.</p>
+<h2 id="pricing-strategy">Pricing Strategy</h2>
+<p><strong><code class="language-math math-inline">35/jar (midpoint of </code>32–38 range):</strong></p>
+<ul>
+<li>Premium fermented food positioning (comparable to high-end kimchi/kombucha at $15–20/16oz)</li>
+<li>The 6oz concentrated format delivers equivalent compound dose to a much larger conventional ferment</li>
+<li>Monthly subscription ($35/month) is psychologically positioned as a food/supplement hybrid, not a pharmaceutical</li>
+</ul>
+<p><strong>Price anchoring:</strong></p>
+<ul>
+<li>Quality supplements for the conditions targeted often run $100–300/month</li>
+<li>The product at $35/month is dramatically less expensive than the supplement stack it partially replaces</li>
+<li>At the same time, it's a premium food product with a compelling story</li>
+</ul>
+<h2 id="the-seasonal-botanicals-premium">The Seasonal Botanicals Premium</h2>
+<p>Rotating botanical packs with seasonal and specialty ingredients (hawthorn berries at peak, locally harvested centella, etc.) creates a foundation for limited-release or premium-tier products:</p>
+<ul>
+<li>"Spring harvest batch" with fresh centella, fresh herbs</li>
+<li>"Autumn botanical batch" with hawthorn, elder, rosehip additions</li>
+<li>Premium pricing on these batches: $45–55 per jar</li>
+</ul>
+<h2 id="connections">Connections</h2>
+<ul>
+<li>[[Product Concept]] — what's being sold</li>
+<li>[[Regulatory Compliance Path]] — the legal framework</li>
+<li>[[System Architecture]] — the production system</li>
+<li>[[Concentration and Harvest]] — yield calculation detail</li>
+</ul>
+0:{"rsc":["$","$1","c",{"children":[["$","div",null,{"className":"max-w-6xl mx-auto px-4 py-8","children":[["$","$L2",null,{"slug":"12-commercial-economics"}],["$","div",null,{"className":"grid grid-cols-1 lg:grid-cols-[1fr_280px] gap-8","children":[["$","article",null,{"children":[["$","header",null,{"className":"mb-8","children":[["$","div",null,{"className":"flex items-center gap-2 text-sm text-muted mb-3","children":[["$","span",null,{"className":"px-2 py-0.5 bg-pickle-light text-pickle-dark rounded text-xs font-medium","children":"Commercial"}],["$","span",null,{"children":["Chapter ",63]}]]}],["$","h1",null,{"className":"text-3xl md:text-4xl font-bold text-foreground mb-3","children":"Economics"}],["$","p",null,{"className":"text-lg text-muted leading-relaxed","children":"tags: [commercial, economics, pricing, revenue]"}]]}],["$","div",null,{"className":"prose","dangerouslySetInnerHTML":{"__html":"$3"}}],"$L4"]}],"$L5"]}]]}],["$L6"],"$L7"]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"-f8JDEXe4WkXDL6nzUQi5"}
+4:["$","nav",null,{"className":"mt-12 pt-8 border-t border-border flex justify-between gap-4","children":[["$","div",null,{}],["$","div",null,{"className":"flex-1 p-4 bg-pickle-lighter rounded-lg text-center","children":["$","$L8",null,{"pose":"celebrating","size":"small","message":"You finished the book!","className":"inline-flex"}]}]]}]
+5:["$","aside",null,{"className":"hidden lg:block space-y-4 no-print","children":["$","div",null,{"className":"sticky top-20 space-y-4","children":[["$","div",null,{"className":"flex items-center gap-2","children":[["$","$L9",null,{"slug":"12-commercial-economics"}],["$","$La",null,{}]]}],["$","$Lb",null,{"headings":[{"id":"economics","text":"Economics","level":1},{"id":"per-batch-economics-single-40-gallon-tank","text":"Per-Batch Economics (Single 40-gallon tank)","level":2},{"id":"input-costs","text":"Input Costs","level":3},{"id":"output-and-revenue","text":"Output and Revenue","level":3},{"id":"four-tank-staggered-system","text":"Four-Tank Staggered System","level":3},{"id":"scaling-considerations","text":"Scaling Considerations","level":3},{"id":"pricing-strategy","text":"Pricing Strategy","level":2},{"id":"the-seasonal-botanicals-premium","text":"The Seasonal Botanicals Premium","level":2},{"id":"connections","text":"Connections","level":2}]}]]}]}]
+6:["$","script","script-0",{"src":"/_next/static/chunks/2gspel2gmkmqb.js","async":true}]
+7:["$","$Lc",null,{"children":["$","$d",null,{"name":"Next.MetadataOutlet","children":"$@e"}]}]
+e:null

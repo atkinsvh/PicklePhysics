@@ -1,0 +1,92 @@
+1:"$Sreact.fragment"
+2:I[90114,["/_next/static/chunks/2cdxtyl33onme.js","/_next/static/chunks/30x6623ill3zz.js","/_next/static/chunks/2gspel2gmkmqb.js"],"default"]
+8:I[66489,["/_next/static/chunks/2cdxtyl33onme.js","/_next/static/chunks/30x6623ill3zz.js","/_next/static/chunks/2gspel2gmkmqb.js"],"default"]
+9:I[98352,["/_next/static/chunks/2cdxtyl33onme.js","/_next/static/chunks/30x6623ill3zz.js","/_next/static/chunks/2gspel2gmkmqb.js"],"default"]
+a:I[70411,["/_next/static/chunks/2cdxtyl33onme.js","/_next/static/chunks/30x6623ill3zz.js","/_next/static/chunks/2gspel2gmkmqb.js"],"default"]
+b:I[10432,["/_next/static/chunks/2cdxtyl33onme.js","/_next/static/chunks/30x6623ill3zz.js","/_next/static/chunks/2gspel2gmkmqb.js"],"default"]
+c:I[93070,["/_next/static/chunks/2cdxtyl33onme.js","/_next/static/chunks/30x6623ill3zz.js"],"OutletBoundary"]
+d:"$Sreact.suspense"
+3:T14fb,<h1 id="petition-framework">Petition Framework</h1>
+<blockquote>
+<p><em>Complete structure of the regulatory petition to the Secretary of HHS. Six specific asks, organized from most fundamental to most detailed.</em></p>
+</blockquote>
+<h2 id="addressee">Addressee</h2>
+<p>The Honorable Robert F. Kennedy Jr.
+Secretary, United States Department of Health and Human Services
+200 Independence Avenue, S.W.
+Washington, D.C. 20201</p>
+<h2 id="the-five-section-structure">The Five-Section Structure</h2>
+<h3 id="section-i-the-mechanism">Section I — The Mechanism</h3>
+<p>What happens in an industrial fryer. Four molecule classes:</p>
+<ol>
+<li><strong>4-HNE and reactive aldehydes</strong> — genotoxic, cytotoxic, enzyme-impairing (Esterbauer et al., 1991)</li>
+<li><strong>OXLAMs</strong> — direct TLR4 agonists, measurable at concentrations produced by commercial frying</li>
+<li><strong>Total Polar Compounds</strong> — the aggregate non-volatile toxic burden</li>
+<li><strong>The food transfer mechanism</strong> — oxidized compounds preferentially transfer into the starch matrix of fried foods</li>
+</ol>
+<h3 id="section-ii-the-fraud-expanded">Section II — The Fraud (Expanded)</h3>
+<p>Two forms:</p>
+<p><strong>Industrial deodorization of used oil:</strong></p>
+<ul>
+<li>Removes volatile early-warning compounds</li>
+<li>Leaves TPC intact</li>
+<li>Makes degraded oil appear and smell fresh</li>
+<li>Defeats evolved consumer detection system</li>
+</ul>
+<p><strong>Onsite oil regeneration services:</strong></p>
+<ul>
+<li>Activated carbon, antioxidant injection, nitrogen treatment, dilution blending</li>
+<li>Restores sensory presentation without reducing TPC</li>
+<li>Marketed explicitly for extended oil life / reduced oil change frequency</li>
+<li>Operates continuously at point of use</li>
+<li>Invisible to any oversight mechanism short of TPC measurement</li>
+</ul>
+<p><strong>The legitimate vs. fraudulent distinction:</strong></p>
+<ul>
+<li>Legitimate: Magnesium silicate, bentonite clay, diatomaceous earth — genuinely reduce TPC</li>
+<li>Fraudulent: Any treatment restoring sensory presentation without reducing TPC</li>
+</ul>
+<p><strong>The statutory framework:</strong>
+21 U.S.C. § 342(a)(1) — adulteration through presence of deleterious substance. Both forms of treatment meet this standard.</p>
+<h3 id="section-iii-the-regulatory-gap">Section III — The Regulatory Gap</h3>
+<p>International TPC standards vs. US absence. Germany/France: 27%. Austria/Spain/Belgium/Sweden: 25%. US: none.</p>
+<h3 id="section-iv-the-economic-opportunity">Section IV — The Economic Opportunity</h3>
+<p>[[Renewable Diesel Displacement]] argument. Converts potential opposition to stakeholders.</p>
+<h3 id="section-v-requested-actions-six-points">Section V — Requested Actions (Six Points)</h3>
+<ol>
+<li>Federal maximum TPC standard ≤27%, mandatory disposal, universal food service application</li>
+<li>Prohibition on sale/transfer/re-introduction of used oil that has undergone industrial deodorization or sensory-masking treatment — classified as adulteration under 21 U.S.C. § 342</li>
+<li>Onsite commercial oil treatment system regulation — require demonstrated TPC reduction for market approval; prohibit sensory-restoration-without-TPC-reduction systems when applied above threshold oil</li>
+<li>Mandatory TPC monitoring in high-volume operations; proxy cumulative-hours standards for lower-volume operations</li>
+<li>GMP rulemaking for commercial fryer operation</li>
+<li>FDA-commissioned independent scientific review of dietary OXLAM health effects at commercial frying concentrations</li>
+</ol>
+<h3 id="section-vi-conclusion">Section VI — Conclusion</h3>
+<p>The three failures (no sensory protection, no TPC standard, no enforcement) and what the department has authority to do about each.</p>
+<h2 id="key-references-to-include">Key References to Include</h2>
+<ul>
+<li>Esterbauer et al. (1991) — Free Radical Biology and Medicine (4-HNE)</li>
+<li>Totani et al. (2012) — Journal of Oleo Science (TPC accumulation)</li>
+<li>Csallany et al. (2015) — Food Chemistry (OXLAMs in fried food)</li>
+<li>Guillén and Uriarte (2012) — Food Chemistry (aldehyde formation)</li>
+<li>Soriguer et al. (2003) — Journal of Nutrition (health effects)</li>
+<li>DGF (Deutsche Gesellschaft für Fettwissenschaft) — frying standards documentation</li>
+<li>EFSA Panel on Dietetic Products, Nutrition and Allergies (2010)</li>
+<li>Combe et al. (2004) — British Journal of Nutrition</li>
+</ul>
+<h2 id="the-evolutionary-sensory-addendum">The Evolutionary Sensory Addendum</h2>
+<p>A compelling supplementary argument: deodorization is the chemical equivalent of severing smoke detectors before setting a fire. The human olfactory system evolved over millions of years specifically to detect oxidized fat before consumption. No regulatory framework should permit the targeted neutralization of evolved consumer safety mechanisms without requiring equivalent replacement protection.</p>
+<p>→ [[Evolutionary Sensory Framework]]</p>
+<h2 id="connections">Connections</h2>
+<ul>
+<li>[[TPC Standards]] — the core regulatory instrument</li>
+<li>[[Deodorization as Fraud]] — the practices being prohibited</li>
+<li>[[Renewable Diesel Displacement]] — Section IV economic argument</li>
+<li>[[Lipid Oxidation Chemistry]] — the mechanistic basis</li>
+</ul>
+0:{"rsc":["$","$1","c",{"children":[["$","div",null,{"className":"max-w-6xl mx-auto px-4 py-8","children":[["$","$L2",null,{"slug":"09-regulatory-petition-framework"}],["$","div",null,{"className":"grid grid-cols-1 lg:grid-cols-[1fr_280px] gap-8","children":[["$","article",null,{"children":[["$","header",null,{"className":"mb-8","children":[["$","div",null,{"className":"flex items-center gap-2 text-sm text-muted mb-3","children":[["$","span",null,{"className":"px-2 py-0.5 bg-pickle-light text-pickle-dark rounded text-xs font-medium","children":"Regulatory"}],["$","span",null,{"children":["Chapter ",51]}]]}],["$","h1",null,{"className":"text-3xl md:text-4xl font-bold text-foreground mb-3","children":"Petition Framework"}],["$","p",null,{"className":"text-lg text-muted leading-relaxed","children":"tags: [regulatory, petition, HHS, FDA, policy]"}]]}],["$","div",null,{"className":"prose","dangerouslySetInnerHTML":{"__html":"$3"}}],"$L4"]}],"$L5"]}]]}],["$L6"],"$L7"]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"-f8JDEXe4WkXDL6nzUQi5"}
+4:["$","nav",null,{"className":"mt-12 pt-8 border-t border-border flex justify-between gap-4","children":[["$","div",null,{}],["$","div",null,{"className":"flex-1 p-4 bg-pickle-lighter rounded-lg text-center","children":["$","$L8",null,{"pose":"celebrating","size":"small","message":"You finished the book!","className":"inline-flex"}]}]]}]
+5:["$","aside",null,{"className":"hidden lg:block space-y-4 no-print","children":["$","div",null,{"className":"sticky top-20 space-y-4","children":[["$","div",null,{"className":"flex items-center gap-2","children":[["$","$L9",null,{"slug":"09-regulatory-petition-framework"}],["$","$La",null,{}]]}],["$","$Lb",null,{"headings":[{"id":"petition-framework","text":"Petition Framework","level":1},{"id":"addressee","text":"Addressee","level":2},{"id":"the-five-section-structure","text":"The Five-Section Structure","level":2},{"id":"section-i-the-mechanism","text":"Section I — The Mechanism","level":3},{"id":"section-ii-the-fraud-expanded","text":"Section II — The Fraud (Expanded)","level":3},{"id":"section-iii-the-regulatory-gap","text":"Section III — The Regulatory Gap","level":3},{"id":"section-iv-the-economic-opportunity","text":"Section IV — The Economic Opportunity","level":3},{"id":"section-v-requested-actions-six-points","text":"Section V — Requested Actions (Six Points)","level":3},{"id":"section-vi-conclusion","text":"Section VI — Conclusion","level":3},{"id":"key-references-to-include","text":"Key References to Include","level":2},{"id":"the-evolutionary-sensory-addendum","text":"The Evolutionary Sensory Addendum","level":2},{"id":"connections","text":"Connections","level":2}]}]]}]}]
+6:["$","script","script-0",{"src":"/_next/static/chunks/2gspel2gmkmqb.js","async":true}]
+7:["$","$Lc",null,{"children":["$","$d",null,{"name":"Next.MetadataOutlet","children":"$@e"}]}]
+e:null

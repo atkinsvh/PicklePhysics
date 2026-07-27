@@ -1,0 +1,65 @@
+1:"$Sreact.fragment"
+2:I[90114,["/_next/static/chunks/2cdxtyl33onme.js","/_next/static/chunks/30x6623ill3zz.js","/_next/static/chunks/2gspel2gmkmqb.js"],"default"]
+8:I[66489,["/_next/static/chunks/2cdxtyl33onme.js","/_next/static/chunks/30x6623ill3zz.js","/_next/static/chunks/2gspel2gmkmqb.js"],"default"]
+9:I[98352,["/_next/static/chunks/2cdxtyl33onme.js","/_next/static/chunks/30x6623ill3zz.js","/_next/static/chunks/2gspel2gmkmqb.js"],"default"]
+a:I[70411,["/_next/static/chunks/2cdxtyl33onme.js","/_next/static/chunks/30x6623ill3zz.js","/_next/static/chunks/2gspel2gmkmqb.js"],"default"]
+b:I[10432,["/_next/static/chunks/2cdxtyl33onme.js","/_next/static/chunks/30x6623ill3zz.js","/_next/static/chunks/2gspel2gmkmqb.js"],"default"]
+c:I[93070,["/_next/static/chunks/2cdxtyl33onme.js","/_next/static/chunks/30x6623ill3zz.js"],"OutletBoundary"]
+d:"$Sreact.suspense"
+3:Te10,<h1 id="endometriosis">Endometriosis</h1>
+<blockquote>
+<p><em>Retrograde menstruation is universal. Peritoneal macrophage efferocytosis failure is what separates women who develop endometriosis from those who don't.</em></p>
+</blockquote>
+<h2 id="the-efferocytosis-failure-model">The Efferocytosis Failure Model</h2>
+<p>Retrograde menstruation (endometrial cells deposited in the peritoneal cavity during menstruation) occurs in most women. Normally, peritoneal macrophages clear this tissue efficiently through efferocytosis within days.</p>
+<p>In endometriosis, peritoneal macrophage efferocytosis is specifically impaired by:</p>
+<ul>
+<li>OxLDL and OXLAMs from dietary oxidized fat exposure → MERTK/AXL downregulation</li>
+<li>Lipid-laden foam cell macrophages in the peritoneal cavity → reduced phagocytic capacity</li>
+</ul>
+<p>The deposited endometrial cells survive, implant, and establish lesions. The same macrophages that fail to clear them simultaneously produce:</p>
+<ul>
+<li>VEGF → pathological angiogenesis sustaining the ectopic tissue</li>
+<li>TNF-α, IL-6, IL-8 → recruit more dysfunctional macrophages</li>
+</ul>
+<h2 id="local-aromatase-autocrine-loop">Local Aromatase Autocrine Loop</h2>
+<p>Ectopic endometrial tissue develops local aromatase activity independent of systemic estrogen:</p>
+<ul>
+<li>Produces its own estradiol</li>
+<li>Drives its own growth through ER→cAMP→aromatase positive feedback</li>
+<li>Simultaneously loses progesterone receptor expression → progesterone resistance → loss of the normal anti-proliferative signal</li>
+</ul>
+<h2 id="the-iron-problem">The Iron Problem</h2>
+<p>Menstrual blood deposits iron in the peritoneal cavity:</p>
+<ul>
+<li>Free iron → Fenton chemistry: Fe²⁺ + H₂O₂ → OH• + OH⁻ + Fe³⁺</li>
+<li>Hydroxyl radical generation → pro-oxidant peritoneal environment</li>
+<li>Further impairs peritoneal macrophage efferocytosis capacity</li>
+<li>Creates local oxidative stress driving VEGF and inflammatory cytokine production</li>
+</ul>
+<h2 id="protocol-specific-additions">Protocol-Specific Additions</h2>
+<p><strong>Lactoferrin (100–300mg daily):</strong></p>
+<ul>
+<li>Iron-binding glycoprotein specifically chelates free peritoneal iron</li>
+<li>Reduces Fenton chemistry in the peritoneal cavity</li>
+<li>Directly promotes peritoneal macrophage efferocytosis through TLR4-independent mechanisms</li>
+<li>Reduces local VEGF production (the angiogenesis sustaining lesions)</li>
+</ul>
+<p><strong>Anti-angiogenic framing of the botanical pack:</strong>
+The hawthorn/dan shen/pine bark OPC additions are framed elsewhere as therapeutic angiogenesis for connective tissue repair. For endometriosis, the same compounds normalize rather than simply promote angiogenesis — they suppress the pathological VEGF-driven vessel formation in lesions while maintaining normal vessel function in healthy tissue.</p>
+<p><strong>DIM (from red cabbage fermentation):</strong>
+Shifts estrogen metabolism toward 2-ME2 (2-methoxyestradiol) — specifically anti-angiogenic and anti-proliferative. 2-ME2 inhibits HIF-1α in endometrial cells, reducing the hypoxic signaling that drives lesion angiogenesis and growth.</p>
+<h2 id="connections">Connections</h2>
+<ul>
+<li>[[Efferocytosis Failure]] — the initiating failure</li>
+<li>[[Estrobolome]] — systemic estrogen dominance context</li>
+<li>[[Phase 2 - Mast Cell Stabilization]] — peritoneal mast cells are also activated</li>
+<li>[[Rheumatoid Arthritis]] — shared efferocytosis mechanism</li>
+<li>[[EDS-MCAS-Eczema Cluster]] — shared upstream drivers</li>
+</ul>
+0:{"rsc":["$","$1","c",{"children":[["$","div",null,{"className":"max-w-6xl mx-auto px-4 py-8","children":[["$","$L2",null,{"slug":"07-conditions-endometriosis"}],["$","div",null,{"className":"grid grid-cols-1 lg:grid-cols-[1fr_280px] gap-8","children":[["$","article",null,{"children":[["$","header",null,{"className":"mb-8","children":[["$","div",null,{"className":"flex items-center gap-2 text-sm text-muted mb-3","children":[["$","span",null,{"className":"px-2 py-0.5 bg-pickle-light text-pickle-dark rounded text-xs font-medium","children":"Conditions"}],["$","span",null,{"children":["Chapter ",38]}]]}],["$","h1",null,{"className":"text-3xl md:text-4xl font-bold text-foreground mb-3","children":"Endometriosis"}],["$","p",null,{"className":"text-lg text-muted leading-relaxed","children":"tags: [condition, autoimmune, endometriosis, peritoneum, angiogenesis]"}]]}],["$","div",null,{"className":"prose","dangerouslySetInnerHTML":{"__html":"$3"}}],"$L4"]}],"$L5"]}]]}],["$L6"],"$L7"]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"-f8JDEXe4WkXDL6nzUQi5"}
+4:["$","nav",null,{"className":"mt-12 pt-8 border-t border-border flex justify-between gap-4","children":[["$","div",null,{}],["$","div",null,{"className":"flex-1 p-4 bg-pickle-lighter rounded-lg text-center","children":["$","$L8",null,{"pose":"celebrating","size":"small","message":"You finished the book!","className":"inline-flex"}]}]]}]
+5:["$","aside",null,{"className":"hidden lg:block space-y-4 no-print","children":["$","div",null,{"className":"sticky top-20 space-y-4","children":[["$","div",null,{"className":"flex items-center gap-2","children":[["$","$L9",null,{"slug":"07-conditions-endometriosis"}],["$","$La",null,{}]]}],["$","$Lb",null,{"headings":[{"id":"endometriosis","text":"Endometriosis","level":1},{"id":"the-efferocytosis-failure-model","text":"The Efferocytosis Failure Model","level":2},{"id":"local-aromatase-autocrine-loop","text":"Local Aromatase Autocrine Loop","level":2},{"id":"the-iron-problem","text":"The Iron Problem","level":2},{"id":"protocol-specific-additions","text":"Protocol-Specific Additions","level":2},{"id":"connections","text":"Connections","level":2}]}]]}]}]
+6:["$","script","script-0",{"src":"/_next/static/chunks/2gspel2gmkmqb.js","async":true}]
+7:["$","$Lc",null,{"children":["$","$d",null,{"name":"Next.MetadataOutlet","children":"$@e"}]}]
+e:null

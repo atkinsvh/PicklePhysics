@@ -1,0 +1,93 @@
+1:"$Sreact.fragment"
+2:I[90114,["/_next/static/chunks/2cdxtyl33onme.js","/_next/static/chunks/30x6623ill3zz.js","/_next/static/chunks/2gspel2gmkmqb.js"],"default"]
+8:I[66489,["/_next/static/chunks/2cdxtyl33onme.js","/_next/static/chunks/30x6623ill3zz.js","/_next/static/chunks/2gspel2gmkmqb.js"],"default"]
+9:I[98352,["/_next/static/chunks/2cdxtyl33onme.js","/_next/static/chunks/30x6623ill3zz.js","/_next/static/chunks/2gspel2gmkmqb.js"],"default"]
+a:I[70411,["/_next/static/chunks/2cdxtyl33onme.js","/_next/static/chunks/30x6623ill3zz.js","/_next/static/chunks/2gspel2gmkmqb.js"],"default"]
+b:I[10432,["/_next/static/chunks/2cdxtyl33onme.js","/_next/static/chunks/30x6623ill3zz.js","/_next/static/chunks/2gspel2gmkmqb.js"],"default"]
+c:I[93070,["/_next/static/chunks/2cdxtyl33onme.js","/_next/static/chunks/30x6623ill3zz.js"],"OutletBoundary"]
+d:"$Sreact.suspense"
+3:T11de,<h1 id="efferocytosis-failure">Efferocytosis Failure</h1>
+<blockquote>
+<p><em>The initiating event for autoimmune antibody production. Not a failure of immune activation — a failure of immune cleanup.</em></p>
+</blockquote>
+<h2 id="what-efferocytosis-is">What Efferocytosis Is</h2>
+<p>Every day the body produces ~200–300 billion cells undergoing programmed death (apoptosis). Under normal conditions, macrophages and dendritic cells clear these dying cells within hours through efferocytosis — phagocytic engulfment before the cells lyse. When this clearance fails, apoptotic cells undergo <strong>secondary necrosis</strong>: they rupture, releasing their nuclear contents into the extracellular space.</p>
+<p>Nuclear material (DNA, histones, ribonucleoproteins, citrullinated proteins) is recognized by TLR7 and TLR9 as viral-pattern danger signals. B cells and plasmacytoid dendritic cells respond by producing autoantibodies against this nuclear material. The adaptive immune system has been educated to attack self.</p>
+<h2 id="how-oxidized-lipids-impair-it">How Oxidized Lipids Impair It</h2>
+<p><strong>MERTK and AXL receptor inactivation:</strong></p>
+<ul>
+<li>These are the primary macrophage receptors for recognizing phosphatidylserine exposed on apoptotic cells</li>
+<li>OxLDL and OXLAMs bind to and downregulate MERTK expression through miR-155 upregulation</li>
+<li>Direct 4-HNE adduct formation impairs receptor function</li>
+<li>The more oxidized lipid burden a macrophage carries, the less efficiently it performs efferocytosis</li>
+</ul>
+<p><strong>C1q depletion:</strong></p>
+<ul>
+<li>C1q is the complement protein that opsonizes apoptotic cells for macrophage recognition</li>
+<li>C1q is a collagen-domain protein requiring vitamin C, glycine, and lysine hydroxylation — same enzymes impaired in EDS</li>
+<li>The same enzyme impairment driving connective tissue fragility also reduces complement-mediated efferocytosis</li>
+</ul>
+<p><strong>Cholesterol efflux impairment:</strong></p>
+<ul>
+<li>Macrophages must export cholesterol to perform repeated phagocytic cycles</li>
+<li>Oxidized cholesterol impairs ABCA1 and ABCG1 (cholesterol export transporters)</li>
+<li>Lipid-laden macrophages become foam cells: still present but non-functional for efferocytosis</li>
+<li>→ Niacin restores ABCA1 expression; EPA/DHA → resolvins directly activate efferocytosis</li>
+</ul>
+<h2 id="the-gas6-protein-s-vitamin-k2-connection">The Gas6/Protein S — Vitamin K2 Connection</h2>
+<p>Gas6 and Protein S are the ligands for MERTK and AXL. Both are vitamin K2-dependent proteins (Gla proteins requiring carboxylation). Vitamin K2 deficiency → impaired Gas6/Protein S → impaired MERTK/AXL signaling → efferocytosis failure independent of the oxidized lipid receptor impairment.</p>
+<p>MK-7 from natto is the most bioavailable dietary K2 source. This is why natto is non-optional in the protocol.</p>
+<h2 id="condition-specific-manifestations">Condition-Specific Manifestations</h2>
+<table>
+<thead>
+<tr>
+<th>Condition</th>
+<th>Efferocytosis context</th>
+<th>Consequence</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>[[Rheumatoid Arthritis]]</td>
+<td>Synovial macrophages fail to clear NETotic debris</td>
+<td>Anti-CCP antibody production</td>
+</tr>
+<tr>
+<td>[[Endometriosis]]</td>
+<td>Peritoneal macrophages fail to clear retrograde endometrial cells</td>
+<td>Lesion establishment and persistence</td>
+</tr>
+<tr>
+<td>[[Multiple Sclerosis]]</td>
+<td>Microglia fail to clear myelin debris</td>
+<td>Expanding antigen repertoire against myelin</td>
+</tr>
+<tr>
+<td>[[EDS-MCAS-Eczema Cluster]]</td>
+<td>Systemic low-grade efferocytosis impairment</td>
+<td>Chronic mast cell priming</td>
+</tr>
+</tbody>
+</table>
+<h2 id="resolution">Resolution</h2>
+<ul>
+<li>[[Phase 0 - Source Control and Redox]] — removes primary MERTK/AXL impairment signal</li>
+<li>[[Phase 1 - Gut Barrier]] — reduces LPS/OXLAM systemic burden</li>
+<li>EPA/DHA → resolvins D1/E1 → direct efferocytosis activation</li>
+<li>Vitamin K2 (MK-7 from natto) → Gas6/Protein S restoration</li>
+<li>Niacin → ABCA1 → macrophage cholesterol efflux capacity</li>
+</ul>
+<h2 id="connections">Connections</h2>
+<ul>
+<li>[[Oxidized Lipid Cascade]] — upstream mechanism</li>
+<li>[[Mast Cell Biology]] — parallel impairment pathway</li>
+<li>[[Estrobolome]] — the hormonal amplifier</li>
+<li>[[Rheumatoid Arthritis]] | [[Endometriosis]] | [[Multiple Sclerosis]] — tissue-specific consequences</li>
+<li>[[Collagen Synthesis Pathway]] — shared enzyme impairment (C1q/collagen connection)</li>
+</ul>
+0:{"rsc":["$","$1","c",{"children":[["$","div",null,{"className":"max-w-6xl mx-auto px-4 py-8","children":[["$","$L2",null,{"slug":"01-core-theory-efferocytosis-failure"}],["$","div",null,{"className":"grid grid-cols-1 lg:grid-cols-[1fr_280px] gap-8","children":[["$","article",null,{"children":[["$","header",null,{"className":"mb-8","children":[["$","div",null,{"className":"flex items-center gap-2 text-sm text-muted mb-3","children":[["$","span",null,{"className":"px-2 py-0.5 bg-pickle-light text-pickle-dark rounded text-xs font-medium","children":"Core Theory"}],["$","span",null,{"children":["Chapter ",2]}]]}],["$","h1",null,{"className":"text-3xl md:text-4xl font-bold text-foreground mb-3","children":"Efferocytosis Failure"}],["$","p",null,{"className":"text-lg text-muted leading-relaxed","children":"tags: [core-theory, immunology, autoimmune, efferocytosis]"}]]}],["$","div",null,{"className":"prose","dangerouslySetInnerHTML":{"__html":"$3"}}],"$L4"]}],"$L5"]}]]}],["$L6"],"$L7"]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"-f8JDEXe4WkXDL6nzUQi5"}
+4:["$","nav",null,{"className":"mt-12 pt-8 border-t border-border flex justify-between gap-4","children":[["$","div",null,{}],["$","div",null,{"className":"flex-1 p-4 bg-pickle-lighter rounded-lg text-center","children":["$","$L8",null,{"pose":"celebrating","size":"small","message":"You finished the book!","className":"inline-flex"}]}]]}]
+5:["$","aside",null,{"className":"hidden lg:block space-y-4 no-print","children":["$","div",null,{"className":"sticky top-20 space-y-4","children":[["$","div",null,{"className":"flex items-center gap-2","children":[["$","$L9",null,{"slug":"01-core-theory-efferocytosis-failure"}],["$","$La",null,{}]]}],["$","$Lb",null,{"headings":[{"id":"efferocytosis-failure","text":"Efferocytosis Failure","level":1},{"id":"what-efferocytosis-is","text":"What Efferocytosis Is","level":2},{"id":"how-oxidized-lipids-impair-it","text":"How Oxidized Lipids Impair It","level":2},{"id":"the-gas6-protein-s-vitamin-k2-connection","text":"The Gas6/Protein S — Vitamin K2 Connection","level":2},{"id":"condition-specific-manifestations","text":"Condition-Specific Manifestations","level":2},{"id":"resolution","text":"Resolution","level":2},{"id":"connections","text":"Connections","level":2}]}]]}]}]
+6:["$","script","script-0",{"src":"/_next/static/chunks/2gspel2gmkmqb.js","async":true}]
+7:["$","$Lc",null,{"children":["$","$d",null,{"name":"Next.MetadataOutlet","children":"$@e"}]}]
+e:null

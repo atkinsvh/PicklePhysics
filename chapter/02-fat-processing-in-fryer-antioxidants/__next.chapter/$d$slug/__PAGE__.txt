@@ -1,0 +1,126 @@
+1:"$Sreact.fragment"
+2:I[90114,["/_next/static/chunks/2cdxtyl33onme.js","/_next/static/chunks/30x6623ill3zz.js","/_next/static/chunks/2gspel2gmkmqb.js"],"default"]
+8:I[66489,["/_next/static/chunks/2cdxtyl33onme.js","/_next/static/chunks/30x6623ill3zz.js","/_next/static/chunks/2gspel2gmkmqb.js"],"default"]
+9:I[98352,["/_next/static/chunks/2cdxtyl33onme.js","/_next/static/chunks/30x6623ill3zz.js","/_next/static/chunks/2gspel2gmkmqb.js"],"default"]
+a:I[70411,["/_next/static/chunks/2cdxtyl33onme.js","/_next/static/chunks/30x6623ill3zz.js","/_next/static/chunks/2gspel2gmkmqb.js"],"default"]
+b:I[10432,["/_next/static/chunks/2cdxtyl33onme.js","/_next/static/chunks/30x6623ill3zz.js","/_next/static/chunks/2gspel2gmkmqb.js"],"default"]
+c:I[93070,["/_next/static/chunks/2cdxtyl33onme.js","/_next/static/chunks/30x6623ill3zz.js"],"OutletBoundary"]
+d:"$Sreact.suspense"
+3:T1705,<h1 id="in-fryer-antioxidants">In-Fryer Antioxidants</h1>
+<blockquote>
+<p><em>Real-time radical chain termination during the fry cycle. Addresses the problem at the source rather than treating the product.</em></p>
+</blockquote>
+<h2 id="the-mechanism">The Mechanism</h2>
+<p>Lipid peroxidation is a chain reaction:</p>
+<ol>
+<li><strong>Initiation:</strong> metal catalyst or energy removes H• from a PUFA double bond</li>
+<li><strong>Propagation:</strong> LOO• + LH → LOOH + L• (repeating, exponential)</li>
+<li><strong>Termination:</strong> antioxidant donates H• to LOO•, forming stable radical that doesn't propagate</li>
+</ol>
+<p>Polyphenol antioxidants work at the propagation step — they interrupt the chain by donating hydrogen atoms to lipid peroxy radicals (LOO•) faster than those radicals can abstract hydrogen from another lipid molecule.</p>
+<p>Metal chelation addresses initiation — by removing Fe²⁺ and Cu²⁺ from the fat phase, the Fenton reaction (Fe²⁺ + H₂O₂ → OH•) is prevented from initiating new chains.</p>
+<h2 id="the-herb-blend">The Herb Blend</h2>
+<h3 id="rosemary-rosmarinus-officinalis">Rosemary (Rosmarinus officinalis)</h3>
+<p><strong>Active compounds:</strong> Carnosic acid, carnosol
+<strong>logP:</strong> ~4–5 (highly lipophilic — strong fat phase partitioning)
+<strong>Thermal stability:</strong> Stable to ~200°C — survives frying temperatures
+<strong>Mechanism:</strong> Radical chain termination + tocopherol regeneration
+<strong>Regulatory status:</strong> EU-approved food antioxidant (E392)
+<strong>Note:</strong> Most effective single addition. If only one herb, this is it.</p>
+<h3 id="green-tea-camellia-sinensis">Green Tea (Camellia sinensis)</h3>
+<p><strong>Active compound:</strong> EGCG (epigallocatechin gallate)
+<strong>logP:</strong> ~1.5 (moderately lipophilic — meaningful fat partitioning)
+<strong>Mechanism:</strong> Iron chelation (removes initiation catalyst), radical termination, tocopherol regeneration
+<strong>Note:</strong> Caffeine (logP −0.07) does NOT partition into fat. Only polyphenols transfer.</p>
+<h3 id="olive-leaf-olea-europaea">Olive Leaf (Olea europaea)</h3>
+<p><strong>Active compound:</strong> Oleuropein → hydroxytyrosol (in situ thermal conversion)
+<strong>Conversion:</strong> Oleuropein thermally hydrolyzes at frying temperatures to hydroxytyrosol
+<strong>EFSA health claim:</strong> Specifically for olive polyphenols protecting LDL from oxidative damage
+<strong>Mechanism:</strong> EGCG-equivalent iron chelation + additional NF-κB inhibition from hydroxytyrosol
+<strong>Note:</strong> The thermal conversion is beneficial — hydroxytyrosol is more bioavailable than intact oleuropein</p>
+<h3 id="thyme-thymus-vulgaris">Thyme (Thymus vulgaris)</h3>
+<p><strong>Active compound:</strong> Thymol
+<strong>logP:</strong> ~3.3 (good fat partitioning)
+<strong>Mechanism:</strong> Radical chain termination, phenolic antioxidant</p>
+<h3 id="sage-salvia-officinalis">Sage (Salvia officinalis)</h3>
+<p><strong>Active compound:</strong> Carnosol (same as rosemary)
+<strong>Mechanism:</strong> Complementary to rosemary through same diterpene phenolic class
+<strong>Note:</strong> Synergistic with rosemary rather than redundant — additive protection</p>
+<h2 id="partition-coefficients-why-they-matter">Partition Coefficients — Why They Matter</h2>
+<p>The fat-phase antioxidant function requires compounds that PARTITION INTO FAT during frying. logP (octanol-water partition coefficient) predicts this:</p>
+<ul>
+<li>logP > 1.5: meaningful fat phase partitioning → effective in fryer</li>
+<li>logP &#x3C; 0: prefers water → does NOT transfer into fat</li>
+</ul>
+<table>
+<thead>
+<tr>
+<th>Compound</th>
+<th>logP</th>
+<th>Fat phase transfer</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Carnosic acid</td>
+<td>~4–5</td>
+<td>Excellent</td>
+</tr>
+<tr>
+<td>Thymol</td>
+<td>~3.3</td>
+<td>Good</td>
+</tr>
+<tr>
+<td>EGCG</td>
+<td>~1.5</td>
+<td>Moderate</td>
+</tr>
+<tr>
+<td>Oleuropein</td>
+<td>~1.5–2.0</td>
+<td>Moderate</td>
+</tr>
+<tr>
+<td>Hydroxytyrosol</td>
+<td>~0.6</td>
+<td>Limited but acceptable</td>
+</tr>
+<tr>
+<td><strong>Caffeine</strong></td>
+<td><strong>−0.07</strong></td>
+<td><strong>None — does not transfer</strong></td>
+</tr>
+</tbody>
+</table>
+<h2 id="practical-protocol">Practical Protocol</h2>
+<p>Add a small handful (3–5g each) at the START of each frying session:</p>
+<ul>
+<li>Dried rosemary</li>
+<li>Dried green tea leaves (cheap loose leaf, not expensive tea)</li>
+<li>Dried olive leaf (from herbal supplier)</li>
+<li>Dried thyme or sage</li>
+</ul>
+<p>Herbs fry along with food — no separate step required. Flavor contribution to food is mild and generally pleasant. These are cooking herbs used this way across multiple culinary traditions.</p>
+<h2 id="the-tea-leaves-paradox">The Tea Leaves Paradox</h2>
+<p>Dried tea leaves can be eaten after frying (they're food). After extended frying they have:</p>
+<ul>
+<li>Transferred their fat-soluble polyphenols into the fat (good — they've done their job)</li>
+<li>Accumulated some fat-phase oxidized compounds from the frying environment</li>
+<li>Become concentrated in the fraction that the starch-matrix adsorption research shows</li>
+</ul>
+<p>The French "potato cleaning cycle" exploits this — starchy foods adsorb oxidized compounds from fat during frying. Tea leaves do the same during frying while also donating antioxidants. Both effects are real and both are useful.</p>
+<h2 id="connections">Connections</h2>
+<ul>
+<li>[[11-Step Protocol]] — the post-session maintenance this protects against</li>
+<li>[[Polyphenols]] — the active chemistry</li>
+<li>[[Lipid Oxidation Chemistry]] — the mechanism being prevented</li>
+<li>[[Traditional Fat Maintenance]] — historical parallel (French practices)</li>
+<li>[[Quality Control]] — how to assess cumulative protection effectiveness</li>
+</ul>
+0:{"rsc":["$","$1","c",{"children":[["$","div",null,{"className":"max-w-6xl mx-auto px-4 py-8","children":[["$","$L2",null,{"slug":"02-fat-processing-in-fryer-antioxidants"}],["$","div",null,{"className":"grid grid-cols-1 lg:grid-cols-[1fr_280px] gap-8","children":[["$","article",null,{"children":[["$","header",null,{"className":"mb-8","children":[["$","div",null,{"className":"flex items-center gap-2 text-sm text-muted mb-3","children":[["$","span",null,{"className":"px-2 py-0.5 bg-pickle-light text-pickle-dark rounded text-xs font-medium","children":"Fat Processing"}],["$","span",null,{"children":["Chapter ",8]}]]}],["$","h1",null,{"className":"text-3xl md:text-4xl font-bold text-foreground mb-3","children":"In-Fryer Antioxidants"}],["$","p",null,{"className":"text-lg text-muted leading-relaxed","children":"tags: [protocol, fat-processing, antioxidants, fryer]"}]]}],["$","div",null,{"className":"prose","dangerouslySetInnerHTML":{"__html":"$3"}}],"$L4"]}],"$L5"]}]]}],["$L6"],"$L7"]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"-f8JDEXe4WkXDL6nzUQi5"}
+4:["$","nav",null,{"className":"mt-12 pt-8 border-t border-border flex justify-between gap-4","children":[["$","div",null,{}],["$","div",null,{"className":"flex-1 p-4 bg-pickle-lighter rounded-lg text-center","children":["$","$L8",null,{"pose":"celebrating","size":"small","message":"You finished the book!","className":"inline-flex"}]}]]}]
+5:["$","aside",null,{"className":"hidden lg:block space-y-4 no-print","children":["$","div",null,{"className":"sticky top-20 space-y-4","children":[["$","div",null,{"className":"flex items-center gap-2","children":[["$","$L9",null,{"slug":"02-fat-processing-in-fryer-antioxidants"}],["$","$La",null,{}]]}],["$","$Lb",null,{"headings":[{"id":"in-fryer-antioxidants","text":"In-Fryer Antioxidants","level":1},{"id":"the-mechanism","text":"The Mechanism","level":2},{"id":"the-herb-blend","text":"The Herb Blend","level":2},{"id":"rosemary-rosmarinus-officinalis","text":"Rosemary (Rosmarinus officinalis)","level":3},{"id":"green-tea-camellia-sinensis","text":"Green Tea (Camellia sinensis)","level":3},{"id":"olive-leaf-olea-europaea","text":"Olive Leaf (Olea europaea)","level":3},{"id":"thyme-thymus-vulgaris","text":"Thyme (Thymus vulgaris)","level":3},{"id":"sage-salvia-officinalis","text":"Sage (Salvia officinalis)","level":3},{"id":"partition-coefficients-why-they-matter","text":"Partition Coefficients — Why They Matter","level":2},{"id":"practical-protocol","text":"Practical Protocol","level":2},{"id":"the-tea-leaves-paradox","text":"The Tea Leaves Paradox","level":2},{"id":"connections","text":"Connections","level":2}]}]]}]}]
+6:["$","script","script-0",{"src":"/_next/static/chunks/2gspel2gmkmqb.js","async":true}]
+7:["$","$Lc",null,{"children":["$","$d",null,{"name":"Next.MetadataOutlet","children":"$@e"}]}]
+e:null

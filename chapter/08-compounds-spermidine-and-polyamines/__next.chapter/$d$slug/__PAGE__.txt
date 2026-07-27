@@ -1,0 +1,98 @@
+1:"$Sreact.fragment"
+2:I[90114,["/_next/static/chunks/2cdxtyl33onme.js","/_next/static/chunks/30x6623ill3zz.js","/_next/static/chunks/2gspel2gmkmqb.js"],"default"]
+8:I[66489,["/_next/static/chunks/2cdxtyl33onme.js","/_next/static/chunks/30x6623ill3zz.js","/_next/static/chunks/2gspel2gmkmqb.js"],"default"]
+9:I[98352,["/_next/static/chunks/2cdxtyl33onme.js","/_next/static/chunks/30x6623ill3zz.js","/_next/static/chunks/2gspel2gmkmqb.js"],"default"]
+a:I[70411,["/_next/static/chunks/2cdxtyl33onme.js","/_next/static/chunks/30x6623ill3zz.js","/_next/static/chunks/2gspel2gmkmqb.js"],"default"]
+b:I[10432,["/_next/static/chunks/2cdxtyl33onme.js","/_next/static/chunks/30x6623ill3zz.js","/_next/static/chunks/2gspel2gmkmqb.js"],"default"]
+c:I[93070,["/_next/static/chunks/2cdxtyl33onme.js","/_next/static/chunks/30x6623ill3zz.js"],"OutletBoundary"]
+d:"$Sreact.suspense"
+3:T10d0,<h1 id="spermidine-and-polyamines">Spermidine and Polyamines</h1>
+<blockquote>
+<p><em>The mTOR-independent autophagy inducer. Produced by gut bacteria. Present in highest concentrations in natto and wheat germ. The mechanism — eIF5A hypusination — operates even when insulin resistance has disrupted mTOR.</em></p>
+</blockquote>
+<h2 id="what-polyamines-are">What Polyamines Are</h2>
+<p>Polyamines (putrescine, spermidine, spermine) are small positively charged molecules produced by all living cells from ornithine and methionine. They stabilize nucleic acids, regulate gene expression, and modulate cell growth.</p>
+<h2 id="spermidine-s-autophagy-mechanism">Spermidine's Autophagy Mechanism</h2>
+<p><strong>The eIF5A hypusination pathway:</strong></p>
+<pre><code>Spermidine → deoxyhypusine synthase → hypusination of eIF5A Lys⁵⁰
+        ↓
+Active hypusinated eIF5A
+        ↓
+Selective translation of autophagy gene mRNAs (ATG3, ATG7, ATG12)
+        ↓
+Autophagy induction
+</code></pre>
+<p>This is entirely independent of:</p>
+<ul>
+<li>mTOR (which is often dysregulated in metabolic disease and insulin resistance)</li>
+<li>AMPK (berberine/metformin pathway)</li>
+<li>Energy status</li>
+</ul>
+<p><strong>Clinical implication:</strong> In cells where insulin resistance has disrupted normal mTOR regulation, spermidine-induced autophagy continues to function. This makes it complementary to fasting-induced autophagy (mTOR-dependent) rather than redundant with it.</p>
+<h2 id="the-olfactory-signal-problem">The Olfactory Signal Problem</h2>
+<p>Putrescine and cadaverine — the two simpler polyamines produced by amino acid decarboxylation during protein decomposition — produce the characteristic smell of rotting flesh and are evolved avoidance signals.</p>
+<p><strong>This is the same chemistry producing the dysbiosis smell.</strong> Gram-negative bacteria in a dysbiotic gut produce putrescine (from lysine) and cadaverine (from ornithine) through the same decarboxylase enzymes active in decomposing protein. The olfactory avoidance system evolved for external detection is warning about a process happening internally in dysbiotic gut ecology.</p>
+<p>Spermidine (the beneficial polyamine) at physiological concentrations does not have the same olfactory properties — it's less volatile and at lower concentrations than the putrescine/cadaverine that produces avoidance response.</p>
+<h2 id="food-sources">Food Sources</h2>
+<table>
+<thead>
+<tr>
+<th>Source</th>
+<th>Spermidine content</th>
+<th>Notes</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><strong>Natto</strong></td>
+<td>~25–30mg/100g</td>
+<td>Highest combined with fermentation enhancement</td>
+</tr>
+<tr>
+<td><strong>Wheat germ</strong></td>
+<td>~24.3mg/100g (~243mg/kg)</td>
+<td>Added to formulation specifically</td>
+</tr>
+<tr>
+<td>Mushrooms</td>
+<td>~8–20mg/100g</td>
+<td>Variable by species</td>
+</tr>
+<tr>
+<td>Aged cheese</td>
+<td>~8–13mg/100g</td>
+<td>Histamine concern for MCAS</td>
+</tr>
+<tr>
+<td>Whole soybeans</td>
+<td>~10–15mg/100g</td>
+<td></td>
+</tr>
+<tr>
+<td>Peas</td>
+<td>~6–8mg/100g</td>
+<td></td>
+</tr>
+</tbody>
+</table>
+<p>Natto is the overall highest-value single food for spermidine delivery. Also provides MK-7 (vitamin K2) for efferocytosis Gas6/Protein S activation. Recommend: 2 tablespoons daily as a protocol foundation.</p>
+<h2 id="dosing-for-therapeutic-autophagy">Dosing for Therapeutic Autophagy</h2>
+<p>Studied effective doses for autophagy induction in humans: <strong>1–3mg spermidine daily</strong></p>
+<p>From natto (2 tbsp = ~30g): ~7.5–9mg spermidine — above therapeutic range
+From wheat germ in formulation (1g per serving): ~0.24mg — additive
+From fermentation (spermidine produced by Lactobacillus): variable but meaningful</p>
+<p>The combination of natto + wheat germ in formulation + fermentation-derived spermidine reliably exceeds the 1mg threshold.</p>
+<h2 id="connections">Connections</h2>
+<ul>
+<li>[[Phase 3 - Epigenetic Reprogramming]] — primary use</li>
+<li>[[Phase 5 - Adipose Remodeling]] — adipose lipophagy</li>
+<li>[[Gut Microbiome Ecology]] — putrescine/cadaverine as dysbiosis markers</li>
+<li>[[Evolutionary Sensory Framework]] — olfactory detection of decomposition polyamines</li>
+<li>[[Botanical Pack]] — wheat germ in formulation</li>
+</ul>
+0:{"rsc":["$","$1","c",{"children":[["$","div",null,{"className":"max-w-6xl mx-auto px-4 py-8","children":[["$","$L2",null,{"slug":"08-compounds-spermidine-and-polyamines"}],["$","div",null,{"className":"grid grid-cols-1 lg:grid-cols-[1fr_280px] gap-8","children":[["$","article",null,{"children":[["$","header",null,{"className":"mb-8","children":[["$","div",null,{"className":"flex items-center gap-2 text-sm text-muted mb-3","children":[["$","span",null,{"className":"px-2 py-0.5 bg-pickle-light text-pickle-dark rounded text-xs font-medium","children":"Compounds"}],["$","span",null,{"children":["Chapter ",47]}]]}],["$","h1",null,{"className":"text-3xl md:text-4xl font-bold text-foreground mb-3","children":"Spermidine and Polyamines"}],["$","p",null,{"className":"text-lg text-muted leading-relaxed","children":"tags: [compound, spermidine, autophagy, polyamine]"}]]}],["$","div",null,{"className":"prose","dangerouslySetInnerHTML":{"__html":"$3"}}],"$L4"]}],"$L5"]}]]}],["$L6"],"$L7"]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"-f8JDEXe4WkXDL6nzUQi5"}
+4:["$","nav",null,{"className":"mt-12 pt-8 border-t border-border flex justify-between gap-4","children":[["$","div",null,{}],["$","div",null,{"className":"flex-1 p-4 bg-pickle-lighter rounded-lg text-center","children":["$","$L8",null,{"pose":"celebrating","size":"small","message":"You finished the book!","className":"inline-flex"}]}]]}]
+5:["$","aside",null,{"className":"hidden lg:block space-y-4 no-print","children":["$","div",null,{"className":"sticky top-20 space-y-4","children":[["$","div",null,{"className":"flex items-center gap-2","children":[["$","$L9",null,{"slug":"08-compounds-spermidine-and-polyamines"}],["$","$La",null,{}]]}],["$","$Lb",null,{"headings":[{"id":"spermidine-and-polyamines","text":"Spermidine and Polyamines","level":1},{"id":"what-polyamines-are","text":"What Polyamines Are","level":2},{"id":"spermidine-s-autophagy-mechanism","text":"Spermidine's Autophagy Mechanism","level":2},{"id":"the-olfactory-signal-problem","text":"The Olfactory Signal Problem","level":2},{"id":"food-sources","text":"Food Sources","level":2},{"id":"dosing-for-therapeutic-autophagy","text":"Dosing for Therapeutic Autophagy","level":2},{"id":"connections","text":"Connections","level":2}]}]]}]}]
+6:["$","script","script-0",{"src":"/_next/static/chunks/2gspel2gmkmqb.js","async":true}]
+7:["$","$Lc",null,{"children":["$","$d",null,{"name":"Next.MetadataOutlet","children":"$@e"}]}]
+e:null

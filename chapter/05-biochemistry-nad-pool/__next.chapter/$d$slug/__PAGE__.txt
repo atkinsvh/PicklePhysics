@@ -1,0 +1,63 @@
+1:"$Sreact.fragment"
+2:I[90114,["/_next/static/chunks/2cdxtyl33onme.js","/_next/static/chunks/30x6623ill3zz.js","/_next/static/chunks/2gspel2gmkmqb.js"],"default"]
+8:I[66489,["/_next/static/chunks/2cdxtyl33onme.js","/_next/static/chunks/30x6623ill3zz.js","/_next/static/chunks/2gspel2gmkmqb.js"],"default"]
+9:I[98352,["/_next/static/chunks/2cdxtyl33onme.js","/_next/static/chunks/30x6623ill3zz.js","/_next/static/chunks/2gspel2gmkmqb.js"],"default"]
+a:I[70411,["/_next/static/chunks/2cdxtyl33onme.js","/_next/static/chunks/30x6623ill3zz.js","/_next/static/chunks/2gspel2gmkmqb.js"],"default"]
+b:I[10432,["/_next/static/chunks/2cdxtyl33onme.js","/_next/static/chunks/30x6623ill3zz.js","/_next/static/chunks/2gspel2gmkmqb.js"],"default"]
+c:I[93070,["/_next/static/chunks/2cdxtyl33onme.js","/_next/static/chunks/30x6623ill3zz.js"],"OutletBoundary"]
+d:"$Sreact.suspense"
+3:T13a5,<h1 id="nad-pool">NAD⁺ Pool</h1>
+<blockquote>
+<p><em>The consumed cosubstrate for sirtuin histone deacetylases. Chronically depleted in this clinical context through three simultaneous drains.</em></p>
+</blockquote>
+<h2 id="why-nad-is-critical">Why NAD⁺ Is Critical</h2>
+<p>Sirtuin family HDACs (SIRT1, SIRT3, SIRT6, SIRT7) remove acetyl groups from histones — specifically from pro-inflammatory gene promoters where NF-κB has placed acetylation marks. This is the deacetylation side of the chromatin remodeling work that butyrate's HDAC inhibition and pterostilbene's SIRT1 activation complement from opposite directions.</p>
+<p>NAD⁺ is not a cofactor — it is a <strong>consumed cosubstrate</strong>:</p>
+<pre><code>NAD⁺ + Acetyl-Histone → [SIRT] → Deacetylated-Histone + Nicotinamide (NAM) + O-acetyl-ADP-ribose
+</code></pre>
+<p>One molecule of NAD⁺ consumed per deacetylation event. When NAD⁺ is depleted, sirtuin activity collapses regardless of enzyme expression level.</p>
+<h2 id="the-three-simultaneous-drains">The Three Simultaneous Drains</h2>
+<h3 id="1-parp-hyperactivation-primary-drain">1. PARP Hyperactivation (Primary Drain)</h3>
+<p>PARP1 and PARP2 are DNA repair enzymes that consume NAD⁺ massively when oxidative DNA damage is present:</p>
+<ul>
+<li>Single strand break → PARP activation → PAR chain synthesis from NAD⁺</li>
+<li>One strand break can consume 80% of cellular NAD⁺ within minutes</li>
+<li>Chronic low-level oxidative DNA damage from 4-HNE = chronic low-level PARP activation = chronic NAD⁺ drain</li>
+<li>This drain cannot be outpaced by simple NAD⁺ precursor supplementation unless the oxidative DNA damage is also addressed</li>
+</ul>
+<p><strong>Therefore:</strong> [[Phase 0 - Source Control and Redox]] reducing oxidative damage is as important for NAD⁺ restoration as NMN/NR supplementation. Sulforaphane → Nrf2 → antioxidant upregulation → reduced oxidative DNA damage → reduced PARP activation → NAD⁺ spared.</p>
+<h3 id="2-cd38-upregulation-inflammatory-drain">2. CD38 Upregulation (Inflammatory Drain)</h3>
+<p>CD38 is an ectoenzyme that degrades NAD⁺ to cyclic ADP-ribose and nicotinamide. Inflammation directly upregulates CD38 expression. More systemic inflammation → more CD38 activity → faster NAD⁺ degradation.</p>
+<p>This creates a vicious cycle: NAD⁺ depletion → reduced sirtuin-mediated inflammatory gene deacetylation → more inflammation → more CD38 → more NAD⁺ depletion.</p>
+<h3 id="3-sirtuin-consumption-functional-drain">3. Sirtuin Consumption (Functional Drain)</h3>
+<p>The sirtuins themselves consume NAD⁺ during their beneficial activity. The paradox: the more effectively sirtuins deacetylate pro-inflammatory marks, the more NAD⁺ they consume. Supplementing NAD⁺ precursors is therefore essential even as sirtuins are activated.</p>
+<h2 id="synthesis-pathways">Synthesis Pathways</h2>
+<h3 id="preiss-handler-pathway">Preiss-Handler Pathway</h3>
+<p>Nicotinic acid (niacin, vitamin B3) → NaMN → NaAD → NAD⁺
+Most direct dietary route. Niacin specifically also induces ABCA1 (efferocytosis connection → [[Efferocytosis Failure]]) and has broad lipid-modifying effects.</p>
+<h3 id="salvage-pathway">Salvage Pathway</h3>
+<p>Nicotinamide (NAM, released by sirtuins) → NMN → NAD⁺ [requires NAMPT enzyme]
+This pathway regenerates NAD⁺ from the nicotinamide released during sirtuin activity. NAMPT is the rate-limiting enzyme. NMN supplementation feeds directly into this pathway.</p>
+<h3 id="de-novo-synthesis">De Novo Synthesis</h3>
+<p>Tryptophan → kynurenine → quinolinic acid → NAD⁺
+Requires B6, B2, iron, copper. Diverted under chronic inflammation — IDO1 activation shunts tryptophan toward kynurenine for immunosuppression rather than NAD⁺ production. Another reason inflammation reduces NAD⁺ availability.</p>
+<h3 id="nmn-and-nr-supplementation">NMN and NR Supplementation</h3>
+<ul>
+<li><strong>NR (Nicotinamide Riboside):</strong> Converts to NMN → NAD⁺. Well-absorbed orally.</li>
+<li><strong>NMN (Nicotinamide Mononucleotide):</strong> More direct precursor. Debated whether it enters cells as NMN or must be converted to NR first — recent data suggests direct NMN transport via Slc12a8 transporter in some tissues.</li>
+<li><strong>Dosing:</strong> 300–500mg daily. Higher doses (1g+) used in some longevity protocols.</li>
+</ul>
+<p><strong>Interaction with berberine:</strong> Berberine activates AMPK which can interfere with mTOR. Don't take simultaneously with NMN/NR — AMPK and mTOR pathways interact in ways that can partially cancel autophagy induction. Separate timing by several hours.</p>
+<h2 id="connections">Connections</h2>
+<ul>
+<li>[[One Carbon Metabolism]] — parallel epigenetic substrate system</li>
+<li>[[Phase 3 - Epigenetic Reprogramming]] — where NAD⁺ is used</li>
+<li>[[Phase 0 - Source Control and Redox]] — reducing PARP drain</li>
+<li>[[Epigenetic Transmission]] — what NAD⁺-dependent sirtuins are repairing</li>
+</ul>
+0:{"rsc":["$","$1","c",{"children":[["$","div",null,{"className":"max-w-6xl mx-auto px-4 py-8","children":[["$","$L2",null,{"slug":"05-biochemistry-nad-pool"}],["$","div",null,{"className":"grid grid-cols-1 lg:grid-cols-[1fr_280px] gap-8","children":[["$","article",null,{"children":[["$","header",null,{"className":"mb-8","children":[["$","div",null,{"className":"flex items-center gap-2 text-sm text-muted mb-3","children":[["$","span",null,{"className":"px-2 py-0.5 bg-pickle-light text-pickle-dark rounded text-xs font-medium","children":"Biochemistry"}],["$","span",null,{"children":["Chapter ",28]}]]}],["$","h1",null,{"className":"text-3xl md:text-4xl font-bold text-foreground mb-3","children":"NAD⁺ Pool"}],["$","p",null,{"className":"text-lg text-muted leading-relaxed","children":"tags: [biochemistry, epigenetics, NAD, sirtuins, PARP]"}]]}],["$","div",null,{"className":"prose","dangerouslySetInnerHTML":{"__html":"$3"}}],"$L4"]}],"$L5"]}]]}],["$L6"],"$L7"]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"-f8JDEXe4WkXDL6nzUQi5"}
+4:["$","nav",null,{"className":"mt-12 pt-8 border-t border-border flex justify-between gap-4","children":[["$","div",null,{}],["$","div",null,{"className":"flex-1 p-4 bg-pickle-lighter rounded-lg text-center","children":["$","$L8",null,{"pose":"celebrating","size":"small","message":"You finished the book!","className":"inline-flex"}]}]]}]
+5:["$","aside",null,{"className":"hidden lg:block space-y-4 no-print","children":["$","div",null,{"className":"sticky top-20 space-y-4","children":[["$","div",null,{"className":"flex items-center gap-2","children":[["$","$L9",null,{"slug":"05-biochemistry-nad-pool"}],["$","$La",null,{}]]}],["$","$Lb",null,{"headings":[{"id":"nad-pool","text":"NAD⁺ Pool","level":1},{"id":"why-nad-is-critical","text":"Why NAD⁺ Is Critical","level":2},{"id":"the-three-simultaneous-drains","text":"The Three Simultaneous Drains","level":2},{"id":"1-parp-hyperactivation-primary-drain","text":"1. PARP Hyperactivation (Primary Drain)","level":3},{"id":"2-cd38-upregulation-inflammatory-drain","text":"2. CD38 Upregulation (Inflammatory Drain)","level":3},{"id":"3-sirtuin-consumption-functional-drain","text":"3. Sirtuin Consumption (Functional Drain)","level":3},{"id":"synthesis-pathways","text":"Synthesis Pathways","level":2},{"id":"preiss-handler-pathway","text":"Preiss-Handler Pathway","level":3},{"id":"salvage-pathway","text":"Salvage Pathway","level":3},{"id":"de-novo-synthesis","text":"De Novo Synthesis","level":3},{"id":"nmn-and-nr-supplementation","text":"NMN and NR Supplementation","level":3},{"id":"connections","text":"Connections","level":2}]}]]}]}]
+6:["$","script","script-0",{"src":"/_next/static/chunks/2gspel2gmkmqb.js","async":true}]
+7:["$","$Lc",null,{"children":["$","$d",null,{"name":"Next.MetadataOutlet","children":"$@e"}]}]
+e:null

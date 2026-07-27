@@ -1,0 +1,254 @@
+1:"$Sreact.fragment"
+2:I[90114,["/_next/static/chunks/2cdxtyl33onme.js","/_next/static/chunks/30x6623ill3zz.js","/_next/static/chunks/2gspel2gmkmqb.js"],"default"]
+8:I[66489,["/_next/static/chunks/2cdxtyl33onme.js","/_next/static/chunks/30x6623ill3zz.js","/_next/static/chunks/2gspel2gmkmqb.js"],"default"]
+9:I[98352,["/_next/static/chunks/2cdxtyl33onme.js","/_next/static/chunks/30x6623ill3zz.js","/_next/static/chunks/2gspel2gmkmqb.js"],"default"]
+a:I[70411,["/_next/static/chunks/2cdxtyl33onme.js","/_next/static/chunks/30x6623ill3zz.js","/_next/static/chunks/2gspel2gmkmqb.js"],"default"]
+b:I[10432,["/_next/static/chunks/2cdxtyl33onme.js","/_next/static/chunks/30x6623ill3zz.js","/_next/static/chunks/2gspel2gmkmqb.js"],"default"]
+c:I[93070,["/_next/static/chunks/2cdxtyl33onme.js","/_next/static/chunks/30x6623ill3zz.js"],"OutletBoundary"]
+d:"$Sreact.suspense"
+3:T3978,<h1 id="spice-extraction-methods-consumer-scale">Spice Extraction Methods — Consumer Scale</h1>
+<blockquote>
+<p><em>Which menstruum (extraction solvent) to use, at what ratio, for which compounds, and how to dose the result. The household version of what the [[In-Fryer Antioxidants]] protocol does at the cooking stage.</em></p>
+</blockquote>
+<h2 id="why-extract-at-all">Why Extract At All</h2>
+<p>The [[Botanical Pack]] and the [[In-Fryer Antioxidants]] protocol use whole spices in cooking or in the fermentation brine. The in-cook approach is right for sustained low-dose delivery and for fat-phase partitioning during frying. But three situations call for a concentrated extracted form:</p>
+<ol>
+<li><strong>Therapeutic dosing</strong> — the spice amounts in cooking or fermentation don't reach the doses documented in clinical literature (curcumin 500–1000mg/day, EGCG 400–800mg/day, cinnamaldehyde 100–200mg/day, etc.). A concentrated extract delivers these doses in 1–2 ml volumes rather than tablespoons of spice.</li>
+<li><strong>Biofilm disruption work</strong> — the [[Upper GI Biofilm Disruption]] protocol requires direct dosing of QS inhibitors and antimicrobials. A tincture is the practical vehicle.</li>
+<li><strong>Palatability</strong> — concentrated extracts are more tolerable than the equivalent raw material dose.</li>
+</ol>
+<h2 id="the-menstruum-decision">The Menstruum Decision</h2>
+<p>For the compounds in the [[In-Fryer Antioxidants]] and [[Botanical Pack]] stack, the relevant logP values determine the best menstruum:</p>
+<table>
+<thead>
+<tr>
+<th>Compound</th>
+<th>logP</th>
+<th>Best menstruum</th>
+<th>Ethanol capture</th>
+<th>Oil capture</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Carnosic acid (rosemary)</td>
+<td>4–5</td>
+<td>Ethanol 70%+ or oil</td>
+<td>Excellent</td>
+<td>Excellent</td>
+</tr>
+<tr>
+<td>Thymol (thyme/oregano)</td>
+<td>3.3</td>
+<td>Ethanol 70%+ or oil</td>
+<td>Excellent</td>
+<td>Excellent</td>
+</tr>
+<tr>
+<td>Curcumin (turmeric)</td>
+<td>3.3</td>
+<td>Ethanol 95% or oil + piperine</td>
+<td>Good</td>
+<td>Good (with piperine)</td>
+</tr>
+<tr>
+<td>Eugenol (clove)</td>
+<td>2.3</td>
+<td>Ethanol 70%+</td>
+<td>Excellent</td>
+<td>Moderate</td>
+</tr>
+<tr>
+<td>Gingerols/shogaols</td>
+<td>2–3</td>
+<td>Ethanol 70%+</td>
+<td>Good</td>
+<td>Good</td>
+</tr>
+<tr>
+<td>Cinnamaldehyde (cinnamon)</td>
+<td>1.9</td>
+<td>Ethanol 70%+ (volatile)</td>
+<td>Good</td>
+<td>Moderate</td>
+</tr>
+<tr>
+<td>Allicin (garlic)</td>
+<td>water-soluble</td>
+<td>Not extracted — formed in situ</td>
+<td>None</td>
+<td>None</td>
+</tr>
+<tr>
+<td>Oleuropein → hydroxytyrosol</td>
+<td>0.6–2.0</td>
+<td>Ethanol 50–70% or aqueous</td>
+<td>Moderate</td>
+<td>Limited</td>
+</tr>
+<tr>
+<td>EGCG (green tea)</td>
+<td>1.5</td>
+<td>Ethanol 50–70% or aqueous</td>
+<td>Moderate</td>
+<td>Limited</td>
+</tr>
+<tr>
+<td>Berberine</td>
+<td>0.7–1.2</td>
+<td>Ethanol 50–70%</td>
+<td>Good</td>
+<td>Limited</td>
+</tr>
+</tbody>
+</table>
+<p><strong>The decision matrix:</strong></p>
+<ul>
+<li><strong>Ethanol 190-proof (Everclear)</strong>: best general-purpose menstruum for the polyphenol/terpenoid stack. Captures carnosic acid, thymol, curcumin, eugenol, gingerols, cinnamaldehyde, and berberine at high yield. The 95% concentration is necessary to dissolve the lipophilic compounds; dilute to 70% for water-soluble alkaloid capture if needed.</li>
+<li><strong>190-proof vodka (40% ethanol)</strong>: inferior to 190-proof for the lipophilic stack but safer for skin application and better tolerated by some palates.</li>
+<li><strong>Apple cider vinegar (raw, with mother)</strong>: the [[Wild Vinegars]] menstruum. Best for herbal vinegars for daily use. Captures the more polar compounds (EGCG, oleuropein, hydroxytyrosol) and contributes acetic acid + live culture.</li>
+<li><strong>Extra-virgin olive oil</strong>: the high-logP companion to ethanol. Carnosic acid, thymol, curcumin all partition into the oil phase. Adds the food matrix that supports absorption of fat-soluble compounds.</li>
+<li><strong>Acetone</strong>: best industrial solvent for spice oleoresin (paprika, turmeric, vanilla) but the consumer-level problems are real. See below.</li>
+</ul>
+<h2 id="the-acetone-question">The Acetone Question</h2>
+<p>The vault's [[11-Step Protocol]] uses acetone for <em>fat fractionation</em> — removing PUFA from tallow through selective crystallization. That is a different use case from spice extraction. For spice extraction specifically:</p>
+<p><strong>Acetone is technically excellent</strong> for the high-logP compounds (carnosic acid, thymol, AKBA, curcumin). Industrial spice oleoresin production uses acetone routinely.</p>
+<p><strong>Acetone at consumer level is dangerous</strong> because:</p>
+<ul>
+<li>Vapor is heavier than air, travels along surfaces to ignition sources</li>
+<li>Stove pilot lights, water heater igniters, static discharge 6+ feet away have ignited acetone vapor</li>
+<li>Skin/lung irritant</li>
+<li>Acetone is GRAS for finished food products but the safety protocols for the extraction process are industrial</li>
+</ul>
+<p><strong>The vault's own open thread</strong>: "Stainless brake line condenser build status unknown" — meaning the recovery still that would make consumer acetone use even <em>remotely</em> safe is not yet built. Until that rig is operational, household acetone extraction is a fire/explosion risk.</p>
+<p><strong>Recommendation: use 190-proof ethanol for the lipophilic compounds. Use olive oil infusion for the highest-logP compounds that ethanol under-extracts. Skip acetone at consumer level.</strong></p>
+<p>The only exception: if you have built the brake-line condenser recovery still from the [[Acetone Recovery Apparatus]] spec (a future vault note), have electric heat only (no open flames), grounded vessels for static, and adequate ventilation, then acetone becomes a legitimate high-purity option for the high-logP compounds.</p>
+<h2 id="the-household-methods">The Household Methods</h2>
+<h3 id="method-1-ethanol-tincture-primary">Method 1 — Ethanol Tincture (Primary)</h3>
+<p><strong>Materials:</strong></p>
+<ul>
+<li>190-proof Everclear (or 151-proof vodka for milder result)</li>
+<li>Dried spices: rosemary, thyme, oregano, sage, cinnamon bark, turmeric, ginger, black peppercorn, clove</li>
+<li>Glass jar with airtight lid (mason jar works)</li>
+<li>Coffee filter + cheesecloth for straining</li>
+<li>Dark glass dropper bottles for storage</li>
+</ul>
+<p><strong>Process:</strong></p>
+<ol>
+<li>Coarse-grind the dried spices (mortar and pestle or dedicated coffee grinder). The grind increases surface area for extraction.</li>
+<li>Combine spices in any proportion matching your therapeutic priority. A balanced "broad spectrum" blend: 3 parts rosemary, 2 parts thyme, 1 part each oregano, sage, cinnamon bark, turmeric, ginger, clove; ½ part black peppercorn.</li>
+<li>Pack loosely in glass jar.</li>
+<li>Cover with 190-proof Everclear at 1:4 spice:solvent by weight (e.g., 100g spice in 400g ethanol). The 1:4 ratio gives a ~250mg/ml tincture assuming average extraction yield.</li>
+<li>Seal, label with date and contents.</li>
+<li>Shake daily. Store in dark at room temperature.</li>
+<li>Steep 14 days minimum. 28 days is better for the alkaloid and high-logP compound capture.</li>
+<li>Strain through coffee filter, then through cheesecloth. Squeeze to recover all liquid.</li>
+<li>Transfer to dark glass dropper bottles. Label with date, contents, and ethanol percentage.</li>
+</ol>
+<p><strong>Yield:</strong> Approximately 80% of the liquid returns. Loss to absorption by the plant material.</p>
+<p><strong>Storage:</strong> 2+ years in dark glass at room temperature. Ethanol is self-preserving at 70%+ concentration.</p>
+<p><strong>Dose:</strong> 1–2 ml (about 30–60 drops) with each fat-containing meal. 3 ml is an aggressive dose. Start at 1 ml and titrate up.</p>
+<p><strong>The bitterness quality check:</strong> The tincture should taste distinctly bitter, complex, and warming. The bitterness IS the analytical confirmation — carnosic acid, thymol, curcumin, gingerols, andrographolide (if present), berberine (if present) are all bitter compounds. A tasteless tincture didn't extract.</p>
+<h3 id="method-2-oil-infusion-high-logp-companion">Method 2 — Oil Infusion (High-logP Companion)</h3>
+<p><strong>Materials:</strong></p>
+<ul>
+<li>Extra-virgin olive oil (or MCT oil for higher saturation)</li>
+<li>Same dried spice blend</li>
+<li>Slow cooker or saucepan with thermometer</li>
+<li>Cheesecloth for straining</li>
+<li>Dark glass storage bottles</li>
+</ul>
+<p><strong>Process:</strong></p>
+<ol>
+<li>Combine spices at 1:4 spice:oil by weight in slow cooker or saucepan.</li>
+<li>Low heat — 60°C (140°F), 3 hours. <em>Do not exceed 70°C; you'll degrade the more volatile compounds (cinnamaldehyde, gingerols) and risk oxidizing the oil.</em></li>
+<li>Alternative: 14 days at room temperature, shaking daily, with the spices in a cheesecloth pouch for easy removal.</li>
+<li>Strain through cheesecloth. Squeeze.</li>
+<li>Store in dark glass, refrigerated. Use within 6 months (oil stability limit).</li>
+</ol>
+<p><strong>Yield:</strong> Approximately 85% of the oil returns.</p>
+<p><strong>Dose:</strong> 1–2 tsp with each meal. Combine with the tincture for full spectrum — the tincture contributes the more polar compounds, the oil contributes the highest-logP compounds.</p>
+<h3 id="method-3-oxymel-honey-vinegar">Method 3 — Oxymel (Honey + Vinegar)</h3>
+<p>See [[Wild Vinegars]] for the full method. The honey contributes the [[Honey Microbiota]] climax community + sugar preservation; the vinegar contributes acetic acid + extraction chemistry for the more polar compounds.</p>
+<p><strong>Dose:</strong> 1 tsp to 1 tbsp in water before meals, or as salad dressing base.</p>
+<h3 id="method-4-fresh-allicin-preparation-special-case">Method 4 — Fresh Allicin Preparation (Special Case)</h3>
+<p>Allicin cannot be extracted — it forms <em>in situ</em> from alliin via alliinase when fresh garlic is crushed. The protocol is:</p>
+<ol>
+<li>Crush or finely mince fresh garlic cloves.</li>
+<li><strong>Rest 10 minutes</strong> at room temperature. The alliinase enzyme converts alliin → allicin in this window.</li>
+<li>Consume with food. The allicin survives stomach acid reasonably well and reaches the upper GI where the QS-inhibitor activity is needed.</li>
+<li><em>Do not cook the crushed garlic</em> — heat destroys allicin. Add to food after cooking, or eat crushed garlic in fermented preparations.</li>
+</ol>
+<p><strong>Dose:</strong> 1–2 cloves per meal is therapeutic. Higher doses (4–6 cloves daily) are used in biofilm disruption protocols. Can cause GI upset in higher amounts.</p>
+<h2 id="the-daily-therapeutic-stack">The Daily Therapeutic Stack</h2>
+<p>For a 70kg adult, the combined daily dose from the methods above:</p>
+<table>
+<thead>
+<tr>
+<th>Source</th>
+<th>Dose</th>
+<th>Compounds delivered</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Tincture (Method 1)</td>
+<td>2 ml twice daily with meals</td>
+<td>~500mg mixed polyphenols/terpenoids/day</td>
+</tr>
+<tr>
+<td>Oil infusion (Method 2)</td>
+<td>1 tsp twice daily with meals</td>
+<td>~1g mixed fat-soluble compounds/day</td>
+</tr>
+<tr>
+<td>Oxymel (Method 3)</td>
+<td>1 tbsp daily before meal</td>
+<td>Acetic acid + honey polyphenols + climax community</td>
+</tr>
+<tr>
+<td>Fresh allicin (Method 4)</td>
+<td>2 cloves twice daily with meals</td>
+<td>~16mg allicin/day + thiosulfinates</td>
+</tr>
+</tbody>
+</table>
+<p>This is approximately the combined dose used in clinical studies on carnosic acid, thymol, curcumin, cinnamaldehyde, and allicin for the relevant indications (mast cell stabilization, QS inhibition, anti-inflammatory, gut barrier).</p>
+<h2 id="the-quality-indicators">The Quality Indicators</h2>
+<p>The taste and trigeminal profile of a correctly extracted preparation:</p>
+<ul>
+<li><strong>Bitter</strong> — quercetin, carnosic acid, thymol, curcumin, berberine, andrographolide. Loss of bitterness = extraction failure.</li>
+<li><strong>Warming</strong> — gingerols/shogaols, piperine, cinnamaldehyde, thymoquinone. TRPV1 activation.</li>
+<li><strong>Tingle/numb</strong> — cinnamaldehyde, eugenol. TRPA1 activation.</li>
+<li><strong>Pungent bite</strong> — allicin (garlic), allyl isothiocyanate (mustard/horseradish/wasabi). TRPA1 + glutathione depletion.</li>
+<li><strong>Salty-bitter complex</strong> — the polyphenol + mineral matrix from the spices.</li>
+</ul>
+<p>A preparation that tastes "weak," "flat," or "just sour" is failing. The bitterness and trigeminal activation are the analytical confirmation that the active chemistry is present.</p>
+<h2 id="safety-notes">Safety Notes</h2>
+<ul>
+<li><strong>Ethanol interaction with medications</strong>: many medications interact with ethanol (metronidazole, certain antibiotics, sedatives). The dose in a tincture (2 ml) is ~1.5g ethanol — small but real. For anyone on contraindicated medications, the oil infusion (Method 2) and oxymel (Method 3) are alcohol-free alternatives.</li>
+<li><strong>Curcumin and gallstones</strong>: high-dose curcumin can mobilize bile and precipitate biliary colic in anyone with existing gallstones.</li>
+<li><strong>Cinnamon and coumarin</strong>: Cassia cinnamon contains coumarin (hepatotoxic at high chronic doses). Ceylon cinnamon ("true cinnamon") has negligible coumarin. <em>For daily therapeutic use, use Ceylon.</em></li>
+<li><strong>Allergic reactions</strong>: anyone with known Apiaceae family allergies (celery, parsley, carrot, fennel) may react to high-dose herbal extracts.</li>
+<li><strong>Pregnancy</strong>: many of the compounds are contraindicated in pregnancy (especially the berberine, the high-dose rosemary, the androgen-modulating compounds). Lower doses in food preparation are different from therapeutic tincture doses.</li>
+</ul>
+<h2 id="connections">Connections</h2>
+<ul>
+<li>[[In-Fryer Antioxidants]] — the in-cooking version of the same compounds</li>
+<li>[[Botanical Pack]] — the source materials</li>
+<li>[[Polyphenols]] — the dominant chemistry</li>
+<li>[[Terpenoids]] — carnosic acid, thymol, AKBA</li>
+<li>[[Alkaloids]] — berberine, thymoquinone</li>
+<li>[[Upper GI Biofilm Disruption]] — the primary use case for the extracted form</li>
+<li>[[Microbiome Onramp Protocol]] — concurrent support during rebiosis</li>
+<li>[[Wild Vinegars]] — the oxymel and herbal vinegar menstruums</li>
+<li>[[Trigeminal Sensing]] — the sensory QC system</li>
+<li>[[11-Step Protocol]] — the separate acetone use (fat fractionation, not extraction)</li>
+<li>[[Acetone Recovery Apparatus]] — future note: the build spec for safe acetone use</li>
+</ul>
+0:{"rsc":["$","$1","c",{"children":[["$","div",null,{"className":"max-w-6xl mx-auto px-4 py-8","children":[["$","$L2",null,{"slug":"08-compounds-spice-extraction-methods"}],["$","div",null,{"className":"grid grid-cols-1 lg:grid-cols-[1fr_280px] gap-8","children":[["$","article",null,{"children":[["$","header",null,{"className":"mb-8","children":[["$","div",null,{"className":"flex items-center gap-2 text-sm text-muted mb-3","children":[["$","span",null,{"className":"px-2 py-0.5 bg-pickle-light text-pickle-dark rounded text-xs font-medium","children":"Compounds"}],["$","span",null,{"children":["Chapter ",48]}]]}],["$","h1",null,{"className":"text-3xl md:text-4xl font-bold text-foreground mb-3","children":"Spice Extraction Methods — Consumer Scale"}],["$","p",null,{"className":"text-lg text-muted leading-relaxed","children":"tags: [compounds, extraction, method, household, ethanol, acetone, tincture, oil-infusion]"}]]}],["$","div",null,{"className":"prose","dangerouslySetInnerHTML":{"__html":"$3"}}],"$L4"]}],"$L5"]}]]}],["$L6"],"$L7"]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"-f8JDEXe4WkXDL6nzUQi5"}
+4:["$","nav",null,{"className":"mt-12 pt-8 border-t border-border flex justify-between gap-4","children":[["$","div",null,{}],["$","div",null,{"className":"flex-1 p-4 bg-pickle-lighter rounded-lg text-center","children":["$","$L8",null,{"pose":"celebrating","size":"small","message":"You finished the book!","className":"inline-flex"}]}]]}]
+5:["$","aside",null,{"className":"hidden lg:block space-y-4 no-print","children":["$","div",null,{"className":"sticky top-20 space-y-4","children":[["$","div",null,{"className":"flex items-center gap-2","children":[["$","$L9",null,{"slug":"08-compounds-spice-extraction-methods"}],["$","$La",null,{}]]}],["$","$Lb",null,{"headings":[{"id":"spice-extraction-methods-consumer-scale","text":"Spice Extraction Methods — Consumer Scale","level":1},{"id":"why-extract-at-all","text":"Why Extract At All","level":2},{"id":"the-menstruum-decision","text":"The Menstruum Decision","level":2},{"id":"the-acetone-question","text":"The Acetone Question","level":2},{"id":"the-household-methods","text":"The Household Methods","level":2},{"id":"method-1-ethanol-tincture-primary","text":"Method 1 — Ethanol Tincture (Primary)","level":3},{"id":"method-2-oil-infusion-high-logp-companion","text":"Method 2 — Oil Infusion (High-logP Companion)","level":3},{"id":"method-3-oxymel-honey-vinegar","text":"Method 3 — Oxymel (Honey + Vinegar)","level":3},{"id":"method-4-fresh-allicin-preparation-special-case","text":"Method 4 — Fresh Allicin Preparation (Special Case)","level":3},{"id":"the-daily-therapeutic-stack","text":"The Daily Therapeutic Stack","level":2},{"id":"the-quality-indicators","text":"The Quality Indicators","level":2},{"id":"safety-notes","text":"Safety Notes","level":2},{"id":"connections","text":"Connections","level":2}]}]]}]}]
+6:["$","script","script-0",{"src":"/_next/static/chunks/2gspel2gmkmqb.js","async":true}]
+7:["$","$Lc",null,{"children":["$","$d",null,{"name":"Next.MetadataOutlet","children":"$@e"}]}]
+e:null

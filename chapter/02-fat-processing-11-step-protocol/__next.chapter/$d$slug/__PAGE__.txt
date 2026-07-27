@@ -1,0 +1,175 @@
+1:"$Sreact.fragment"
+2:I[90114,["/_next/static/chunks/2cdxtyl33onme.js","/_next/static/chunks/30x6623ill3zz.js","/_next/static/chunks/2gspel2gmkmqb.js"],"default"]
+8:I[66489,["/_next/static/chunks/2cdxtyl33onme.js","/_next/static/chunks/30x6623ill3zz.js","/_next/static/chunks/2gspel2gmkmqb.js"],"default"]
+9:I[98352,["/_next/static/chunks/2cdxtyl33onme.js","/_next/static/chunks/30x6623ill3zz.js","/_next/static/chunks/2gspel2gmkmqb.js"],"default"]
+a:I[70411,["/_next/static/chunks/2cdxtyl33onme.js","/_next/static/chunks/30x6623ill3zz.js","/_next/static/chunks/2gspel2gmkmqb.js"],"default"]
+b:I[10432,["/_next/static/chunks/2cdxtyl33onme.js","/_next/static/chunks/30x6623ill3zz.js","/_next/static/chunks/2gspel2gmkmqb.js"],"default"]
+c:I[93070,["/_next/static/chunks/2cdxtyl33onme.js","/_next/static/chunks/30x6623ill3zz.js"],"OutletBoundary"]
+d:"$Sreact.suspense"
+3:T1ecf,<h1 id="11-step-fat-processing-protocol">11-Step Fat Processing Protocol</h1>
+<blockquote>
+<p><em>The optimized contamination reduction sequence. Two critical reorderings from the naive sequence increase stearin purity 15–20% and reduce bentonite consumption 40–50%.</em></p>
+</blockquote>
+<h2 id="phase-structure">Phase Structure</h2>
+<p><strong>Phase A (Aqueous Cleaning) — every fry session, steps 1–8</strong>
+<strong>Phase B (Solvent Processing) — monthly or on QC trigger, steps 9–11</strong></p>
+<h2 id="the-two-critical-reorderings">The Two Critical Reorderings</h2>
+<h3 id="reordering-1-ethanol-wash-moved-from-step-10-step-6">Reordering 1: Ethanol wash moved from step 10 → step 6</h3>
+<p><strong>Reason:</strong> FFAs (free fatty acids) partially co-crystallize with the stearin fraction in acetone fractionation because saturated FFAs (stearic acid mp 70°C, palmitic mp 63°C) approach crystallization conditions. Moving the ethanol wash before acetone fractionation drops FFA from ~0.78% to ~0.16% before crystallization begins — below the threshold where co-crystallization meaningfully impairs stearin purity or introduces reactive pro-oxidant FFAs into the product.</p>
+<h3 id="reordering-2-bentonite-moved-from-step-7-step-10-after-acetone">Reordering 2: Bentonite moved from step 7 → step 10 (after acetone)</h3>
+<p><strong>Reason:</strong> Operating on stearin fraction (~50% original volume) with dramatically reduced contamination load after acetone removes PUFA and oxidized compounds. Bentonite consumption reduced 40–50%. Each gram of bentonite has more active surface area per contaminant molecule. PUFA-associated oxidized compounds (which bentonite would otherwise have to compete with) are already gone.</p>
+<p><strong>Additionally:</strong> One dry step at step 8 instead of two (before bentonite AND before acetone in original sequence) because all aqueous chemistry is now grouped before the single drying operation.</p>
+<h2 id="step-by-step">Step-by-Step</h2>
+<h3 id="phase-a">Phase A</h3>
+<p><strong>Step 1 — Mechanical Filtration</strong></p>
+<ul>
+<li>100μm nylon paint strainer bag + coffee filter</li>
+<li>Remove all food particles and carbonized debris</li>
+<li>Particulates are primary catalysts of oxidative chain reactions</li>
+<li>Contamination reduction: TPC −3%, metals −7%</li>
+</ul>
+<p><strong>Step 2 — Baking Soda Wash</strong></p>
+<ul>
+<li>5g NaHCO₃/L fat dissolved in 50–100ml warm water</li>
+<li>Saponifies FFAs (soap migrates to aqueous phase)</li>
+<li>Degumming byproduct (phospholipid removal)</li>
+<li>Self-limiting at pH 8.3 — cannot over-saponify triglycerides</li>
+<li>Effervescence is a built-in FFA endpoint indicator: vigorous bubbling = high FFA; no bubbling = low FFA</li>
+<li>FFA reduction: ~78%</li>
+</ul>
+<p><strong>Step 3 — Water Wash 1</strong></p>
+<ul>
+<li>Removes soap residue and phospholipid fragments</li>
+<li>100ml water/L fat, allow phases to separate</li>
+</ul>
+<p><strong>Step 4 — Vinegar Wash</strong></p>
+<ul>
+<li>Dilute white vinegar to ~1% acetic acid (1:4 dilution)</li>
+<li>Chelates Fe²⁺ and Cu²⁺ as metal acetates → aqueous phase</li>
+<li>Breaks any residual soap from Step 2</li>
+<li>Acid-activates bentonite (mild) for subsequent treatment</li>
+<li>Metal reduction: ~54%</li>
+</ul>
+<p><strong>Step 5 — Water Wash 2</strong></p>
+<ul>
+<li>Removes acetic acid and metal acetate complexes</li>
+</ul>
+<p><strong>Step 6 — Ethanol Wash</strong> <em>(moved earlier — critical)</em></p>
+<ul>
+<li>1:1 vodka (40% ethanol):fat by volume</li>
+<li>Selectively dissolves residual FFAs (polar enough for ethanol, unlike triglycerides)</li>
+<li>Refrigerate 30–60 min for clean phase separation</li>
+<li>Discard lower ethanol-FFA phase</li>
+<li>FFA reduction: ~80% of remaining</li>
+</ul>
+<p><strong>Step 7 — Water Wash 3</strong></p>
+<ul>
+<li>Removes residual ethanol</li>
+<li>Confirm no alcohol odor before drying</li>
+</ul>
+<p><strong>Step 8 — Dry</strong> <em>(single dry step for all aqueous chemistry)</em></p>
+<ul>
+<li>60–70°C with airflow, 60–90 minutes</li>
+<li>Endpoint: zero bubbling</li>
+<li>Verification: heat small sample to 110°C — no spattering = dry</li>
+<li>Critical: residual water competes with oxidized compounds for bentonite adsorption sites in Step 10; residual ethanol dilutes acetone polarity in Step 9</li>
+</ul>
+<h3 id="phase-b">Phase B</h3>
+<p><strong>Step 9 — Acetone Fractionation</strong></p>
+<ul>
+<li>Ratio: 3:1 acetone:fat by volume (hardware grade, 99%+)</li>
+<li>Warm to 40°C for complete dissolution</li>
+<li>Counter rest at room temp 30–60 min (nucleation phase — SSS/PPP crystal seeds form)</li>
+<li>Refrigerator at 4–7°C overnight (12–18 hrs) for crystal growth</li>
+<li><strong>Never use freezer</strong> — produces α polymorph instead of β', crystallizes triolein (mp −4°C) into product</li>
+<li>Filter through cold paint strainer bag — stearin (crystal cake) = product, olein-acetone = discard</li>
+<li>PUFA reduction: −89%, TPC: −50%, peroxides: −60%</li>
+</ul>
+<p><strong>Step 10 — Bentonite + Salt</strong> <em>(moved later — critical)</em></p>
+<ul>
+<li>Now on stearin fraction only (~50% original volume)</li>
+<li>20–25g granular bentonite (unscented cat litter) + 15g non-iodized salt per L stearin</li>
+<li>Dry shake in sealed container</li>
+<li>Add hot water, shake to create emulsion</li>
+<li>Refrigerate overnight — bentonite migrates to aqueous phase carrying adsorbed compounds</li>
+<li>TPC: −34%, aldehydes: −40%, color: −41%</li>
+</ul>
+<p><strong>Step 11 — Final Separation and Drying</strong></p>
+<ul>
+<li>Warm fat to 65°C to drive off residual water</li>
+<li>QC testing before storage</li>
+<li>→ See [[Quality Control]]</li>
+</ul>
+<h2 id="total-contamination-reduction">Total Contamination Reduction</h2>
+<table>
+<thead>
+<tr>
+<th>Contaminant</th>
+<th>Baseline</th>
+<th>Final</th>
+<th>Reduction</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>FFA</td>
+<td>4.0%</td>
+<td>~0.05%</td>
+<td>−99%</td>
+</tr>
+<tr>
+<td>Total Polar Compounds</td>
+<td>30%</td>
+<td>~5.5%</td>
+<td>−82%</td>
+</tr>
+<tr>
+<td>Peroxide value</td>
+<td>20 meq/kg</td>
+<td>~2.7</td>
+<td>−87%</td>
+</tr>
+<tr>
+<td>Aldehydes</td>
+<td>100 (rel.)</td>
+<td>~12</td>
+<td>−88%</td>
+</tr>
+<tr>
+<td>Heavy metals</td>
+<td>1.5 ppm</td>
+<td>~0.08</td>
+<td>−95%</td>
+</tr>
+<tr>
+<td>PUFA content</td>
+<td>45%</td>
+<td>~2.7%</td>
+<td>−94%</td>
+</tr>
+<tr>
+<td>Color bodies</td>
+<td>100 (rel.)</td>
+<td>~8</td>
+<td>−92%</td>
+</tr>
+</tbody>
+</table>
+<h2 id="crystal-chemistry-why-4-7-c-and-not-colder">Crystal Chemistry — Why 4–7°C and Not Colder</h2>
+<p><strong>PUFA exclusion mechanism (geometric):</strong> Double bonds introduce ~30° bends in fatty acid chains. These geometric irregularities prevent efficient β' crystal lattice packing. PUFA triglycerides are geometrically incapable of crystallizing at 4–7°C.</p>
+<p><strong>Oxidized compound exclusion (thermodynamic):</strong> Polar functional groups (−OOH, aldehyde, ketone, epoxide) form hydrogen bonds with acetone molecules. The oxidized molecule's interaction energy with acetone in solution exceeds its interaction energy with the non-polar crystal lattice. Temperature-independent within practical range.</p>
+<p><strong>Why not freezer:</strong> Triolein melts at −4°C. At −18°C, triolein crystallizes into the stearin fraction. Fast cooling also produces α polymorph (wrong crystal structure) rather than β' (optimal for functional cooking fat).</p>
+<h2 id="connections">Connections</h2>
+<ul>
+<li>[[Aqueous Phase Chemistry]] — detailed steps 1–8</li>
+<li>[[Solvent Phase Chemistry]] — detailed steps 9–11</li>
+<li>[[Quality Control]] — endpoints and testing methods</li>
+<li>[[In-Fryer Antioxidants]] — pre-session protection</li>
+<li>[[Traditional Fat Maintenance]] — historical parallel</li>
+</ul>
+0:{"rsc":["$","$1","c",{"children":[["$","div",null,{"className":"max-w-6xl mx-auto px-4 py-8","children":[["$","$L2",null,{"slug":"02-fat-processing-11-step-protocol"}],["$","div",null,{"className":"grid grid-cols-1 lg:grid-cols-[1fr_280px] gap-8","children":[["$","article",null,{"children":[["$","header",null,{"className":"mb-8","children":[["$","div",null,{"className":"flex items-center gap-2 text-sm text-muted mb-3","children":[["$","span",null,{"className":"px-2 py-0.5 bg-pickle-light text-pickle-dark rounded text-xs font-medium","children":"Fat Processing"}],["$","span",null,{"children":["Chapter ",6]}]]}],["$","h1",null,{"className":"text-3xl md:text-4xl font-bold text-foreground mb-3","children":"11-Step Fat Processing Protocol"}],["$","p",null,{"className":"text-lg text-muted leading-relaxed","children":"tags: [protocol, fat-processing, hub]"}]]}],["$","div",null,{"className":"prose","dangerouslySetInnerHTML":{"__html":"$3"}}],"$L4"]}],"$L5"]}]]}],["$L6"],"$L7"]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"-f8JDEXe4WkXDL6nzUQi5"}
+4:["$","nav",null,{"className":"mt-12 pt-8 border-t border-border flex justify-between gap-4","children":[["$","div",null,{}],["$","div",null,{"className":"flex-1 p-4 bg-pickle-lighter rounded-lg text-center","children":["$","$L8",null,{"pose":"celebrating","size":"small","message":"You finished the book!","className":"inline-flex"}]}]]}]
+5:["$","aside",null,{"className":"hidden lg:block space-y-4 no-print","children":["$","div",null,{"className":"sticky top-20 space-y-4","children":[["$","div",null,{"className":"flex items-center gap-2","children":[["$","$L9",null,{"slug":"02-fat-processing-11-step-protocol"}],["$","$La",null,{}]]}],["$","$Lb",null,{"headings":[{"id":"11-step-fat-processing-protocol","text":"11-Step Fat Processing Protocol","level":1},{"id":"phase-structure","text":"Phase Structure","level":2},{"id":"the-two-critical-reorderings","text":"The Two Critical Reorderings","level":2},{"id":"reordering-1-ethanol-wash-moved-from-step-10-step-6","text":"Reordering 1: Ethanol wash moved from step 10 → step 6","level":3},{"id":"reordering-2-bentonite-moved-from-step-7-step-10-after-acetone","text":"Reordering 2: Bentonite moved from step 7 → step 10 (after acetone)","level":3},{"id":"step-by-step","text":"Step-by-Step","level":2},{"id":"phase-a","text":"Phase A","level":3},{"id":"phase-b","text":"Phase B","level":3},{"id":"total-contamination-reduction","text":"Total Contamination Reduction","level":2},{"id":"crystal-chemistry-why-4-7-c-and-not-colder","text":"Crystal Chemistry — Why 4–7°C and Not Colder","level":2},{"id":"connections","text":"Connections","level":2}]}]]}]}]
+6:["$","script","script-0",{"src":"/_next/static/chunks/2gspel2gmkmqb.js","async":true}]
+7:["$","$Lc",null,{"children":["$","$d",null,{"name":"Next.MetadataOutlet","children":"$@e"}]}]
+e:null

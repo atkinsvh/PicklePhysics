@@ -1,0 +1,77 @@
+1:"$Sreact.fragment"
+2:I[90114,["/_next/static/chunks/2cdxtyl33onme.js","/_next/static/chunks/30x6623ill3zz.js","/_next/static/chunks/2gspel2gmkmqb.js"],"default"]
+8:I[66489,["/_next/static/chunks/2cdxtyl33onme.js","/_next/static/chunks/30x6623ill3zz.js","/_next/static/chunks/2gspel2gmkmqb.js"],"default"]
+9:I[98352,["/_next/static/chunks/2cdxtyl33onme.js","/_next/static/chunks/30x6623ill3zz.js","/_next/static/chunks/2gspel2gmkmqb.js"],"default"]
+a:I[70411,["/_next/static/chunks/2cdxtyl33onme.js","/_next/static/chunks/30x6623ill3zz.js","/_next/static/chunks/2gspel2gmkmqb.js"],"default"]
+b:I[10432,["/_next/static/chunks/2cdxtyl33onme.js","/_next/static/chunks/30x6623ill3zz.js","/_next/static/chunks/2gspel2gmkmqb.js"],"default"]
+c:I[93070,["/_next/static/chunks/2cdxtyl33onme.js","/_next/static/chunks/30x6623ill3zz.js"],"OutletBoundary"]
+d:"$Sreact.suspense"
+3:T121a,<h1 id="phase-5-adipose-remodeling">Phase 5 — Adipose Remodeling</h1>
+<blockquote>
+<p><em>Draining the reservoir. Adipose tissue is a depot for oxidized lipids that continues releasing inflammatory mediators long after dietary changes are made.</em></p>
+</blockquote>
+<h2 id="the-reservoir-problem">The Reservoir Problem</h2>
+<p>Oxidized lipids accumulate in adipose tissue — it's a lipid storage depot, so oxidized lipids go there too. They:</p>
+<ul>
+<li>Maintain M1 macrophage polarization in adipose tissue independently of current dietary intake</li>
+<li>Release inflammatory mediators (TNF-α, IL-6) that contribute to systemic inflammatory baseline</li>
+<li>Impair adipose mitochondrial function through 4-HNE adducts on Complex I/II</li>
+<li>Create crown-like structures (dead adipocyte debris surrounded by macrophages) as sites of concentrated oxidized lipid release</li>
+</ul>
+<p>Even after dietary oxidized lipid load drops to near zero, the adipose reservoir continues releasing the accumulated burden — the rate of clearance depends on adipose lipophagy and autophagy rates, and on M1→M2 macrophage transition.</p>
+<h2 id="adipose-microvascular-problem">Adipose Microvascular Problem</h2>
+<p>Obese adipose tissue is paradoxically hypoxic despite expanded volume: adipocyte hypertrophy outpaces angiogenesis → HIF-1α upregulation → pro-inflammatory and fibrotic gene expression. During fat loss, capillary regression can lag adipocyte shrinkage → fibrotic changes in formerly hypoxic regions.</p>
+<p>Functional therapeutic angiogenesis in adipose (new capillary formation) is required for clean remodeling vs. fibrotic replacement.</p>
+<h2 id="interventions-months-3-onward">Interventions — Months 3 Onward</h2>
+<h3 id="berberine-500mg-twice-daily">Berberine — 500mg twice daily</h3>
+<p>Most direct adipose-specific intervention:</p>
+<ul>
+<li>AMPK activation → adipose macrophage M1→M2 transition</li>
+<li>Adipose browning through irisin-adjacent pathway (UCP1 upregulation)</li>
+<li>Direct lipophagy activation in adipocytes</li>
+<li>Clinically studied for visceral adiposity with consistent effect sizes</li>
+</ul>
+<h3 id="urolithin-a-already-in-phase-3">Urolithin A (already in Phase 3)</h3>
+<p>Mitophagy specifically in adipose and muscle tissue. Clears damaged mitochondria from adipocytes → reduces endogenous ROS production → reduces the pro-oxidant environment sustaining M1 macrophage polarization.</p>
+<h3 id="intermittent-fasting-extended-periods">Intermittent Fasting — Extended Periods</h3>
+<p>24-hour fasts periodically (beyond the 16:8 baseline):</p>
+<ul>
+<li>Adipose-specific lipophagy induction</li>
+<li>Reduction in crown-like structure density</li>
+<li>Adipose M2 polarization through ketone body signaling</li>
+</ul>
+<h3 id="cold-immersion">Cold Immersion</h3>
+<p>Beta-3 adrenergic activation:</p>
+<ul>
+<li>Directly induces adipose lipophagy through cAMP pathway</li>
+<li>Drives white-to-beige adipose conversion (UCP1, increased mitochondrial density)</li>
+<li>Reduces crown-like structure formation</li>
+</ul>
+<h3 id="hawthorn-berry-dan-shen-from-fermented-formulation">Hawthorn Berry + Dan Shen (from fermented formulation)</h3>
+<p>Therapeutic angiogenesis in adipose tissue:</p>
+<ul>
+<li>Hawthorn vitexin → VEGF through HIF-1α stabilization → new capillary formation</li>
+<li>Dan shen salvianolic acid B → eNOS → NO → endothelial migration for capillary sprouting</li>
+<li>This is pro-angiogenic for connective tissue — distinct from anti-angiogenic goals for endometriosis (same compounds, different context because different tissue starting states)</li>
+</ul>
+<h2 id="the-ghost-cell-problem">The Ghost Cell Problem</h2>
+<p>During significant fat loss, some adipocytes die rather than simply shrinking. They leave behind empty lipid droplet membranes (crown-like structures) surrounded by macrophages. These are inflammatory sites that persist after fat loss.</p>
+<p>Crown-like structure clearance requires:</p>
+<ul>
+<li>Functional M2 macrophage phagocytosis (berberine)</li>
+<li>Autophagy of the membrane debris (urolithin A, intermittent fasting)</li>
+<li>Reduction of local pro-inflammatory OXLAM release (the fat maintenance protocol removing incoming oxidized lipid burden)</li>
+</ul>
+<h2 id="connections">Connections</h2>
+<ul>
+<li>[[Phase 3 - Epigenetic Reprogramming]] — autophagy machinery being reused here</li>
+<li>[[Lipid Oxidation Chemistry]] — what's being cleared</li>
+<li>[[Efferocytosis Failure]] — macrophage function being restored</li>
+<li>[[Phase 4 - Structural Repair]] — parallel track (both ongoing from month 3)</li>
+</ul>
+0:{"rsc":["$","$1","c",{"children":[["$","div",null,{"className":"max-w-6xl mx-auto px-4 py-8","children":[["$","$L2",null,{"slug":"04-health-protocol-phase-5---adipose-remodeling"}],["$","div",null,{"className":"grid grid-cols-1 lg:grid-cols-[1fr_280px] gap-8","children":[["$","article",null,{"children":[["$","header",null,{"className":"mb-8","children":[["$","div",null,{"className":"flex items-center gap-2 text-sm text-muted mb-3","children":[["$","span",null,{"className":"px-2 py-0.5 bg-pickle-light text-pickle-dark rounded text-xs font-medium","children":"Health Protocol"}],["$","span",null,{"children":["Chapter ",23]}]]}],["$","h1",null,{"className":"text-3xl md:text-4xl font-bold text-foreground mb-3","children":"Phase 5 — Adipose Remodeling"}],["$","p",null,{"className":"text-lg text-muted leading-relaxed","children":"tags: [protocol, health, phase-5, adipose, fat-tissue, remodeling]"}]]}],["$","div",null,{"className":"prose","dangerouslySetInnerHTML":{"__html":"$3"}}],"$L4"]}],"$L5"]}]]}],["$L6"],"$L7"]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"-f8JDEXe4WkXDL6nzUQi5"}
+4:["$","nav",null,{"className":"mt-12 pt-8 border-t border-border flex justify-between gap-4","children":[["$","div",null,{}],["$","div",null,{"className":"flex-1 p-4 bg-pickle-lighter rounded-lg text-center","children":["$","$L8",null,{"pose":"celebrating","size":"small","message":"You finished the book!","className":"inline-flex"}]}]]}]
+5:["$","aside",null,{"className":"hidden lg:block space-y-4 no-print","children":["$","div",null,{"className":"sticky top-20 space-y-4","children":[["$","div",null,{"className":"flex items-center gap-2","children":[["$","$L9",null,{"slug":"04-health-protocol-phase-5---adipose-remodeling"}],["$","$La",null,{}]]}],["$","$Lb",null,{"headings":[{"id":"phase-5-adipose-remodeling","text":"Phase 5 — Adipose Remodeling","level":1},{"id":"the-reservoir-problem","text":"The Reservoir Problem","level":2},{"id":"adipose-microvascular-problem","text":"Adipose Microvascular Problem","level":2},{"id":"interventions-months-3-onward","text":"Interventions — Months 3 Onward","level":2},{"id":"berberine-500mg-twice-daily","text":"Berberine — 500mg twice daily","level":3},{"id":"urolithin-a-already-in-phase-3","text":"Urolithin A (already in Phase 3)","level":3},{"id":"intermittent-fasting-extended-periods","text":"Intermittent Fasting — Extended Periods","level":3},{"id":"cold-immersion","text":"Cold Immersion","level":3},{"id":"hawthorn-berry-dan-shen-from-fermented-formulation","text":"Hawthorn Berry + Dan Shen (from fermented formulation)","level":3},{"id":"the-ghost-cell-problem","text":"The Ghost Cell Problem","level":2},{"id":"connections","text":"Connections","level":2}]}]]}]}]
+6:["$","script","script-0",{"src":"/_next/static/chunks/2gspel2gmkmqb.js","async":true}]
+7:["$","$Lc",null,{"children":["$","$d",null,{"name":"Next.MetadataOutlet","children":"$@e"}]}]
+e:null

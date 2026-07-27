@@ -1,0 +1,40 @@
+1:"$Sreact.fragment"
+2:I[90114,["/_next/static/chunks/2cdxtyl33onme.js","/_next/static/chunks/30x6623ill3zz.js","/_next/static/chunks/2gspel2gmkmqb.js"],"default"]
+4:I[66489,["/_next/static/chunks/2cdxtyl33onme.js","/_next/static/chunks/30x6623ill3zz.js","/_next/static/chunks/2gspel2gmkmqb.js"],"default"]
+5:I[98352,["/_next/static/chunks/2cdxtyl33onme.js","/_next/static/chunks/30x6623ill3zz.js","/_next/static/chunks/2gspel2gmkmqb.js"],"default"]
+6:I[70411,["/_next/static/chunks/2cdxtyl33onme.js","/_next/static/chunks/30x6623ill3zz.js","/_next/static/chunks/2gspel2gmkmqb.js"],"default"]
+7:I[10432,["/_next/static/chunks/2cdxtyl33onme.js","/_next/static/chunks/30x6623ill3zz.js","/_next/static/chunks/2gspel2gmkmqb.js"],"default"]
+9:I[93070,["/_next/static/chunks/2cdxtyl33onme.js","/_next/static/chunks/30x6623ill3zz.js"],"OutletBoundary"]
+a:"$Sreact.suspense"
+3:T721,<h1 id="metabolic-syndrome">Metabolic Syndrome</h1>
+<blockquote>
+<p><em>Not a disease of excess calories but of corrupted substrate signaling. The central insulin resistance is primarily molecular, not mechanical.</em></p>
+</blockquote>
+<h2 id="the-substrate-first-model">The Substrate-First Model</h2>
+<p>Conventional model: Overconsumption → adiposity → inflammation → insulin resistance</p>
+<p>Substrate model: Dietary oxidized lipids → IRS-1 adduct formation → insulin resistance → compensatory hyperinsulinemia → adipogenesis → further inflammation</p>
+<p>The distinction matters because it predicts:</p>
+<ol>
+<li>Metabolic syndrome without significant obesity (lean NAFLD, lean PCOS)</li>
+<li>Persistence of metabolic dysfunction after weight loss (the adipose reservoir continues releasing OXLAMs)</li>
+<li>Response to substrate change independently of caloric change</li>
+</ol>
+<h2 id="the-adipose-oxlam-reservoir">The Adipose OXLAM Reservoir</h2>
+<p>OXLAMs accumulate in adipose tissue and continue releasing:</p>
+<ul>
+<li>TNF-α, IL-6 (maintaining systemic inflammatory baseline)</li>
+<li>OXLAMs themselves (re-entering circulation from stored reserves)</li>
+<li>Sustaining macrophage M1 polarization in adipose tissue (crown-like structures around dead adipocytes)</li>
+</ul>
+<p>This is why metabolic improvement lags dietary change — the reservoir is not instantly cleared even when dietary intake drops to near zero.</p>
+<p>→ [[Phase 5 - Adipose Remodeling]] for the clearance protocol</p>
+<h2 id="connections">Connections</h2>
+<ul>
+<li>[[PCOS]] — shared insulin resistance mechanism</li>
+<li>[[Oxidized Lipid Cascade]] — upstream cause</li>
+<li>[[Phase 5 - Adipose Remodeling]] — the reservoir clearance</li>
+<li>[[Efferocytosis Failure]] — adipose macrophage dysfunction</li>
+</ul>
+0:{"rsc":["$","$1","c",{"children":[["$","div",null,{"className":"max-w-6xl mx-auto px-4 py-8","children":[["$","$L2",null,{"slug":"07-conditions-metabolic-syndrome"}],["$","div",null,{"className":"grid grid-cols-1 lg:grid-cols-[1fr_280px] gap-8","children":[["$","article",null,{"children":[["$","header",null,{"className":"mb-8","children":[["$","div",null,{"className":"flex items-center gap-2 text-sm text-muted mb-3","children":[["$","span",null,{"className":"px-2 py-0.5 bg-pickle-light text-pickle-dark rounded text-xs font-medium","children":"Conditions"}],["$","span",null,{"children":["Chapter ",39]}]]}],["$","h1",null,{"className":"text-3xl md:text-4xl font-bold text-foreground mb-3","children":"Metabolic Syndrome"}],["$","p",null,{"className":"text-lg text-muted leading-relaxed","children":"tags: [condition, metabolic-syndrome, insulin-resistance, obesity]"}]]}],["$","div",null,{"className":"prose","dangerouslySetInnerHTML":{"__html":"$3"}}],["$","nav",null,{"className":"mt-12 pt-8 border-t border-border flex justify-between gap-4","children":[["$","div",null,{}],["$","div",null,{"className":"flex-1 p-4 bg-pickle-lighter rounded-lg text-center","children":["$","$L4",null,{"pose":"celebrating","size":"small","message":"You finished the book!","className":"inline-flex"}]}]]}]]}],["$","aside",null,{"className":"hidden lg:block space-y-4 no-print","children":["$","div",null,{"className":"sticky top-20 space-y-4","children":[["$","div",null,{"className":"flex items-center gap-2","children":[["$","$L5",null,{"slug":"07-conditions-metabolic-syndrome"}],["$","$L6",null,{}]]}],["$","$L7",null,{"headings":[{"id":"metabolic-syndrome","text":"Metabolic Syndrome","level":1},{"id":"the-substrate-first-model","text":"The Substrate-First Model","level":2},{"id":"the-adipose-oxlam-reservoir","text":"The Adipose OXLAM Reservoir","level":2},{"id":"connections","text":"Connections","level":2}]}]]}]}]]}]]}],[["$","script","script-0",{"src":"/_next/static/chunks/2gspel2gmkmqb.js","async":true}]],"$L8"]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"-f8JDEXe4WkXDL6nzUQi5"}
+8:["$","$L9",null,{"children":["$","$a",null,{"name":"Next.MetadataOutlet","children":"$@b"}]}]
+b:null

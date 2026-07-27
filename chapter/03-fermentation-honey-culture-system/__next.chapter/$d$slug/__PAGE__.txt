@@ -1,0 +1,181 @@
+1:"$Sreact.fragment"
+2:I[90114,["/_next/static/chunks/2cdxtyl33onme.js","/_next/static/chunks/30x6623ill3zz.js","/_next/static/chunks/2gspel2gmkmqb.js"],"default"]
+8:I[66489,["/_next/static/chunks/2cdxtyl33onme.js","/_next/static/chunks/30x6623ill3zz.js","/_next/static/chunks/2gspel2gmkmqb.js"],"default"]
+9:I[98352,["/_next/static/chunks/2cdxtyl33onme.js","/_next/static/chunks/30x6623ill3zz.js","/_next/static/chunks/2gspel2gmkmqb.js"],"default"]
+a:I[70411,["/_next/static/chunks/2cdxtyl33onme.js","/_next/static/chunks/30x6623ill3zz.js","/_next/static/chunks/2gspel2gmkmqb.js"],"default"]
+b:I[10432,["/_next/static/chunks/2cdxtyl33onme.js","/_next/static/chunks/30x6623ill3zz.js","/_next/static/chunks/2gspel2gmkmqb.js"],"default"]
+c:I[93070,["/_next/static/chunks/2cdxtyl33onme.js","/_next/static/chunks/30x6623ill3zz.js"],"OutletBoundary"]
+d:"$Sreact.suspense"
+3:T1bfc,<h1 id="honey-culture-system">Honey Culture System</h1>
+<blockquote>
+<p><em>A living library of 80-million-year-old symbiotic organisms. Every honey variety carries a distinct microbial community co-evolved with mammalian biology through continuous dietary exposure.</em></p>
+</blockquote>
+<h2 id="what-lives-in-raw-honey">What Lives in Raw Honey</h2>
+<h3 id="core-residents">Core Residents</h3>
+<ul>
+<li><strong>Lactobacillus kunkeei and fructophilic lactobacilli:</strong> Osmotolerant LAB. Produce specific antimicrobial compounds, exopolysaccharides for gut epithelial protection, DAO-related compounds. The core bee gut symbiont also present in honey.</li>
+<li><strong>Gilliamella apicola:</strong> Pectin and complex polysaccharide metabolism — extracts compounds from plant matrix that other bacteria can't access.</li>
+<li><strong>Snodgrassella alvi:</strong> Produces nitric oxide as antimicrobial — directly relevant to eNOS/angiogenesis discussion.</li>
+<li><strong>Starmerella bombicola:</strong> Sophorolipid-producing osmophilic yeast — natural biosurfactant for lipophilic compound distribution in the ferment.</li>
+<li><strong>Zygosaccharomyces rouxii:</strong> Osmophilic yeast producing arabitol and erythritol — specific prebiotic properties.</li>
+<li><strong>Bacillus species (spore form):</strong> Nattokinase-like enzymes and lipopeptides on activation.</li>
+</ul>
+<h3 id="the-ai-2-sam-connection">The AI-2 / SAM Connection</h3>
+<p>LuxS — the bacterial enzyme producing AI-2 quorum sensing molecules — is a side reaction of bacterial one-carbon metabolism, specifically recycling SAH (S-adenosylhomocysteine) from the same methylation cycle running in host cells. The honey bacteria's methylation economy and the host's epigenetic substrate economy share chemical logic. AI-2 production by honey-adapted Lactobacillus in the ferment adds another layer to the bacterial community communication network. → [[Quorum Sensing]]</p>
+<h2 id="activity-assessment">Activity Assessment</h2>
+<table>
+<thead>
+<tr>
+<th>Grade</th>
+<th>Activation time</th>
+<th>Action</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>A — High</td>
+<td>&#x3C;12 hours</td>
+<td>Cryopreserve immediately — priority</td>
+</tr>
+<tr>
+<td>B — Moderate</td>
+<td>12–48 hours</td>
+<td>Standard activation protocol</td>
+</tr>
+<tr>
+<td>C — Low</td>
+<td>48–72 hours</td>
+<td>Chemical preservation only</td>
+</tr>
+<tr>
+<td>X — None</td>
+<td>No activity at 72h</td>
+<td>Pasteurized or too old — no microbiota</td>
+</tr>
+</tbody>
+</table>
+<p><strong>Screening protocol:</strong> Dissolve 5ml honey in 20ml filtered water + pinch salt at 35°C. Hold at 30°C in sealed small jar. Observe at 12, 24, 48, 72h. Record time to first bubbling, intensity, aroma development.</p>
+<h2 id="cryopreservation-primary-method">Cryopreservation (Primary Method)</h2>
+<ol>
+<li>Activate: 20ml honey in 80ml nutrient medium (glucose 2% + fructose 2% + yeast extract 0.5% + salt 0.3%) at 30°C, 24–48h until active</li>
+<li>Mix: 700μl active culture + 300μl food-grade glycerol (99%) = 30% final glycerol concentration</li>
+<li>Aliquot: minimum 5 labeled glass vials per sample — <strong>never freeze and re-thaw same vial</strong></li>
+<li>Freeze: directly into −20°C freezer, do not allow to sit at room temperature</li>
+<li>Recovery: thaw at room temp, transfer 100μl to 10ml fresh medium, 12–24h at 30°C</li>
+</ol>
+<h2 id="perpetual-mother-culture-working-stock">Perpetual Mother Culture (Working Stock)</h2>
+<p>Maintain living culture in 1:2 honey:water with 2% salt at 10–12°C refrigerator temperature. Feed monthly: remove 50%, replace with fresh honey-water-salt (same variety). Monthly removal = the production inoculum for that week's addition to the main ferment.</p>
+<h2 id="variety-rotation-schedule">Variety Rotation Schedule</h2>
+<table>
+<thead>
+<tr>
+<th>Month</th>
+<th>Variety</th>
+<th>Primary contribution</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>January</td>
+<td>Buckwheat</td>
+<td>Rutin (quercetin-3-rutinoside — most bioavailable quercetin form), polyphenol density</td>
+</tr>
+<tr>
+<td>February</td>
+<td>Manuka</td>
+<td>MGO-resistant Lactobacillus, bee defensin-1 (TLR2 tight junction signaling)</td>
+</tr>
+<tr>
+<td>March</td>
+<td>Forest/Pine</td>
+<td>Terpene-metabolizing community (biotransforms botanical pack terpenoids)</td>
+</tr>
+<tr>
+<td>April</td>
+<td>Heather</td>
+<td>Pinocembrin, callunene — antimicrobial profile</td>
+</tr>
+<tr>
+<td>May</td>
+<td>Sidr/Ziziphus</td>
+<td>Hepatoprotective flavonoids, Near Eastern strains</td>
+</tr>
+<tr>
+<td>June</td>
+<td>Local raw</td>
+<td>Biogeographic matching — regional flora diversity, local ecological fit</td>
+</tr>
+<tr>
+<td>July</td>
+<td>Stingless bee</td>
+<td>Meliponini unique strains, pH 3.3–4.0 (most acidic honey), trehalulose</td>
+</tr>
+<tr>
+<td>August</td>
+<td>Buckwheat</td>
+<td>Second rutin cycle</td>
+</tr>
+<tr>
+<td>September</td>
+<td>Tualang</td>
+<td>High phenolic rainforest diversity</td>
+</tr>
+<tr>
+<td>October</td>
+<td>Manuka</td>
+<td>Second MGO-adapted culture introduction</td>
+</tr>
+<tr>
+<td>November</td>
+<td>Forest/Pine</td>
+<td>Second terpene community cycle</td>
+</tr>
+<tr>
+<td>December</td>
+<td>Local raw</td>
+<td>Second local ecology cycle</td>
+</tr>
+</tbody>
+</table>
+<h2 id="selective-enrichment">Selective Enrichment</h2>
+<p><strong>For Lactobacillus enrichment</strong> (DAO production, gut barrier):</p>
+<ul>
+<li>Add 1% calcium carbonate to buffer pH as lactic acid accumulates</li>
+<li>Reduce temperature to 25°C</li>
+<li>Add 0.1% cysteine for slight anaerobic conditions</li>
+</ul>
+<p><strong>For sophorolipid-producing yeast</strong> (emulsification function):</p>
+<ul>
+<li>Increase sugar to 10–15% total</li>
+<li>Add 0.5% sunflower oil as substrate</li>
+<li>Incubate 28°C with mild agitation (aerobic)</li>
+</ul>
+<h2 id="integration-with-40-gallon-system">Integration with 40-Gallon System</h2>
+<ul>
+<li><strong>Weekly:</strong> Add 200–300ml freshly activated honey culture to main ferment (rotating variety)</li>
+<li><strong>Monthly:</strong> Feed perpetual mother culture jars; prepare oxymel for the month's variety (1 part honey:3 parts raw ACV, 4-week ferment)</li>
+<li><strong>Annual:</strong> Comprehensive culture bank audit; verify all glycerol stocks</li>
+</ul>
+<h2 id="oxymel-preparation">Oxymel Preparation</h2>
+<p>Traditional Mediterranean preparation combining honey and vinegar:</p>
+<ul>
+<li>1 part raw honey + 3 parts raw apple cider vinegar</li>
+<li>Allow to ferment 4 weeks at room temperature</li>
+<li>Strain and refrigerate</li>
+<li>Add 1 teaspoon to serving of fermented relish — introduces variety-specific chemistry and strains directly at consumption</li>
+<li>Historically prescribed by Hippocrates across multiple conditions</li>
+</ul>
+<h2 id="connections">Connections</h2>
+<ul>
+<li>[[System Architecture]] — integration point</li>
+<li>[[Quorum Sensing]] — AI-2/SAM connection in honey bacteria</li>
+<li>[[Gut Microbiome Ecology]] — community context</li>
+<li>[[Brine Formulation]] — the medium receiving culture additions</li>
+<li>[[Evolutionary Sensory Framework]] — why humans co-evolved with these organisms</li>
+</ul>
+0:{"rsc":["$","$1","c",{"children":[["$","div",null,{"className":"max-w-6xl mx-auto px-4 py-8","children":[["$","$L2",null,{"slug":"03-fermentation-honey-culture-system"}],["$","div",null,{"className":"grid grid-cols-1 lg:grid-cols-[1fr_280px] gap-8","children":[["$","article",null,{"children":[["$","header",null,{"className":"mb-8","children":[["$","div",null,{"className":"flex items-center gap-2 text-sm text-muted mb-3","children":[["$","span",null,{"className":"px-2 py-0.5 bg-pickle-light text-pickle-dark rounded text-xs font-medium","children":"Fermentation"}],["$","span",null,{"children":["Chapter ",14]}]]}],["$","h1",null,{"className":"text-3xl md:text-4xl font-bold text-foreground mb-3","children":"Honey Culture System"}],["$","p",null,{"className":"text-lg text-muted leading-relaxed","children":"tags: [protocol, fermentation, honey, culture, microbiota]"}]]}],["$","div",null,{"className":"prose","dangerouslySetInnerHTML":{"__html":"$3"}}],"$L4"]}],"$L5"]}]]}],["$L6"],"$L7"]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"-f8JDEXe4WkXDL6nzUQi5"}
+4:["$","nav",null,{"className":"mt-12 pt-8 border-t border-border flex justify-between gap-4","children":[["$","div",null,{}],["$","div",null,{"className":"flex-1 p-4 bg-pickle-lighter rounded-lg text-center","children":["$","$L8",null,{"pose":"celebrating","size":"small","message":"You finished the book!","className":"inline-flex"}]}]]}]
+5:["$","aside",null,{"className":"hidden lg:block space-y-4 no-print","children":["$","div",null,{"className":"sticky top-20 space-y-4","children":[["$","div",null,{"className":"flex items-center gap-2","children":[["$","$L9",null,{"slug":"03-fermentation-honey-culture-system"}],["$","$La",null,{}]]}],["$","$Lb",null,{"headings":[{"id":"honey-culture-system","text":"Honey Culture System","level":1},{"id":"what-lives-in-raw-honey","text":"What Lives in Raw Honey","level":2},{"id":"core-residents","text":"Core Residents","level":3},{"id":"the-ai-2-sam-connection","text":"The AI-2 / SAM Connection","level":3},{"id":"activity-assessment","text":"Activity Assessment","level":2},{"id":"cryopreservation-primary-method","text":"Cryopreservation (Primary Method)","level":2},{"id":"perpetual-mother-culture-working-stock","text":"Perpetual Mother Culture (Working Stock)","level":2},{"id":"variety-rotation-schedule","text":"Variety Rotation Schedule","level":2},{"id":"selective-enrichment","text":"Selective Enrichment","level":2},{"id":"integration-with-40-gallon-system","text":"Integration with 40-Gallon System","level":2},{"id":"oxymel-preparation","text":"Oxymel Preparation","level":2},{"id":"connections","text":"Connections","level":2}]}]]}]}]
+6:["$","script","script-0",{"src":"/_next/static/chunks/2gspel2gmkmqb.js","async":true}]
+7:["$","$Lc",null,{"children":["$","$d",null,{"name":"Next.MetadataOutlet","children":"$@e"}]}]
+e:null

@@ -1,0 +1,70 @@
+1:"$Sreact.fragment"
+2:I[90114,["/_next/static/chunks/2cdxtyl33onme.js","/_next/static/chunks/30x6623ill3zz.js","/_next/static/chunks/2gspel2gmkmqb.js"],"default"]
+8:I[66489,["/_next/static/chunks/2cdxtyl33onme.js","/_next/static/chunks/30x6623ill3zz.js","/_next/static/chunks/2gspel2gmkmqb.js"],"default"]
+9:I[98352,["/_next/static/chunks/2cdxtyl33onme.js","/_next/static/chunks/30x6623ill3zz.js","/_next/static/chunks/2gspel2gmkmqb.js"],"default"]
+a:I[70411,["/_next/static/chunks/2cdxtyl33onme.js","/_next/static/chunks/30x6623ill3zz.js","/_next/static/chunks/2gspel2gmkmqb.js"],"default"]
+b:I[10432,["/_next/static/chunks/2cdxtyl33onme.js","/_next/static/chunks/30x6623ill3zz.js","/_next/static/chunks/2gspel2gmkmqb.js"],"default"]
+c:I[93070,["/_next/static/chunks/2cdxtyl33onme.js","/_next/static/chunks/30x6623ill3zz.js"],"OutletBoundary"]
+d:"$Sreact.suspense"
+3:T1095,<h1 id="short-chain-fatty-acids">Short Chain Fatty Acids</h1>
+<blockquote>
+<p><em>The primary output of healthy fermentation. Not just metabolic byproducts — active epigenetic regulators and immune modulators.</em></p>
+</blockquote>
+<h2 id="production">Production</h2>
+<p>SCFAs are produced by colonic fermentation of dietary fiber and resistant starch:</p>
+<ul>
+<li><strong>Butyrate (C4):</strong> predominantly from Faecalibacterium prausnitzii, Roseburia, Bifidobacterium on inulin-type fructans and resistant starch</li>
+<li><strong>Propionate (C3):</strong> from Bacteroidetes on pectin and some hemicelluloses</li>
+<li><strong>Acetate (C2):</strong> from most gut bacteria, abundant but less specific in function</li>
+</ul>
+<h2 id="butyrate-the-central-molecule">Butyrate — The Central Molecule</h2>
+<h3 id="hdac-inhibition">HDAC Inhibition</h3>
+<p>Butyrate is a competitive inhibitor of Class I and II histone deacetylases (zinc-dependent). At physiological concentrations produced by a healthy microbiome:</p>
+<ul>
+<li>Upregulates H3K27 acetylation at anti-inflammatory gene loci</li>
+<li>Specifically activates FOXP3 promoter → Treg differentiation</li>
+<li>Upregulates IL-10 promoter → anti-inflammatory cytokine</li>
+<li>Upregulates Nrf2 target genes</li>
+<li>Simultaneously drives tight junction protein gene expression</li>
+</ul>
+<p>This is the microbiome performing real-time epigenetic repair. The dysbiotic microbiome stopped doing this. Restoring Faecalibacterium abundance restores continuous epigenetic maintenance that was silently operating in healthy guts.</p>
+<h3 id="colonocyte-fuel">Colonocyte Fuel</h3>
+<p>Butyrate is the primary energy source for colonocytes (~70% of their energy). Colonocytes without butyrate are like cells without ATP. Tight junction maintenance is energetically expensive and is one of the first functions to fail under energy deficit.</p>
+<h3 id="gpr109a-signaling">GPR109a Signaling</h3>
+<p>Butyrate receptor on colonocytes and immune cells. GPR109a activation → IL-18 production → epithelial repair cascade independent of HDAC mechanism.</p>
+<h3 id="mast-cell-stabilization">Mast Cell Stabilization</h3>
+<p>Direct mast cell stabilization effect independent of both HDAC inhibition and GPR109a — through a mechanism involving reduced intracellular calcium signaling.</p>
+<h2 id="supplementation-strategy">Supplementation Strategy</h2>
+<p><strong>Sodium butyrate (600mg with each meal):</strong> Direct delivery during the gut microbiome re-establishment period. Provides the same signal the healthy microbiome would have been providing continuously.</p>
+<p><strong>Tributyrin:</strong> Prodrug form — three butyrate molecules esterified to glycerol. Better stability, slower release, potentially more distal colon delivery. Alternative to sodium butyrate.</p>
+<p><strong>PHGG (partially hydrolyzed guar gum):</strong> Prebiotic specifically feeding butyrate-producing Firmicutes species. Produces more colonic butyrate than most other prebiotics. Tasteless, completely soluble, can be added to anything.</p>
+<p><strong>Long-chain inulin (from chicory root in formulation):</strong> Reaches the distal colon where the most vulnerable epithelium is. Short-chain fructooligosaccharides are fermented more proximally.</p>
+<h2 id="propionate">Propionate</h2>
+<ul>
+<li>Weaker HDAC inhibitor than butyrate</li>
+<li>FFAR2/FFAR3 receptor signaling</li>
+<li>Hepatic gluconeogenesis substrate (relevant to metabolic syndrome)</li>
+<li>Specific effect on adipose tissue biology</li>
+</ul>
+<h2 id="acetate">Acetate</h2>
+<ul>
+<li>Most abundant SCFA</li>
+<li>Peripheral tissue fuel</li>
+<li>FFAR2 receptor signaling on immune cells</li>
+<li>Enters host one-carbon metabolism as acetyl-CoA</li>
+</ul>
+<h2 id="connections">Connections</h2>
+<ul>
+<li>[[Gut Microbiome Ecology]] — production context</li>
+<li>[[Phase 1 - Gut Barrier]] — the primary gut intervention</li>
+<li>[[One Carbon Metabolism]] — acetate → acetyl-CoA connection</li>
+<li>[[NAD Pool]] — butyrate as HDAC inhibitor complements sirtuin HDAC on different loci</li>
+<li>[[Mast Cell Biology]] — direct stabilization effect</li>
+<li>[[System Architecture]] — fermentation producing these in the preparation</li>
+</ul>
+0:{"rsc":["$","$1","c",{"children":[["$","div",null,{"className":"max-w-6xl mx-auto px-4 py-8","children":[["$","$L2",null,{"slug":"08-compounds-short-chain-fatty-acids"}],["$","div",null,{"className":"grid grid-cols-1 lg:grid-cols-[1fr_280px] gap-8","children":[["$","article",null,{"children":[["$","header",null,{"className":"mb-8","children":[["$","div",null,{"className":"flex items-center gap-2 text-sm text-muted mb-3","children":[["$","span",null,{"className":"px-2 py-0.5 bg-pickle-light text-pickle-dark rounded text-xs font-medium","children":"Compounds"}],["$","span",null,{"children":["Chapter ",46]}]]}],["$","h1",null,{"className":"text-3xl md:text-4xl font-bold text-foreground mb-3","children":"Short Chain Fatty Acids"}],["$","p",null,{"className":"text-lg text-muted leading-relaxed","children":"tags: [compound, SCFA, butyrate, fermentation, epigenetics]"}]]}],["$","div",null,{"className":"prose","dangerouslySetInnerHTML":{"__html":"$3"}}],"$L4"]}],"$L5"]}]]}],["$L6"],"$L7"]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"-f8JDEXe4WkXDL6nzUQi5"}
+4:["$","nav",null,{"className":"mt-12 pt-8 border-t border-border flex justify-between gap-4","children":[["$","div",null,{}],["$","div",null,{"className":"flex-1 p-4 bg-pickle-lighter rounded-lg text-center","children":["$","$L8",null,{"pose":"celebrating","size":"small","message":"You finished the book!","className":"inline-flex"}]}]]}]
+5:["$","aside",null,{"className":"hidden lg:block space-y-4 no-print","children":["$","div",null,{"className":"sticky top-20 space-y-4","children":[["$","div",null,{"className":"flex items-center gap-2","children":[["$","$L9",null,{"slug":"08-compounds-short-chain-fatty-acids"}],["$","$La",null,{}]]}],["$","$Lb",null,{"headings":[{"id":"short-chain-fatty-acids","text":"Short Chain Fatty Acids","level":1},{"id":"production","text":"Production","level":2},{"id":"butyrate-the-central-molecule","text":"Butyrate — The Central Molecule","level":2},{"id":"hdac-inhibition","text":"HDAC Inhibition","level":3},{"id":"colonocyte-fuel","text":"Colonocyte Fuel","level":3},{"id":"gpr109a-signaling","text":"GPR109a Signaling","level":3},{"id":"mast-cell-stabilization","text":"Mast Cell Stabilization","level":3},{"id":"supplementation-strategy","text":"Supplementation Strategy","level":2},{"id":"propionate","text":"Propionate","level":2},{"id":"acetate","text":"Acetate","level":2},{"id":"connections","text":"Connections","level":2}]}]]}]}]
+6:["$","script","script-0",{"src":"/_next/static/chunks/2gspel2gmkmqb.js","async":true}]
+7:["$","$Lc",null,{"children":["$","$d",null,{"name":"Next.MetadataOutlet","children":"$@e"}]}]
+e:null

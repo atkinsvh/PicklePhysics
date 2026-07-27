@@ -1,0 +1,253 @@
+1:"$Sreact.fragment"
+2:I[86576,["/_next/static/chunks/2cdxtyl33onme.js","/_next/static/chunks/30x6623ill3zz.js"],"default"]
+3:I[71500,["/_next/static/chunks/2cdxtyl33onme.js","/_next/static/chunks/30x6623ill3zz.js"],"default"]
+4:I[12905,["/_next/static/chunks/2cdxtyl33onme.js","/_next/static/chunks/30x6623ill3zz.js"],"default"]
+5:I[39485,["/_next/static/chunks/2cdxtyl33onme.js","/_next/static/chunks/30x6623ill3zz.js"],"default"]
+6:I[49016,["/_next/static/chunks/2cdxtyl33onme.js","/_next/static/chunks/30x6623ill3zz.js"],"default"]
+7:I[72128,["/_next/static/chunks/2cdxtyl33onme.js","/_next/static/chunks/30x6623ill3zz.js"],"default"]
+8:I[66489,["/_next/static/chunks/2cdxtyl33onme.js","/_next/static/chunks/30x6623ill3zz.js","/_next/static/chunks/2gspel2gmkmqb.js"],"default"]
+9:I[8946,["/_next/static/chunks/2cdxtyl33onme.js","/_next/static/chunks/30x6623ill3zz.js","/_next/static/chunks/2gspel2gmkmqb.js"],""]
+a:I[17998,["/_next/static/chunks/2cdxtyl33onme.js","/_next/static/chunks/30x6623ill3zz.js"],"Image"]
+14:I[80991,["/_next/static/chunks/2cdxtyl33onme.js","/_next/static/chunks/30x6623ill3zz.js"],"default",1]
+:HL["/_next/static/chunks/0ji7bt98574e2.css","style"]
+:HL["/_next/static/media/345c85a432359eed-s.p.0zem_9y19rte6.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/8e451580e5e95631-s.p.27vw08z6_vw0m.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/ae7b4f62a68c82ac-s.p.3n5l2eibg0v7e.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/cfa8380cafbbf487-s.p.10lxx8g3llv2l.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/ea1df765ed99ddf9-s.p.02nvq2zrhh7ok.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/f30fd2e485acf1bc-s.p.35belnv3c2-b-.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+0:{"P":null,"c":["","chapter","06-microbiology-microbiome-onramp-protocol"],"q":"","i":false,"f":[[["",{"children":["chapter",{"children":[["slug","06-microbiology-microbiome-onramp-protocol","d",null],{"children":["__PAGE__",{}]}]}]},"$undefined","$undefined",16],[["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/chunks/0ji7bt98574e2.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}],["$","script","script-0",{"src":"/_next/static/chunks/2cdxtyl33onme.js","async":true,"nonce":"$undefined"}],["$","script","script-1",{"src":"/_next/static/chunks/30x6623ill3zz.js","async":true,"nonce":"$undefined"}]],["$","html",null,{"lang":"en","className":"lato_4f378528-module__vg9CXq__variable lobster_3ffb1501-module__zSC-9a__variable cinzel_decorative_860d8d00-module__447Jhq__variable h-full antialiased","children":["$","body",null,{"className":"min-h-full flex flex-col","style":{"background":"var(--reader-bg, #1a1a2e)","color":"var(--reader-color, #e5e7eb)","fontFamily":"var(--reader-font, var(--font-lato), sans-serif)","fontSize":"var(--reader-font-size, 18px)","lineHeight":"var(--reader-line-height, 1.8)"},"children":[["$","$L2",null,{}],["$","$L3",null,{}],["$","$L4",null,{"children":[["$","$L5",null,{}],["$","main",null,{"className":"flex-1","children":["$","$L6",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L7",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[["$","div",null,{"className":"min-h-[60vh] flex flex-col items-center justify-center px-4 text-center","children":[["$","$L8",null,{"pose":"questioning","size":"large","message":"Oops! Page not found."}],["$","h1",null,{"className":"text-4xl font-bold text-foreground mt-8 mb-4","children":"404 — Page Not Found"}],["$","p",null,{"className":"text-muted mb-8 max-w-md","children":"The page you are looking for does not exist or has been moved. Let us help you find your way back."}],["$","div",null,{"className":"flex gap-3","children":[["$","$L9",null,{"href":"/","className":"px-6 py-3 bg-pickle-green text-white font-semibold rounded-lg hover:bg-pickle-dark transition-colors","children":"Go Home"}],["$","$L9",null,{"href":"/read","className":"px-6 py-3 border border-border text-foreground font-semibold rounded-lg hover:border-pickle-green hover:text-pickle-green transition-colors","children":"Start Reading"}]]}]]}],[]],"forbidden":"$undefined","unauthorized":"$undefined"}]}]]}],["$","footer",null,{"className":"border-t mt-auto no-print","style":{"background":"var(--surface-color, #16162a)","borderColor":"var(--color-border)"},"children":[["$","div",null,{"className":"h-1 bg-gradient-to-r from-pickle-light via-pickle-green to-pickle-light"}],["$","div",null,{"className":"max-w-6xl mx-auto px-4 py-10","children":[["$","div",null,{"className":"grid grid-cols-1 md:grid-cols-3 gap-8","children":[["$","div",null,{"children":[["$","$L9",null,{"href":"/","className":"flex items-center gap-2 mb-3","children":[["$","$La",null,{"src":"/images/branding/simplified-logo-mark-v01-01.png","alt":"Ed's Picklery and Emporium","width":32,"height":32,"className":"h-8 w-8"}],["$","span",null,{"className":"font-semibold","style":{"color":"var(--reader-color)"},"children":"Ed's Picklery and Emporium"}]]}],["$","p",null,{"className":"text-sm","style":{"color":"var(--color-muted)"},"children":"Life saving pickles that cure disorders"}]]}],["$","div",null,{"children":[["$","h3",null,{"className":"font-semibold mb-3","style":{"color":"var(--reader-color)"},"children":"Navigation"}],["$","ul",null,{"className":"space-y-2","children":[["$","li","/",{"children":["$","$L9",null,{"href":"/","className":"text-sm transition-colors hover:text-pickle-green","style":{"color":"var(--color-muted)"},"children":"Home"}]}],["$","li","/read",{"children":["$","$L9",null,{"href":"/read","className":"text-sm transition-colors hover:text-pickle-green","style":{"color":"var(--color-muted)"},"children":"Read"}]}],["$","li","/contents",{"children":["$","$L9",null,{"href":"/contents","className":"text-sm transition-colors hover:text-pickle-green","style":{"color":"var(--color-muted)"},"children":"Contents"}]}],["$","li","/search",{"children":["$","$L9",null,{"href":"/search","className":"text-sm transition-colors hover:text-pickle-green","style":{"color":"var(--color-muted)"},"children":"Search"}]}],["$","li","/about",{"children":["$","$L9",null,{"href":"/about","className":"text-sm transition-colors hover:text-pickle-green","style":{"color":"var(--color-muted)"},"children":"About"}]}],"$Lb","$Lc"]}]]}],"$Ld"]}],"$Le"]}]]}]]}]}]]}],{"children":["$Lf",{"children":["$L10",{"children":["$L11",{},null,false,null]},null,false,"$@12"]},null,false,"$@12"]},null,false,null],"$L13",false]],"m":"$undefined","G":["$14",["$L15"]],"S":true,"h":null,"s":"$undefined","l":"$undefined","p":"$undefined","d":"$undefined","b":"-f8JDEXe4WkXDL6nzUQi5"}
+17:I[93070,["/_next/static/chunks/2cdxtyl33onme.js","/_next/static/chunks/30x6623ill3zz.js"],"OutletBoundary"]
+18:"$Sreact.suspense"
+1b:I[93070,["/_next/static/chunks/2cdxtyl33onme.js","/_next/static/chunks/30x6623ill3zz.js"],"ViewportBoundary"]
+1d:I[93070,["/_next/static/chunks/2cdxtyl33onme.js","/_next/static/chunks/30x6623ill3zz.js"],"MetadataBoundary"]
+b:["$","li","/resources",{"children":["$","$L9",null,{"href":"/resources","className":"text-sm transition-colors hover:text-pickle-green","style":{"color":"var(--color-muted)"},"children":"Resources"}]}]
+c:["$","li","/references",{"children":["$","$L9",null,{"href":"/references","className":"text-sm transition-colors hover:text-pickle-green","style":{"color":"var(--color-muted)"},"children":"References"}]}]
+d:["$","div",null,{"children":[["$","h3",null,{"className":"font-semibold mb-3","style":{"color":"var(--reader-color)"},"children":"About"}],["$","p",null,{"className":"text-sm mb-2","style":{"color":"var(--color-muted)"},"children":["Written by ","Nick James"]}],["$","p",null,{"className":"text-sm","style":{"color":"var(--color-muted)"},"children":"Educational content for curious minds."}]]}]
+e:["$","div",null,{"className":"mt-8 pt-6 border-t text-center","style":{"borderColor":"var(--color-border)"},"children":["$","p",null,{"className":"text-sm","style":{"color":"var(--color-muted)"},"children":["© ",2026," ","Ed's Picklery and Emporium",". All rights reserved."]}]}]
+f:["$","$1","c",{"children":[null,["$","$L6",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L7",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}]
+10:["$","$1","c",{"children":[null,["$","$L6",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L7",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}]
+11:["$","$1","c",{"children":["$L16",[["$","script","script-0",{"src":"/_next/static/chunks/2gspel2gmkmqb.js","async":true,"nonce":"$undefined"}]],["$","$L17",null,{"children":["$","$18",null,{"name":"Next.MetadataOutlet","children":"$@19"}]}]]}]
+1a:[]
+12:"$W1a"
+13:["$","$1","h",{"children":[null,["$","$L1b",null,{"children":"$L1c"}],["$","div",null,{"hidden":true,"children":["$","$L1d",null,{"children":["$","$18",null,{"name":"Next.Metadata","children":"$L1e"}]}]}],["$","meta",null,{"name":"next-size-adjust","content":""}]]}]
+15:["$","link","0",{"rel":"stylesheet","href":"/_next/static/chunks/0ji7bt98574e2.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]
+1f:I[90114,["/_next/static/chunks/2cdxtyl33onme.js","/_next/static/chunks/30x6623ill3zz.js","/_next/static/chunks/2gspel2gmkmqb.js"],"default"]
+20:T305b,<h1 id="microbiome-onramp-protocol">Microbiome Onramp Protocol</h1>
+<blockquote>
+<p><em>Vacate the niche, set the abiotic conditions, seed in the right order. Most microbiome interventions fail at step 1 — they dump strains into a defended biofilm and wonder why nothing sticks. The onramp is a 6-week structured sequence that handles all three.</em></p>
+</blockquote>
+<h2 id="the-onramp-problem-stated-precisely">The Onramp Problem Stated Precisely</h2>
+<p>You are not <em>adding</em> a community to a vacant niche. You are <strong>displacing a defended, biofilm-encased, quorum-coordinated incumbent community</strong> with one better adapted to your goals. Three sequential moves are required:</p>
+<ol>
+<li><strong>Vacate the niche</strong> — break matrix, blind QS, deny incumbent substrates</li>
+<li><strong>Set abiotic conditions</strong> — pH, bile, mucin, oxygen, transit time favoring incoming community</li>
+<li><strong>Seed in the right order</strong> — pioneers first, secondary wave, climax community</li>
+</ol>
+<h2 id="the-five-principles">The Five Principles</h2>
+<p><strong>1. You cannot seed into a defended biofilm.</strong> The incumbent has matrix, QS-coordinated defense, and established substrate capture. The matrix has to be disrupted first. This is why the [[Upper GI Biofilm Disruption]] protocol precedes this one.</p>
+<p><strong>2. Order matters more than dose.</strong> Pioneers modify the environment. Secondary colonizers need the modifications. Climax community needs both. Get the order wrong and you waste everything.</p>
+<table>
+<thead>
+<tr>
+<th>Trophic level</th>
+<th>Function</th>
+<th>Examples</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Pioneer</td>
+<td>Modifies environment</td>
+<td><em>Akkermansia muciniphila</em> (mucin architect), <em>Bifidobacterium longum</em> (acidifier)</td>
+</tr>
+<tr>
+<td>Secondary</td>
+<td>Establishes core function</td>
+<td><em>L. rhamnosus</em> GG, <em>L. plantarum</em>, <em>F. prausnitzii</em></td>
+</tr>
+<tr>
+<td>Climax</td>
+<td>Diverse community</td>
+<td>[[Honey Culture System]] organisms (L. kunkeei, Starmerella), wild kefir community</td>
+</tr>
+</tbody>
+</table>
+<p><strong>3. Substrate provision is more important than strain selection.</strong> A perfect strain in a starved environment dies. A mediocre strain in a well-fed environment thrives. The prebiotic rotation is more important than the probiotic choice.</p>
+<p><strong>4. The vacate-then-feed-then-seed pattern.</strong> A 24–48 hour fast creates a transient vacant niche. The first meal after the fast should be <em>prebiotic-rich</em>, not probiotic-rich. Substrate first; culture follows.</p>
+<p><strong>5. Biogeographic matching.</strong> Local raw honey, local ferments, even local soil organisms may interface with the immune system through co-evolutionary compatibility imported strains lack. The [[Honey Culture System]] "biogeographic matching principle" applies throughout.</p>
+<h2 id="week-0-days-7-to-0-niche-clearing">Week 0 (Days -7 to 0): Niche Clearing</h2>
+<p><strong>Daily:</strong></p>
+<ul>
+<li>NAC 1200mg (matrix disruption)</li>
+<li>Cinnamon bark decoction (1 tsp bark in 1 cup water, simmer 10 min, AM)</li>
+<li>Fresh crushed garlic (2 cloves, 10 min rest, eat with food) — allicin</li>
+<li>Curcumin 500mg + piperine 5mg with fatty meal</li>
+<li>Nattokinase 2000 FU or serrapeptase 120,000 SPU, empty stomach</li>
+<li>Bone broth 1 cup (glycine, mucin substrates, minerals)</li>
+<li>L. reuteri (specific strain, e.g. ATCC PTA 6475) — produces QS-inhibiting compounds</li>
+<li>L. rhamnosus GG — DAO producer, tight junction</li>
+</ul>
+<p><strong>No climax community introduction yet.</strong> This week is matrix breaking and substrate work only.</p>
+<h2 id="week-1-days-1-7-substrate-and-acidity">Week 1 (Days 1–7): Substrate and Acidity</h2>
+<p>Continue everything from Week 0. Add:</p>
+<p><strong>Prebiotic rotation (rotate daily):</strong></p>
+<ul>
+<li>Day 1: PHGG (partially hydrolyzed guar gum) 5g — feeds butyrate producers</li>
+<li>Day 2: Oat beta-glucan 5g — <em>Akkermansia</em> food</li>
+<li>Day 3: Chicory inulin 5g (long-chain, distal colon delivery)</li>
+<li>Day 4: GOS (galacto-oligosaccharides) 5g if available — <em>Bifidobacterium</em> specific</li>
+<li>Day 5: Resistant starch 15g (cooked-then-cooled potato/rice) — butyrate producer fuel</li>
+<li>Day 6: Acacia fiber 5g (gentle, broad)</li>
+<li>Day 7: PHGG 5g (cycle)</li>
+</ul>
+<p><strong>Bile support:</strong></p>
+<ul>
+<li>TUDCA 250–500mg with meals</li>
+<li>Ox bile 125–250mg with fatty meals</li>
+<li>Phosphatidylcholine 5g with meals</li>
+<li>Digestive bitters (dandelion + gentian + artichoke) 15 min before largest meal</li>
+</ul>
+<p><strong>Acidity establishment:</strong></p>
+<ul>
+<li>Raw apple cider vinegar 1 tbsp in water, 15 min before meals</li>
+</ul>
+<h2 id="week-2-days-8-14-pioneer-introduction">Week 2 (Days 8–14): Pioneer Introduction</h2>
+<p>This is when the mucin architect comes in. Continue substrate rotation. Lower matrix breaker doses (you don't want to keep disrupting once seeding begins).</p>
+<ul>
+<li><strong>Akkermansia muciniphila</strong> (pasteurized form) — 10^10 CFU daily, AM empty stomach. Degrades and rebuilds mucin — niche engineering. Takes 2–3 weeks to fully establish. <em>Pasteurized is the form with clinical evidence; live form has unresolved safety questions.</em></li>
+<li><strong>Bifidobacterium longum</strong> — 10^10 CFU daily. Creates acidic environment. Produces folate (one-carbon substrate — see [[One Carbon Metabolism]]). Pioneer secondary colonizer.</li>
+</ul>
+<h2 id="week-3-days-15-21-secondary-wave">Week 3 (Days 15–21): Secondary Wave</h2>
+<p>The environment should now be acidic, mucin-rebuilding, substrate-rotated. Add:</p>
+<ul>
+<li><strong>L. rhamnosus GG</strong> — 10^10 CFU daily (started in Week 0, formal colonization phase)</li>
+<li><strong>L. plantarum</strong> — 10^10 CFU daily. Bile-resistant, good colonizer.</li>
+<li><strong>Saccharomyces boulardii</strong> — 5 billion CFU daily. Yeast; clears residual pathogens, conditions environment. Does not take permanent residence.</li>
+<li><strong>Faecalibacterium prausnitzii</strong> — 10^10 CFU daily if sourceable. Most butyrate-producing keystone; difficult to manufacture (obligate anaerobe) so most products lack it. Specialty suppliers only.</li>
+</ul>
+<h2 id="week-4-days-22-28-diverse-community-introduction">Week 4 (Days 22–28): Diverse Community Introduction</h2>
+<p>The climax community. The [[Honey Culture System]] and wild kefir come in <em>now</em>, not earlier.</p>
+<ul>
+<li>
+<p><strong>Honey culture</strong>: 200–300ml activated culture weekly, rotating variety per the monthly schedule</p>
+<ul>
+<li>L. kunkeei and fructophilic LAB (climax bee-derived community)</li>
+<li>Starmerella bombicola (sophorolipid production continues to disrupt pathogen biofilms)</li>
+<li>Start with buckwheat (rutin-metabolizing) or local raw (biogeographic matching)</li>
+</ul>
+</li>
+<li>
+<p><strong>Wild kefir</strong>: ¼ cup daily, with DAO enzyme 20 min before, with fat-containing meal</p>
+<ul>
+<li><em>Do not start with large doses</em> — the [[Die-off Management|die-off]] and [[Phase 2 - Mast Cell Stabilization|mast cell]] load must be managed</li>
+<li>1 tbsp minimum start for anyone with MCAS/EDS/histamine tendency</li>
+<li>Wild kefir grains carry more diverse strains than commercial</li>
+</ul>
+</li>
+<li>
+<p><strong>Begin the 40-gallon ferment brine</strong> (or oxymel/scale-down version) at ½ tsp daily</p>
+<ul>
+<li>Histamine load ramps gradually</li>
+<li>The ferment itself delivers a community adapted to that specific botanical matrix</li>
+<li>A directed ecosystem, not a generic probiotic</li>
+</ul>
+</li>
+</ul>
+<h2 id="week-5-days-29-35-community-integration">Week 5 (Days 29–35): Community Integration</h2>
+<p>Continue all of the above. Add:</p>
+<ul>
+<li><strong>Multi-strain rotation</strong> of secondary species (alternate L. and Bifido emphasis)</li>
+<li><strong>Honey variety rotation</strong> through the monthly schedule</li>
+<li><strong>Fermented food diversity</strong> beyond the ferment brine:
+<ul>
+<li>Raw sauerkraut (small amounts, traditionally fermented, refrigerated)</li>
+<li>Kimchi</li>
+<li>Traditional miso (live, not pasteurized)</li>
+<li>Each adds different community members</li>
+<li>All with DAO bridge</li>
+</ul>
+</li>
+</ul>
+<h2 id="week-6-day-36-onward-maintenance">Week 6+ (Day 36 Onward): Maintenance</h2>
+<p>This is [[Phase 1 - Gut Barrier]] of the vault's protocol in maintenance mode:</p>
+<ul>
+<li>Continue prebiotic rotation</li>
+<li>Continue weekly honey culture</li>
+<li>Continue low-dose wild kefir (¼–½ cup daily)</li>
+<li>Continue daily fermented preparation</li>
+<li>Drop aggressive matrix breakers (NAC at 600mg BID is now sufficient)</li>
+<li>Continue bile support for at least 3 months</li>
+<li>Add the full [[Phase 0 - Source Control and Redox]] → [[Phase 5 - Adipose Remodeling]] sequence as conditions allow</li>
+</ul>
+<h2 id="the-four-keystone-species">The Four Keystone Species</h2>
+<p>The model says: if you can establish these four, the rest of the community tends to follow.</p>
+<table>
+<thead>
+<tr>
+<th>Keystone</th>
+<th>Function</th>
+<th>Why it matters</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><em>Akkermansia muciniphila</em></td>
+<td>Mucin layer architect</td>
+<td>Without adequate mucin, no Lactobacillus adhesion; tight junction support fails</td>
+</tr>
+<tr>
+<td><em>Faecalibacterium prausnitzii</em></td>
+<td>Butyrate producer</td>
+<td>Master HDAC inhibitor at anti-inflammatory loci; primary colonocyte fuel</td>
+</tr>
+<tr>
+<td><em>Bifidobacterium longum</em></td>
+<td>Acidifier, folate producer</td>
+<td>Creates acidic environment favoring Lactobacillus; provides one-carbon substrate for host methylation</td>
+</tr>
+<tr>
+<td><em>L. rhamnosus</em> (GG)</td>
+<td>DAO producer, tight junction</td>
+<td>Histamine degradation; barrier integrity; immune education</td>
+</tr>
+</tbody>
+</table>
+<p>The [[Gut Microbiome Ecology]] note has the full restoration target community table. The onramp protocol is the operational sequence to get there.</p>
+<h2 id="what-doesn-t-work">What Doesn't Work</h2>
+<ul>
+<li><strong>Generic multi-strain probiotic in a defended biofilm.</strong> Most are dead on arrival; the niche isn't prepared.</li>
+<li><strong>"Take more fiber" without specificity.</strong> Soluble (PHGG, inulin) is right; insoluble (wheat bran) is roughage with no specific community benefit.</li>
+<li><strong>Prebiotics only.</strong> Feeds incumbent too. Need to vacate first.</li>
+<li><strong>Massive inoculation (FMT, large kefir doses).</strong> Herxheimer load and histamine risk.</li>
+<li><strong>Long-term low-dose antimicrobials.</strong> Selects for resistance without breaking biofilm.</li>
+<li><strong>Single-strain targeting.</strong> The keystone model requires the right <em>combination</em>.</li>
+</ul>
+<h2 id="the-maintenance-layer">The Maintenance Layer</h2>
+<p>After the 6-week onramp, the [[Wild Vinegars]] daily protocol is the maintenance layer that prevents dysbiosis recurrence. Raw apple cider vinegar + raw honey (oxymel) before meals, daily herbal-infused vinegar, and weekly honey culture additions keep the climax community seeded and the pH favorable. This is the sustainable layer underneath the active onramp.</p>
+<h2 id="connections">Connections</h2>
+<ul>
+<li>[[Upper GI Biofilm Disruption]] — the niche-clearing prerequisite</li>
+<li>[[Die-off Management]] — the protocol failure-mode prevention</li>
+<li>[[Gut Microbiome Ecology]] — the target community</li>
+<li>[[Quorum Sensing]] — the bacterial cross-talk the climax community uses</li>
+<li>[[Honey Culture System]] — the climax community source</li>
+<li>[[Honey Microbiota]] — the organisms being introduced</li>
+<li>[[Botanical Pack]] — substrate rotation sources (chicory inulin, oat beta-glucan)</li>
+<li>[[Brine Formulation]] — calcium D-glucarate reducing beta-glucuronidase during transition</li>
+<li>[[Phase 1 - Gut Barrier]] — the vault's gut restoration phase</li>
+<li>[[One Carbon Metabolism]] — why Bifidobacterium folate production matters</li>
+<li>[[Short Chain Fatty Acids]] — the output the onramp is producing</li>
+<li>[[Wild Vinegars]] — the maintenance layer</li>
+<li>[[Bile-Micelle-Antioxidant Axis]] — what restored microbiome function enables</li>
+</ul>
+16:["$","div",null,{"className":"max-w-6xl mx-auto px-4 py-8","children":[["$","$L1f",null,{"slug":"06-microbiology-microbiome-onramp-protocol"}],["$","div",null,{"className":"grid grid-cols-1 lg:grid-cols-[1fr_280px] gap-8","children":[["$","article",null,{"children":[["$","header",null,{"className":"mb-8","children":[["$","div",null,{"className":"flex items-center gap-2 text-sm text-muted mb-3","children":[["$","span",null,{"className":"px-2 py-0.5 bg-pickle-light text-pickle-dark rounded text-xs font-medium","children":"Microbiology"}],["$","span",null,{"children":["Chapter ",34]}]]}],["$","h1",null,{"className":"text-3xl md:text-4xl font-bold text-foreground mb-3","children":"Microbiome Onramp Protocol"}],["$","p",null,{"className":"text-lg text-muted leading-relaxed","children":"tags: [microbiology, protocol, microbiome-onramp, keystone-species, rebiosis, hub]"}]]}],["$","div",null,{"className":"prose","dangerouslySetInnerHTML":{"__html":"$20"}}],"$L21"]}],"$L22"]}]]}]
+23:I[98352,["/_next/static/chunks/2cdxtyl33onme.js","/_next/static/chunks/30x6623ill3zz.js","/_next/static/chunks/2gspel2gmkmqb.js"],"default"]
+24:I[70411,["/_next/static/chunks/2cdxtyl33onme.js","/_next/static/chunks/30x6623ill3zz.js","/_next/static/chunks/2gspel2gmkmqb.js"],"default"]
+25:I[10432,["/_next/static/chunks/2cdxtyl33onme.js","/_next/static/chunks/30x6623ill3zz.js","/_next/static/chunks/2gspel2gmkmqb.js"],"default"]
+21:["$","nav",null,{"className":"mt-12 pt-8 border-t border-border flex justify-between gap-4","children":[["$","div",null,{}],["$","div",null,{"className":"flex-1 p-4 bg-pickle-lighter rounded-lg text-center","children":["$","$L8",null,{"pose":"celebrating","size":"small","message":"You finished the book!","className":"inline-flex"}]}]]}]
+22:["$","aside",null,{"className":"hidden lg:block space-y-4 no-print","children":["$","div",null,{"className":"sticky top-20 space-y-4","children":[["$","div",null,{"className":"flex items-center gap-2","children":[["$","$L23",null,{"slug":"06-microbiology-microbiome-onramp-protocol"}],["$","$L24",null,{}]]}],["$","$L25",null,{"headings":[{"id":"microbiome-onramp-protocol","text":"Microbiome Onramp Protocol","level":1},{"id":"the-onramp-problem-stated-precisely","text":"The Onramp Problem Stated Precisely","level":2},{"id":"the-five-principles","text":"The Five Principles","level":2},{"id":"week-0-days-7-to-0-niche-clearing","text":"Week 0 (Days -7 to 0): Niche Clearing","level":2},{"id":"week-1-days-1-7-substrate-and-acidity","text":"Week 1 (Days 1–7): Substrate and Acidity","level":2},{"id":"week-2-days-8-14-pioneer-introduction","text":"Week 2 (Days 8–14): Pioneer Introduction","level":2},{"id":"week-3-days-15-21-secondary-wave","text":"Week 3 (Days 15–21): Secondary Wave","level":2},{"id":"week-4-days-22-28-diverse-community-introduction","text":"Week 4 (Days 22–28): Diverse Community Introduction","level":2},{"id":"week-5-days-29-35-community-integration","text":"Week 5 (Days 29–35): Community Integration","level":2},{"id":"week-6-day-36-onward-maintenance","text":"Week 6+ (Day 36 Onward): Maintenance","level":2},{"id":"the-four-keystone-species","text":"The Four Keystone Species","level":2},{"id":"what-doesn-t-work","text":"What Doesn't Work","level":2},{"id":"the-maintenance-layer","text":"The Maintenance Layer","level":2},{"id":"connections","text":"Connections","level":2}]}]]}]}]
+1c:[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]
+26:I[187,["/_next/static/chunks/2cdxtyl33onme.js","/_next/static/chunks/30x6623ill3zz.js"],"IconMark"]
+19:null
+1e:[["$","title","0",{"children":"Microbiome Onramp Protocol | Ed's Picklery and Emporium"}],["$","meta","1",{"name":"description","content":"tags: [microbiology, protocol, microbiome-onramp, keystone-species, rebiosis, hub]"}],["$","meta","2",{"property":"og:title","content":"Ed's Picklery and Emporium"}],["$","meta","3",{"property":"og:description","content":"Life saving pickles that cure disorders"}],["$","meta","4",{"property":"og:url","content":"https://edspickle.shop"}],["$","meta","5",{"property":"og:site_name","content":"Ed's Picklery and Emporium"}],["$","meta","6",{"property":"og:image","content":"https://edspickle.shop/images/branding/social-sharing-image-v01-01.png"}],["$","meta","7",{"property":"og:image:width","content":"1200"}],["$","meta","8",{"property":"og:image:height","content":"630"}],["$","meta","9",{"property":"og:type","content":"website"}],["$","meta","10",{"name":"twitter:card","content":"summary_large_image"}],["$","meta","11",{"name":"twitter:title","content":"Ed's Picklery and Emporium"}],["$","meta","12",{"name":"twitter:description","content":"Life saving pickles that cure disorders"}],["$","meta","13",{"name":"twitter:image","content":"https://edspickle.shop/images/branding/social-sharing-image-v01-01.png"}],["$","link","14",{"rel":"icon","href":"/favicon.ico?favicon.2vob68tjqpejf.ico","sizes":"256x256","type":"image/x-icon"}],["$","link","15",{"rel":"icon","href":"/images/branding/favicon-v01-01.png"}],["$","$L26","16",{}]]

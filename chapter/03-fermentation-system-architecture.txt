@@ -1,0 +1,210 @@
+1:"$Sreact.fragment"
+2:I[86576,["/_next/static/chunks/2cdxtyl33onme.js","/_next/static/chunks/30x6623ill3zz.js"],"default"]
+3:I[71500,["/_next/static/chunks/2cdxtyl33onme.js","/_next/static/chunks/30x6623ill3zz.js"],"default"]
+4:I[12905,["/_next/static/chunks/2cdxtyl33onme.js","/_next/static/chunks/30x6623ill3zz.js"],"default"]
+5:I[39485,["/_next/static/chunks/2cdxtyl33onme.js","/_next/static/chunks/30x6623ill3zz.js"],"default"]
+6:I[49016,["/_next/static/chunks/2cdxtyl33onme.js","/_next/static/chunks/30x6623ill3zz.js"],"default"]
+7:I[72128,["/_next/static/chunks/2cdxtyl33onme.js","/_next/static/chunks/30x6623ill3zz.js"],"default"]
+8:I[66489,["/_next/static/chunks/2cdxtyl33onme.js","/_next/static/chunks/30x6623ill3zz.js","/_next/static/chunks/2gspel2gmkmqb.js"],"default"]
+9:I[8946,["/_next/static/chunks/2cdxtyl33onme.js","/_next/static/chunks/30x6623ill3zz.js","/_next/static/chunks/2gspel2gmkmqb.js"],""]
+a:I[17998,["/_next/static/chunks/2cdxtyl33onme.js","/_next/static/chunks/30x6623ill3zz.js"],"Image"]
+14:I[80991,["/_next/static/chunks/2cdxtyl33onme.js","/_next/static/chunks/30x6623ill3zz.js"],"default",1]
+:HL["/_next/static/chunks/0ji7bt98574e2.css","style"]
+:HL["/_next/static/media/345c85a432359eed-s.p.0zem_9y19rte6.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/8e451580e5e95631-s.p.27vw08z6_vw0m.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/ae7b4f62a68c82ac-s.p.3n5l2eibg0v7e.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/cfa8380cafbbf487-s.p.10lxx8g3llv2l.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/ea1df765ed99ddf9-s.p.02nvq2zrhh7ok.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/f30fd2e485acf1bc-s.p.35belnv3c2-b-.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+0:{"P":null,"c":["","chapter","03-fermentation-system-architecture"],"q":"","i":false,"f":[[["",{"children":["chapter",{"children":[["slug","03-fermentation-system-architecture","d",null],{"children":["__PAGE__",{}]}]}]},"$undefined","$undefined",16],[["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/chunks/0ji7bt98574e2.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}],["$","script","script-0",{"src":"/_next/static/chunks/2cdxtyl33onme.js","async":true,"nonce":"$undefined"}],["$","script","script-1",{"src":"/_next/static/chunks/30x6623ill3zz.js","async":true,"nonce":"$undefined"}]],["$","html",null,{"lang":"en","className":"lato_4f378528-module__vg9CXq__variable lobster_3ffb1501-module__zSC-9a__variable cinzel_decorative_860d8d00-module__447Jhq__variable h-full antialiased","children":["$","body",null,{"className":"min-h-full flex flex-col","style":{"background":"var(--reader-bg, #1a1a2e)","color":"var(--reader-color, #e5e7eb)","fontFamily":"var(--reader-font, var(--font-lato), sans-serif)","fontSize":"var(--reader-font-size, 18px)","lineHeight":"var(--reader-line-height, 1.8)"},"children":[["$","$L2",null,{}],["$","$L3",null,{}],["$","$L4",null,{"children":[["$","$L5",null,{}],["$","main",null,{"className":"flex-1","children":["$","$L6",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L7",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[["$","div",null,{"className":"min-h-[60vh] flex flex-col items-center justify-center px-4 text-center","children":[["$","$L8",null,{"pose":"questioning","size":"large","message":"Oops! Page not found."}],["$","h1",null,{"className":"text-4xl font-bold text-foreground mt-8 mb-4","children":"404 — Page Not Found"}],["$","p",null,{"className":"text-muted mb-8 max-w-md","children":"The page you are looking for does not exist or has been moved. Let us help you find your way back."}],["$","div",null,{"className":"flex gap-3","children":[["$","$L9",null,{"href":"/","className":"px-6 py-3 bg-pickle-green text-white font-semibold rounded-lg hover:bg-pickle-dark transition-colors","children":"Go Home"}],["$","$L9",null,{"href":"/read","className":"px-6 py-3 border border-border text-foreground font-semibold rounded-lg hover:border-pickle-green hover:text-pickle-green transition-colors","children":"Start Reading"}]]}]]}],[]],"forbidden":"$undefined","unauthorized":"$undefined"}]}]]}],["$","footer",null,{"className":"border-t mt-auto no-print","style":{"background":"var(--surface-color, #16162a)","borderColor":"var(--color-border)"},"children":[["$","div",null,{"className":"h-1 bg-gradient-to-r from-pickle-light via-pickle-green to-pickle-light"}],["$","div",null,{"className":"max-w-6xl mx-auto px-4 py-10","children":[["$","div",null,{"className":"grid grid-cols-1 md:grid-cols-3 gap-8","children":[["$","div",null,{"children":[["$","$L9",null,{"href":"/","className":"flex items-center gap-2 mb-3","children":[["$","$La",null,{"src":"/images/branding/simplified-logo-mark-v01-01.png","alt":"Ed's Picklery and Emporium","width":32,"height":32,"className":"h-8 w-8"}],["$","span",null,{"className":"font-semibold","style":{"color":"var(--reader-color)"},"children":"Ed's Picklery and Emporium"}]]}],["$","p",null,{"className":"text-sm","style":{"color":"var(--color-muted)"},"children":"Life saving pickles that cure disorders"}]]}],["$","div",null,{"children":[["$","h3",null,{"className":"font-semibold mb-3","style":{"color":"var(--reader-color)"},"children":"Navigation"}],["$","ul",null,{"className":"space-y-2","children":[["$","li","/",{"children":["$","$L9",null,{"href":"/","className":"text-sm transition-colors hover:text-pickle-green","style":{"color":"var(--color-muted)"},"children":"Home"}]}],["$","li","/read",{"children":["$","$L9",null,{"href":"/read","className":"text-sm transition-colors hover:text-pickle-green","style":{"color":"var(--color-muted)"},"children":"Read"}]}],["$","li","/contents",{"children":["$","$L9",null,{"href":"/contents","className":"text-sm transition-colors hover:text-pickle-green","style":{"color":"var(--color-muted)"},"children":"Contents"}]}],["$","li","/search",{"children":["$","$L9",null,{"href":"/search","className":"text-sm transition-colors hover:text-pickle-green","style":{"color":"var(--color-muted)"},"children":"Search"}]}],["$","li","/about",{"children":["$","$L9",null,{"href":"/about","className":"text-sm transition-colors hover:text-pickle-green","style":{"color":"var(--color-muted)"},"children":"About"}]}],"$Lb","$Lc"]}]]}],"$Ld"]}],"$Le"]}]]}]]}]}]]}],{"children":["$Lf",{"children":["$L10",{"children":["$L11",{},null,false,null]},null,false,"$@12"]},null,false,"$@12"]},null,false,null],"$L13",false]],"m":"$undefined","G":["$14",["$L15"]],"S":true,"h":null,"s":"$undefined","l":"$undefined","p":"$undefined","d":"$undefined","b":"-f8JDEXe4WkXDL6nzUQi5"}
+17:I[93070,["/_next/static/chunks/2cdxtyl33onme.js","/_next/static/chunks/30x6623ill3zz.js"],"OutletBoundary"]
+18:"$Sreact.suspense"
+1b:I[93070,["/_next/static/chunks/2cdxtyl33onme.js","/_next/static/chunks/30x6623ill3zz.js"],"ViewportBoundary"]
+1d:I[93070,["/_next/static/chunks/2cdxtyl33onme.js","/_next/static/chunks/30x6623ill3zz.js"],"MetadataBoundary"]
+b:["$","li","/resources",{"children":["$","$L9",null,{"href":"/resources","className":"text-sm transition-colors hover:text-pickle-green","style":{"color":"var(--color-muted)"},"children":"Resources"}]}]
+c:["$","li","/references",{"children":["$","$L9",null,{"href":"/references","className":"text-sm transition-colors hover:text-pickle-green","style":{"color":"var(--color-muted)"},"children":"References"}]}]
+d:["$","div",null,{"children":[["$","h3",null,{"className":"font-semibold mb-3","style":{"color":"var(--reader-color)"},"children":"About"}],["$","p",null,{"className":"text-sm mb-2","style":{"color":"var(--color-muted)"},"children":["Written by ","Nick James"]}],["$","p",null,{"className":"text-sm","style":{"color":"var(--color-muted)"},"children":"Educational content for curious minds."}]]}]
+e:["$","div",null,{"className":"mt-8 pt-6 border-t text-center","style":{"borderColor":"var(--color-border)"},"children":["$","p",null,{"className":"text-sm","style":{"color":"var(--color-muted)"},"children":["© ",2026," ","Ed's Picklery and Emporium",". All rights reserved."]}]}]
+f:["$","$1","c",{"children":[null,["$","$L6",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L7",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}]
+10:["$","$1","c",{"children":[null,["$","$L6",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L7",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}]
+11:["$","$1","c",{"children":["$L16",[["$","script","script-0",{"src":"/_next/static/chunks/2gspel2gmkmqb.js","async":true,"nonce":"$undefined"}]],["$","$L17",null,{"children":["$","$18",null,{"name":"Next.MetadataOutlet","children":"$@19"}]}]]}]
+1a:[]
+12:"$W1a"
+13:["$","$1","h",{"children":[null,["$","$L1b",null,{"children":"$L1c"}],["$","div",null,{"hidden":true,"children":["$","$L1d",null,{"children":["$","$18",null,{"name":"Next.Metadata","children":"$L1e"}]}]}],["$","meta",null,{"name":"next-size-adjust","content":""}]]}]
+15:["$","link","0",{"rel":"stylesheet","href":"/_next/static/chunks/0ji7bt98574e2.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]
+1f:I[90114,["/_next/static/chunks/2cdxtyl33onme.js","/_next/static/chunks/30x6623ill3zz.js","/_next/static/chunks/2gspel2gmkmqb.js"],"default"]
+20:T1e1e,<h1 id="fermentation-system-architecture">Fermentation System Architecture</h1>
+<blockquote>
+<p><em>A 120-day lactofermented medicinal preparation. The brine and botanical matter together deliver the full compound spectrum through complementary aqueous and lipophilic delivery mechanisms.</em></p>
+</blockquote>
+<h2 id="system-parameters">System Parameters</h2>
+<table>
+<thead>
+<tr>
+<th>Parameter</th>
+<th>Value</th>
+<th>Rationale</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Vessel volume</td>
+<td>40 gallons (151L)</td>
+<td>Production scale for commercial viability</td>
+</tr>
+<tr>
+<td>Vessel material</td>
+<td>Food-grade stainless steel</td>
+<td>Universal chemical compatibility</td>
+</tr>
+<tr>
+<td>Brine volume</td>
+<td>~91L (60% of total)</td>
+<td>Standard packing ratio</td>
+</tr>
+<tr>
+<td>Botanical pack volume</td>
+<td>~60L (40% of total)</td>
+<td>55–60kg by weight</td>
+</tr>
+<tr>
+<td>Temperature</td>
+<td>18–22°C</td>
+<td>Lactobacillus optimal; cooler slows, warmer shifts to acetic</td>
+</tr>
+<tr>
+<td>Salt</td>
+<td>3.5% w/v non-iodized</td>
+<td>Selects Lactobacillus over pathogens; pathogen suppression threshold</td>
+</tr>
+<tr>
+<td>Target pH mature</td>
+<td>3.2–3.8</td>
+<td>Evolutionarily endorsed safe lactofermentation zone</td>
+</tr>
+<tr>
+<td>Cycle length</td>
+<td>120 days</td>
+<td>Complete compound extraction and culture maturation</td>
+</tr>
+<tr>
+<td>Water</td>
+<td>Filtered or dechlorinated</td>
+<td>Chlorine kills the culture</td>
+</tr>
+</tbody>
+</table>
+<h2 id="why-120-days">Why 120 Days</h2>
+<p>Shorter ferments deliver: live culture, basic lactic acid, partial compound extraction.</p>
+<p>120 days delivers additionally:</p>
+<ul>
+<li>Complete osmotic extraction of water-soluble compounds from botanical matrix</li>
+<li>Biotransformation of glycoside-bound polyphenols to free aglycones (deglycosylation by beta-glucosidase) — dramatically improving bioavailability</li>
+<li>Conversion of gingerols → shogaols (more potent, better absorbed)</li>
+<li>Oleuropein → hydroxytyrosol hydrolysis</li>
+<li>Spermidine and biosurfactant accumulation from Lactobacillus fermentation</li>
+<li>Biosurfactant production (surlactin) improving lipophilic compound distribution</li>
+<li>Culture maturation and community stability</li>
+</ul>
+<p>The 120-day cycle is a quality statement, not a limitation.</p>
+<h2 id="the-emulsification-problem-and-solution">The Emulsification Problem and Solution</h2>
+<p><strong>The problem:</strong> A purely aqueous brine at 3.5% salt cannot distribute lipophilic compounds throughout the gradient. Curcumin (logP 3.3), AKBA (logP 6–8), carnosic acid (logP 4–5), thymoquinone (logP 1.9) either float, aggregate, or remain in the botanical matrix. The therapeutic value of these compounds is lost from the brine fraction.</p>
+<p><strong>The solution — three-layer emulsification system:</strong></p>
+<ol>
+<li><strong>Sunflower lecithin (5g/L):</strong> Phosphatidylcholine forms crude liposomal vesicles spontaneously in aqueous solution. These distributed lipid-phase droplets carry lipophilic compounds through the brine following concentration gradients as water-compatible emulsified packages.</li>
+<li><strong>Black seed oil (12ml/L):</strong> Creates the lipid phase droplets that accept lipophilic compounds. Also introduces thymoquinone natively dissolved in its native oil matrix.</li>
+<li><strong>Glycerol (15ml/L):</strong> Miscible with both water and moderate-polarity compounds (logP 1–3). Bridges the gap between the two phases for intermediate compounds like hydroxytyrosol.</li>
+<li><strong>Marshmallow root/slippery elm mucilage</strong> (from botanical pack): Natural viscosity stabilization of the emulsion.</li>
+<li><strong>Lactobacillus biosurfactants:</strong> Surlactin and related glycolipids produced during fermentation — the emulsification infrastructure improves continuously through the 120-day cycle.</li>
+<li><strong>Starmerella bombicola</strong> (from honey culture additions): Produces sophorolipids — superior biosurfactants.</li>
+</ol>
+<p><strong>Preparation critical:</strong> Combine lecithin + black seed oil + glycerol with warm brine first. High-shear mix 3–5 min before adding salt or vegetables. The slight cloudiness = successful emulsion formation.</p>
+<h2 id="the-brine-as-delivery-vehicle">The Brine as Delivery Vehicle</h2>
+<p>The brine is not mere preservation medium. It is an emulsified, enzymatically active, microbiologically complex delivery vehicle for:</p>
+<ul>
+<li>Water-soluble polyphenols (quercetin aglycone, hydroxytyrosol, gingerols)</li>
+<li>Emulsified lipophilic compounds (curcumin, thymoquinone in oil droplets)</li>
+<li>Live Lactobacillus culture</li>
+<li>Butyrate, spermidine, short-chain fatty acids from fermentation</li>
+<li>Deglycosylation enzymes (beta-glucosidase) active throughout the brine</li>
+<li>Biosurfactants improving uptake of lipophilic compounds at gut epithelium</li>
+</ul>
+<h2 id="the-botanical-matter-as-complementary-delivery">The Botanical Matter as Complementary Delivery</h2>
+<p>The "spent" botanical matter retains:</p>
+<ul>
+<li>All lipophilic compounds that didn't extract into brine (AKBA logP 6–8, carnosic acid logP 4–5 — very little aqueous extraction)</li>
+<li>Fiber matrix (prebiotic function undiminished)</li>
+<li>Fermentation-transformed compounds with improved bioavailability</li>
+<li>Phytic acid reduced (improving mineral bioavailability from seeds and grains)</li>
+<li>Nigella seed coat softened (improving chewing-release of thymoquinone)</li>
+<li>Peppercorns softened (piperine more accessible to mechanical disruption)</li>
+</ul>
+<p><strong>The relish principle:</strong> Brine + botanical matter together cover the full compound spectrum. Neither fraction alone is optimal. They are complementary delivery mechanisms for different compound polarity classes.</p>
+<h2 id="concentration-for-product-format">Concentration for Product Format</h2>
+<p><strong>Target:</strong> 3–4× concentration for 6oz jar delivering 1 teaspoon daily (one jar per month)</p>
+<p><strong>Freeze concentration (preferred method):</strong></p>
+<ul>
+<li>Pour brine into shallow stainless trays, freeze solid</li>
+<li>Drain concentrated liquid before complete freezing</li>
+<li>Water crystallizes first, concentrating all dissolved compounds 3–5× in remaining liquid</li>
+<li>No heat required → live culture preserved</li>
+<li>Discard ice fraction (essentially pure water, compound-depleted)</li>
+</ul>
+<p><strong>Combined with 70/30 botanical:brine ratio</strong> (vs. standard 60:40): achieves overall 3–4× concentration.</p>
+<h2 id="ph-corrective-actions">pH Corrective Actions</h2>
+<table>
+<thead>
+<tr>
+<th>pH</th>
+<th>Status</th>
+<th>Action</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>&#x3C;3.0</td>
+<td>Over-acidified</td>
+<td>Add fresh vegetable matter (near-neutral) to buffer</td>
+</tr>
+<tr>
+<td>3.0–3.2</td>
+<td>Slightly low</td>
+<td>Monitor; optional small vegetable addition</td>
+</tr>
+<tr>
+<td>3.2–3.8</td>
+<td><strong>Target</strong></td>
+<td>No action</td>
+</tr>
+<tr>
+<td>3.8–4.0</td>
+<td>Slightly high</td>
+<td>Add 100–200ml reserved mature acidic brine</td>
+</tr>
+<tr>
+<td>>4.0</td>
+<td>Risk zone</td>
+<td>Add 500ml mature brine; check contamination</td>
+</tr>
+</tbody>
+</table>
+<h2 id="connections">Connections</h2>
+<ul>
+<li>[[Brine Formulation]] — complete formula</li>
+<li>[[Botanical Pack]] — full ingredient matrix</li>
+<li>[[Honey Culture System]] — culture additions</li>
+<li>[[Maintenance Protocol]] — cycle management</li>
+<li>[[Concentration and Harvest]] — production</li>
+<li>[[Gut Microbiome Ecology]] — the microbiology</li>
+<li>[[Quorum Sensing]] — bacterial signaling in the ferment</li>
+</ul>
+16:["$","div",null,{"className":"max-w-6xl mx-auto px-4 py-8","children":[["$","$L1f",null,{"slug":"03-fermentation-system-architecture"}],["$","div",null,{"className":"grid grid-cols-1 lg:grid-cols-[1fr_280px] gap-8","children":[["$","article",null,{"children":[["$","header",null,{"className":"mb-8","children":[["$","div",null,{"className":"flex items-center gap-2 text-sm text-muted mb-3","children":[["$","span",null,{"className":"px-2 py-0.5 bg-pickle-light text-pickle-dark rounded text-xs font-medium","children":"Fermentation"}],["$","span",null,{"children":["Chapter ",16]}]]}],["$","h1",null,{"className":"text-3xl md:text-4xl font-bold text-foreground mb-3","children":"Fermentation System Architecture"}],["$","p",null,{"className":"text-lg text-muted leading-relaxed","children":"tags: [protocol, fermentation, hub, system]"}]]}],["$","div",null,{"className":"prose","dangerouslySetInnerHTML":{"__html":"$20"}}],"$L21"]}],"$L22"]}]]}]
+23:I[98352,["/_next/static/chunks/2cdxtyl33onme.js","/_next/static/chunks/30x6623ill3zz.js","/_next/static/chunks/2gspel2gmkmqb.js"],"default"]
+24:I[70411,["/_next/static/chunks/2cdxtyl33onme.js","/_next/static/chunks/30x6623ill3zz.js","/_next/static/chunks/2gspel2gmkmqb.js"],"default"]
+25:I[10432,["/_next/static/chunks/2cdxtyl33onme.js","/_next/static/chunks/30x6623ill3zz.js","/_next/static/chunks/2gspel2gmkmqb.js"],"default"]
+21:["$","nav",null,{"className":"mt-12 pt-8 border-t border-border flex justify-between gap-4","children":[["$","div",null,{}],["$","div",null,{"className":"flex-1 p-4 bg-pickle-lighter rounded-lg text-center","children":["$","$L8",null,{"pose":"celebrating","size":"small","message":"You finished the book!","className":"inline-flex"}]}]]}]
+22:["$","aside",null,{"className":"hidden lg:block space-y-4 no-print","children":["$","div",null,{"className":"sticky top-20 space-y-4","children":[["$","div",null,{"className":"flex items-center gap-2","children":[["$","$L23",null,{"slug":"03-fermentation-system-architecture"}],["$","$L24",null,{}]]}],["$","$L25",null,{"headings":[{"id":"fermentation-system-architecture","text":"Fermentation System Architecture","level":1},{"id":"system-parameters","text":"System Parameters","level":2},{"id":"why-120-days","text":"Why 120 Days","level":2},{"id":"the-emulsification-problem-and-solution","text":"The Emulsification Problem and Solution","level":2},{"id":"the-brine-as-delivery-vehicle","text":"The Brine as Delivery Vehicle","level":2},{"id":"the-botanical-matter-as-complementary-delivery","text":"The Botanical Matter as Complementary Delivery","level":2},{"id":"concentration-for-product-format","text":"Concentration for Product Format","level":2},{"id":"ph-corrective-actions","text":"pH Corrective Actions","level":2},{"id":"connections","text":"Connections","level":2}]}]]}]}]
+1c:[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]
+26:I[187,["/_next/static/chunks/2cdxtyl33onme.js","/_next/static/chunks/30x6623ill3zz.js"],"IconMark"]
+19:null
+1e:[["$","title","0",{"children":"Fermentation System Architecture | Ed's Picklery and Emporium"}],["$","meta","1",{"name":"description","content":"tags: [protocol, fermentation, hub, system]"}],["$","meta","2",{"property":"og:title","content":"Ed's Picklery and Emporium"}],["$","meta","3",{"property":"og:description","content":"Life saving pickles that cure disorders"}],["$","meta","4",{"property":"og:url","content":"https://edspickle.shop"}],["$","meta","5",{"property":"og:site_name","content":"Ed's Picklery and Emporium"}],["$","meta","6",{"property":"og:image","content":"https://edspickle.shop/images/branding/social-sharing-image-v01-01.png"}],["$","meta","7",{"property":"og:image:width","content":"1200"}],["$","meta","8",{"property":"og:image:height","content":"630"}],["$","meta","9",{"property":"og:type","content":"website"}],["$","meta","10",{"name":"twitter:card","content":"summary_large_image"}],["$","meta","11",{"name":"twitter:title","content":"Ed's Picklery and Emporium"}],["$","meta","12",{"name":"twitter:description","content":"Life saving pickles that cure disorders"}],["$","meta","13",{"name":"twitter:image","content":"https://edspickle.shop/images/branding/social-sharing-image-v01-01.png"}],["$","link","14",{"rel":"icon","href":"/favicon.ico?favicon.2vob68tjqpejf.ico","sizes":"256x256","type":"image/x-icon"}],["$","link","15",{"rel":"icon","href":"/images/branding/favicon-v01-01.png"}],["$","$L26","16",{}]]

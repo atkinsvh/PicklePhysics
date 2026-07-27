@@ -1,0 +1,187 @@
+1:"$Sreact.fragment"
+2:I[90114,["/_next/static/chunks/2cdxtyl33onme.js","/_next/static/chunks/30x6623ill3zz.js","/_next/static/chunks/2gspel2gmkmqb.js"],"default"]
+8:I[66489,["/_next/static/chunks/2cdxtyl33onme.js","/_next/static/chunks/30x6623ill3zz.js","/_next/static/chunks/2gspel2gmkmqb.js"],"default"]
+9:I[98352,["/_next/static/chunks/2cdxtyl33onme.js","/_next/static/chunks/30x6623ill3zz.js","/_next/static/chunks/2gspel2gmkmqb.js"],"default"]
+a:I[70411,["/_next/static/chunks/2cdxtyl33onme.js","/_next/static/chunks/30x6623ill3zz.js","/_next/static/chunks/2gspel2gmkmqb.js"],"default"]
+b:I[10432,["/_next/static/chunks/2cdxtyl33onme.js","/_next/static/chunks/30x6623ill3zz.js","/_next/static/chunks/2gspel2gmkmqb.js"],"default"]
+c:I[93070,["/_next/static/chunks/2cdxtyl33onme.js","/_next/static/chunks/30x6623ill3zz.js"],"OutletBoundary"]
+d:"$Sreact.suspense"
+3:T1987,<h1 id="sensory-qc-protocol">Sensory QC Protocol</h1>
+<blockquote>
+<p><em>Using the evolved sensory apparatus as an analytical instrument. Establish a reference profile. Compare each batch against it. Deviation indicates chemistry change.</em></p>
+</blockquote>
+<h2 id="the-reference-batch-system">The Reference Batch System</h2>
+<p>For any reliable sensory QC, a reference standard is required:</p>
+<p><strong>For fat processing:</strong></p>
+<ul>
+<li>Keep a sealed jar of freshly processed stearin immediately after completion of the 11-step protocol</li>
+<li>This is your reference for: color, odor at 70°C, water drop surface tension behavior</li>
+<li>Label with date and FFA titration result</li>
+<li>Replace every 6 months</li>
+<li>Photograph each QC comparison for trend tracking</li>
+</ul>
+<p><strong>For fermented preparation:</strong></p>
+<ul>
+<li>After a batch is verified by pH measurement, taste assessment, and trigeminal profile</li>
+<li>Take a sealed small jar as the reference</li>
+<li>Refrigerate; replace with each new batch</li>
+<li>All subsequent batches compared against this reference</li>
+</ul>
+<h2 id="fat-quality-assessment">Fat Quality Assessment</h2>
+<h3 id="color-visual">Color (visual)</h3>
+<ul>
+<li>Reference: ivory to pale yellow, translucent when melted</li>
+<li>Early degradation: amber tint</li>
+<li>Significant degradation: orange-amber</li>
+<li>Severe degradation: dark amber to brown</li>
+<li><strong>The brownness is not random — it is specifically Maillard-type polymeric oxidation products, the same compounds the bentonite column adsorbs</strong></li>
+</ul>
+<h3 id="odor-at-70-c-olfactory">Odor at 70°C (olfactory)</h3>
+<p>Warm a small sample to exactly 70°C in a covered vessel, then uncover and smell:</p>
+<ul>
+<li>Reference: neutral, mildly fatty, clean</li>
+<li>Early degradation: faintly grassy or painty (hexanal)</li>
+<li>Moderate degradation: "old fat" note ((E)-2-nonenal)</li>
+<li>Severe degradation: rancid, harsh, deep-fried staleness</li>
+</ul>
+<h3 id="water-drop-test-ffa-proxy">Water Drop Test (FFA proxy)</h3>
+<ul>
+<li>Place fat drop on clean dry glass at room temperature</li>
+<li>Add water drop</li>
+<li>Reference: discrete water bead, maintains surface tension, does not spread</li>
+<li>High FFA: water spreads and partially emulsifies (FFAs as endogenous emulsifiers)</li>
+</ul>
+<h3 id="paper-towel-test-combined">Paper Towel Test (combined)</h3>
+<ul>
+<li>Dip white paper towel in fat at 60°C</li>
+<li>Reference: even pale yellow absorption, no dark patches</li>
+<li>Degraded: dark patches, uneven absorption</li>
+<li>Run after each bentonite treatment — endpoint when no further improvement visible</li>
+</ul>
+<h2 id="fermented-preparation-assessment">Fermented Preparation Assessment</h2>
+<h3 id="color-assessment">Color Assessment</h3>
+<table>
+<thead>
+<tr>
+<th>Color observation</th>
+<th>Significance</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Deep purple-red</td>
+<td>Anthocyanins from red onion, red cabbage, tart cherry well-extracted</td>
+</tr>
+<tr>
+<td>Orange-yellow tint in brine</td>
+<td>Curcumin extracted and distributed in oil phase (emulsification working)</td>
+</tr>
+<tr>
+<td>Clear to slightly turbid</td>
+<td>Normal — protein hydrolysis and bacterial biomass</td>
+</tr>
+<tr>
+<td>Muddy grey-brown</td>
+<td>Investigate for putrefaction — different from the amber-brown of normal mature ferment</td>
+</tr>
+<tr>
+<td>Fading purple over time</td>
+<td>Anthocyanin degradation — check pH (more acidic = better stability)</td>
+</tr>
+</tbody>
+</table>
+<h3 id="aroma-assessment-olfactory">Aroma Assessment (olfactory)</h3>
+<p><strong>Healthy:</strong></p>
+<ul>
+<li>Dominant clean lactic sour</li>
+<li>Secondary diacetyl cream note</li>
+<li>Botanical complexity present and identifiable (garlic, ginger, thyme)</li>
+<li>Mild earthy-indole in mature batches (acceptable)</li>
+</ul>
+<p><strong>Investigate:</strong></p>
+<ul>
+<li>Any putrescine/cadaverine character (rotting flesh)</li>
+<li>Dominant H₂S (rotten egg)</li>
+<li>Strongly alcoholic</li>
+<li>Sharp pure acetic without lactic character</li>
+</ul>
+<h3 id="taste-assessment-gustation">Taste Assessment (gustation)</h3>
+<p><strong>Healthy batch profile:</strong></p>
+<ul>
+<li>Pleasantly sour (pH confirmation)</li>
+<li>Complex bitterness (active compound presence)</li>
+<li>Umami depth increasing with age (protein hydrolysis)</li>
+<li>Mild salt (osmotic environment)</li>
+</ul>
+<p><strong>Investigate:</strong></p>
+<ul>
+<li>No bitterness (active compound degradation)</li>
+<li>No umami (fermentation stalled — protein not being hydrolyzed)</li>
+<li>Metallic taste (mineral imbalance or vessel corrosion)</li>
+<li>Soapy (high FFA from degraded botanical fats)</li>
+</ul>
+<h3 id="trigeminal-assessment">Trigeminal Assessment</h3>
+<p>Run systematically through each compound-specific sensation:</p>
+<table>
+<thead>
+<tr>
+<th>Sensation</th>
+<th>Compound confirmed</th>
+<th>Action if absent</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Garlic bite</td>
+<td>Allicin</td>
+<td>Check garlic quantity, freshness</td>
+</tr>
+<tr>
+<td>Ginger warmth</td>
+<td>Gingerols/shogaols</td>
+<td>Check ginger quantity</td>
+</tr>
+<tr>
+<td>Pepper heat</td>
+<td>Piperine</td>
+<td>Ensure peppercorns are being consumed</td>
+</tr>
+<tr>
+<td>Cinnamon tingle</td>
+<td>Cinnamaldehyde</td>
+<td>Check cinnamon bark freshness</td>
+</tr>
+<tr>
+<td>Nigella warmth/flavor</td>
+<td>Thymoquinone</td>
+<td>Check nigella seed freshness, quantity</td>
+</tr>
+<tr>
+<td>Bitter baseline</td>
+<td>Quercetin, EGCG, thymoquinone, andrographolide</td>
+<td>Check extraction conditions, botanical freshness</td>
+</tr>
+</tbody>
+</table>
+<h2 id="developing-individual-sensory-reference">Developing Individual Sensory Reference</h2>
+<p>The sensory system is trainable. Over repeated assessments:</p>
+<ul>
+<li>Specific off-notes become recognizable earlier</li>
+<li>Compound-specific trigeminal signatures become distinguishable</li>
+<li>Batch-to-batch variation pattern becomes apparent</li>
+</ul>
+<p>The goal is developing the capacity to assess a batch in 2–3 minutes and identify any significant departure from the established profile — a skill that comes with 5–10 systematic assessments using the framework above.</p>
+<h2 id="connections">Connections</h2>
+<ul>
+<li>[[Evolutionary Sensory Framework]] — why this works</li>
+<li>[[Olfactory Chemistry]] — aroma compounds</li>
+<li>[[Trigeminal Sensing]] — trigeminal signals</li>
+<li>[[Quality Control]] — fat-specific QC protocols</li>
+<li>[[System Architecture]] — what's being assessed</li>
+</ul>
+0:{"rsc":["$","$1","c",{"children":[["$","div",null,{"className":"max-w-6xl mx-auto px-4 py-8","children":[["$","$L2",null,{"slug":"10-sensory-sensory-qc-protocol"}],["$","div",null,{"className":"grid grid-cols-1 lg:grid-cols-[1fr_280px] gap-8","children":[["$","article",null,{"children":[["$","header",null,{"className":"mb-8","children":[["$","div",null,{"className":"flex items-center gap-2 text-sm text-muted mb-3","children":[["$","span",null,{"className":"px-2 py-0.5 bg-pickle-light text-pickle-dark rounded text-xs font-medium","children":"Sensory Science"}],["$","span",null,{"children":["Chapter ",56]}]]}],["$","h1",null,{"className":"text-3xl md:text-4xl font-bold text-foreground mb-3","children":"Sensory QC Protocol"}],["$","p",null,{"className":"text-lg text-muted leading-relaxed","children":"tags: [sensory, quality-control, protocol, fermentation, fat]"}]]}],["$","div",null,{"className":"prose","dangerouslySetInnerHTML":{"__html":"$3"}}],"$L4"]}],"$L5"]}]]}],["$L6"],"$L7"]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"-f8JDEXe4WkXDL6nzUQi5"}
+4:["$","nav",null,{"className":"mt-12 pt-8 border-t border-border flex justify-between gap-4","children":[["$","div",null,{}],["$","div",null,{"className":"flex-1 p-4 bg-pickle-lighter rounded-lg text-center","children":["$","$L8",null,{"pose":"celebrating","size":"small","message":"You finished the book!","className":"inline-flex"}]}]]}]
+5:["$","aside",null,{"className":"hidden lg:block space-y-4 no-print","children":["$","div",null,{"className":"sticky top-20 space-y-4","children":[["$","div",null,{"className":"flex items-center gap-2","children":[["$","$L9",null,{"slug":"10-sensory-sensory-qc-protocol"}],["$","$La",null,{}]]}],["$","$Lb",null,{"headings":[{"id":"sensory-qc-protocol","text":"Sensory QC Protocol","level":1},{"id":"the-reference-batch-system","text":"The Reference Batch System","level":2},{"id":"fat-quality-assessment","text":"Fat Quality Assessment","level":2},{"id":"color-visual","text":"Color (visual)","level":3},{"id":"odor-at-70-c-olfactory","text":"Odor at 70°C (olfactory)","level":3},{"id":"water-drop-test-ffa-proxy","text":"Water Drop Test (FFA proxy)","level":3},{"id":"paper-towel-test-combined","text":"Paper Towel Test (combined)","level":3},{"id":"fermented-preparation-assessment","text":"Fermented Preparation Assessment","level":2},{"id":"color-assessment","text":"Color Assessment","level":3},{"id":"aroma-assessment-olfactory","text":"Aroma Assessment (olfactory)","level":3},{"id":"taste-assessment-gustation","text":"Taste Assessment (gustation)","level":3},{"id":"trigeminal-assessment","text":"Trigeminal Assessment","level":3},{"id":"developing-individual-sensory-reference","text":"Developing Individual Sensory Reference","level":2},{"id":"connections","text":"Connections","level":2}]}]]}]}]
+6:["$","script","script-0",{"src":"/_next/static/chunks/2gspel2gmkmqb.js","async":true}]
+7:["$","$Lc",null,{"children":["$","$d",null,{"name":"Next.MetadataOutlet","children":"$@e"}]}]
+e:null

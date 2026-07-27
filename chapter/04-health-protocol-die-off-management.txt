@@ -1,0 +1,166 @@
+1:"$Sreact.fragment"
+2:I[86576,["/_next/static/chunks/2cdxtyl33onme.js","/_next/static/chunks/30x6623ill3zz.js"],"default"]
+3:I[71500,["/_next/static/chunks/2cdxtyl33onme.js","/_next/static/chunks/30x6623ill3zz.js"],"default"]
+4:I[12905,["/_next/static/chunks/2cdxtyl33onme.js","/_next/static/chunks/30x6623ill3zz.js"],"default"]
+5:I[39485,["/_next/static/chunks/2cdxtyl33onme.js","/_next/static/chunks/30x6623ill3zz.js"],"default"]
+6:I[49016,["/_next/static/chunks/2cdxtyl33onme.js","/_next/static/chunks/30x6623ill3zz.js"],"default"]
+7:I[72128,["/_next/static/chunks/2cdxtyl33onme.js","/_next/static/chunks/30x6623ill3zz.js"],"default"]
+8:I[66489,["/_next/static/chunks/2cdxtyl33onme.js","/_next/static/chunks/30x6623ill3zz.js","/_next/static/chunks/2gspel2gmkmqb.js"],"default"]
+9:I[8946,["/_next/static/chunks/2cdxtyl33onme.js","/_next/static/chunks/30x6623ill3zz.js","/_next/static/chunks/2gspel2gmkmqb.js"],""]
+a:I[17998,["/_next/static/chunks/2cdxtyl33onme.js","/_next/static/chunks/30x6623ill3zz.js"],"Image"]
+14:I[80991,["/_next/static/chunks/2cdxtyl33onme.js","/_next/static/chunks/30x6623ill3zz.js"],"default",1]
+:HL["/_next/static/chunks/0ji7bt98574e2.css","style"]
+:HL["/_next/static/media/345c85a432359eed-s.p.0zem_9y19rte6.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/8e451580e5e95631-s.p.27vw08z6_vw0m.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/ae7b4f62a68c82ac-s.p.3n5l2eibg0v7e.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/cfa8380cafbbf487-s.p.10lxx8g3llv2l.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/ea1df765ed99ddf9-s.p.02nvq2zrhh7ok.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/f30fd2e485acf1bc-s.p.35belnv3c2-b-.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+0:{"P":null,"c":["","chapter","04-health-protocol-die-off-management"],"q":"","i":false,"f":[[["",{"children":["chapter",{"children":[["slug","04-health-protocol-die-off-management","d",null],{"children":["__PAGE__",{}]}]}]},"$undefined","$undefined",16],[["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/chunks/0ji7bt98574e2.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}],["$","script","script-0",{"src":"/_next/static/chunks/2cdxtyl33onme.js","async":true,"nonce":"$undefined"}],["$","script","script-1",{"src":"/_next/static/chunks/30x6623ill3zz.js","async":true,"nonce":"$undefined"}]],["$","html",null,{"lang":"en","className":"lato_4f378528-module__vg9CXq__variable lobster_3ffb1501-module__zSC-9a__variable cinzel_decorative_860d8d00-module__447Jhq__variable h-full antialiased","children":["$","body",null,{"className":"min-h-full flex flex-col","style":{"background":"var(--reader-bg, #1a1a2e)","color":"var(--reader-color, #e5e7eb)","fontFamily":"var(--reader-font, var(--font-lato), sans-serif)","fontSize":"var(--reader-font-size, 18px)","lineHeight":"var(--reader-line-height, 1.8)"},"children":[["$","$L2",null,{}],["$","$L3",null,{}],["$","$L4",null,{"children":[["$","$L5",null,{}],["$","main",null,{"className":"flex-1","children":["$","$L6",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L7",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[["$","div",null,{"className":"min-h-[60vh] flex flex-col items-center justify-center px-4 text-center","children":[["$","$L8",null,{"pose":"questioning","size":"large","message":"Oops! Page not found."}],["$","h1",null,{"className":"text-4xl font-bold text-foreground mt-8 mb-4","children":"404 — Page Not Found"}],["$","p",null,{"className":"text-muted mb-8 max-w-md","children":"The page you are looking for does not exist or has been moved. Let us help you find your way back."}],["$","div",null,{"className":"flex gap-3","children":[["$","$L9",null,{"href":"/","className":"px-6 py-3 bg-pickle-green text-white font-semibold rounded-lg hover:bg-pickle-dark transition-colors","children":"Go Home"}],["$","$L9",null,{"href":"/read","className":"px-6 py-3 border border-border text-foreground font-semibold rounded-lg hover:border-pickle-green hover:text-pickle-green transition-colors","children":"Start Reading"}]]}]]}],[]],"forbidden":"$undefined","unauthorized":"$undefined"}]}]]}],["$","footer",null,{"className":"border-t mt-auto no-print","style":{"background":"var(--surface-color, #16162a)","borderColor":"var(--color-border)"},"children":[["$","div",null,{"className":"h-1 bg-gradient-to-r from-pickle-light via-pickle-green to-pickle-light"}],["$","div",null,{"className":"max-w-6xl mx-auto px-4 py-10","children":[["$","div",null,{"className":"grid grid-cols-1 md:grid-cols-3 gap-8","children":[["$","div",null,{"children":[["$","$L9",null,{"href":"/","className":"flex items-center gap-2 mb-3","children":[["$","$La",null,{"src":"/images/branding/simplified-logo-mark-v01-01.png","alt":"Ed's Picklery and Emporium","width":32,"height":32,"className":"h-8 w-8"}],["$","span",null,{"className":"font-semibold","style":{"color":"var(--reader-color)"},"children":"Ed's Picklery and Emporium"}]]}],["$","p",null,{"className":"text-sm","style":{"color":"var(--color-muted)"},"children":"Life saving pickles that cure disorders"}]]}],["$","div",null,{"children":[["$","h3",null,{"className":"font-semibold mb-3","style":{"color":"var(--reader-color)"},"children":"Navigation"}],["$","ul",null,{"className":"space-y-2","children":[["$","li","/",{"children":["$","$L9",null,{"href":"/","className":"text-sm transition-colors hover:text-pickle-green","style":{"color":"var(--color-muted)"},"children":"Home"}]}],["$","li","/read",{"children":["$","$L9",null,{"href":"/read","className":"text-sm transition-colors hover:text-pickle-green","style":{"color":"var(--color-muted)"},"children":"Read"}]}],["$","li","/contents",{"children":["$","$L9",null,{"href":"/contents","className":"text-sm transition-colors hover:text-pickle-green","style":{"color":"var(--color-muted)"},"children":"Contents"}]}],["$","li","/search",{"children":["$","$L9",null,{"href":"/search","className":"text-sm transition-colors hover:text-pickle-green","style":{"color":"var(--color-muted)"},"children":"Search"}]}],["$","li","/about",{"children":["$","$L9",null,{"href":"/about","className":"text-sm transition-colors hover:text-pickle-green","style":{"color":"var(--color-muted)"},"children":"About"}]}],"$Lb","$Lc"]}]]}],"$Ld"]}],"$Le"]}]]}]]}]}]]}],{"children":["$Lf",{"children":["$L10",{"children":["$L11",{},null,false,null]},null,false,"$@12"]},null,false,"$@12"]},null,false,null],"$L13",false]],"m":"$undefined","G":["$14",["$L15"]],"S":true,"h":null,"s":"$undefined","l":"$undefined","p":"$undefined","d":"$undefined","b":"-f8JDEXe4WkXDL6nzUQi5"}
+17:I[93070,["/_next/static/chunks/2cdxtyl33onme.js","/_next/static/chunks/30x6623ill3zz.js"],"OutletBoundary"]
+18:"$Sreact.suspense"
+1b:I[93070,["/_next/static/chunks/2cdxtyl33onme.js","/_next/static/chunks/30x6623ill3zz.js"],"ViewportBoundary"]
+1d:I[93070,["/_next/static/chunks/2cdxtyl33onme.js","/_next/static/chunks/30x6623ill3zz.js"],"MetadataBoundary"]
+b:["$","li","/resources",{"children":["$","$L9",null,{"href":"/resources","className":"text-sm transition-colors hover:text-pickle-green","style":{"color":"var(--color-muted)"},"children":"Resources"}]}]
+c:["$","li","/references",{"children":["$","$L9",null,{"href":"/references","className":"text-sm transition-colors hover:text-pickle-green","style":{"color":"var(--color-muted)"},"children":"References"}]}]
+d:["$","div",null,{"children":[["$","h3",null,{"className":"font-semibold mb-3","style":{"color":"var(--reader-color)"},"children":"About"}],["$","p",null,{"className":"text-sm mb-2","style":{"color":"var(--color-muted)"},"children":["Written by ","Nick James"]}],["$","p",null,{"className":"text-sm","style":{"color":"var(--color-muted)"},"children":"Educational content for curious minds."}]]}]
+e:["$","div",null,{"className":"mt-8 pt-6 border-t text-center","style":{"borderColor":"var(--color-border)"},"children":["$","p",null,{"className":"text-sm","style":{"color":"var(--color-muted)"},"children":["© ",2026," ","Ed's Picklery and Emporium",". All rights reserved."]}]}]
+f:["$","$1","c",{"children":[null,["$","$L6",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L7",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}]
+10:["$","$1","c",{"children":[null,["$","$L6",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L7",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}]
+11:["$","$1","c",{"children":["$L16",[["$","script","script-0",{"src":"/_next/static/chunks/2gspel2gmkmqb.js","async":true,"nonce":"$undefined"}]],["$","$L17",null,{"children":["$","$18",null,{"name":"Next.MetadataOutlet","children":"$@19"}]}]]}]
+1a:[]
+12:"$W1a"
+13:["$","$1","h",{"children":[null,["$","$L1b",null,{"children":"$L1c"}],["$","div",null,{"hidden":true,"children":["$","$L1d",null,{"children":["$","$18",null,{"name":"Next.Metadata","children":"$L1e"}]}]}],["$","meta",null,{"name":"next-size-adjust","content":""}]]}]
+15:["$","link","0",{"rel":"stylesheet","href":"/_next/static/chunks/0ji7bt98574e2.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]
+1f:I[90114,["/_next/static/chunks/2cdxtyl33onme.js","/_next/static/chunks/30x6623ill3zz.js","/_next/static/chunks/2gspel2gmkmqb.js"],"default"]
+20:T27e7,<h1 id="die-off-management-herxheimer-reaction-protocol">Die-off Management — Herxheimer Reaction Protocol</h1>
+<blockquote>
+<p><em>When you break biofilms you release what was inside them. The body has to process the released endotoxin, cell wall fragments, metalloproteins, and stored bacterial metabolites. Without active management, the protocol feels like it's hurting you and you stop. With active management, the same release is processed cleanly in 1–3 weeks instead of becoming a chronic symptom state.</em></p>
+</blockquote>
+<h2 id="what-die-off-is">What Die-off Is</h2>
+<p>The Jarisch-Herxheimer reaction (originally described in syphilis treatment) is the body's response to the release of microbial contents when a defended microbial community is disrupted:</p>
+<ul>
+<li><strong>Endotoxin (LPS)</strong> released from gram-negative cell lysis</li>
+<li><strong>Lipoteichoic acid</strong> from gram-positive cell lysis</li>
+<li><strong>Cell wall fragments</strong> recognized as DAMPs (damage-associated molecular patterns)</li>
+<li><strong>Stored bacterial metabolites</strong> previously contained within biofilm matrix</li>
+<li><strong>Metalloproteins</strong> released from dead bacterial cells (iron, copper, zinc-bound)</li>
+<li><strong>Mycotoxins</strong> if the dysbiosis included fungal overgrowth (SIFO often coexists with SIBO)</li>
+</ul>
+<p>These trigger systemic inflammation through TLR2, TLR4, TLR9, and NLRP3 pathways. The result is the Herxheimer symptom cluster:</p>
+<ul>
+<li>Fatigue (often profound)</li>
+<li>Brain fog / cognitive slowing</li>
+<li>Headache (often behind the eyes)</li>
+<li>Joint and muscle aching</li>
+<li>Worsening GI symptoms (bloating, cramping, altered bowel habits)</li>
+<li>Skin flares (especially in anyone with eczema or MCAS tendency)</li>
+<li>Low-grade fever</li>
+<li>Mood changes (irritability, low mood)</li>
+<li>Temporary worsening of pre-existing condition symptoms</li>
+</ul>
+<h2 id="when-it-happens">When It Happens</h2>
+<p>In the [[Upper GI Biofilm Disruption]] protocol, expect die-off symptoms to start:</p>
+<ul>
+<li>24–72 hours after beginning the matrix disruption (NAC + serrapeptase + nattokinase)</li>
+<li>Peak intensity around days 5–10</li>
+<li>Resolution by weeks 2–3 of the active phase</li>
+</ul>
+<p>If symptoms continue past week 3, the protocol is too aggressive, the binders are inadequate, or there's an unrecognized co-drainage pathway (lymphatic, hepatic, renal) being overwhelmed.</p>
+<h2 id="the-binders-the-core-of-die-off-management">The Binders — The Core of Die-off Management</h2>
+<p><strong>Activated charcoal</strong> — 500mg, 2 hours away from any food, supplement, or medication. Binds endotoxin and bacterial fragments in the gut lumen, preventing reabsorption. Take at night before bed. <em>Do not take within 2 hours of any medication or supplement — it binds those too.</em></p>
+<p><strong>Bentonite clay</strong> (the same food-grade bentonite from the [[11-Step Protocol]] Step 10) — 1 tsp in 8 oz water, twice daily, away from food and other binders. Binds mycotoxins, heavy metals released from bacterial cells, and additional endotoxin. <em>Separate from charcoal by at least 2 hours — they compete for binding sites.</em></p>
+<p><strong>Psyllium husk</strong> — 5–10g in 16+ oz water, twice daily. Bulk binding and faster transit time. Reduces endotoxin contact time with gut mucosa. <em>Start at 5g; sudden higher dose produces more bloating than it solves.</em></p>
+<p><strong>Modified citrus pectin</strong> — 5g daily. Binds galectin-3 (elevated in chronic inflammation) and supports the binding function without the bulk laxative effect.</p>
+<p><strong>Chlorella</strong> (broken cell wall) — 3–5g daily. Binds heavy metals released during die-off. <em>Some people react to chlorella itself — start at 1g.</em></p>
+<h2 id="the-glutathione-foundation">The Glutathione Foundation</h2>
+<p>The body processes die-off endotoxin primarily through hepatic glutathione conjugation and biliary excretion. The vault's [[Phase 0 - Source Control and Redox]] glutathione stack is doing the heavy lifting here:</p>
+<ul>
+<li><strong>NAC</strong> 600mg twice daily (cysteine for glutathione)</li>
+<li><strong>Glycine</strong> 3–5g daily (second independently-limiting precursor)</li>
+<li><strong>Liposomal vitamin C</strong> 1g twice daily (recycles glutathione, supports the network)</li>
+<li><strong>Selenium</strong> 100–200mcg daily (glutathione peroxidase cofactor)</li>
+<li><strong>Molybdenum</strong> 100–300mcg daily (sulfite oxidase — important if sulfur compounds are being processed; this is the forgotten cofactor in many protocols)</li>
+</ul>
+<p>If die-off is severe, the glycine dose can increase to 8–10g daily during the active phase. This serves triple duty: glutathione precursor, mast cell stabilizer (GlyR), and bile acid conjugation substrate.</p>
+<h2 id="the-drainage-pathways">The Drainage Pathways</h2>
+<p>Die-off management isn't just binding. The body has to <em>excrete</em> what is bound. Five drainage pathways need to be open:</p>
+<p><strong>Hepatic-biliary:</strong> Bile flow. The [[Bile-Micelle-Antioxidant Axis]] is relevant here — if bile flow is impaired, the conjugated endotoxin isn't being excreted. TUDCA 250–500mg with meals, ox bile 125–250mg with fatty meals, bitter herbs (dandelion, gentian, artichoke) 15 min before meals. Coffee enemas are an aggressive but effective intervention for severe cases.</p>
+<p><strong>Renal:</strong> Hydration. 3+ liters daily during active phase. The mobilized endotoxin is being filtered renally. Electrolyte support (sodium, potassium, magnesium) prevents the dehydration and orthostatic symptoms that come from large fluid shifts.</p>
+<p><strong>Lymphatic:</strong> Movement. The lymphatic system has no pump — it requires skeletal muscle contraction and gravitational shifting. Walking 30+ minutes daily, rebounding (mini-trampoline), dry brushing toward the heart, and yoga inversions all support lymphatic flow. Compression on the lower extremities helps.</p>
+<p><strong>Skin/sweat:</strong> Sauna if accessible, starting at 10–15 min and building to 30+ min. Heat shock protein induction. <em>Hydration and electrolyte replacement before/during/after.</em></p>
+<p><strong>Bowel:</strong> At least one complete bowel movement daily. If not, magnesium citrate or oxide 400–600mg pre-bed. Constipation during die-off is the most common protocol failure mode — the bound endotoxin sits in the gut and reabsorbs.</p>
+<h2 id="the-tempo-rules">The Tempo Rules</h2>
+<p><strong>Start one compound at a time.</strong> Every 3–4 days, add one new intervention. This lets you identify which compound produces which symptom, and lets the drainage pathways keep up.</p>
+<p><strong>Begin matrix breakers at half-dose.</strong> NAC 600mg instead of 1200mg, serrapeptase 60,000 SPU instead of 120,000. Build up over 1–2 weeks. The matrix disruption is the most die-off-producing step.</p>
+<p><strong>Escalate binders before escalating killers.</strong> If die-off is severe, the answer is more binding and slower antimicrobial progression, not stopping entirely. The protocol works; the management needs adjustment.</p>
+<p><strong>If symptoms are intolerable, reduce dose by half.</strong> Rebuild over days. The biofilm isn't going anywhere. Slow progress is real progress.</p>
+<p><strong>If symptoms are allergic, not die-off.</strong> True allergic reactions (urticaria, throat tightening, breathing difficulty, rapid pulse) are not Herxheimer. Stop the suspected trigger immediately. Resume carefully with single-compound rechallenge.</p>
+<h2 id="what-to-expect-by-phase">What to Expect by Phase</h2>
+<table>
+<thead>
+<tr>
+<th>Phase</th>
+<th>Timeline</th>
+<th>Expected symptoms</th>
+<th>Action</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Initial</td>
+<td>Days 1–3</td>
+<td>Often mild or asymptomatic</td>
+<td>Continue at full dose; binders daily</td>
+</tr>
+<tr>
+<td>Peak</td>
+<td>Days 5–10</td>
+<td>Fatigue, brain fog, headache, joint aching, GI worsening, possible skin flares</td>
+<td>Increase binders; reduce matrix breakers by half; support drainage</td>
+</tr>
+<tr>
+<td>Resolution</td>
+<td>Weeks 2–3</td>
+<td>Symptoms gradually improve</td>
+<td>Restore full dose; continue binders</td>
+</tr>
+<tr>
+<td>Stabilization</td>
+<td>Week 4+</td>
+<td>New baseline emerging; original symptoms may be improving</td>
+<td>Continue protocol; binders as needed</td>
+</tr>
+</tbody>
+</table>
+<h2 id="the-mcas-complication">The MCAS Complication</h2>
+<p>Anyone with mast cell activation syndrome (MCAS), EDS, or strong histamine intolerance will have a more severe Herxheimer reaction. The reason: the same mast cells that respond to allergens also respond to endotoxin and bacterial fragments. This is not a reason to avoid the protocol; it's a reason to:</p>
+<ul>
+<li><strong>Start much lower</strong> (1/4 dose of matrix breakers)</li>
+<li><strong>Add the DAO enzyme bridge</strong> before any fermented food</li>
+<li><strong>Use quercetin 500mg + luteolin 100mg</strong> twice daily as mast cell stabilizers during the active phase</li>
+<li><strong>Extend the timeline</strong> — instead of 4 weeks, plan 6–8 weeks for the active phase</li>
+<li><strong>Keep glycine at 5–8g daily</strong> as mast cell GlyR stabilization</li>
+</ul>
+<p>The [[Phase 2 - Mast Cell Stabilization]] stack can be started in parallel with the biofilm work, not after it, in anyone with known MCAS. The vault's normal sequencing assumes cleaner baseline; MCAS-complicated cases need concurrent stabilization.</p>
+<h2 id="connections">Connections</h2>
+<ul>
+<li>[[Upper GI Biofilm Disruption]] — the protocol producing die-off</li>
+<li>[[Microbiome Onramp Protocol]] — overlapping die-off from rebiosis</li>
+<li>[[Phase 0 - Source Control and Redox]] — glutathione foundation</li>
+<li>[[Phase 2 - Mast Cell Stabilization]] — MCAS complication management</li>
+<li>[[Bile-Micelle-Antioxidant Axis]] — biliary drainage support</li>
+<li>[[Wild Vinegars]] — vagal stimulation of bile flow</li>
+<li>[[Glycine]] — glutathione, mast cell, bile conjugation</li>
+<li>[[11-Step Protocol]] — bentonite source</li>
+</ul>
+16:["$","div",null,{"className":"max-w-6xl mx-auto px-4 py-8","children":[["$","$L1f",null,{"slug":"04-health-protocol-die-off-management"}],["$","div",null,{"className":"grid grid-cols-1 lg:grid-cols-[1fr_280px] gap-8","children":[["$","article",null,{"children":[["$","header",null,{"className":"mb-8","children":[["$","div",null,{"className":"flex items-center gap-2 text-sm text-muted mb-3","children":[["$","span",null,{"className":"px-2 py-0.5 bg-pickle-light text-pickle-dark rounded text-xs font-medium","children":"Health Protocol"}],["$","span",null,{"children":["Chapter ",17]}]]}],["$","h1",null,{"className":"text-3xl md:text-4xl font-bold text-foreground mb-3","children":"Die-off Management — Herxheimer Reaction Protocol"}],["$","p",null,{"className":"text-lg text-muted leading-relaxed","children":"tags: [protocol, health, herxheimer, die-off, biofilm-disruption, binders, detox]"}]]}],["$","div",null,{"className":"prose","dangerouslySetInnerHTML":{"__html":"$20"}}],"$L21"]}],"$L22"]}]]}]
+23:I[98352,["/_next/static/chunks/2cdxtyl33onme.js","/_next/static/chunks/30x6623ill3zz.js","/_next/static/chunks/2gspel2gmkmqb.js"],"default"]
+24:I[70411,["/_next/static/chunks/2cdxtyl33onme.js","/_next/static/chunks/30x6623ill3zz.js","/_next/static/chunks/2gspel2gmkmqb.js"],"default"]
+25:I[10432,["/_next/static/chunks/2cdxtyl33onme.js","/_next/static/chunks/30x6623ill3zz.js","/_next/static/chunks/2gspel2gmkmqb.js"],"default"]
+21:["$","nav",null,{"className":"mt-12 pt-8 border-t border-border flex justify-between gap-4","children":[["$","div",null,{}],["$","div",null,{"className":"flex-1 p-4 bg-pickle-lighter rounded-lg text-center","children":["$","$L8",null,{"pose":"celebrating","size":"small","message":"You finished the book!","className":"inline-flex"}]}]]}]
+22:["$","aside",null,{"className":"hidden lg:block space-y-4 no-print","children":["$","div",null,{"className":"sticky top-20 space-y-4","children":[["$","div",null,{"className":"flex items-center gap-2","children":[["$","$L23",null,{"slug":"04-health-protocol-die-off-management"}],["$","$L24",null,{}]]}],["$","$L25",null,{"headings":[{"id":"die-off-management-herxheimer-reaction-protocol","text":"Die-off Management — Herxheimer Reaction Protocol","level":1},{"id":"what-die-off-is","text":"What Die-off Is","level":2},{"id":"when-it-happens","text":"When It Happens","level":2},{"id":"the-binders-the-core-of-die-off-management","text":"The Binders — The Core of Die-off Management","level":2},{"id":"the-glutathione-foundation","text":"The Glutathione Foundation","level":2},{"id":"the-drainage-pathways","text":"The Drainage Pathways","level":2},{"id":"the-tempo-rules","text":"The Tempo Rules","level":2},{"id":"what-to-expect-by-phase","text":"What to Expect by Phase","level":2},{"id":"the-mcas-complication","text":"The MCAS Complication","level":2},{"id":"connections","text":"Connections","level":2}]}]]}]}]
+1c:[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]
+26:I[187,["/_next/static/chunks/2cdxtyl33onme.js","/_next/static/chunks/30x6623ill3zz.js"],"IconMark"]
+19:null
+1e:[["$","title","0",{"children":"Die-off Management — Herxheimer Reaction Protocol | Ed's Picklery and Emporium"}],["$","meta","1",{"name":"description","content":"tags: [protocol, health, herxheimer, die-off, biofilm-disruption, binders, detox]"}],["$","meta","2",{"property":"og:title","content":"Ed's Picklery and Emporium"}],["$","meta","3",{"property":"og:description","content":"Life saving pickles that cure disorders"}],["$","meta","4",{"property":"og:url","content":"https://edspickle.shop"}],["$","meta","5",{"property":"og:site_name","content":"Ed's Picklery and Emporium"}],["$","meta","6",{"property":"og:image","content":"https://edspickle.shop/images/branding/social-sharing-image-v01-01.png"}],["$","meta","7",{"property":"og:image:width","content":"1200"}],["$","meta","8",{"property":"og:image:height","content":"630"}],["$","meta","9",{"property":"og:type","content":"website"}],["$","meta","10",{"name":"twitter:card","content":"summary_large_image"}],["$","meta","11",{"name":"twitter:title","content":"Ed's Picklery and Emporium"}],["$","meta","12",{"name":"twitter:description","content":"Life saving pickles that cure disorders"}],["$","meta","13",{"name":"twitter:image","content":"https://edspickle.shop/images/branding/social-sharing-image-v01-01.png"}],["$","link","14",{"rel":"icon","href":"/favicon.ico?favicon.2vob68tjqpejf.ico","sizes":"256x256","type":"image/x-icon"}],["$","link","15",{"rel":"icon","href":"/images/branding/favicon-v01-01.png"}],["$","$L26","16",{}]]

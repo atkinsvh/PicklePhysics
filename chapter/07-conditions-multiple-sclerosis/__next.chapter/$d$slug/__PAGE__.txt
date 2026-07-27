@@ -1,0 +1,68 @@
+1:"$Sreact.fragment"
+2:I[90114,["/_next/static/chunks/2cdxtyl33onme.js","/_next/static/chunks/30x6623ill3zz.js","/_next/static/chunks/2gspel2gmkmqb.js"],"default"]
+8:I[66489,["/_next/static/chunks/2cdxtyl33onme.js","/_next/static/chunks/30x6623ill3zz.js","/_next/static/chunks/2gspel2gmkmqb.js"],"default"]
+9:I[98352,["/_next/static/chunks/2cdxtyl33onme.js","/_next/static/chunks/30x6623ill3zz.js","/_next/static/chunks/2gspel2gmkmqb.js"],"default"]
+a:I[70411,["/_next/static/chunks/2cdxtyl33onme.js","/_next/static/chunks/30x6623ill3zz.js","/_next/static/chunks/2gspel2gmkmqb.js"],"default"]
+b:I[10432,["/_next/static/chunks/2cdxtyl33onme.js","/_next/static/chunks/30x6623ill3zz.js","/_next/static/chunks/2gspel2gmkmqb.js"],"default"]
+c:I[93070,["/_next/static/chunks/2cdxtyl33onme.js","/_next/static/chunks/30x6623ill3zz.js"],"OutletBoundary"]
+d:"$Sreact.suspense"
+3:T1057,<h1 id="multiple-sclerosis">Multiple Sclerosis</h1>
+<blockquote>
+<p><em>100% of MS patients have prior EBV infection. Molecular mimicry initiates the disease. But whether it establishes a self-sustaining autoimmune attack depends on vitamin D status, gut microbiome, and oxidized lipid burden — all modifiable.</em></p>
+</blockquote>
+<h2 id="the-initiation-molecular-mimicry">The Initiation — Molecular Mimicry</h2>
+<p>EBV EBNA1 protein has sequence homology with GlialCAM — a myelin-associated protein. Anti-EBNA1 antibodies (universal after EBV infection) cross-react with GlialCAM in people whose immune tolerance is sufficiently impaired to allow self-reactive antibody production.</p>
+<p>The self-reactive antibodies:</p>
+<ul>
+<li>Bind myelin-associated antigens</li>
+<li>Recruit complement and cytotoxic T cells</li>
+<li>Initiate demyelination</li>
+</ul>
+<p><strong>Why only some EBV-infected people develop MS:</strong></p>
+<ul>
+<li>Vitamin D status — adequate D3 prevents Th17 differentiation that amplifies the anti-myelin attack</li>
+<li>Gut microbiome — specific dysbiotic patterns consistently precede MS onset by years in prospective studies</li>
+<li>Oxidized lipid burden — microglial efferocytosis failure determines whether the myelin debris antigen pool expands</li>
+</ul>
+<h2 id="the-myelin-lipid-composition-problem">The Myelin Lipid Composition Problem</h2>
+<p>Myelin is ~70% lipid by dry weight. When the dietary PUFA fraction is high, polyunsaturated fatty acids incorporate into myelin membranes — increasing oxidative vulnerability. Oxidized myelin lipids are more immunogenic than intact myelin lipids → expand the repertoire of anti-myelin antibodies → more extensive demyelination.</p>
+<h2 id="microglial-efferocytosis-the-same-mechanism">Microglial Efferocytosis — The Same Mechanism</h2>
+<p>Microglia are the CNS equivalent of peripheral macrophages. MERTK and AXL on microglia perform efferocytosis of myelin debris and apoptotic oligodendrocytes. OXLAMs → MERTK/AXL impairment → failure to clear myelin debris → accumulation of partially degraded myelin presenting citrullinated and oxidized antigens → expanding autoantigen repertoire.</p>
+<p>This is efferocytosis failure in the CNS, driven by the same molecular mechanism as peripheral macrophage efferocytosis failure.</p>
+<h2 id="protocol-specific-additions">Protocol-Specific Additions</h2>
+<p><strong>Vitamin D3 at therapeutic dose (5000–10000 IU with K2 monitoring):</strong></p>
+<ul>
+<li>Specifically suppresses Th17 differentiation (the T cell subset driving CNS inflammation)</li>
+<li>Directly reduces BBB permeability</li>
+<li>Promotes remyelination (oligodendrocyte precursor cell differentiation)</li>
+<li>Optimal serum level for MS: 60–80 ng/ml (substantially above the conventional "sufficient" 30 ng/ml)</li>
+</ul>
+<p><strong>Lion's Mane mushroom (500–1000mg):</strong></p>
+<ul>
+<li>Erinacines cross the BBB and stimulate NGF production in oligodendrocytes</li>
+<li>Directly promotes remyelination through NGF-mediated oligodendrocyte precursor cell differentiation</li>
+<li>Reduces microglial M1 polarization (the activated inflammatory state perpetuating demyelination)</li>
+<li>The only widely accessible natural compound with direct remyelination support evidence</li>
+</ul>
+<p><strong>2-Methoxyestradiol (2-ME2) via DIM:</strong>
+The estrogen metabolite promoted by DIM has specific neuroprotective effects:</p>
+<ul>
+<li>Inhibits HIF-1α in activated immune cells infiltrating CNS white matter</li>
+<li>The lesions create local hypoxia → HIF-1α activation in infiltrating T cells → amplified destruction</li>
+<li>2-ME2 blunts this hypoxic amplification</li>
+</ul>
+<h2 id="connections">Connections</h2>
+<ul>
+<li>[[Efferocytosis Failure]] — microglial version of the same mechanism</li>
+<li>[[Estrobolome]] — local CNS estrogen metabolism</li>
+<li>[[Oxidized Lipid Cascade]] — myelin lipid composition problem</li>
+<li>[[Phase 2 - Mast Cell Stabilization]] — Th17 suppression via vitamin D</li>
+<li>[[EDS-MCAS-Eczema Cluster]] — shared upstream drivers</li>
+<li>[[Gut Microbiome Ecology]] — dysbiosis preceding MS onset</li>
+</ul>
+0:{"rsc":["$","$1","c",{"children":[["$","div",null,{"className":"max-w-6xl mx-auto px-4 py-8","children":[["$","$L2",null,{"slug":"07-conditions-multiple-sclerosis"}],["$","div",null,{"className":"grid grid-cols-1 lg:grid-cols-[1fr_280px] gap-8","children":[["$","article",null,{"children":[["$","header",null,{"className":"mb-8","children":[["$","div",null,{"className":"flex items-center gap-2 text-sm text-muted mb-3","children":[["$","span",null,{"className":"px-2 py-0.5 bg-pickle-light text-pickle-dark rounded text-xs font-medium","children":"Conditions"}],["$","span",null,{"children":["Chapter ",40]}]]}],["$","h1",null,{"className":"text-3xl md:text-4xl font-bold text-foreground mb-3","children":"Multiple Sclerosis"}],["$","p",null,{"className":"text-lg text-muted leading-relaxed","children":"tags: [condition, autoimmune, MS, demyelination, myelin, EBV]"}]]}],["$","div",null,{"className":"prose","dangerouslySetInnerHTML":{"__html":"$3"}}],"$L4"]}],"$L5"]}]]}],["$L6"],"$L7"]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"-f8JDEXe4WkXDL6nzUQi5"}
+4:["$","nav",null,{"className":"mt-12 pt-8 border-t border-border flex justify-between gap-4","children":[["$","div",null,{}],["$","div",null,{"className":"flex-1 p-4 bg-pickle-lighter rounded-lg text-center","children":["$","$L8",null,{"pose":"celebrating","size":"small","message":"You finished the book!","className":"inline-flex"}]}]]}]
+5:["$","aside",null,{"className":"hidden lg:block space-y-4 no-print","children":["$","div",null,{"className":"sticky top-20 space-y-4","children":[["$","div",null,{"className":"flex items-center gap-2","children":[["$","$L9",null,{"slug":"07-conditions-multiple-sclerosis"}],["$","$La",null,{}]]}],["$","$Lb",null,{"headings":[{"id":"multiple-sclerosis","text":"Multiple Sclerosis","level":1},{"id":"the-initiation-molecular-mimicry","text":"The Initiation — Molecular Mimicry","level":2},{"id":"the-myelin-lipid-composition-problem","text":"The Myelin Lipid Composition Problem","level":2},{"id":"microglial-efferocytosis-the-same-mechanism","text":"Microglial Efferocytosis — The Same Mechanism","level":2},{"id":"protocol-specific-additions","text":"Protocol-Specific Additions","level":2},{"id":"connections","text":"Connections","level":2}]}]]}]}]
+6:["$","script","script-0",{"src":"/_next/static/chunks/2gspel2gmkmqb.js","async":true}]
+7:["$","$Lc",null,{"children":["$","$d",null,{"name":"Next.MetadataOutlet","children":"$@e"}]}]
+e:null

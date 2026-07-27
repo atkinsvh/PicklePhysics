@@ -1,0 +1,106 @@
+1:"$Sreact.fragment"
+2:I[86576,["/_next/static/chunks/2cdxtyl33onme.js","/_next/static/chunks/30x6623ill3zz.js"],"default"]
+3:I[71500,["/_next/static/chunks/2cdxtyl33onme.js","/_next/static/chunks/30x6623ill3zz.js"],"default"]
+4:I[12905,["/_next/static/chunks/2cdxtyl33onme.js","/_next/static/chunks/30x6623ill3zz.js"],"default"]
+5:I[39485,["/_next/static/chunks/2cdxtyl33onme.js","/_next/static/chunks/30x6623ill3zz.js"],"default"]
+6:I[49016,["/_next/static/chunks/2cdxtyl33onme.js","/_next/static/chunks/30x6623ill3zz.js"],"default"]
+7:I[72128,["/_next/static/chunks/2cdxtyl33onme.js","/_next/static/chunks/30x6623ill3zz.js"],"default"]
+8:I[66489,["/_next/static/chunks/2cdxtyl33onme.js","/_next/static/chunks/30x6623ill3zz.js","/_next/static/chunks/2gspel2gmkmqb.js"],"default"]
+9:I[8946,["/_next/static/chunks/2cdxtyl33onme.js","/_next/static/chunks/30x6623ill3zz.js","/_next/static/chunks/2gspel2gmkmqb.js"],""]
+a:I[17998,["/_next/static/chunks/2cdxtyl33onme.js","/_next/static/chunks/30x6623ill3zz.js"],"Image"]
+14:I[80991,["/_next/static/chunks/2cdxtyl33onme.js","/_next/static/chunks/30x6623ill3zz.js"],"default",1]
+:HL["/_next/static/chunks/0ji7bt98574e2.css","style"]
+:HL["/_next/static/media/345c85a432359eed-s.p.0zem_9y19rte6.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/8e451580e5e95631-s.p.27vw08z6_vw0m.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/ae7b4f62a68c82ac-s.p.3n5l2eibg0v7e.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/cfa8380cafbbf487-s.p.10lxx8g3llv2l.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/ea1df765ed99ddf9-s.p.02nvq2zrhh7ok.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/f30fd2e485acf1bc-s.p.35belnv3c2-b-.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+0:{"P":null,"c":["","chapter","08-compounds-alkaloids"],"q":"","i":false,"f":[[["",{"children":["chapter",{"children":[["slug","08-compounds-alkaloids","d",null],{"children":["__PAGE__",{}]}]}]},"$undefined","$undefined",16],[["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/chunks/0ji7bt98574e2.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}],["$","script","script-0",{"src":"/_next/static/chunks/2cdxtyl33onme.js","async":true,"nonce":"$undefined"}],["$","script","script-1",{"src":"/_next/static/chunks/30x6623ill3zz.js","async":true,"nonce":"$undefined"}]],["$","html",null,{"lang":"en","className":"lato_4f378528-module__vg9CXq__variable lobster_3ffb1501-module__zSC-9a__variable cinzel_decorative_860d8d00-module__447Jhq__variable h-full antialiased","children":["$","body",null,{"className":"min-h-full flex flex-col","style":{"background":"var(--reader-bg, #1a1a2e)","color":"var(--reader-color, #e5e7eb)","fontFamily":"var(--reader-font, var(--font-lato), sans-serif)","fontSize":"var(--reader-font-size, 18px)","lineHeight":"var(--reader-line-height, 1.8)"},"children":[["$","$L2",null,{}],["$","$L3",null,{}],["$","$L4",null,{"children":[["$","$L5",null,{}],["$","main",null,{"className":"flex-1","children":["$","$L6",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L7",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[["$","div",null,{"className":"min-h-[60vh] flex flex-col items-center justify-center px-4 text-center","children":[["$","$L8",null,{"pose":"questioning","size":"large","message":"Oops! Page not found."}],["$","h1",null,{"className":"text-4xl font-bold text-foreground mt-8 mb-4","children":"404 — Page Not Found"}],["$","p",null,{"className":"text-muted mb-8 max-w-md","children":"The page you are looking for does not exist or has been moved. Let us help you find your way back."}],["$","div",null,{"className":"flex gap-3","children":[["$","$L9",null,{"href":"/","className":"px-6 py-3 bg-pickle-green text-white font-semibold rounded-lg hover:bg-pickle-dark transition-colors","children":"Go Home"}],["$","$L9",null,{"href":"/read","className":"px-6 py-3 border border-border text-foreground font-semibold rounded-lg hover:border-pickle-green hover:text-pickle-green transition-colors","children":"Start Reading"}]]}]]}],[]],"forbidden":"$undefined","unauthorized":"$undefined"}]}]]}],["$","footer",null,{"className":"border-t mt-auto no-print","style":{"background":"var(--surface-color, #16162a)","borderColor":"var(--color-border)"},"children":[["$","div",null,{"className":"h-1 bg-gradient-to-r from-pickle-light via-pickle-green to-pickle-light"}],["$","div",null,{"className":"max-w-6xl mx-auto px-4 py-10","children":[["$","div",null,{"className":"grid grid-cols-1 md:grid-cols-3 gap-8","children":[["$","div",null,{"children":[["$","$L9",null,{"href":"/","className":"flex items-center gap-2 mb-3","children":[["$","$La",null,{"src":"/images/branding/simplified-logo-mark-v01-01.png","alt":"Ed's Picklery and Emporium","width":32,"height":32,"className":"h-8 w-8"}],["$","span",null,{"className":"font-semibold","style":{"color":"var(--reader-color)"},"children":"Ed's Picklery and Emporium"}]]}],["$","p",null,{"className":"text-sm","style":{"color":"var(--color-muted)"},"children":"Life saving pickles that cure disorders"}]]}],["$","div",null,{"children":[["$","h3",null,{"className":"font-semibold mb-3","style":{"color":"var(--reader-color)"},"children":"Navigation"}],["$","ul",null,{"className":"space-y-2","children":[["$","li","/",{"children":["$","$L9",null,{"href":"/","className":"text-sm transition-colors hover:text-pickle-green","style":{"color":"var(--color-muted)"},"children":"Home"}]}],["$","li","/read",{"children":["$","$L9",null,{"href":"/read","className":"text-sm transition-colors hover:text-pickle-green","style":{"color":"var(--color-muted)"},"children":"Read"}]}],["$","li","/contents",{"children":["$","$L9",null,{"href":"/contents","className":"text-sm transition-colors hover:text-pickle-green","style":{"color":"var(--color-muted)"},"children":"Contents"}]}],["$","li","/search",{"children":["$","$L9",null,{"href":"/search","className":"text-sm transition-colors hover:text-pickle-green","style":{"color":"var(--color-muted)"},"children":"Search"}]}],["$","li","/about",{"children":["$","$L9",null,{"href":"/about","className":"text-sm transition-colors hover:text-pickle-green","style":{"color":"var(--color-muted)"},"children":"About"}]}],"$Lb","$Lc"]}]]}],"$Ld"]}],"$Le"]}]]}]]}]}]]}],{"children":["$Lf",{"children":["$L10",{"children":["$L11",{},null,false,null]},null,false,"$@12"]},null,false,"$@12"]},null,false,null],"$L13",false]],"m":"$undefined","G":["$14",["$L15"]],"S":true,"h":null,"s":"$undefined","l":"$undefined","p":"$undefined","d":"$undefined","b":"-f8JDEXe4WkXDL6nzUQi5"}
+17:I[93070,["/_next/static/chunks/2cdxtyl33onme.js","/_next/static/chunks/30x6623ill3zz.js"],"OutletBoundary"]
+18:"$Sreact.suspense"
+1b:I[93070,["/_next/static/chunks/2cdxtyl33onme.js","/_next/static/chunks/30x6623ill3zz.js"],"ViewportBoundary"]
+1d:I[93070,["/_next/static/chunks/2cdxtyl33onme.js","/_next/static/chunks/30x6623ill3zz.js"],"MetadataBoundary"]
+b:["$","li","/resources",{"children":["$","$L9",null,{"href":"/resources","className":"text-sm transition-colors hover:text-pickle-green","style":{"color":"var(--color-muted)"},"children":"Resources"}]}]
+c:["$","li","/references",{"children":["$","$L9",null,{"href":"/references","className":"text-sm transition-colors hover:text-pickle-green","style":{"color":"var(--color-muted)"},"children":"References"}]}]
+d:["$","div",null,{"children":[["$","h3",null,{"className":"font-semibold mb-3","style":{"color":"var(--reader-color)"},"children":"About"}],["$","p",null,{"className":"text-sm mb-2","style":{"color":"var(--color-muted)"},"children":["Written by ","Nick James"]}],["$","p",null,{"className":"text-sm","style":{"color":"var(--color-muted)"},"children":"Educational content for curious minds."}]]}]
+e:["$","div",null,{"className":"mt-8 pt-6 border-t text-center","style":{"borderColor":"var(--color-border)"},"children":["$","p",null,{"className":"text-sm","style":{"color":"var(--color-muted)"},"children":["© ",2026," ","Ed's Picklery and Emporium",". All rights reserved."]}]}]
+f:["$","$1","c",{"children":[null,["$","$L6",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L7",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}]
+10:["$","$1","c",{"children":[null,["$","$L6",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L7",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}]
+11:["$","$1","c",{"children":["$L16",[["$","script","script-0",{"src":"/_next/static/chunks/2gspel2gmkmqb.js","async":true,"nonce":"$undefined"}]],["$","$L17",null,{"children":["$","$18",null,{"name":"Next.MetadataOutlet","children":"$@19"}]}]]}]
+1a:[]
+12:"$W1a"
+13:["$","$1","h",{"children":[null,["$","$L1b",null,{"children":"$L1c"}],["$","div",null,{"hidden":true,"children":["$","$L1d",null,{"children":["$","$18",null,{"name":"Next.Metadata","children":"$L1e"}]}]}],["$","meta",null,{"name":"next-size-adjust","content":""}]]}]
+15:["$","link","0",{"rel":"stylesheet","href":"/_next/static/chunks/0ji7bt98574e2.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]
+1f:I[90114,["/_next/static/chunks/2cdxtyl33onme.js","/_next/static/chunks/30x6623ill3zz.js","/_next/static/chunks/2gspel2gmkmqb.js"],"default"]
+20:T1119,<h1 id="alkaloids">Alkaloids</h1>
+<blockquote>
+<p><em>Nitrogen-containing compounds. Bitterness as quality indicator — the structural chemistry producing bitterness IS the structural chemistry producing biological activity.</em></p>
+</blockquote>
+<h2 id="berberine">Berberine</h2>
+<p><strong>Source:</strong> Barberry root (Berberis vulgaris), goldenseal, Oregon grape root
+<strong>logP:</strong> ~0.7–1.2 (moderate polarity, reasonable brine extraction)</p>
+<p><strong>Mechanisms (multiple, distinct):</strong></p>
+<ul>
+<li>AMPK activation → autophagy induction</li>
+<li>CYP17 inhibition in ovarian theca cells → reduced androgen production (PCOS specific)</li>
+<li>Adipose macrophage M1→M2 transition</li>
+<li>Adipose browning through irisin-adjacent pathway (UCP1 upregulation)</li>
+<li>ABCA1 upregulation → macrophage cholesterol efflux → efferocytosis capacity</li>
+<li>NF-κB inhibition (independent of AMPK)</li>
+</ul>
+<p><strong>The metformin parallel:</strong> Berberine activates AMPK through essentially the same pathway as metformin. Clinical trials comparing berberine to metformin for PCOS outcomes show comparable ovulation induction rates without metformin's mitochondrial Complex I suppression side effects.</p>
+<p><strong>Timing:</strong> Don't take simultaneously with NMN/NR — AMPK and mTOR pathway interactions can partially cancel autophagy induction. Separate by several hours.</p>
+<h2 id="thymoquinone">Thymoquinone</h2>
+<p><strong>Source:</strong> Nigella sativa (black seeds)
+<strong>logP:</strong> ~1.9 (moderately lipophilic, partial brine extraction — seeds should be consumed directly)</p>
+<p><strong>Mechanisms:</strong></p>
+<ul>
+<li>5-LOX inhibition (same target as AKBA, different binding site)</li>
+<li>Nrf2 activation</li>
+<li>NLRP3 inflammasome inhibition</li>
+<li>Mast cell stabilization through multiple pathways</li>
+<li>Anti-fibrotic in connective tissue</li>
+<li>Gut barrier protective</li>
+</ul>
+<p>Traditional claim across Islamic, Egyptian, and Greek medicine: "cures everything except death." The compound profile explains the breadth — thymoquinone hits multiple independent inflammatory pathways simultaneously.</p>
+<p><strong>Trigeminal signal:</strong> The warming/pungent sensation from nigella seeds is thymoquinone presence. Sensory confirmation of active compound.</p>
+<h2 id="andrographolide">Andrographolide</h2>
+<p><strong>Source:</strong> Andrographis paniculata
+<strong>logP:</strong> ~0.4 (somewhat water-soluble, reasonable brine extraction)</p>
+<p><strong>The TFEB activator:</strong></p>
+<ul>
+<li>TFEB (Transcription Factor EB) is the master regulator of lysosomal biogenesis and autophagy</li>
+<li>Andrographolide activates TFEB — upregulating both autophagy initiation AND lysosomal capacity</li>
+<li>This addresses the autophagy completion problem: many autophagy failures are failures of completion (lysosomes overwhelmed), not initiation</li>
+</ul>
+<p>Also: Treg induction through TGF-β and IL-10 in dendritic cells → tolerogenic DC phenotype → antigen presentation in tolerogenic context → new B cell education toward tolerance rather than sensitization.</p>
+<p><strong>Bitterness:</strong> Andrographolide is one of the most bitter natural compounds known (bitterness unit ~40,000). Its presence in the preparation is strongly detectable. Bitterness = TFEB activity confirmed.</p>
+<h2 id="glycyrrhizin">Glycyrrhizin</h2>
+<p><strong>Source:</strong> Licorice root (Glycyrrhiza glabra)
+<strong>Mechanism:</strong> STAT6 inhibition → IgE class switching suppression; Beclin-1 autophagy induction; HMGB1 danger signal pathway modulation</p>
+<p><strong>Dose sensitivity — CRITICAL:</strong></p>
+<ul>
+<li>Glycyrrhizin affects aldosterone signaling at higher doses → hypertension, edema, hypokalemia</li>
+<li>Therapeutic benefit occurs at doses below the aldosterone effect threshold</li>
+<li>Maximum: 100mg glycyrrhizin daily (~3–5g dried root)</li>
+<li>The formulation uses small amounts. Do not increase substantially.</li>
+</ul>
+<h2 id="connections">Connections</h2>
+<ul>
+<li>[[Botanical Pack]] — sources</li>
+<li>[[Phase 2 - Mast Cell Stabilization]] — thymoquinone</li>
+<li>[[Phase 3 - Epigenetic Reprogramming]] — berberine, andrographolide</li>
+<li>[[PCOS]] — berberine CYP17 inhibition</li>
+<li>[[Polyphenols]] — co-occurring in most plant sources</li>
+</ul>
+16:["$","div",null,{"className":"max-w-6xl mx-auto px-4 py-8","children":[["$","$L1f",null,{"slug":"08-compounds-alkaloids"}],["$","div",null,{"className":"grid grid-cols-1 lg:grid-cols-[1fr_280px] gap-8","children":[["$","article",null,{"children":[["$","header",null,{"className":"mb-8","children":[["$","div",null,{"className":"flex items-center gap-2 text-sm text-muted mb-3","children":[["$","span",null,{"className":"px-2 py-0.5 bg-pickle-light text-pickle-dark rounded text-xs font-medium","children":"Compounds"}],["$","span",null,{"children":["Chapter ",43]}]]}],["$","h1",null,{"className":"text-3xl md:text-4xl font-bold text-foreground mb-3","children":"Alkaloids"}],["$","p",null,{"className":"text-lg text-muted leading-relaxed","children":"tags: [compound, alkaloid, berberine, AKBA]"}]]}],["$","div",null,{"className":"prose","dangerouslySetInnerHTML":{"__html":"$20"}}],"$L21"]}],"$L22"]}]]}]
+23:I[98352,["/_next/static/chunks/2cdxtyl33onme.js","/_next/static/chunks/30x6623ill3zz.js","/_next/static/chunks/2gspel2gmkmqb.js"],"default"]
+24:I[70411,["/_next/static/chunks/2cdxtyl33onme.js","/_next/static/chunks/30x6623ill3zz.js","/_next/static/chunks/2gspel2gmkmqb.js"],"default"]
+25:I[10432,["/_next/static/chunks/2cdxtyl33onme.js","/_next/static/chunks/30x6623ill3zz.js","/_next/static/chunks/2gspel2gmkmqb.js"],"default"]
+21:["$","nav",null,{"className":"mt-12 pt-8 border-t border-border flex justify-between gap-4","children":[["$","div",null,{}],["$","div",null,{"className":"flex-1 p-4 bg-pickle-lighter rounded-lg text-center","children":["$","$L8",null,{"pose":"celebrating","size":"small","message":"You finished the book!","className":"inline-flex"}]}]]}]
+22:["$","aside",null,{"className":"hidden lg:block space-y-4 no-print","children":["$","div",null,{"className":"sticky top-20 space-y-4","children":[["$","div",null,{"className":"flex items-center gap-2","children":[["$","$L23",null,{"slug":"08-compounds-alkaloids"}],["$","$L24",null,{}]]}],["$","$L25",null,{"headings":[{"id":"alkaloids","text":"Alkaloids","level":1},{"id":"berberine","text":"Berberine","level":2},{"id":"thymoquinone","text":"Thymoquinone","level":2},{"id":"andrographolide","text":"Andrographolide","level":2},{"id":"glycyrrhizin","text":"Glycyrrhizin","level":2},{"id":"connections","text":"Connections","level":2}]}]]}]}]
+1c:[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]
+26:I[187,["/_next/static/chunks/2cdxtyl33onme.js","/_next/static/chunks/30x6623ill3zz.js"],"IconMark"]
+19:null
+1e:[["$","title","0",{"children":"Alkaloids | Ed's Picklery and Emporium"}],["$","meta","1",{"name":"description","content":"tags: [compound, alkaloid, berberine, AKBA]"}],["$","meta","2",{"property":"og:title","content":"Ed's Picklery and Emporium"}],["$","meta","3",{"property":"og:description","content":"Life saving pickles that cure disorders"}],["$","meta","4",{"property":"og:url","content":"https://edspickle.shop"}],["$","meta","5",{"property":"og:site_name","content":"Ed's Picklery and Emporium"}],["$","meta","6",{"property":"og:image","content":"https://edspickle.shop/images/branding/social-sharing-image-v01-01.png"}],["$","meta","7",{"property":"og:image:width","content":"1200"}],["$","meta","8",{"property":"og:image:height","content":"630"}],["$","meta","9",{"property":"og:type","content":"website"}],["$","meta","10",{"name":"twitter:card","content":"summary_large_image"}],["$","meta","11",{"name":"twitter:title","content":"Ed's Picklery and Emporium"}],["$","meta","12",{"name":"twitter:description","content":"Life saving pickles that cure disorders"}],["$","meta","13",{"name":"twitter:image","content":"https://edspickle.shop/images/branding/social-sharing-image-v01-01.png"}],["$","link","14",{"rel":"icon","href":"/favicon.ico?favicon.2vob68tjqpejf.ico","sizes":"256x256","type":"image/x-icon"}],["$","link","15",{"rel":"icon","href":"/images/branding/favicon-v01-01.png"}],["$","$L26","16",{}]]

@@ -1,0 +1,93 @@
+1:"$Sreact.fragment"
+2:I[90114,["/_next/static/chunks/2cdxtyl33onme.js","/_next/static/chunks/30x6623ill3zz.js","/_next/static/chunks/2gspel2gmkmqb.js"],"default"]
+8:I[66489,["/_next/static/chunks/2cdxtyl33onme.js","/_next/static/chunks/30x6623ill3zz.js","/_next/static/chunks/2gspel2gmkmqb.js"],"default"]
+9:I[98352,["/_next/static/chunks/2cdxtyl33onme.js","/_next/static/chunks/30x6623ill3zz.js","/_next/static/chunks/2gspel2gmkmqb.js"],"default"]
+a:I[70411,["/_next/static/chunks/2cdxtyl33onme.js","/_next/static/chunks/30x6623ill3zz.js","/_next/static/chunks/2gspel2gmkmqb.js"],"default"]
+b:I[10432,["/_next/static/chunks/2cdxtyl33onme.js","/_next/static/chunks/30x6623ill3zz.js","/_next/static/chunks/2gspel2gmkmqb.js"],"default"]
+c:I[93070,["/_next/static/chunks/2cdxtyl33onme.js","/_next/static/chunks/30x6623ill3zz.js"],"OutletBoundary"]
+d:"$Sreact.suspense"
+3:T1a23,<h1 id="evolutionary-sensory-framework">Evolutionary Sensory Framework</h1>
+<blockquote>
+<p><em>Every human sensory modality involved in food assessment evolved specifically because the chemical class it detects was consistently meaningful to survival. The sensory system IS the analytical instrument.</em></p>
+</blockquote>
+<h2 id="the-core-principle">The Core Principle</h2>
+<p>The hedonic valence (pleasant vs. unpleasant) of food-relevant compounds is not culturally arbitrary. It maps onto biological safety thresholds that were meaningfully calibrated by evolutionary selection over millions of years.</p>
+<p><strong>Implications:</strong></p>
+<ol>
+<li>Compounds that evolved humans to find pleasant are, on average, genuinely beneficial</li>
+<li>Compounds that evolved aversion responses are, on average, genuinely harmful</li>
+<li>Industrial processes that neutralize aversion responses are interfering with evolved safety infrastructure</li>
+<li>Processes that neutralize sensory warnings without addressing the underlying hazard are specifically fraudulent</li>
+</ol>
+<h2 id="the-rancidity-detection-system">The Rancidity Detection System</h2>
+<p>The primary evolved defense against oxidized fat:</p>
+<p><strong>What it detects:</strong> Volatile aldehydes — hexanal (~4.5 ppb detection threshold), (E)-2-nonenal (~0.08 ppb, "old fat" smell), (E,E)-2,4-decadienal (~0.07 ppb). These thresholds are near the physical limits of gas-phase detection.</p>
+<p><strong>The crucial asymmetry:</strong> Volatile early-warning compounds are generated EARLIER in the oxidation cascade than the non-volatile toxic fraction (4-HNE, OXLAMs). Evolution calibrated detection to precursor signals because those volatilize before consumption.</p>
+<p><strong>The deodorization problem:</strong> Industrial deodorization specifically removes these precursor volatiles through steam distillation. The non-volatile toxic fraction remains intact. The sensory detector was severed. The hazard was not.</p>
+<p>→ [[Deodorization as Fraud]] — regulatory implication
+→ [[Olfactory Chemistry]] — full compound detail</p>
+<h2 id="the-concentration-dependent-principle">The Concentration-Dependent Principle</h2>
+<p>Many biologically active compounds have concentration-dependent hedonic valence. This is not arbitrary — the concentration dependency maps onto the dose range where the compound transitions from beneficial to hazardous.</p>
+<p><strong>Indole example:</strong></p>
+<ul>
+<li>Low concentration (&#x3C;1 ppm): floral, jasmine quality (used in perfumery)</li>
+<li>High concentration: strongly fecal, aversive</li>
+<li>The transition point corresponds to the concentration distinguishing healthy bacterial AhR ligand production from bacterial overgrowth</li>
+</ul>
+<p><strong>Short-chain fatty acids:</strong></p>
+<ul>
+<li>Moderate concentration: sour (pleasant in fermented context)</li>
+<li>High free concentration in air: vomit/rancid (butyric acid)</li>
+<li>The transition maps onto safe vs. aberrant fermentation concentrations</li>
+</ul>
+<p><strong>Sulforaphane:</strong></p>
+<ul>
+<li>Moderate concentration: pleasantly pungent (broccoli)</li>
+<li>High concentration: aversive</li>
+<li>The transition maps onto safe vs. potentially irritant concentration ranges</li>
+</ul>
+<h2 id="the-bitterness-activity-parallel">The Bitterness-Activity Parallel</h2>
+<p>The structural chemistry producing bitterness IS, in most cases, the structural chemistry producing biological activity:</p>
+<ul>
+<li>Quercetin: bitter phenolic → calcium channel inhibition, beta-glucuronidase inhibition</li>
+<li>EGCG: bitter catechin → iron chelation, radical termination</li>
+<li>Berberine: intensely bitter alkaloid → AMPK activation</li>
+<li>Thymoquinone: bitter terpenoid → 5-LOX inhibition, Nrf2</li>
+<li>Andrographolide: one of the most bitter natural compounds → TFEB activation</li>
+</ul>
+<p><strong>The bitterness of the medicinal ferment is a quality indicator.</strong> A preparation without characteristic bitterness from these botanicals either lacks the active compounds or has them at insufficient concentration. The unpleasant taste IS the analytical confirmation.</p>
+<h2 id="the-fermentation-acceptability-window">The Fermentation Acceptability Window</h2>
+<p>Sour taste detects proton concentration (free acid). The human hedonic response to sourness:</p>
+<ul>
+<li><strong>Mild sourness:</strong> pleasant — the pH range of ripe fruit (3.5–4.5) and safe lactofermentation (3.2–3.8)</li>
+<li><strong>Strong sourness:</strong> neutral to mildly aversive</li>
+<li><strong>Extreme sourness:</strong> aversive</li>
+</ul>
+<p>The target pH range for the fermented preparation (3.2–3.8) sits precisely in the center of the evolutionary endorsement zone. The pleasantly sour taste of the preparation is the sensory confirmation that pH is correct and fermentation is safe.</p>
+<h2 id="the-trigeminal-compound-presence-indicator">The Trigeminal Compound-Presence Indicator</h2>
+<p>Trigeminal sensation (TRPA1, TRPV1 activation) from specific botanicals IS the sensory presence confirmation for the active compound:</p>
+<ul>
+<li>Garlic bite → allicin present → antimicrobial and cardiovascular activity confirmed</li>
+<li>Ginger warmth → gingerols/shogaols present → 5-LOX pathway addressed</li>
+<li>Pepper heat → piperine present → curcumin bioavailability ×20 confirmed</li>
+<li>Cinnamon tingle → cinnamaldehyde present → quorum sensing inhibition active</li>
+</ul>
+<p>Loss of any of these trigeminal components in a batch indicates compound degradation. The sensory profile IS the QC instrument.</p>
+<p>→ [[Trigeminal Sensing]] | [[Sensory QC Protocol]]</p>
+<h2 id="application-to-the-petition">Application to the Petition</h2>
+<p>The evolutionary sensory framework provides a philosophical foundation for the regulatory argument that TPC standards are not optional:</p>
+<p><em>Whatever else the FDA regulates, it should not permit the targeted neutralization of evolved consumer safety mechanisms without replacing them with equivalent analytical protection. Deodorization of degraded frying oil removes the smoke detector. The absence of TPC standards means no sprinkler system replaces it. The consumer has no detection mechanism for a confirmed biological hazard.</em></p>
+<h2 id="connections">Connections</h2>
+<ul>
+<li>[[Olfactory Chemistry]] — the volatile compounds detected</li>
+<li>[[Trigeminal Sensing]] — the contact chemical detection</li>
+<li>[[Sensory QC Protocol]] — practical application</li>
+<li>[[Deodorization as Fraud]] — the regulatory implication</li>
+<li>[[Quorum Sensing]] — indole concentration-detection connection</li>
+</ul>
+0:{"rsc":["$","$1","c",{"children":[["$","div",null,{"className":"max-w-6xl mx-auto px-4 py-8","children":[["$","$L2",null,{"slug":"10-sensory-evolutionary-sensory-framework"}],["$","div",null,{"className":"grid grid-cols-1 lg:grid-cols-[1fr_280px] gap-8","children":[["$","article",null,{"children":[["$","header",null,{"className":"mb-8","children":[["$","div",null,{"className":"flex items-center gap-2 text-sm text-muted mb-3","children":[["$","span",null,{"className":"px-2 py-0.5 bg-pickle-light text-pickle-dark rounded text-xs font-medium","children":"Sensory Science"}],["$","span",null,{"children":["Chapter ",54]}]]}],["$","h1",null,{"className":"text-3xl md:text-4xl font-bold text-foreground mb-3","children":"Evolutionary Sensory Framework"}],["$","p",null,{"className":"text-lg text-muted leading-relaxed","children":"tags: [sensory, evolution, food-safety, olfaction]"}]]}],["$","div",null,{"className":"prose","dangerouslySetInnerHTML":{"__html":"$3"}}],"$L4"]}],"$L5"]}]]}],["$L6"],"$L7"]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"-f8JDEXe4WkXDL6nzUQi5"}
+4:["$","nav",null,{"className":"mt-12 pt-8 border-t border-border flex justify-between gap-4","children":[["$","div",null,{}],["$","div",null,{"className":"flex-1 p-4 bg-pickle-lighter rounded-lg text-center","children":["$","$L8",null,{"pose":"celebrating","size":"small","message":"You finished the book!","className":"inline-flex"}]}]]}]
+5:["$","aside",null,{"className":"hidden lg:block space-y-4 no-print","children":["$","div",null,{"className":"sticky top-20 space-y-4","children":[["$","div",null,{"className":"flex items-center gap-2","children":[["$","$L9",null,{"slug":"10-sensory-evolutionary-sensory-framework"}],["$","$La",null,{}]]}],["$","$Lb",null,{"headings":[{"id":"evolutionary-sensory-framework","text":"Evolutionary Sensory Framework","level":1},{"id":"the-core-principle","text":"The Core Principle","level":2},{"id":"the-rancidity-detection-system","text":"The Rancidity Detection System","level":2},{"id":"the-concentration-dependent-principle","text":"The Concentration-Dependent Principle","level":2},{"id":"the-bitterness-activity-parallel","text":"The Bitterness-Activity Parallel","level":2},{"id":"the-fermentation-acceptability-window","text":"The Fermentation Acceptability Window","level":2},{"id":"the-trigeminal-compound-presence-indicator","text":"The Trigeminal Compound-Presence Indicator","level":2},{"id":"application-to-the-petition","text":"Application to the Petition","level":2},{"id":"connections","text":"Connections","level":2}]}]]}]}]
+6:["$","script","script-0",{"src":"/_next/static/chunks/2gspel2gmkmqb.js","async":true}]
+7:["$","$Lc",null,{"children":["$","$d",null,{"name":"Next.MetadataOutlet","children":"$@e"}]}]
+e:null

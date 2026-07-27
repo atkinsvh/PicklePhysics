@@ -1,0 +1,124 @@
+1:"$Sreact.fragment"
+2:I[90114,["/_next/static/chunks/2cdxtyl33onme.js","/_next/static/chunks/30x6623ill3zz.js","/_next/static/chunks/2gspel2gmkmqb.js"],"default"]
+8:I[66489,["/_next/static/chunks/2cdxtyl33onme.js","/_next/static/chunks/30x6623ill3zz.js","/_next/static/chunks/2gspel2gmkmqb.js"],"default"]
+9:I[98352,["/_next/static/chunks/2cdxtyl33onme.js","/_next/static/chunks/30x6623ill3zz.js","/_next/static/chunks/2gspel2gmkmqb.js"],"default"]
+a:I[70411,["/_next/static/chunks/2cdxtyl33onme.js","/_next/static/chunks/30x6623ill3zz.js","/_next/static/chunks/2gspel2gmkmqb.js"],"default"]
+b:I[10432,["/_next/static/chunks/2cdxtyl33onme.js","/_next/static/chunks/30x6623ill3zz.js","/_next/static/chunks/2gspel2gmkmqb.js"],"default"]
+c:I[93070,["/_next/static/chunks/2cdxtyl33onme.js","/_next/static/chunks/30x6623ill3zz.js"],"OutletBoundary"]
+d:"$Sreact.suspense"
+3:T1a96,<h1 id="olfactory-chemistry">Olfactory Chemistry</h1>
+<blockquote>
+<p><em>The dominant food safety modality. The human olfactory system can detect ~1 trillion distinct odor combinations, heavily biased toward biologically relevant compound classes.</em></p>
+</blockquote>
+<h2 id="unfavorable-signals-evolved-avoidance">Unfavorable Signals — Evolved Avoidance</h2>
+<h3 id="putrescine-and-cadaverine-decomposition-polyamines">Putrescine and Cadaverine (Decomposition Polyamines)</h3>
+<ul>
+<li><strong>Production:</strong> Bacterial decarboxylation of lysine (→ cadaverine) and ornithine (→ putrescine) during protein decomposition</li>
+<li><strong>Organisms:</strong> Gram-negative facultative anaerobes — exactly the dysbiotic organisms the protocol targets</li>
+<li><strong>Detection threshold:</strong> Putrescine ~10 ppb</li>
+<li><strong>Critical insight:</strong> The same chemistry producing the rotting flesh smell externally is occurring in a dysbiotic gut. The olfactory avoidance system evolved for external detection is warning about a process happening internally. Dysbiosis has an olfactory signature that the sensory system would detect if it were external.</li>
+</ul>
+<h3 id="hydrogen-sulfide-and-methanethiol-sulfur-compounds">Hydrogen Sulfide and Methanethiol (Sulfur Compounds)</h3>
+<ul>
+<li><strong>Production:</strong> Sulfate-reducing bacteria (Desulfovibrio) from dietary sulfur amino acids</li>
+<li><strong>Detection threshold:</strong> H₂S ~0.5 ppb (extremely sensitive)</li>
+<li><strong>Same organisms:</strong> Overrepresented in dysbiotic gut ecology, associated with gut barrier damage</li>
+</ul>
+<h3 id="volatile-aldehydes-rancidity">Volatile Aldehydes (Rancidity)</h3>
+<ul>
+<li><strong>Hexanal:</strong> ~4.5 ppb threshold; from linoleic acid oxidation (the dominant PUFA in seed oils)</li>
+<li><strong>(E)-2-Nonenal:</strong> ~0.08 ppb; "cardboard/old fat" smell; from further oxidation</li>
+<li><strong>(E,E)-2,4-Decadienal:</strong> ~0.07 ppb; the characteristic deep-fry rancidity odor</li>
+<li><strong>Generated before the toxic fraction:</strong> These are produced at an earlier stage than 4-HNE and OXLAMs — they are the early warning, not the hazard itself</li>
+<li><strong>Deodorization specifically targets these</strong> — the precision of the interference is the evidence of its intentionality</li>
+</ul>
+<h3 id="indole-at-high-concentration">Indole at High Concentration</h3>
+<ul>
+<li><strong>Threshold paradox:</strong> Floral below ~1 ppm; fecal above</li>
+<li><strong>The detection is of dose:</strong> The same compound signals healthy bacterial AhR ligand activity at low concentration and bacterial overgrowth at high concentration</li>
+<li><strong>Evolutionary calibration:</strong> The hedonic transition corresponds to the concentration distinguishing beneficial from hazardous bacterial activity levels</li>
+</ul>
+<h2 id="favorable-signals-evolved-attraction">Favorable Signals — Evolved Attraction</h2>
+<h3 id="diacetyl-2-3-butanedione-lactobacillus-marker">Diacetyl (2,3-Butanedione) — Lactobacillus Marker</h3>
+<ul>
+<li><strong>Detection:</strong> 5–20 ppb</li>
+<li><strong>Production:</strong> Specifically by Lactobacillus and Leuconostoc from citrate during heterofermentation</li>
+<li><strong>Character:</strong> Butter/cream note</li>
+<li><strong>Significance:</strong> Cross-cultural positive hedonic response — not culturally learned. The universal attraction to this smell is the olfactory signature of Lactobacillus-dominated fermentation — the community that co-evolved with human food preparation for >10,000 years of agriculture and much longer before.</li>
+<li><strong>QC application:</strong> Diacetyl presence in the fermented preparation = Lactobacillus heterofermentation confirmed</li>
+</ul>
+<h3 id="lactic-acid-clean-sour">Lactic Acid — Clean Sour</h3>
+<ul>
+<li>The dominant fermentation marker</li>
+<li>At appropriate concentrations (pH 3.2–3.8), universally perceived as clean and appetizing in fermented food context</li>
+<li>Absence of lactic acid character = fermentation not proceeding correctly</li>
+</ul>
+<h3 id="terpene-and-phenolic-volatiles-the-antimicrobial-paradox">Terpene and Phenolic Volatiles — The Antimicrobial Paradox</h3>
+<p>The compounds that smell pleasant from rosemary, thyme, garlic, ginger, cinnamon are dramatically overrepresented among antimicrobial, antioxidant, and therapeutic phytochemicals.</p>
+<p>This is not coincidental — it reflects bidirectional evolutionary selection:</p>
+<ol>
+<li>Plants evolved these compounds as antimicrobials against their own pathogens</li>
+<li>Herbivores attracted to their smell experienced reduced pathogen load in their food</li>
+<li>Positive selection for the olfactory preference followed</li>
+<li>Humans who found these scents pleasant ate more antimicrobial plants and fared better</li>
+</ol>
+<p><strong>The smell of the herb blend in the fryer is an evolutionary fitness signal</strong> — ancestors with stronger attraction to this specific olfactory profile had lower infection burden and reproduced better.</p>
+<h2 id="fermented-preparation-aroma-profile">Fermented Preparation Aroma Profile</h2>
+<h3 id="healthy-batch-indicators">Healthy Batch Indicators</h3>
+<ul>
+<li><strong>Dominant:</strong> Clean lactic sour (lactic acid)</li>
+<li><strong>Secondary:</strong> Diacetyl cream note (Lactobacillus heterofermentation confirmed)</li>
+<li><strong>Present:</strong> Botanical complexity — garlic, ginger, thyme, olive, nigella each detectable</li>
+<li><strong>Acceptable:</strong> Mild indole-earthy (tryptophan-metabolizing Lactobacillus = AhR ligand production)</li>
+</ul>
+<h3 id="abnormal-investigate">Abnormal — Investigate</h3>
+<table>
+<thead>
+<tr>
+<th>Odor</th>
+<th>Cause</th>
+<th>Action</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Putrescine/cadaverine (rotting flesh)</td>
+<td>Gram-negative overgrowth</td>
+<td>Check pH, salt, temperature</td>
+</tr>
+<tr>
+<td>H₂S (rotten egg)</td>
+<td>Sulfate-reducing bacteria</td>
+<td>Check anaerobic dead zones</td>
+</tr>
+<tr>
+<td>Strongly alcoholic</td>
+<td>Yeast overgrowth</td>
+<td>Lower temperature, check salt</td>
+</tr>
+<tr>
+<td>Sharp pure acetic</td>
+<td>Acetic acid bacteria dominance</td>
+<td>Check oxygen exposure</td>
+</tr>
+<tr>
+<td>No detectable fermentation odor</td>
+<td>Fermentation stalled</td>
+<td>Check starter, temperature, chlorine in water</td>
+</tr>
+</tbody>
+</table>
+<h2 id="connections">Connections</h2>
+<ul>
+<li>[[Evolutionary Sensory Framework]] — the core principle</li>
+<li>[[Trigeminal Sensing]] — contact detection complement</li>
+<li>[[Sensory QC Protocol]] — practical application</li>
+<li>[[Quorum Sensing]] — indole olfactory-to-receptor connection</li>
+<li>[[Gut Microbiome Ecology]] — the organisms producing these signals</li>
+</ul>
+0:{"rsc":["$","$1","c",{"children":[["$","div",null,{"className":"max-w-6xl mx-auto px-4 py-8","children":[["$","$L2",null,{"slug":"10-sensory-olfactory-chemistry"}],["$","div",null,{"className":"grid grid-cols-1 lg:grid-cols-[1fr_280px] gap-8","children":[["$","article",null,{"children":[["$","header",null,{"className":"mb-8","children":[["$","div",null,{"className":"flex items-center gap-2 text-sm text-muted mb-3","children":[["$","span",null,{"className":"px-2 py-0.5 bg-pickle-light text-pickle-dark rounded text-xs font-medium","children":"Sensory Science"}],["$","span",null,{"children":["Chapter ",55]}]]}],["$","h1",null,{"className":"text-3xl md:text-4xl font-bold text-foreground mb-3","children":"Olfactory Chemistry"}],["$","p",null,{"className":"text-lg text-muted leading-relaxed","children":"tags: [sensory, olfaction, volatile, aroma]"}]]}],["$","div",null,{"className":"prose","dangerouslySetInnerHTML":{"__html":"$3"}}],"$L4"]}],"$L5"]}]]}],["$L6"],"$L7"]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"-f8JDEXe4WkXDL6nzUQi5"}
+4:["$","nav",null,{"className":"mt-12 pt-8 border-t border-border flex justify-between gap-4","children":[["$","div",null,{}],["$","div",null,{"className":"flex-1 p-4 bg-pickle-lighter rounded-lg text-center","children":["$","$L8",null,{"pose":"celebrating","size":"small","message":"You finished the book!","className":"inline-flex"}]}]]}]
+5:["$","aside",null,{"className":"hidden lg:block space-y-4 no-print","children":["$","div",null,{"className":"sticky top-20 space-y-4","children":[["$","div",null,{"className":"flex items-center gap-2","children":[["$","$L9",null,{"slug":"10-sensory-olfactory-chemistry"}],["$","$La",null,{}]]}],["$","$Lb",null,{"headings":[{"id":"olfactory-chemistry","text":"Olfactory Chemistry","level":1},{"id":"unfavorable-signals-evolved-avoidance","text":"Unfavorable Signals — Evolved Avoidance","level":2},{"id":"putrescine-and-cadaverine-decomposition-polyamines","text":"Putrescine and Cadaverine (Decomposition Polyamines)","level":3},{"id":"hydrogen-sulfide-and-methanethiol-sulfur-compounds","text":"Hydrogen Sulfide and Methanethiol (Sulfur Compounds)","level":3},{"id":"volatile-aldehydes-rancidity","text":"Volatile Aldehydes (Rancidity)","level":3},{"id":"indole-at-high-concentration","text":"Indole at High Concentration","level":3},{"id":"favorable-signals-evolved-attraction","text":"Favorable Signals — Evolved Attraction","level":2},{"id":"diacetyl-2-3-butanedione-lactobacillus-marker","text":"Diacetyl (2,3-Butanedione) — Lactobacillus Marker","level":3},{"id":"lactic-acid-clean-sour","text":"Lactic Acid — Clean Sour","level":3},{"id":"terpene-and-phenolic-volatiles-the-antimicrobial-paradox","text":"Terpene and Phenolic Volatiles — The Antimicrobial Paradox","level":3},{"id":"fermented-preparation-aroma-profile","text":"Fermented Preparation Aroma Profile","level":2},{"id":"healthy-batch-indicators","text":"Healthy Batch Indicators","level":3},{"id":"abnormal-investigate","text":"Abnormal — Investigate","level":3},{"id":"connections","text":"Connections","level":2}]}]]}]}]
+6:["$","script","script-0",{"src":"/_next/static/chunks/2gspel2gmkmqb.js","async":true}]
+7:["$","$Lc",null,{"children":["$","$d",null,{"name":"Next.MetadataOutlet","children":"$@e"}]}]
+e:null

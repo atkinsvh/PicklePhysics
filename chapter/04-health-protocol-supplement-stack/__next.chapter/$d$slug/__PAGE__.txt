@@ -1,0 +1,399 @@
+1:"$Sreact.fragment"
+2:I[90114,["/_next/static/chunks/2cdxtyl33onme.js","/_next/static/chunks/30x6623ill3zz.js","/_next/static/chunks/2gspel2gmkmqb.js"],"default"]
+8:I[66489,["/_next/static/chunks/2cdxtyl33onme.js","/_next/static/chunks/30x6623ill3zz.js","/_next/static/chunks/2gspel2gmkmqb.js"],"default"]
+9:I[98352,["/_next/static/chunks/2cdxtyl33onme.js","/_next/static/chunks/30x6623ill3zz.js","/_next/static/chunks/2gspel2gmkmqb.js"],"default"]
+a:I[70411,["/_next/static/chunks/2cdxtyl33onme.js","/_next/static/chunks/30x6623ill3zz.js","/_next/static/chunks/2gspel2gmkmqb.js"],"default"]
+b:I[10432,["/_next/static/chunks/2cdxtyl33onme.js","/_next/static/chunks/30x6623ill3zz.js","/_next/static/chunks/2gspel2gmkmqb.js"],"default"]
+c:I[93070,["/_next/static/chunks/2cdxtyl33onme.js","/_next/static/chunks/30x6623ill3zz.js"],"OutletBoundary"]
+d:"$Sreact.suspense"
+3:T1eab,<h1 id="supplement-stack-complete-reference">Supplement Stack — Complete Reference</h1>
+<blockquote>
+<p><em>Organized by phase. Start with Phase 0. Add subsequent phases when the previous phase is established.</em></p>
+</blockquote>
+<h2 id="phase-0-foundation-weeks-1-4">Phase 0 Foundation (Weeks 1–4)</h2>
+<table>
+<thead>
+<tr>
+<th>Supplement</th>
+<th>Dose</th>
+<th>Timing</th>
+<th>Mechanism</th>
+<th>Priority</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>NAC</td>
+<td>600mg</td>
+<td>Twice daily</td>
+<td>Cysteine for glutathione</td>
+<td>Critical</td>
+</tr>
+<tr>
+<td>Glycine</td>
+<td>3–5g</td>
+<td>Daily in food/water</td>
+<td>Second glutathione precursor; collagen; GlyR</td>
+<td>Critical</td>
+</tr>
+<tr>
+<td>Liposomal Vitamin C</td>
+<td>1g</td>
+<td>Twice daily</td>
+<td>TET enzyme; collagen; antioxidant network</td>
+<td>Critical</td>
+</tr>
+<tr>
+<td>Sulforaphane</td>
+<td>Daily</td>
+<td>Morning</td>
+<td>Irreversible Keap1 → 24–48hr Nrf2</td>
+<td>Critical</td>
+</tr>
+<tr>
+<td>Astaxanthin</td>
+<td>12mg</td>
+<td>With fat meal</td>
+<td>Mitochondrial membrane; renal</td>
+<td>High</td>
+</tr>
+<tr>
+<td>Methylfolate (5-MTHF)</td>
+<td>400–800μg</td>
+<td>Daily</td>
+<td>One-carbon/SAM cycle; bypass MTHFR</td>
+<td>High</td>
+</tr>
+<tr>
+<td>Methylcobalamin B12</td>
+<td>1mg</td>
+<td>Daily</td>
+<td>Methionine synthase; SAM cycle</td>
+<td>High</td>
+</tr>
+<tr>
+<td>NMN or NR</td>
+<td>300–500mg</td>
+<td>Morning</td>
+<td>NAD⁺ restoration for sirtuins</td>
+<td>High</td>
+</tr>
+<tr>
+<td>Calcium alpha-KG</td>
+<td>1g</td>
+<td>Daily</td>
+<td>TET enzyme cosubstrate</td>
+<td>High</td>
+</tr>
+<tr>
+<td>Betaine/TMG</td>
+<td>1–3g</td>
+<td>Daily</td>
+<td>Alternative methyl donor via BHMT</td>
+<td>High</td>
+</tr>
+<tr>
+<td>Zinc bisglycinate</td>
+<td>15–25mg</td>
+<td>Evening</td>
+<td>DNMT, HDAC, MTHFR, chromatin remodeling</td>
+<td>High</td>
+</tr>
+<tr>
+<td>Magnesium glycinate</td>
+<td>300–400mg</td>
+<td>Evening</td>
+<td>ATP-Mg²⁺ for chromatin remodeling ATPases</td>
+<td>High</td>
+</tr>
+</tbody>
+</table>
+<h2 id="phase-1-weeks-1-8-concurrent">Phase 1 (Weeks 1–8, concurrent)</h2>
+<table>
+<thead>
+<tr>
+<th>Supplement</th>
+<th>Dose</th>
+<th>Timing</th>
+<th>Mechanism</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Sodium butyrate</td>
+<td>600mg</td>
+<td>With each meal</td>
+<td>HDAC inhibition; tight junction upregulation</td>
+</tr>
+<tr>
+<td>L. rhamnosus GG</td>
+<td>10B CFU</td>
+<td>Daily</td>
+<td>DAO production; tight junction</td>
+</tr>
+<tr>
+<td>Akkermansia muciniphila</td>
+<td>Per label</td>
+<td>Daily</td>
+<td>Mucin layer architecture</td>
+</tr>
+<tr>
+<td>DAO enzyme</td>
+<td>Per label</td>
+<td>Before histamine foods</td>
+<td>Histamine degradation bridge</td>
+</tr>
+<tr>
+<td>Copper</td>
+<td>2mg</td>
+<td>Daily</td>
+<td>DAO cofactor; lysyl oxidase</td>
+</tr>
+<tr>
+<td>Oat beta-glucan</td>
+<td>3–5g</td>
+<td>Daily in food</td>
+<td>Akkermansia prebiotic; IL-10 induction</td>
+</tr>
+</tbody>
+</table>
+<h2 id="phase-2-weeks-4-12">Phase 2 (Weeks 4–12)</h2>
+<table>
+<thead>
+<tr>
+<th>Supplement</th>
+<th>Dose</th>
+<th>Timing</th>
+<th>Mechanism</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Quercetin + bromelain</td>
+<td>500mg</td>
+<td>Twice daily with meals</td>
+<td>Calcium channel; histidine decarboxylase</td>
+</tr>
+<tr>
+<td>AKBA (Boswellia)</td>
+<td>400–500mg</td>
+<td>Twice daily</td>
+<td>5-LOX inhibition; MMP-3/9 inhibition</td>
+</tr>
+<tr>
+<td>Luteolin</td>
+<td>100mg</td>
+<td>Daily</td>
+<td>Mast cell stabilization; BBB penetration</td>
+</tr>
+<tr>
+<td>Diosmin</td>
+<td>500mg</td>
+<td>Daily</td>
+<td>Lymphatic contractility</td>
+</tr>
+<tr>
+<td>PEA (palmitoylethanolamide)</td>
+<td>600–1200mg</td>
+<td>Daily</td>
+<td>PPARα; mast cell; neuroprotection</td>
+</tr>
+</tbody>
+</table>
+<h2 id="phase-3-weeks-6-ongoing">Phase 3 (Weeks 6–ongoing)</h2>
+<table>
+<thead>
+<tr>
+<th>Supplement</th>
+<th>Dose</th>
+<th>Timing</th>
+<th>Mechanism</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Urolithin A</td>
+<td>500mg</td>
+<td>Daily</td>
+<td>PINK1/Parkin mitophagy; mTOR-independent</td>
+</tr>
+<tr>
+<td>Berberine</td>
+<td>500mg</td>
+<td>Twice daily with meals</td>
+<td>AMPK autophagy; adipose M2; ABCA1</td>
+</tr>
+<tr>
+<td>Pterostilbene</td>
+<td>100mg</td>
+<td>Twice daily</td>
+<td>SIRT1; H3K9/H3K14 deacetylation</td>
+</tr>
+<tr>
+<td>Trehalose</td>
+<td>2–3g</td>
+<td>Daily in food</td>
+<td>TFEB; lysosomal biogenesis</td>
+</tr>
+<tr>
+<td>Resveratrol or pterostilbene</td>
+<td>—</td>
+<td>See above</td>
+<td>SIRT1 activation</td>
+</tr>
+</tbody>
+</table>
+<h2 id="phase-4-weeks-8-years">Phase 4 (Weeks 8–years)</h2>
+<table>
+<thead>
+<tr>
+<th>Supplement</th>
+<th>Dose</th>
+<th>Timing</th>
+<th>Mechanism</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Collagen peptides</td>
+<td>10–15g</td>
+<td>Daily in warm liquid</td>
+<td>Hydroxyproline direct supply</td>
+</tr>
+<tr>
+<td>L-lysine</td>
+<td>1–2g</td>
+<td>Daily</td>
+<td>Cross-linking precursor</td>
+</tr>
+<tr>
+<td>Centella asiatica</td>
+<td>500mg</td>
+<td>Twice daily</td>
+<td>Collagen type I gene transcription</td>
+</tr>
+<tr>
+<td>Pine bark OPCs</td>
+<td>100–200mg</td>
+<td>Daily</td>
+<td>MMP inhibition; collagen/elastin binding</td>
+</tr>
+<tr>
+<td>Orthosilicic acid</td>
+<td>10–15mg Si</td>
+<td>Daily</td>
+<td>Fibroblast stimulation</td>
+</tr>
+<tr>
+<td>Manganese</td>
+<td>5mg</td>
+<td>Daily</td>
+<td>Prolidase cofactor</td>
+</tr>
+</tbody>
+</table>
+<h2 id="phase-5-months-3-ongoing">Phase 5 (Months 3–ongoing)</h2>
+<table>
+<thead>
+<tr>
+<th>Supplement</th>
+<th>Dose</th>
+<th>Timing</th>
+<th>Mechanism</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Berberine (already Phase 3)</td>
+<td>500mg</td>
+<td>Twice daily</td>
+<td>Adipose M1→M2; adipose browning</td>
+</tr>
+<tr>
+<td>Urolithin A (already Phase 3)</td>
+<td>500mg</td>
+<td>Daily</td>
+<td>Adipose mitophagy</td>
+</tr>
+</tbody>
+</table>
+<h2 id="additional-for-specific-conditions">Additional for Specific Conditions</h2>
+<h3 id="for-autoimmune-hormonal-conditions">For Autoimmune / Hormonal Conditions</h3>
+<table>
+<thead>
+<tr>
+<th>Supplement</th>
+<th>Dose</th>
+<th>Target</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Vitamin D3 + K2</td>
+<td>5000–10000 IU D3 + 200μg MK-7</td>
+<td>Treg induction; autoimmune suppression</td>
+</tr>
+<tr>
+<td>EPA/DHA</td>
+<td>2–4g</td>
+<td>Resolvin production; efferocytosis activation</td>
+</tr>
+<tr>
+<td>Lactoferrin</td>
+<td>100–300mg</td>
+<td>Iron chelation (endometriosis); tight junction</td>
+</tr>
+<tr>
+<td>Inositol (myo:D-chiro 40:1)</td>
+<td>4g myo + 400mg D-chiro</td>
+<td>PCOS insulin signaling</td>
+</tr>
+</tbody>
+</table>
+<h3 id="for-ms-specific">For MS-Specific</h3>
+<table>
+<thead>
+<tr>
+<th>Supplement</th>
+<th>Dose</th>
+<th>Target</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Lion's mane</td>
+<td>500–1000mg</td>
+<td>NGF; remyelination; microglial M2</td>
+</tr>
+<tr>
+<td>Vitamin D3 (higher dose)</td>
+<td>Up to 10000 IU with monitoring</td>
+<td>MS-specific Th17 suppression</td>
+</tr>
+</tbody>
+</table>
+<h2 id="non-supplement-foundations">Non-Supplement Foundations</h2>
+<ul>
+<li><strong>Resistance exercise:</strong> collagen synthesis signal in tendons/ligaments — non-negotiable</li>
+<li><strong>Intermittent fasting 16:8:</strong> mTOR-dependent autophagy</li>
+<li><strong>Sauna (if accessible):</strong> HSP70/90; protein quality control</li>
+<li><strong>Cold immersion:</strong> adipose lipophagy; beta-3 adrenergic pathway</li>
+<li><strong>Natto 2 tbsp daily:</strong> K2 (MK-7); spermidine; nattokinase</li>
+<li><strong>Fresh broccoli sprouts:</strong> sulforaphane — can't substitute with supplement equivalently</li>
+<li><strong>Bone broth:</strong> glycine, hydroxyproline, collagen peptides in food matrix</li>
+</ul>
+<h2 id="connections">Connections</h2>
+<ul>
+<li>[[Phase 0 - Source Control and Redox]]</li>
+<li>[[Phase 1 - Gut Barrier]]</li>
+<li>[[Phase 2 - Mast Cell Stabilization]]</li>
+<li>[[Phase 3 - Epigenetic Reprogramming]]</li>
+<li>[[Phase 4 - Structural Repair]]</li>
+<li>[[Phase 5 - Adipose Remodeling]]</li>
+</ul>
+0:{"rsc":["$","$1","c",{"children":[["$","div",null,{"className":"max-w-6xl mx-auto px-4 py-8","children":[["$","$L2",null,{"slug":"04-health-protocol-supplement-stack"}],["$","div",null,{"className":"grid grid-cols-1 lg:grid-cols-[1fr_280px] gap-8","children":[["$","article",null,{"children":[["$","header",null,{"className":"mb-8","children":[["$","div",null,{"className":"flex items-center gap-2 text-sm text-muted mb-3","children":[["$","span",null,{"className":"px-2 py-0.5 bg-pickle-light text-pickle-dark rounded text-xs font-medium","children":"Health Protocol"}],["$","span",null,{"children":["Chapter ",24]}]]}],["$","h1",null,{"className":"text-3xl md:text-4xl font-bold text-foreground mb-3","children":"Supplement Stack — Complete Reference"}],["$","p",null,{"className":"text-lg text-muted leading-relaxed","children":"tags: [protocol, health, supplements, reference]"}]]}],["$","div",null,{"className":"prose","dangerouslySetInnerHTML":{"__html":"$3"}}],"$L4"]}],"$L5"]}]]}],["$L6"],"$L7"]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"-f8JDEXe4WkXDL6nzUQi5"}
+4:["$","nav",null,{"className":"mt-12 pt-8 border-t border-border flex justify-between gap-4","children":[["$","div",null,{}],["$","div",null,{"className":"flex-1 p-4 bg-pickle-lighter rounded-lg text-center","children":["$","$L8",null,{"pose":"celebrating","size":"small","message":"You finished the book!","className":"inline-flex"}]}]]}]
+5:["$","aside",null,{"className":"hidden lg:block space-y-4 no-print","children":["$","div",null,{"className":"sticky top-20 space-y-4","children":[["$","div",null,{"className":"flex items-center gap-2","children":[["$","$L9",null,{"slug":"04-health-protocol-supplement-stack"}],["$","$La",null,{}]]}],["$","$Lb",null,{"headings":[{"id":"supplement-stack-complete-reference","text":"Supplement Stack — Complete Reference","level":1},{"id":"phase-0-foundation-weeks-1-4","text":"Phase 0 Foundation (Weeks 1–4)","level":2},{"id":"phase-1-weeks-1-8-concurrent","text":"Phase 1 (Weeks 1–8, concurrent)","level":2},{"id":"phase-2-weeks-4-12","text":"Phase 2 (Weeks 4–12)","level":2},{"id":"phase-3-weeks-6-ongoing","text":"Phase 3 (Weeks 6–ongoing)","level":2},{"id":"phase-4-weeks-8-years","text":"Phase 4 (Weeks 8–years)","level":2},{"id":"phase-5-months-3-ongoing","text":"Phase 5 (Months 3–ongoing)","level":2},{"id":"additional-for-specific-conditions","text":"Additional for Specific Conditions","level":2},{"id":"for-autoimmune-hormonal-conditions","text":"For Autoimmune / Hormonal Conditions","level":3},{"id":"for-ms-specific","text":"For MS-Specific","level":3},{"id":"non-supplement-foundations","text":"Non-Supplement Foundations","level":2},{"id":"connections","text":"Connections","level":2}]}]]}]}]
+6:["$","script","script-0",{"src":"/_next/static/chunks/2gspel2gmkmqb.js","async":true}]
+7:["$","$Lc",null,{"children":["$","$d",null,{"name":"Next.MetadataOutlet","children":"$@e"}]}]
+e:null

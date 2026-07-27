@@ -1,0 +1,139 @@
+1:"$Sreact.fragment"
+2:I[90114,["/_next/static/chunks/2cdxtyl33onme.js","/_next/static/chunks/30x6623ill3zz.js","/_next/static/chunks/2gspel2gmkmqb.js"],"default"]
+8:I[66489,["/_next/static/chunks/2cdxtyl33onme.js","/_next/static/chunks/30x6623ill3zz.js","/_next/static/chunks/2gspel2gmkmqb.js"],"default"]
+9:I[98352,["/_next/static/chunks/2cdxtyl33onme.js","/_next/static/chunks/30x6623ill3zz.js","/_next/static/chunks/2gspel2gmkmqb.js"],"default"]
+a:I[70411,["/_next/static/chunks/2cdxtyl33onme.js","/_next/static/chunks/30x6623ill3zz.js","/_next/static/chunks/2gspel2gmkmqb.js"],"default"]
+b:I[10432,["/_next/static/chunks/2cdxtyl33onme.js","/_next/static/chunks/30x6623ill3zz.js","/_next/static/chunks/2gspel2gmkmqb.js"],"default"]
+c:I[93070,["/_next/static/chunks/2cdxtyl33onme.js","/_next/static/chunks/30x6623ill3zz.js"],"OutletBoundary"]
+d:"$Sreact.suspense"
+3:T1288,<h1 id="quality-control-fat-processing">Quality Control — Fat Processing</h1>
+<blockquote>
+<p><em>Testing hierarchy from free sensory checks to quantitative titration. The reference sample is the most important tool.</em></p>
+</blockquote>
+<h2 id="testing-hierarchy">Testing Hierarchy</h2>
+<table>
+<thead>
+<tr>
+<th>Test</th>
+<th>Frequency</th>
+<th>Time</th>
+<th>Cost</th>
+<th>Measures</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Sensory (color, smell)</td>
+<td>Every session</td>
+<td>2 min</td>
+<td>Free</td>
+<td>Overall condition proxy</td>
+</tr>
+<tr>
+<td>Paper towel test</td>
+<td>Every session</td>
+<td>5 min</td>
+<td>Free</td>
+<td>Polar compounds, particulates</td>
+</tr>
+<tr>
+<td>Water drop test</td>
+<td>Weekly</td>
+<td>2 min</td>
+<td>Free</td>
+<td>FFA proxy</td>
+</tr>
+<tr>
+<td>Baking soda effervescence</td>
+<td>Weekly/incoming</td>
+<td>5 min</td>
+<td>Free</td>
+<td>FFA (qualitative)</td>
+</tr>
+<tr>
+<td>FFA titration</td>
+<td>Monthly/post-processing</td>
+<td>15 min</td>
+<td>&#x3C;$1</td>
+<td>FFA% (quantitative)</td>
+</tr>
+<tr>
+<td>Starch-iodide peroxide</td>
+<td>Quarterly</td>
+<td>20 min</td>
+<td>$2</td>
+<td>Peroxide value (semi-quant)</td>
+</tr>
+<tr>
+<td>Color comparison</td>
+<td>Monthly</td>
+<td>5 min</td>
+<td>Free</td>
+<td>Color body accumulation trend</td>
+</tr>
+</tbody>
+</table>
+<h2 id="the-reference-sample-system">The Reference Sample System</h2>
+<p>Keep a sealed small jar of freshly processed stearin as a permanent standard:</p>
+<ul>
+<li>Best available quality, freshly processed</li>
+<li>Store dark, cool, sealed</li>
+<li>Replace every 6 months</li>
+<li>Use for: color comparison, odor comparison, water drop comparison</li>
+<li>Photograph each test for trend tracking</li>
+</ul>
+<p><strong>Reference standard specs:</strong></p>
+<ul>
+<li>FFA: &#x3C;0.3%</li>
+<li>Color: ivory-white</li>
+<li>Odor (warm): neutral, mildly fatty</li>
+<li>Water drop: discrete bead maintained</li>
+</ul>
+<h2 id="ffa-titration-full-procedure">FFA Titration — Full Procedure</h2>
+<p><strong>Materials:</strong> IPA (99%), phenolphthalein indicator, 0.1M NaOH (4g food-grade NaOH per liter distilled water), scale (±0.1g), syringe or dropper</p>
+<ol>
+<li>Weigh 5.0g melted fat exactly</li>
+<li>Add 10ml IPA, warm to 50°C until clear</li>
+<li>Add 3 drops phenolphthalein (solution colorless)</li>
+<li>Add 0.1M NaOH drop by drop, swirling between drops</li>
+<li>Endpoint: first persistent pink lasting 30 seconds</li>
+</ol>
+<p><strong>Calculation:</strong> FFA% = (ml NaOH × 0.1 × 282 × 100) ÷ (sample weight × 1000)</p>
+<p><strong>Example:</strong> 0.5ml NaOH, 5.0g sample → FFA = (0.5 × 0.1 × 282 × 100) ÷ (5000) = 0.28%</p>
+<p><strong>Acceptance criteria:</strong></p>
+<ul>
+<li>&#x3C;0.5%: Release — meets specification</li>
+<li>0.5–1.0%: Acceptable — monitor</li>
+<li>
+<blockquote>
+<p>1.0%: Reprocess — additional ethanol wash + repeat Phase A</p>
+</blockquote>
+</li>
+</ul>
+<h2 id="sensory-tests">Sensory Tests</h2>
+<p><strong>Paper towel test:</strong>
+Dip white paper towel in fat at 60°C. Clean fat = even pale yellow absorption, no dark patches. Degraded fat = dark patches, uneven absorption, visible particulate residue. Run after each bentonite treatment — endpoint when successive treatments produce no improvement.</p>
+<p><strong>Water drop test (FFA proxy):</strong>
+Place fat drop on clean dry glass. Add water drop. Pass = discrete water bead maintains surface tension. Fail = water spreads and partially emulsifies (FFAs acting as emulsifiers at fat-water interface).</p>
+<p><strong>Baking soda effervescence:</strong>
+Add 5ml baking soda solution to 50ml fat sample. Vigorous sustained bubbling = high FFA. Mild brief = moderate. None = low FFA. Use as incoming quality assessment and post-processing check.</p>
+<h2 id="bentonite-saturation-indicator">Bentonite Saturation Indicator</h2>
+<p>Fresh bentonite: pale tan to grey-white. Spent bentonite: darkens toward amber-brown proportional to oxidized compound load.</p>
+<ul>
+<li>Spent bentonite exits already dark → fat had high contamination load, continue treatment</li>
+<li>Spent bentonite similar to fresh → fat was relatively clean, treatment is complete</li>
+</ul>
+<p><strong>Diminishing returns endpoint:</strong> Plot FFA or color measurement after each treatment. Continue until the improvement curve flattens — where another treatment produces no measurable improvement. This is both the quality endpoint and the economic optimization point.</p>
+<h2 id="connections">Connections</h2>
+<ul>
+<li>[[11-Step Protocol]] — the process being tested</li>
+<li>[[Aqueous Phase Chemistry]] — what's being removed</li>
+<li>[[Solvent Phase Chemistry]] — what's being removed</li>
+<li>[[In-Fryer Antioxidants]] — prevention upstream</li>
+</ul>
+0:{"rsc":["$","$1","c",{"children":[["$","div",null,{"className":"max-w-6xl mx-auto px-4 py-8","children":[["$","$L2",null,{"slug":"02-fat-processing-quality-control"}],["$","div",null,{"className":"grid grid-cols-1 lg:grid-cols-[1fr_280px] gap-8","children":[["$","article",null,{"children":[["$","header",null,{"className":"mb-8","children":[["$","div",null,{"className":"flex items-center gap-2 text-sm text-muted mb-3","children":[["$","span",null,{"className":"px-2 py-0.5 bg-pickle-light text-pickle-dark rounded text-xs font-medium","children":"Fat Processing"}],["$","span",null,{"children":["Chapter ",9]}]]}],["$","h1",null,{"className":"text-3xl md:text-4xl font-bold text-foreground mb-3","children":"Quality Control — Fat Processing"}],["$","p",null,{"className":"text-lg text-muted leading-relaxed","children":"tags: [protocol, fat-processing, quality-control, testing]"}]]}],["$","div",null,{"className":"prose","dangerouslySetInnerHTML":{"__html":"$3"}}],"$L4"]}],"$L5"]}]]}],["$L6"],"$L7"]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"-f8JDEXe4WkXDL6nzUQi5"}
+4:["$","nav",null,{"className":"mt-12 pt-8 border-t border-border flex justify-between gap-4","children":[["$","div",null,{}],["$","div",null,{"className":"flex-1 p-4 bg-pickle-lighter rounded-lg text-center","children":["$","$L8",null,{"pose":"celebrating","size":"small","message":"You finished the book!","className":"inline-flex"}]}]]}]
+5:["$","aside",null,{"className":"hidden lg:block space-y-4 no-print","children":["$","div",null,{"className":"sticky top-20 space-y-4","children":[["$","div",null,{"className":"flex items-center gap-2","children":[["$","$L9",null,{"slug":"02-fat-processing-quality-control"}],["$","$La",null,{}]]}],["$","$Lb",null,{"headings":[{"id":"quality-control-fat-processing","text":"Quality Control — Fat Processing","level":1},{"id":"testing-hierarchy","text":"Testing Hierarchy","level":2},{"id":"the-reference-sample-system","text":"The Reference Sample System","level":2},{"id":"ffa-titration-full-procedure","text":"FFA Titration — Full Procedure","level":2},{"id":"sensory-tests","text":"Sensory Tests","level":2},{"id":"bentonite-saturation-indicator","text":"Bentonite Saturation Indicator","level":2},{"id":"connections","text":"Connections","level":2}]}]]}]}]
+6:["$","script","script-0",{"src":"/_next/static/chunks/2gspel2gmkmqb.js","async":true}]
+7:["$","$Lc",null,{"children":["$","$d",null,{"name":"Next.MetadataOutlet","children":"$@e"}]}]
+e:null

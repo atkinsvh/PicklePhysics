@@ -1,0 +1,105 @@
+1:"$Sreact.fragment"
+2:I[90114,["/_next/static/chunks/2cdxtyl33onme.js","/_next/static/chunks/30x6623ill3zz.js","/_next/static/chunks/2gspel2gmkmqb.js"],"default"]
+8:I[66489,["/_next/static/chunks/2cdxtyl33onme.js","/_next/static/chunks/30x6623ill3zz.js","/_next/static/chunks/2gspel2gmkmqb.js"],"default"]
+9:I[98352,["/_next/static/chunks/2cdxtyl33onme.js","/_next/static/chunks/30x6623ill3zz.js","/_next/static/chunks/2gspel2gmkmqb.js"],"default"]
+a:I[70411,["/_next/static/chunks/2cdxtyl33onme.js","/_next/static/chunks/30x6623ill3zz.js","/_next/static/chunks/2gspel2gmkmqb.js"],"default"]
+b:I[10432,["/_next/static/chunks/2cdxtyl33onme.js","/_next/static/chunks/30x6623ill3zz.js","/_next/static/chunks/2gspel2gmkmqb.js"],"default"]
+c:I[93070,["/_next/static/chunks/2cdxtyl33onme.js","/_next/static/chunks/30x6623ill3zz.js"],"OutletBoundary"]
+d:"$Sreact.suspense"
+3:T16ef,<h1 id="regulatory-compliance-path">Regulatory Compliance Path</h1>
+<blockquote>
+<p><em>Selling as a traditional fermented food product without health claims. This is both the correct legal positioning and the honest one — the product is food.</em></p>
+</blockquote>
+<h2 id="the-regulatory-fork">The Regulatory Fork</h2>
+<h3 id="path-a-dietary-supplement">Path A — Dietary Supplement</h3>
+<ul>
+<li>Registration: DSHEA (Dietary Supplement Health and Education Act, 1994)</li>
+<li>Claims: Structure-function claims permitted with specific disclaimer ("This statement has not been evaluated by the FDA...")</li>
+<li>Manufacturing: 21 CFR Part 111 (dietary supplement GMP)</li>
+<li>Expensive, burdensome, requires specific labeling regime</li>
+<li>Not appropriate — the product is a fermented food, not a concentrated extract</li>
+</ul>
+<h3 id="path-b-conventional-food-correct-path">Path B — Conventional Food (Correct Path)</h3>
+<ul>
+<li>Regulation: 21 CFR Parts 100–199 (food standards)</li>
+<li>Claims: No structure-function or health claims without specific FDA authorization</li>
+<li>Manufacturing: 21 CFR Part 117 (food GMP for human food)</li>
+<li>The honest positioning: a fermented food product</li>
+<li>Significantly simpler compliance path</li>
+</ul>
+<h2 id="key-food-safety-regulations">Key Food Safety Regulations</h2>
+<h3 id="21-cfr-part-117-current-good-manufacturing-practice-hazard-analysis-and-risk-based-preventive-controls-for-human-food-fsma">21 CFR Part 117 — Current Good Manufacturing Practice, Hazard Analysis, and Risk-Based Preventive Controls for Human Food (FSMA)</h3>
+<ul>
+<li>Requires: Written food safety plan, hazard analysis, preventive controls</li>
+<li>Applicable to: All food facilities with >$1M annual sales (Qualified Facility exemption below this threshold)</li>
+<li>For a small startup below $1M: Qualified Facility status with modified requirements</li>
+<li>Still requires: Basic sanitation, allergen controls, pest control, equipment maintenance</li>
+</ul>
+<h3 id="ph-and-water-activity-controls-lacf-regulations-for-acidified-foods">pH and Water Activity Controls (LACF Regulations for Acidified Foods)</h3>
+<p><strong>This is the critical compliance issue for lactofermented products.</strong></p>
+<p>The FDA distinguishes between:</p>
+<ul>
+<li><strong>Fermented foods</strong> (naturally acidified through microbial activity): not regulated as "acidified foods"</li>
+<li><strong>Acidified foods</strong> (acid added to reach target pH): 21 CFR Part 114 — requires process filing with FDA</li>
+</ul>
+<p>A <strong>genuine lactoferment</strong> (where the pH drop is produced entirely by microbial lactic acid production, not added acid) is classified as a fermented food, not an acidified food. This is the correct classification for this product.</p>
+<p><strong>Documentation required:</strong></p>
+<ul>
+<li>pH monitoring records showing gradual pH decrease consistent with fermentation (not an immediate drop from added acid)</li>
+<li>Evidence that the pH reduction is microbially produced</li>
+<li>Final pH ≤4.6 (which prevents Clostridium botulinum growth — the primary safety concern in low-acid food production)</li>
+</ul>
+<p>Target pH of 3.2–3.8 is well below the 4.6 safety threshold.</p>
+<h3 id="allergen-labeling-21-cfr-part-101-4">Allergen Labeling (21 CFR Part 101.4)</h3>
+<p>The formulation contains potential allergens:</p>
+<ul>
+<li><strong>Celery</strong> (European allergen, not US top 9)</li>
+<li><strong>Wheat germ</strong> — contains gluten; must be labeled as containing wheat (US top 9 allergen)</li>
+<li>Review full botanical list against FDA's top 9: milk, eggs, fish, shellfish, tree nuts, peanuts, wheat, soybean, sesame</li>
+</ul>
+<p>Sesame (added to top 9 in 2023) — check botanical pack for sesame content.</p>
+<h2 id="label-requirements">Label Requirements</h2>
+<p><strong>Required on label:</strong></p>
+<ul>
+<li>Product name</li>
+<li>Net weight</li>
+<li>Ingredient list (all ingredients, in descending order by weight, including all botanicals)</li>
+<li>Manufacturer name and address</li>
+<li>Nutrition Facts panel (can use simplified format for certain products)</li>
+<li>Allergen declaration</li>
+</ul>
+<p><strong>Prohibited without authorization:</strong></p>
+<ul>
+<li>Disease claims ("helps with MCAS")</li>
+<li>Unapproved structure-function claims tied to body parts or physiological conditions</li>
+<li>Anything implying the product treats, cures, prevents, or mitigates a disease</li>
+</ul>
+<p><strong>Permitted:</strong></p>
+<ul>
+<li>"Traditional fermented preparation"</li>
+<li>"Small-batch, 120-day fermented"</li>
+<li>List of ingredients as botanicals</li>
+<li>"May contain histamine" advisory for MCAS-relevant customers (voluntary but valuable)</li>
+</ul>
+<h2 id="state-level-requirements">State-Level Requirements</h2>
+<p>Some states have additional requirements for cottage food vs. licensed food production:</p>
+<ul>
+<li>Check state health department requirements before selling</li>
+<li>Most states require licensed commercial kitchen for products sold through retail channels</li>
+<li>Direct-to-consumer (farmer's market, farm stand) has different requirements by state</li>
+</ul>
+<h2 id="honest-representation-vs-health-claims">Honest Representation vs. Health Claims</h2>
+<p>The protocol's complete mechanistic framework can be shared with customers in educational contexts (website, articles, books, one-on-one conversations) without violating the labeling prohibition. The label itself contains no health claims; the education happens elsewhere.</p>
+<h2 id="connections">Connections</h2>
+<ul>
+<li>[[Product Concept]] — what's being sold</li>
+<li>[[Economics]] — the financial model</li>
+<li>[[Petition Framework]] — the regulatory work this preparation supports</li>
+<li>[[System Architecture]] — the GMP-compliant production system</li>
+</ul>
+0:{"rsc":["$","$1","c",{"children":[["$","div",null,{"className":"max-w-6xl mx-auto px-4 py-8","children":[["$","$L2",null,{"slug":"12-commercial-regulatory-compliance-path"}],["$","div",null,{"className":"grid grid-cols-1 lg:grid-cols-[1fr_280px] gap-8","children":[["$","article",null,{"children":[["$","header",null,{"className":"mb-8","children":[["$","div",null,{"className":"flex items-center gap-2 text-sm text-muted mb-3","children":[["$","span",null,{"className":"px-2 py-0.5 bg-pickle-light text-pickle-dark rounded text-xs font-medium","children":"Commercial"}],["$","span",null,{"children":["Chapter ",65]}]]}],["$","h1",null,{"className":"text-3xl md:text-4xl font-bold text-foreground mb-3","children":"Regulatory Compliance Path"}],["$","p",null,{"className":"text-lg text-muted leading-relaxed","children":"tags: [commercial, regulatory, FDA, food-safety, compliance]"}]]}],["$","div",null,{"className":"prose","dangerouslySetInnerHTML":{"__html":"$3"}}],"$L4"]}],"$L5"]}]]}],["$L6"],"$L7"]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"-f8JDEXe4WkXDL6nzUQi5"}
+4:["$","nav",null,{"className":"mt-12 pt-8 border-t border-border flex justify-between gap-4","children":[["$","div",null,{}],["$","div",null,{"className":"flex-1 p-4 bg-pickle-lighter rounded-lg text-center","children":["$","$L8",null,{"pose":"celebrating","size":"small","message":"You finished the book!","className":"inline-flex"}]}]]}]
+5:["$","aside",null,{"className":"hidden lg:block space-y-4 no-print","children":["$","div",null,{"className":"sticky top-20 space-y-4","children":[["$","div",null,{"className":"flex items-center gap-2","children":[["$","$L9",null,{"slug":"12-commercial-regulatory-compliance-path"}],["$","$La",null,{}]]}],["$","$Lb",null,{"headings":[{"id":"regulatory-compliance-path","text":"Regulatory Compliance Path","level":1},{"id":"the-regulatory-fork","text":"The Regulatory Fork","level":2},{"id":"path-a-dietary-supplement","text":"Path A — Dietary Supplement","level":3},{"id":"path-b-conventional-food-correct-path","text":"Path B — Conventional Food (Correct Path)","level":3},{"id":"key-food-safety-regulations","text":"Key Food Safety Regulations","level":2},{"id":"21-cfr-part-117-current-good-manufacturing-practice-hazard-analysis-and-risk-based-preventive-controls-for-human-food-fsma","text":"21 CFR Part 117 — Current Good Manufacturing Practice, Hazard Analysis, and Risk-Based Preventive Controls for Human Food (FSMA)","level":3},{"id":"ph-and-water-activity-controls-lacf-regulations-for-acidified-foods","text":"pH and Water Activity Controls (LACF Regulations for Acidified Foods)","level":3},{"id":"allergen-labeling-21-cfr-part-101-4","text":"Allergen Labeling (21 CFR Part 101.4)","level":3},{"id":"label-requirements","text":"Label Requirements","level":2},{"id":"state-level-requirements","text":"State-Level Requirements","level":2},{"id":"honest-representation-vs-health-claims","text":"Honest Representation vs. Health Claims","level":2},{"id":"connections","text":"Connections","level":2}]}]]}]}]
+6:["$","script","script-0",{"src":"/_next/static/chunks/2gspel2gmkmqb.js","async":true}]
+7:["$","$Lc",null,{"children":["$","$d",null,{"name":"Next.MetadataOutlet","children":"$@e"}]}]
+e:null

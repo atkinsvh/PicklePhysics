@@ -1,0 +1,109 @@
+1:"$Sreact.fragment"
+2:I[90114,["/_next/static/chunks/2cdxtyl33onme.js","/_next/static/chunks/30x6623ill3zz.js","/_next/static/chunks/2gspel2gmkmqb.js"],"default"]
+8:I[66489,["/_next/static/chunks/2cdxtyl33onme.js","/_next/static/chunks/30x6623ill3zz.js","/_next/static/chunks/2gspel2gmkmqb.js"],"default"]
+9:I[98352,["/_next/static/chunks/2cdxtyl33onme.js","/_next/static/chunks/30x6623ill3zz.js","/_next/static/chunks/2gspel2gmkmqb.js"],"default"]
+a:I[70411,["/_next/static/chunks/2cdxtyl33onme.js","/_next/static/chunks/30x6623ill3zz.js","/_next/static/chunks/2gspel2gmkmqb.js"],"default"]
+b:I[10432,["/_next/static/chunks/2cdxtyl33onme.js","/_next/static/chunks/30x6623ill3zz.js","/_next/static/chunks/2gspel2gmkmqb.js"],"default"]
+c:I[93070,["/_next/static/chunks/2cdxtyl33onme.js","/_next/static/chunks/30x6623ill3zz.js"],"OutletBoundary"]
+d:"$Sreact.suspense"
+3:T1afd,<h1 id="solvent-phase-chemistry-steps-9-11">Solvent Phase Chemistry — Steps 9–11</h1>
+<blockquote>
+<p><em>Acetone fractionation is the highest-leverage single intervention. It removes 89% of PUFA and 50% of total polar compounds in one step through two independent exclusion mechanisms.</em></p>
+</blockquote>
+<h2 id="step-9-acetone-fractionation-in-detail">Step 9 — Acetone Fractionation in Detail</h2>
+<h3 id="the-two-independent-exclusion-mechanisms">The Two Independent Exclusion Mechanisms</h3>
+<p><strong>Mechanism 1: PUFA Exclusion (Geometric)</strong>
+Saturated fatty acid chains are linear — they pack into crystal lattices efficiently like straight sticks in a bundle, maximizing van der Waals contact, producing high lattice energy and high melting points.</p>
+<p>Each carbon-carbon double bond introduces a ~30° bend. This geometric disruption:</p>
+<ul>
+<li>Prevents efficient β' crystal lattice packing</li>
+<li>Reduces van der Waals contact proportionally</li>
+<li>Drops lattice energy proportionally to double bond count</li>
+<li>Produces proportionally lower melting points</li>
+</ul>
+<p>Melting points: Tristearin (SSS, 0 DB): 73°C | Triolein (OOO, 3 DB): −4°C | Trilinolein (LLL, 6 DB): −13°C</p>
+<p>At 4–7°C, PUFA triglycerides are geometrically incapable of crystallizing. They cannot be forced to by concentration or time.</p>
+<p><strong>Mechanism 2: Oxidized Compound Exclusion (Thermodynamic)</strong>
+Oxidized functional groups (−OOH, aldehyde, ketone, epoxide, hydroxyl on the chain) are polar. They:</p>
+<ul>
+<li>Form hydrogen bonds with acetone molecules (polar aprotic solvent)</li>
+<li>Cannot satisfy those interaction energies in the non-polar crystal lattice</li>
+<li>Therefore remain in solution regardless of temperature</li>
+</ul>
+<p>This mechanism is temperature-independent within the practical range. Oxidized compounds stay in solution at 4°C and they would stay in solution at −10°C. The exclusion is thermodynamic, not kinetic.</p>
+<h3 id="the-crystal-chemistry">The Crystal Chemistry</h3>
+<p><strong>Polymorphic forms:</strong></p>
+<ul>
+<li>α form: unstable, forms fast under rapid cooling, melts 5–10°C below β</li>
+<li><strong>β' form: intermediate stability, fine crystal structure, optimal for cooking fats</strong> ← target</li>
+<li>β form: most stable, coarse crystals, grainy texture</li>
+</ul>
+<p><strong>Slow fridge cooling produces β':</strong> Counter rest at room temperature allows SSS/PPP to nucleate first. Fridge at 4–7°C then allows SOS/POP/POS to crystallize epitaxially onto existing nuclei rather than nucleating independently. The β' lattice is geometrically compatible with mixed triglycerides where oleic acid occupies the sn-2 position (the "tuning fork" geometry).</p>
+<h3 id="what-s-actually-in-the-stearin-fraction">What's Actually in the Stearin Fraction</h3>
+<p>The product is NOT pure tristearin. It is a mixed triglyceride fraction:</p>
+<ul>
+<li>SSS (tristearin), PPP (tripalmitin): fully crystallized — fully included</li>
+<li><strong>SOS, POP, POS</strong> (dominant in tallow — oleic at sn-2, saturates at sn-1/3): largely crystallized at 4–7°C — mostly included</li>
+<li>Triolein (OOO, mp −4°C): just above melting point at 4°C — mostly excluded</li>
+<li>Trilinolein and PUFA triglycerides: far below melting point — fully excluded</li>
+<li>All oxidized compounds: thermodynamically excluded</li>
+</ul>
+<p>Residual oleic acid content in stearin: ~20–30% (from SOS/POP/POS). This is not a defect — it prevents the waxy mouthfeel of pure tristearin (mp 73°C) and produces the β' polymorph that gives good functional properties.</p>
+<h3 id="eutectic-behavior-why-the-product-is-usable">Eutectic Behavior — Why the Product Is Usable</h3>
+<p>Mixtures of triglycerides melt at lower temperatures than either pure component. The mixed SOS/POP/POS/SSS/PPP fraction has a melting range beginning ~35–38°C (POP/POS) through ~50–55°C (SSS) rather than a sharp 73°C melting point. This means:</p>
+<ul>
+<li>Begins softening near body temperature → good mouthfeel</li>
+<li>Fully liquid well below frying temperature → good frying performance</li>
+<li>Soft solid at room temperature → handleable</li>
+</ul>
+<h2 id="step-10-bentonite-after-fractionation">Step 10 — Bentonite After Fractionation</h2>
+<h3 id="why-this-placement-is-optimal">Why This Placement Is Optimal</h3>
+<p>Operating on stearin fraction only means:</p>
+<ul>
+<li><strong>~50% original volume</strong> — less bentonite needed by volume</li>
+<li><strong>PUFA-associated oxidized compounds already gone</strong> — bentonite active sites no longer occupied by this fraction</li>
+<li><strong>Remaining contamination profile:</strong> oxidized compounds that co-crystallized with stearin, color bodies that survived acetone, trace FFAs from incomplete ethanol wash, residual pro-oxidant metals not fully chelated in Step 4</li>
+<li><strong>Surface area per contaminant molecule dramatically improved</strong> — each gram of bentonite does more work</li>
+</ul>
+<h3 id="bentonite-cat-litter-mechanism">Bentonite (Cat Litter) Mechanism</h3>
+<p>Sodium montmorillonite clay:</p>
+<ul>
+<li>Surface area: 300–800 m²/g (vs. crystalline quartz sand: ~0.1 m²/g — 3000–8000× more)</li>
+<li>Adsorption through: dipole-dipole interaction, hydrogen bonding, cation exchange</li>
+<li><strong>Self-removing behavior:</strong> Montmorillonite is hydrophilic — swells significantly in water. When hot water is added, bentonite migrates preferentially into the aqueous phase, carrying its adsorbed load with it. No filtration required — it leaves the fat phase.</li>
+</ul>
+<h2 id="solvent-recovery-apparatus">Solvent Recovery Apparatus</h2>
+<p><strong>Two-solvent recovery with stainless brake line condenser:</strong></p>
+<ul>
+<li>Boiling vessel: stainless</li>
+<li>Vapor line: stainless or copper</li>
+<li>Condenser coil: 3/16" stainless brake line, 6 feet, coiled in ice water bath (HDPE housing)</li>
+<li>Collection vessel: HDPE</li>
+<li>All joints: PTFE tape</li>
+<li>Grounding wire between vessels (static prevention)</li>
+<li>Electric heat ONLY — no open flames with solvents</li>
+</ul>
+<p><strong>Sequential recovery:</strong></p>
+<ol>
+<li>Acetone first (bp 56°C) — heat to 60–65°C</li>
+<li>Ethanol second (bp 78.4°C) — raise to 80–82°C</li>
+<li>22°C gap gives clean separation</li>
+</ol>
+<p><strong>Material compatibility:</strong></p>
+<ul>
+<li>Acetone: stainless, copper, HDPE, PTFE ✓ | Silicone ✗ (swells) | Latex ✗</li>
+<li>See [[Quick Reference]] for full matrix</li>
+</ul>
+<h2 id="connections">Connections</h2>
+<ul>
+<li>[[11-Step Protocol]] — full sequence</li>
+<li>[[Aqueous Phase Chemistry]] — Phase A</li>
+<li>[[Quality Control]] — acceptance criteria for product</li>
+<li>[[In-Fryer Antioxidants]] — preventing the need for aggressive fractionation</li>
+</ul>
+0:{"rsc":["$","$1","c",{"children":[["$","div",null,{"className":"max-w-6xl mx-auto px-4 py-8","children":[["$","$L2",null,{"slug":"02-fat-processing-solvent-phase-chemistry"}],["$","div",null,{"className":"grid grid-cols-1 lg:grid-cols-[1fr_280px] gap-8","children":[["$","article",null,{"children":[["$","header",null,{"className":"mb-8","children":[["$","div",null,{"className":"flex items-center gap-2 text-sm text-muted mb-3","children":[["$","span",null,{"className":"px-2 py-0.5 bg-pickle-light text-pickle-dark rounded text-xs font-medium","children":"Fat Processing"}],["$","span",null,{"children":["Chapter ",10]}]]}],["$","h1",null,{"className":"text-3xl md:text-4xl font-bold text-foreground mb-3","children":"Solvent Phase Chemistry — Steps 9–11"}],["$","p",null,{"className":"text-lg text-muted leading-relaxed","children":"tags: [protocol, fat-processing, chemistry, solvent, acetone, fractionation]"}]]}],["$","div",null,{"className":"prose","dangerouslySetInnerHTML":{"__html":"$3"}}],"$L4"]}],"$L5"]}]]}],["$L6"],"$L7"]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"-f8JDEXe4WkXDL6nzUQi5"}
+4:["$","nav",null,{"className":"mt-12 pt-8 border-t border-border flex justify-between gap-4","children":[["$","div",null,{}],["$","div",null,{"className":"flex-1 p-4 bg-pickle-lighter rounded-lg text-center","children":["$","$L8",null,{"pose":"celebrating","size":"small","message":"You finished the book!","className":"inline-flex"}]}]]}]
+5:["$","aside",null,{"className":"hidden lg:block space-y-4 no-print","children":["$","div",null,{"className":"sticky top-20 space-y-4","children":[["$","div",null,{"className":"flex items-center gap-2","children":[["$","$L9",null,{"slug":"02-fat-processing-solvent-phase-chemistry"}],["$","$La",null,{}]]}],["$","$Lb",null,{"headings":[{"id":"solvent-phase-chemistry-steps-9-11","text":"Solvent Phase Chemistry — Steps 9–11","level":1},{"id":"step-9-acetone-fractionation-in-detail","text":"Step 9 — Acetone Fractionation in Detail","level":2},{"id":"the-two-independent-exclusion-mechanisms","text":"The Two Independent Exclusion Mechanisms","level":3},{"id":"the-crystal-chemistry","text":"The Crystal Chemistry","level":3},{"id":"what-s-actually-in-the-stearin-fraction","text":"What's Actually in the Stearin Fraction","level":3},{"id":"eutectic-behavior-why-the-product-is-usable","text":"Eutectic Behavior — Why the Product Is Usable","level":3},{"id":"step-10-bentonite-after-fractionation","text":"Step 10 — Bentonite After Fractionation","level":2},{"id":"why-this-placement-is-optimal","text":"Why This Placement Is Optimal","level":3},{"id":"bentonite-cat-litter-mechanism","text":"Bentonite (Cat Litter) Mechanism","level":3},{"id":"solvent-recovery-apparatus","text":"Solvent Recovery Apparatus","level":2},{"id":"connections","text":"Connections","level":2}]}]]}]}]
+6:["$","script","script-0",{"src":"/_next/static/chunks/2gspel2gmkmqb.js","async":true}]
+7:["$","$Lc",null,{"children":["$","$d",null,{"name":"Next.MetadataOutlet","children":"$@e"}]}]
+e:null

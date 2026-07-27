@@ -1,0 +1,101 @@
+1:"$Sreact.fragment"
+2:I[86576,["/_next/static/chunks/2cdxtyl33onme.js","/_next/static/chunks/30x6623ill3zz.js"],"default"]
+3:I[71500,["/_next/static/chunks/2cdxtyl33onme.js","/_next/static/chunks/30x6623ill3zz.js"],"default"]
+4:I[12905,["/_next/static/chunks/2cdxtyl33onme.js","/_next/static/chunks/30x6623ill3zz.js"],"default"]
+5:I[39485,["/_next/static/chunks/2cdxtyl33onme.js","/_next/static/chunks/30x6623ill3zz.js"],"default"]
+6:I[49016,["/_next/static/chunks/2cdxtyl33onme.js","/_next/static/chunks/30x6623ill3zz.js"],"default"]
+7:I[72128,["/_next/static/chunks/2cdxtyl33onme.js","/_next/static/chunks/30x6623ill3zz.js"],"default"]
+8:I[66489,["/_next/static/chunks/2cdxtyl33onme.js","/_next/static/chunks/30x6623ill3zz.js","/_next/static/chunks/2gspel2gmkmqb.js"],"default"]
+9:I[8946,["/_next/static/chunks/2cdxtyl33onme.js","/_next/static/chunks/30x6623ill3zz.js","/_next/static/chunks/2gspel2gmkmqb.js"],""]
+a:I[17998,["/_next/static/chunks/2cdxtyl33onme.js","/_next/static/chunks/30x6623ill3zz.js"],"Image"]
+14:I[80991,["/_next/static/chunks/2cdxtyl33onme.js","/_next/static/chunks/30x6623ill3zz.js"],"default",1]
+:HL["/_next/static/chunks/0ji7bt98574e2.css","style"]
+:HL["/_next/static/media/345c85a432359eed-s.p.0zem_9y19rte6.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/8e451580e5e95631-s.p.27vw08z6_vw0m.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/ae7b4f62a68c82ac-s.p.3n5l2eibg0v7e.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/cfa8380cafbbf487-s.p.10lxx8g3llv2l.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/ea1df765ed99ddf9-s.p.02nvq2zrhh7ok.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/f30fd2e485acf1bc-s.p.35belnv3c2-b-.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+0:{"P":null,"c":["","chapter","01-core-theory-epigenetic-transmission"],"q":"","i":false,"f":[[["",{"children":["chapter",{"children":[["slug","01-core-theory-epigenetic-transmission","d",null],{"children":["__PAGE__",{}]}]}]},"$undefined","$undefined",16],[["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/chunks/0ji7bt98574e2.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}],["$","script","script-0",{"src":"/_next/static/chunks/2cdxtyl33onme.js","async":true,"nonce":"$undefined"}],["$","script","script-1",{"src":"/_next/static/chunks/30x6623ill3zz.js","async":true,"nonce":"$undefined"}]],["$","html",null,{"lang":"en","className":"lato_4f378528-module__vg9CXq__variable lobster_3ffb1501-module__zSC-9a__variable cinzel_decorative_860d8d00-module__447Jhq__variable h-full antialiased","children":["$","body",null,{"className":"min-h-full flex flex-col","style":{"background":"var(--reader-bg, #1a1a2e)","color":"var(--reader-color, #e5e7eb)","fontFamily":"var(--reader-font, var(--font-lato), sans-serif)","fontSize":"var(--reader-font-size, 18px)","lineHeight":"var(--reader-line-height, 1.8)"},"children":[["$","$L2",null,{}],["$","$L3",null,{}],["$","$L4",null,{"children":[["$","$L5",null,{}],["$","main",null,{"className":"flex-1","children":["$","$L6",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L7",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[["$","div",null,{"className":"min-h-[60vh] flex flex-col items-center justify-center px-4 text-center","children":[["$","$L8",null,{"pose":"questioning","size":"large","message":"Oops! Page not found."}],["$","h1",null,{"className":"text-4xl font-bold text-foreground mt-8 mb-4","children":"404 — Page Not Found"}],["$","p",null,{"className":"text-muted mb-8 max-w-md","children":"The page you are looking for does not exist or has been moved. Let us help you find your way back."}],["$","div",null,{"className":"flex gap-3","children":[["$","$L9",null,{"href":"/","className":"px-6 py-3 bg-pickle-green text-white font-semibold rounded-lg hover:bg-pickle-dark transition-colors","children":"Go Home"}],["$","$L9",null,{"href":"/read","className":"px-6 py-3 border border-border text-foreground font-semibold rounded-lg hover:border-pickle-green hover:text-pickle-green transition-colors","children":"Start Reading"}]]}]]}],[]],"forbidden":"$undefined","unauthorized":"$undefined"}]}]]}],["$","footer",null,{"className":"border-t mt-auto no-print","style":{"background":"var(--surface-color, #16162a)","borderColor":"var(--color-border)"},"children":[["$","div",null,{"className":"h-1 bg-gradient-to-r from-pickle-light via-pickle-green to-pickle-light"}],["$","div",null,{"className":"max-w-6xl mx-auto px-4 py-10","children":[["$","div",null,{"className":"grid grid-cols-1 md:grid-cols-3 gap-8","children":[["$","div",null,{"children":[["$","$L9",null,{"href":"/","className":"flex items-center gap-2 mb-3","children":[["$","$La",null,{"src":"/images/branding/simplified-logo-mark-v01-01.png","alt":"Ed's Picklery and Emporium","width":32,"height":32,"className":"h-8 w-8"}],["$","span",null,{"className":"font-semibold","style":{"color":"var(--reader-color)"},"children":"Ed's Picklery and Emporium"}]]}],["$","p",null,{"className":"text-sm","style":{"color":"var(--color-muted)"},"children":"Life saving pickles that cure disorders"}]]}],["$","div",null,{"children":[["$","h3",null,{"className":"font-semibold mb-3","style":{"color":"var(--reader-color)"},"children":"Navigation"}],["$","ul",null,{"className":"space-y-2","children":[["$","li","/",{"children":["$","$L9",null,{"href":"/","className":"text-sm transition-colors hover:text-pickle-green","style":{"color":"var(--color-muted)"},"children":"Home"}]}],["$","li","/read",{"children":["$","$L9",null,{"href":"/read","className":"text-sm transition-colors hover:text-pickle-green","style":{"color":"var(--color-muted)"},"children":"Read"}]}],["$","li","/contents",{"children":["$","$L9",null,{"href":"/contents","className":"text-sm transition-colors hover:text-pickle-green","style":{"color":"var(--color-muted)"},"children":"Contents"}]}],["$","li","/search",{"children":["$","$L9",null,{"href":"/search","className":"text-sm transition-colors hover:text-pickle-green","style":{"color":"var(--color-muted)"},"children":"Search"}]}],["$","li","/about",{"children":["$","$L9",null,{"href":"/about","className":"text-sm transition-colors hover:text-pickle-green","style":{"color":"var(--color-muted)"},"children":"About"}]}],"$Lb","$Lc"]}]]}],"$Ld"]}],"$Le"]}]]}]]}]}]]}],{"children":["$Lf",{"children":["$L10",{"children":["$L11",{},null,false,null]},null,false,"$@12"]},null,false,"$@12"]},null,false,null],"$L13",false]],"m":"$undefined","G":["$14",["$L15"]],"S":true,"h":null,"s":"$undefined","l":"$undefined","p":"$undefined","d":"$undefined","b":"-f8JDEXe4WkXDL6nzUQi5"}
+17:I[93070,["/_next/static/chunks/2cdxtyl33onme.js","/_next/static/chunks/30x6623ill3zz.js"],"OutletBoundary"]
+18:"$Sreact.suspense"
+1b:I[93070,["/_next/static/chunks/2cdxtyl33onme.js","/_next/static/chunks/30x6623ill3zz.js"],"ViewportBoundary"]
+1d:I[93070,["/_next/static/chunks/2cdxtyl33onme.js","/_next/static/chunks/30x6623ill3zz.js"],"MetadataBoundary"]
+b:["$","li","/resources",{"children":["$","$L9",null,{"href":"/resources","className":"text-sm transition-colors hover:text-pickle-green","style":{"color":"var(--color-muted)"},"children":"Resources"}]}]
+c:["$","li","/references",{"children":["$","$L9",null,{"href":"/references","className":"text-sm transition-colors hover:text-pickle-green","style":{"color":"var(--color-muted)"},"children":"References"}]}]
+d:["$","div",null,{"children":[["$","h3",null,{"className":"font-semibold mb-3","style":{"color":"var(--reader-color)"},"children":"About"}],["$","p",null,{"className":"text-sm mb-2","style":{"color":"var(--color-muted)"},"children":["Written by ","Nick James"]}],["$","p",null,{"className":"text-sm","style":{"color":"var(--color-muted)"},"children":"Educational content for curious minds."}]]}]
+e:["$","div",null,{"className":"mt-8 pt-6 border-t text-center","style":{"borderColor":"var(--color-border)"},"children":["$","p",null,{"className":"text-sm","style":{"color":"var(--color-muted)"},"children":["© ",2026," ","Ed's Picklery and Emporium",". All rights reserved."]}]}]
+f:["$","$1","c",{"children":[null,["$","$L6",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L7",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}]
+10:["$","$1","c",{"children":[null,["$","$L6",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L7",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}]
+11:["$","$1","c",{"children":["$L16",[["$","script","script-0",{"src":"/_next/static/chunks/2gspel2gmkmqb.js","async":true,"nonce":"$undefined"}]],["$","$L17",null,{"children":["$","$18",null,{"name":"Next.MetadataOutlet","children":"$@19"}]}]]}]
+1a:[]
+12:"$W1a"
+13:["$","$1","h",{"children":[null,["$","$L1b",null,{"children":"$L1c"}],["$","div",null,{"hidden":true,"children":["$","$L1d",null,{"children":["$","$18",null,{"name":"Next.Metadata","children":"$L1e"}]}]}],["$","meta",null,{"name":"next-size-adjust","content":""}]]}]
+15:["$","link","0",{"rel":"stylesheet","href":"/_next/static/chunks/0ji7bt98574e2.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]
+1f:I[90114,["/_next/static/chunks/2cdxtyl33onme.js","/_next/static/chunks/30x6623ill3zz.js","/_next/static/chunks/2gspel2gmkmqb.js"],"default"]
+20:T10f2,<h1 id="epigenetic-transmission">Epigenetic Transmission</h1>
+<blockquote>
+<p><em>How the damage propagates across generations. Not genetic — epigenetic. The distinction matters because epigenetic modifications are reversible and preventable.</em></p>
+</blockquote>
+<h2 id="the-mechanisms">The Mechanisms</h2>
+<h3 id="dna-methylation-changes">DNA Methylation Changes</h3>
+<p>4-HNE and MDA (malondialdehyde) modify cytosine at specific CpG sites, directly altering DNA methylation patterns at inflammatory gene promoters. The changes:</p>
+<ul>
+<li>Silence anti-inflammatory regulatory genes (FOXP3, IL-10)</li>
+<li>Activate pro-inflammatory gene promoters persistently</li>
+<li>Persist through cell division as epigenetic memory</li>
+<li>Can be transmitted through gametes (sperm and egg)</li>
+</ul>
+<h3 id="histone-modifications">Histone Modifications</h3>
+<p>4-HNE forms covalent adducts with histone proteins (H2A, H3, H4) at specific lysine and arginine residues:</p>
+<ul>
+<li>Disrupts electrostatic interactions compacting chromatin</li>
+<li>Modifies H3K27 methylation patterns</li>
+<li>Changes chromatin remodeling complex binding affinity</li>
+<li>Alters transcription factor access to gene promoters</li>
+</ul>
+<h3 id="non-coding-rna-vectors">Non-Coding RNA Vectors</h3>
+<p>miRNA, lncRNA, piRNA — the least understood but potentially most important transgenerational vector. Small RNA molecules are packaged into gametes and can transmit gene regulation patterns to offspring independent of DNA sequence.</p>
+<h2 id="the-transgenerational-logic">The Transgenerational Logic</h2>
+<pre><code>F0 (exposed generation): high oxidized lipid dietary exposure
+        ↓ epigenetic modification
+F1 (directly exposed in utero): germline epigenetic marks established
+        ↓ transmitted through gametes
+F2 (gestational exposure of F1 germline): second-generation effects
+        ↓
+F3 (first truly transgenerational generation — no direct exposure)
+</code></pre>
+<p>Most published studies go only to F2, which conflates direct exposure with true inheritance. F3 generation data is the rigorous standard. The generational worsening of the EDS-MCAS-eczema phenotype matches this transmission model.</p>
+<h2 id="what-the-epigenetic-machinery-needs">What the Epigenetic Machinery Needs</h2>
+<p>See [[One Carbon Metabolism]] and [[NAD Pool]] for the full substrate requirements.</p>
+<p><strong>For DNA methylation (DNMT function):</strong>
+SAM as universal methyl donor, requiring: 5-MTHF + B12 + B2 + zinc → methionine → SAM + Mg²⁺-ATP</p>
+<p><strong>For active demethylation (TET enzyme function):</strong>
+Alpha-ketoglutarate + Fe²⁺ (maintained by ascorbate) + O₂. Functional mitochondria are prerequisite.</p>
+<p><strong>For sirtuin HDAC (NAD⁺ dependent):</strong>
+NAD⁺ as consumed cosubstrate. Primary drain: PARP hyperactivation from oxidative DNA damage. Supply: NMN/NR.</p>
+<h2 id="the-deadlock">The Deadlock</h2>
+<p>4-HNE impairs mitochondria (Complex I/II adducts) → reduced TCA cycle → reduced alpha-ketoglutarate → TET enzymes can't demethylate → aberrant methylation persists. Meanwhile, oxidative DNA damage activates PARP → depletes NAD⁺ → sirtuins can't deacetylate → inflammatory marks accumulate. The same agent that writes the damage disables the repair machinery.</p>
+<p>Breaking the deadlock requires addressing all substrates simultaneously, not sequentially. → [[Phase 3 - Epigenetic Reprogramming]]</p>
+<h2 id="the-reversibility-argument">The Reversibility Argument</h2>
+<p>The generational timeline is too fast for genetic drift but exactly right for epigenetic accumulation. This is evidence for reversibility — what accumulated in 2–3 generations can, in principle, be reversed in 2–3 generations of correct substrate provision and reduced exposure. The protocol addresses this at every level.</p>
+<h2 id="connections">Connections</h2>
+<ul>
+<li>[[One Carbon Metabolism]] — SAM/methylation substrate</li>
+<li>[[NAD Pool]] — sirtuin substrate</li>
+<li>[[TET Enzymes]] — active demethylation machinery</li>
+<li>[[Phase 3 - Epigenetic Reprogramming]] — the intervention</li>
+<li>[[Oxidized Lipid Cascade]] — upstream cause</li>
+<li>[[EDS-MCAS-Eczema Cluster]] — the phenotypic expression</li>
+<li>[[Substrate Thesis]] — why the substrate matters</li>
+</ul>
+16:["$","div",null,{"className":"max-w-6xl mx-auto px-4 py-8","children":[["$","$L1f",null,{"slug":"01-core-theory-epigenetic-transmission"}],["$","div",null,{"className":"grid grid-cols-1 lg:grid-cols-[1fr_280px] gap-8","children":[["$","article",null,{"children":[["$","header",null,{"className":"mb-8","children":[["$","div",null,{"className":"flex items-center gap-2 text-sm text-muted mb-3","children":[["$","span",null,{"className":"px-2 py-0.5 bg-pickle-light text-pickle-dark rounded text-xs font-medium","children":"Core Theory"}],["$","span",null,{"children":["Chapter ",3]}]]}],["$","h1",null,{"className":"text-3xl md:text-4xl font-bold text-foreground mb-3","children":"Epigenetic Transmission"}],["$","p",null,{"className":"text-lg text-muted leading-relaxed","children":"tags: [core-theory, epigenetics, transgenerational, DNA-methylation]"}]]}],["$","div",null,{"className":"prose","dangerouslySetInnerHTML":{"__html":"$20"}}],"$L21"]}],"$L22"]}]]}]
+23:I[98352,["/_next/static/chunks/2cdxtyl33onme.js","/_next/static/chunks/30x6623ill3zz.js","/_next/static/chunks/2gspel2gmkmqb.js"],"default"]
+24:I[70411,["/_next/static/chunks/2cdxtyl33onme.js","/_next/static/chunks/30x6623ill3zz.js","/_next/static/chunks/2gspel2gmkmqb.js"],"default"]
+25:I[10432,["/_next/static/chunks/2cdxtyl33onme.js","/_next/static/chunks/30x6623ill3zz.js","/_next/static/chunks/2gspel2gmkmqb.js"],"default"]
+21:["$","nav",null,{"className":"mt-12 pt-8 border-t border-border flex justify-between gap-4","children":[["$","div",null,{}],["$","div",null,{"className":"flex-1 p-4 bg-pickle-lighter rounded-lg text-center","children":["$","$L8",null,{"pose":"celebrating","size":"small","message":"You finished the book!","className":"inline-flex"}]}]]}]
+22:["$","aside",null,{"className":"hidden lg:block space-y-4 no-print","children":["$","div",null,{"className":"sticky top-20 space-y-4","children":[["$","div",null,{"className":"flex items-center gap-2","children":[["$","$L23",null,{"slug":"01-core-theory-epigenetic-transmission"}],["$","$L24",null,{}]]}],["$","$L25",null,{"headings":[{"id":"epigenetic-transmission","text":"Epigenetic Transmission","level":1},{"id":"the-mechanisms","text":"The Mechanisms","level":2},{"id":"dna-methylation-changes","text":"DNA Methylation Changes","level":3},{"id":"histone-modifications","text":"Histone Modifications","level":3},{"id":"non-coding-rna-vectors","text":"Non-Coding RNA Vectors","level":3},{"id":"the-transgenerational-logic","text":"The Transgenerational Logic","level":2},{"id":"what-the-epigenetic-machinery-needs","text":"What the Epigenetic Machinery Needs","level":2},{"id":"the-deadlock","text":"The Deadlock","level":2},{"id":"the-reversibility-argument","text":"The Reversibility Argument","level":2},{"id":"connections","text":"Connections","level":2}]}]]}]}]
+1c:[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]
+26:I[187,["/_next/static/chunks/2cdxtyl33onme.js","/_next/static/chunks/30x6623ill3zz.js"],"IconMark"]
+19:null
+1e:[["$","title","0",{"children":"Epigenetic Transmission | Ed's Picklery and Emporium"}],["$","meta","1",{"name":"description","content":"tags: [core-theory, epigenetics, transgenerational, DNA-methylation]"}],["$","meta","2",{"property":"og:title","content":"Ed's Picklery and Emporium"}],["$","meta","3",{"property":"og:description","content":"Life saving pickles that cure disorders"}],["$","meta","4",{"property":"og:url","content":"https://edspickle.shop"}],["$","meta","5",{"property":"og:site_name","content":"Ed's Picklery and Emporium"}],["$","meta","6",{"property":"og:image","content":"https://edspickle.shop/images/branding/social-sharing-image-v01-01.png"}],["$","meta","7",{"property":"og:image:width","content":"1200"}],["$","meta","8",{"property":"og:image:height","content":"630"}],["$","meta","9",{"property":"og:type","content":"website"}],["$","meta","10",{"name":"twitter:card","content":"summary_large_image"}],["$","meta","11",{"name":"twitter:title","content":"Ed's Picklery and Emporium"}],["$","meta","12",{"name":"twitter:description","content":"Life saving pickles that cure disorders"}],["$","meta","13",{"name":"twitter:image","content":"https://edspickle.shop/images/branding/social-sharing-image-v01-01.png"}],["$","link","14",{"rel":"icon","href":"/favicon.ico?favicon.2vob68tjqpejf.ico","sizes":"256x256","type":"image/x-icon"}],["$","link","15",{"rel":"icon","href":"/images/branding/favicon-v01-01.png"}],["$","$L26","16",{}]]

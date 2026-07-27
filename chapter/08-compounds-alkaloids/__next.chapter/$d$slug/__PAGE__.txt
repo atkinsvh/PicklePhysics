@@ -1,0 +1,75 @@
+1:"$Sreact.fragment"
+2:I[90114,["/_next/static/chunks/2cdxtyl33onme.js","/_next/static/chunks/30x6623ill3zz.js","/_next/static/chunks/2gspel2gmkmqb.js"],"default"]
+8:I[66489,["/_next/static/chunks/2cdxtyl33onme.js","/_next/static/chunks/30x6623ill3zz.js","/_next/static/chunks/2gspel2gmkmqb.js"],"default"]
+9:I[98352,["/_next/static/chunks/2cdxtyl33onme.js","/_next/static/chunks/30x6623ill3zz.js","/_next/static/chunks/2gspel2gmkmqb.js"],"default"]
+a:I[70411,["/_next/static/chunks/2cdxtyl33onme.js","/_next/static/chunks/30x6623ill3zz.js","/_next/static/chunks/2gspel2gmkmqb.js"],"default"]
+b:I[10432,["/_next/static/chunks/2cdxtyl33onme.js","/_next/static/chunks/30x6623ill3zz.js","/_next/static/chunks/2gspel2gmkmqb.js"],"default"]
+c:I[93070,["/_next/static/chunks/2cdxtyl33onme.js","/_next/static/chunks/30x6623ill3zz.js"],"OutletBoundary"]
+d:"$Sreact.suspense"
+3:T1119,<h1 id="alkaloids">Alkaloids</h1>
+<blockquote>
+<p><em>Nitrogen-containing compounds. Bitterness as quality indicator — the structural chemistry producing bitterness IS the structural chemistry producing biological activity.</em></p>
+</blockquote>
+<h2 id="berberine">Berberine</h2>
+<p><strong>Source:</strong> Barberry root (Berberis vulgaris), goldenseal, Oregon grape root
+<strong>logP:</strong> ~0.7–1.2 (moderate polarity, reasonable brine extraction)</p>
+<p><strong>Mechanisms (multiple, distinct):</strong></p>
+<ul>
+<li>AMPK activation → autophagy induction</li>
+<li>CYP17 inhibition in ovarian theca cells → reduced androgen production (PCOS specific)</li>
+<li>Adipose macrophage M1→M2 transition</li>
+<li>Adipose browning through irisin-adjacent pathway (UCP1 upregulation)</li>
+<li>ABCA1 upregulation → macrophage cholesterol efflux → efferocytosis capacity</li>
+<li>NF-κB inhibition (independent of AMPK)</li>
+</ul>
+<p><strong>The metformin parallel:</strong> Berberine activates AMPK through essentially the same pathway as metformin. Clinical trials comparing berberine to metformin for PCOS outcomes show comparable ovulation induction rates without metformin's mitochondrial Complex I suppression side effects.</p>
+<p><strong>Timing:</strong> Don't take simultaneously with NMN/NR — AMPK and mTOR pathway interactions can partially cancel autophagy induction. Separate by several hours.</p>
+<h2 id="thymoquinone">Thymoquinone</h2>
+<p><strong>Source:</strong> Nigella sativa (black seeds)
+<strong>logP:</strong> ~1.9 (moderately lipophilic, partial brine extraction — seeds should be consumed directly)</p>
+<p><strong>Mechanisms:</strong></p>
+<ul>
+<li>5-LOX inhibition (same target as AKBA, different binding site)</li>
+<li>Nrf2 activation</li>
+<li>NLRP3 inflammasome inhibition</li>
+<li>Mast cell stabilization through multiple pathways</li>
+<li>Anti-fibrotic in connective tissue</li>
+<li>Gut barrier protective</li>
+</ul>
+<p>Traditional claim across Islamic, Egyptian, and Greek medicine: "cures everything except death." The compound profile explains the breadth — thymoquinone hits multiple independent inflammatory pathways simultaneously.</p>
+<p><strong>Trigeminal signal:</strong> The warming/pungent sensation from nigella seeds is thymoquinone presence. Sensory confirmation of active compound.</p>
+<h2 id="andrographolide">Andrographolide</h2>
+<p><strong>Source:</strong> Andrographis paniculata
+<strong>logP:</strong> ~0.4 (somewhat water-soluble, reasonable brine extraction)</p>
+<p><strong>The TFEB activator:</strong></p>
+<ul>
+<li>TFEB (Transcription Factor EB) is the master regulator of lysosomal biogenesis and autophagy</li>
+<li>Andrographolide activates TFEB — upregulating both autophagy initiation AND lysosomal capacity</li>
+<li>This addresses the autophagy completion problem: many autophagy failures are failures of completion (lysosomes overwhelmed), not initiation</li>
+</ul>
+<p>Also: Treg induction through TGF-β and IL-10 in dendritic cells → tolerogenic DC phenotype → antigen presentation in tolerogenic context → new B cell education toward tolerance rather than sensitization.</p>
+<p><strong>Bitterness:</strong> Andrographolide is one of the most bitter natural compounds known (bitterness unit ~40,000). Its presence in the preparation is strongly detectable. Bitterness = TFEB activity confirmed.</p>
+<h2 id="glycyrrhizin">Glycyrrhizin</h2>
+<p><strong>Source:</strong> Licorice root (Glycyrrhiza glabra)
+<strong>Mechanism:</strong> STAT6 inhibition → IgE class switching suppression; Beclin-1 autophagy induction; HMGB1 danger signal pathway modulation</p>
+<p><strong>Dose sensitivity — CRITICAL:</strong></p>
+<ul>
+<li>Glycyrrhizin affects aldosterone signaling at higher doses → hypertension, edema, hypokalemia</li>
+<li>Therapeutic benefit occurs at doses below the aldosterone effect threshold</li>
+<li>Maximum: 100mg glycyrrhizin daily (~3–5g dried root)</li>
+<li>The formulation uses small amounts. Do not increase substantially.</li>
+</ul>
+<h2 id="connections">Connections</h2>
+<ul>
+<li>[[Botanical Pack]] — sources</li>
+<li>[[Phase 2 - Mast Cell Stabilization]] — thymoquinone</li>
+<li>[[Phase 3 - Epigenetic Reprogramming]] — berberine, andrographolide</li>
+<li>[[PCOS]] — berberine CYP17 inhibition</li>
+<li>[[Polyphenols]] — co-occurring in most plant sources</li>
+</ul>
+0:{"rsc":["$","$1","c",{"children":[["$","div",null,{"className":"max-w-6xl mx-auto px-4 py-8","children":[["$","$L2",null,{"slug":"08-compounds-alkaloids"}],["$","div",null,{"className":"grid grid-cols-1 lg:grid-cols-[1fr_280px] gap-8","children":[["$","article",null,{"children":[["$","header",null,{"className":"mb-8","children":[["$","div",null,{"className":"flex items-center gap-2 text-sm text-muted mb-3","children":[["$","span",null,{"className":"px-2 py-0.5 bg-pickle-light text-pickle-dark rounded text-xs font-medium","children":"Compounds"}],["$","span",null,{"children":["Chapter ",43]}]]}],["$","h1",null,{"className":"text-3xl md:text-4xl font-bold text-foreground mb-3","children":"Alkaloids"}],["$","p",null,{"className":"text-lg text-muted leading-relaxed","children":"tags: [compound, alkaloid, berberine, AKBA]"}]]}],["$","div",null,{"className":"prose","dangerouslySetInnerHTML":{"__html":"$3"}}],"$L4"]}],"$L5"]}]]}],["$L6"],"$L7"]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"-f8JDEXe4WkXDL6nzUQi5"}
+4:["$","nav",null,{"className":"mt-12 pt-8 border-t border-border flex justify-between gap-4","children":[["$","div",null,{}],["$","div",null,{"className":"flex-1 p-4 bg-pickle-lighter rounded-lg text-center","children":["$","$L8",null,{"pose":"celebrating","size":"small","message":"You finished the book!","className":"inline-flex"}]}]]}]
+5:["$","aside",null,{"className":"hidden lg:block space-y-4 no-print","children":["$","div",null,{"className":"sticky top-20 space-y-4","children":[["$","div",null,{"className":"flex items-center gap-2","children":[["$","$L9",null,{"slug":"08-compounds-alkaloids"}],["$","$La",null,{}]]}],["$","$Lb",null,{"headings":[{"id":"alkaloids","text":"Alkaloids","level":1},{"id":"berberine","text":"Berberine","level":2},{"id":"thymoquinone","text":"Thymoquinone","level":2},{"id":"andrographolide","text":"Andrographolide","level":2},{"id":"glycyrrhizin","text":"Glycyrrhizin","level":2},{"id":"connections","text":"Connections","level":2}]}]]}]}]
+6:["$","script","script-0",{"src":"/_next/static/chunks/2gspel2gmkmqb.js","async":true}]
+7:["$","$Lc",null,{"children":["$","$d",null,{"name":"Next.MetadataOutlet","children":"$@e"}]}]
+e:null

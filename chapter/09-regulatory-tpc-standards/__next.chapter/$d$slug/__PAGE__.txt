@@ -1,0 +1,120 @@
+1:"$Sreact.fragment"
+2:I[90114,["/_next/static/chunks/2cdxtyl33onme.js","/_next/static/chunks/30x6623ill3zz.js","/_next/static/chunks/2gspel2gmkmqb.js"],"default"]
+8:I[66489,["/_next/static/chunks/2cdxtyl33onme.js","/_next/static/chunks/30x6623ill3zz.js","/_next/static/chunks/2gspel2gmkmqb.js"],"default"]
+9:I[98352,["/_next/static/chunks/2cdxtyl33onme.js","/_next/static/chunks/30x6623ill3zz.js","/_next/static/chunks/2gspel2gmkmqb.js"],"default"]
+a:I[70411,["/_next/static/chunks/2cdxtyl33onme.js","/_next/static/chunks/30x6623ill3zz.js","/_next/static/chunks/2gspel2gmkmqb.js"],"default"]
+b:I[10432,["/_next/static/chunks/2cdxtyl33onme.js","/_next/static/chunks/30x6623ill3zz.js","/_next/static/chunks/2gspel2gmkmqb.js"],"default"]
+c:I[93070,["/_next/static/chunks/2cdxtyl33onme.js","/_next/static/chunks/30x6623ill3zz.js"],"OutletBoundary"]
+d:"$Sreact.suspense"
+3:T1207,<h1 id="tpc-standards">TPC Standards</h1>
+<blockquote>
+<p><em>Total Polar Compounds is the only fraud-resistant regulatory instrument for frying oil quality. Every other measure can be defeated by deodorization or sensory restoration.</em></p>
+</blockquote>
+<h2 id="why-tpc-is-the-right-measure">Why TPC Is the Right Measure</h2>
+<p>Total Polar Compounds is the aggregate measure of all non-volatile oxidation products in frying oil:</p>
+<ul>
+<li>Lipid hydroperoxides and their decomposition products</li>
+<li>Aldehydes, ketones, epoxides</li>
+<li>Polar polymers and dimers from triglyceride oxidation</li>
+<li>Free fatty acids</li>
+<li>Everything that shouldn't be there after heating</li>
+</ul>
+<p><strong>The critical property: TPC cannot be reduced by any sensory-restoration treatment.</strong></p>
+<ul>
+<li>Deodorization removes volatile early-warning compounds — TPC unchanged</li>
+<li>Activated carbon removes color bodies — TPC unchanged</li>
+<li>Antioxidant injection suppresses rancidity detection — TPC unchanged</li>
+<li>Dilution with fresh oil reduces TPC proportionally — detectable by any retest</li>
+</ul>
+<p>TPC is the only measure that requires the actual contaminants to be removed rather than masked.</p>
+<h2 id="international-standards">International Standards</h2>
+<table>
+<thead>
+<tr>
+<th>Country</th>
+<th>Maximum TPC</th>
+<th>Enforcement</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Germany</td>
+<td>27%</td>
+<td>Mandatory disposal, food safety inspection</td>
+</tr>
+<tr>
+<td>France</td>
+<td>27%</td>
+<td>Mandatory disposal, penalties</td>
+</tr>
+<tr>
+<td>Austria</td>
+<td>25%</td>
+<td>Mandatory disposal</td>
+</tr>
+<tr>
+<td>Spain</td>
+<td>25%</td>
+<td>Mandatory disposal</td>
+</tr>
+<tr>
+<td>Belgium</td>
+<td>25%</td>
+<td>Mandatory disposal</td>
+</tr>
+<tr>
+<td>Sweden</td>
+<td>25%</td>
+<td>Mandatory disposal</td>
+</tr>
+<tr>
+<td><strong>United States</strong></td>
+<td><strong>No federal standard</strong></td>
+<td><strong>No enforcement</strong></td>
+</tr>
+</tbody>
+</table>
+<p>European inspectors test TPC directly. Oil above threshold is confiscated. Operators are fined. The standard cannot be satisfied by sensory restoration — TPC is measured directly, not inferred from appearance or smell.</p>
+<h2 id="us-regulatory-gap">US Regulatory Gap</h2>
+<p>In the United States, a commercial fryer operator may legally serve food fried in oil at 40%, 50%, or 60% TPC — oil that would be confiscated in Frankfurt, Paris, or Vienna — with:</p>
+<ul>
+<li>No legal consequence</li>
+<li>No obligation of disclosure</li>
+<li>No regulatory framework governing the practice</li>
+</ul>
+<p>An onsite regeneration service may restore the sensory presentation of 60% TPC oil to apparent freshness and sell a subscription contract for continuous treatment, and no regulatory provision governs this practice whatsoever.</p>
+<h2 id="measurement-methods">Measurement Methods</h2>
+<p><strong>Professional (laboratory):</strong></p>
+<ul>
+<li>AOCS Official Method Cd 22-91 (chromatographic TPC measurement)</li>
+<li>Dielectric constant measurement (portable instruments)</li>
+</ul>
+<p><strong>Commercial portable instruments:</strong></p>
+<ul>
+<li>FOM (Fat Oil Monitor) — dielectric constant, quick-read</li>
+<li>Testo 270 — same principle</li>
+<li>Used by European health inspectors in the field</li>
+<li>~$300–500 USD, very accurate</li>
+</ul>
+<p><strong>The effervescence test (proxy, free):</strong>
+As described in [[Aqueous Phase Chemistry]] — baking soda effervescence is proportional to FFA content, which correlates with overall TPC. Not precise enough for regulatory compliance but adequate for operational monitoring.</p>
+<h2 id="the-correct-standard-for-a-us-petition">The Correct Standard for a US Petition</h2>
+<p><strong>The petition asks for:</strong> Maximum 27% TPC (the more permissive European standard)</p>
+<ul>
+<li>Starting with 27% rather than 25% is politically pragmatic — harder to argue it's too strict when Germany and France have used it for decades</li>
+<li>Once established, tightening to 25% in a subsequent rulemaking is straightforward</li>
+</ul>
+<p><strong>With explicit provision that TPC measurement cannot be substituted by sensory assessment</strong> — this forecloses the industry argument that regular sensory checks are equivalent.</p>
+<h2 id="connections">Connections</h2>
+<ul>
+<li>[[Deodorization as Fraud]] — why TPC is the correct instrument</li>
+<li>[[Petition Framework]] — the regulatory ask</li>
+<li>[[Renewable Diesel Displacement]] — the economic counter-narrative</li>
+<li>[[Lipid Oxidation Chemistry]] — what TPC measures</li>
+</ul>
+0:{"rsc":["$","$1","c",{"children":[["$","div",null,{"className":"max-w-6xl mx-auto px-4 py-8","children":[["$","$L2",null,{"slug":"09-regulatory-tpc-standards"}],["$","div",null,{"className":"grid grid-cols-1 lg:grid-cols-[1fr_280px] gap-8","children":[["$","article",null,{"children":[["$","header",null,{"className":"mb-8","children":[["$","div",null,{"className":"flex items-center gap-2 text-sm text-muted mb-3","children":[["$","span",null,{"className":"px-2 py-0.5 bg-pickle-light text-pickle-dark rounded text-xs font-medium","children":"Regulatory"}],["$","span",null,{"children":["Chapter ",53]}]]}],["$","h1",null,{"className":"text-3xl md:text-4xl font-bold text-foreground mb-3","children":"TPC Standards"}],["$","p",null,{"className":"text-lg text-muted leading-relaxed","children":"tags: [regulatory, TPC, standards, international]"}]]}],["$","div",null,{"className":"prose","dangerouslySetInnerHTML":{"__html":"$3"}}],"$L4"]}],"$L5"]}]]}],["$L6"],"$L7"]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"-f8JDEXe4WkXDL6nzUQi5"}
+4:["$","nav",null,{"className":"mt-12 pt-8 border-t border-border flex justify-between gap-4","children":[["$","div",null,{}],["$","div",null,{"className":"flex-1 p-4 bg-pickle-lighter rounded-lg text-center","children":["$","$L8",null,{"pose":"celebrating","size":"small","message":"You finished the book!","className":"inline-flex"}]}]]}]
+5:["$","aside",null,{"className":"hidden lg:block space-y-4 no-print","children":["$","div",null,{"className":"sticky top-20 space-y-4","children":[["$","div",null,{"className":"flex items-center gap-2","children":[["$","$L9",null,{"slug":"09-regulatory-tpc-standards"}],["$","$La",null,{}]]}],["$","$Lb",null,{"headings":[{"id":"tpc-standards","text":"TPC Standards","level":1},{"id":"why-tpc-is-the-right-measure","text":"Why TPC Is the Right Measure","level":2},{"id":"international-standards","text":"International Standards","level":2},{"id":"us-regulatory-gap","text":"US Regulatory Gap","level":2},{"id":"measurement-methods","text":"Measurement Methods","level":2},{"id":"the-correct-standard-for-a-us-petition","text":"The Correct Standard for a US Petition","level":2},{"id":"connections","text":"Connections","level":2}]}]]}]}]
+6:["$","script","script-0",{"src":"/_next/static/chunks/2gspel2gmkmqb.js","async":true}]
+7:["$","$Lc",null,{"children":["$","$d",null,{"name":"Next.MetadataOutlet","children":"$@e"}]}]
+e:null

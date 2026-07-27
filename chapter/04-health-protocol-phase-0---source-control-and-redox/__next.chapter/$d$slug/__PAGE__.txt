@@ -1,0 +1,87 @@
+1:"$Sreact.fragment"
+2:I[90114,["/_next/static/chunks/2cdxtyl33onme.js","/_next/static/chunks/30x6623ill3zz.js","/_next/static/chunks/2gspel2gmkmqb.js"],"default"]
+8:I[66489,["/_next/static/chunks/2cdxtyl33onme.js","/_next/static/chunks/30x6623ill3zz.js","/_next/static/chunks/2gspel2gmkmqb.js"],"default"]
+9:I[98352,["/_next/static/chunks/2cdxtyl33onme.js","/_next/static/chunks/30x6623ill3zz.js","/_next/static/chunks/2gspel2gmkmqb.js"],"default"]
+a:I[70411,["/_next/static/chunks/2cdxtyl33onme.js","/_next/static/chunks/30x6623ill3zz.js","/_next/static/chunks/2gspel2gmkmqb.js"],"default"]
+b:I[10432,["/_next/static/chunks/2cdxtyl33onme.js","/_next/static/chunks/30x6623ill3zz.js","/_next/static/chunks/2gspel2gmkmqb.js"],"default"]
+c:I[93070,["/_next/static/chunks/2cdxtyl33onme.js","/_next/static/chunks/30x6623ill3zz.js"],"OutletBoundary"]
+d:"$Sreact.suspense"
+3:T1e04,<h1 id="phase-0-source-control-and-redox-foundation">Phase 0 — Source Control and Redox Foundation</h1>
+<blockquote>
+<p><em>Non-negotiable. Every subsequent phase depends on this one. The autophagic machinery, collagen synthesis enzymes, TET demethylation system, and mast cell stabilization interventions all operate in a redox environment that must be functional first.</em></p>
+</blockquote>
+<h2 id="why-phase-0-must-come-first">Why Phase 0 Must Come First</h2>
+<p>The core deadlock: [[4-HNE]] impairs the very machinery that would repair the damage it causes.</p>
+<ul>
+<li>4-HNE on Complex I/II → mitochondrial dysfunction → reduced alpha-ketoglutarate → [[TET Enzymes]] can't demethylate aberrant methylation</li>
+<li>Oxidative DNA damage → PARP hyperactivation → NAD⁺ depletion → sirtuins can't deacetylate pro-inflammatory chromatin marks</li>
+<li>Glutathione depletion → GPx non-functional → more lipid peroxidation → more 4-HNE</li>
+</ul>
+<p>Restoring the redox environment is not one intervention among many. It is the prerequisite that makes every other intervention possible.</p>
+<h2 id="interventions-weeks-1-4">Interventions — Weeks 1–4</h2>
+<h3 id="fat-source-control-immediate">Fat Source Control (Immediate)</h3>
+<p><strong>Switch cooking fat to:</strong> beef tallow, lard, or clarified butter (ghee).</p>
+<p>These are predominantly saturated and monounsaturated. They do not generate the linoleic acid oxidation cascade that produces 4-HNE and OXLAMs at frying temperatures. This single change eliminates the primary ongoing MERTK/AXL impairment signal, reduces hepatic glutathione demand, and stops the continuous TLR4 activation from dietary OXLAMs.</p>
+<p>Implement [[11-Step Protocol]] for fat maintenance. Begin [[In-Fryer Antioxidants]] immediately.</p>
+<p><strong>Eliminate:</strong> soybean oil, canola oil, corn oil, sunflower oil, vegetable oil, anything labeled vegetable shortening for regular cooking.</p>
+<h3 id="nac-n-acetylcysteine-600mg-twice-daily">NAC (N-Acetylcysteine) — 600mg twice daily</h3>
+<p>Provides cysteine, the rate-limiting precursor for glutathione synthesis. Glycine is the second independently limiting precursor (not cysteine alone — both must be present). NAC + glycine together restore glutathione more effectively than either alone.</p>
+<p>Clinical use precedent: used in emergency medicine for acetaminophen overdose precisely because it rapidly restores hepatic glutathione.</p>
+<h3 id="glycine-3-5g-daily">Glycine — 3–5g daily</h3>
+<p>The second glutathione precursor. Also: one-third of collagen by residue, GlyR mast cell stabilizer, one-carbon metabolism substrate, NMDA co-agonist (sleep), bile acid conjugation. Tasteless. Dissolves in anything. One of the highest leverage-per-dollar interventions in the entire protocol. → [[Glycine]]</p>
+<h3 id="liposomal-vitamin-c-1g-twice-daily">Liposomal Vitamin C — 1g twice daily</h3>
+<p>Liposomal form achieves significantly higher plasma concentrations than standard oral ascorbic acid (gut absorption is limited by SVCT transporters).</p>
+<p><strong>Functions in this context:</strong></p>
+<ul>
+<li>[[TET Enzymes]] cofactor — maintains Fe²⁺ (ferrous state) required for TET oxidation of 5mC; without ascorbate, TET runs 1–2 cycles and stops</li>
+<li>Prolyl and lysyl hydroxylase cofactor — collagen synthesis</li>
+<li>Antioxidant network recycling — regenerates vitamin E</li>
+<li>Functionally deficient under chronic oxidative stress even without dietary deficiency</li>
+</ul>
+<h3 id="sulforaphane-daily-from-broccoli-sprouts-or-supplement">Sulforaphane — Daily from Broccoli Sprouts or Supplement</h3>
+<p><strong>Why sulforaphane is uniquely valuable:</strong></p>
+<ul>
+<li><strong>Irreversible Keap1 modification</strong> → 24–48hr sustained Nrf2 activation</li>
+<li>All other Nrf2 activators (curcumin, resveratrol, quercetin) form reversible bonds — activity drops when they're cleared</li>
+<li>Sulforaphane's covalent modification lasts until Keap1 is replaced by new protein synthesis (~24–48h)</li>
+<li><strong>Source specificity:</strong> Broccoli sprouts contain 50–100× higher sulforaphane than mature broccoli. 1–2 tablespoons fresh sprouts daily. The myrosinase enzyme required for sulforaphane formation is destroyed by cooking — sprouts must be consumed fresh or the supplement must contain stabilized active sulforaphane.</li>
+</ul>
+<h3 id="astaxanthin-12mg-daily-with-fat-containing-meal">Astaxanthin — 12mg daily with fat-containing meal</h3>
+<p>Unique structural properties: spans the full lipid bilayer (hydrophilic ends outside, hydrophobic middle), providing membrane protection that other antioxidants can't access. Specifically protective for mitochondrial membranes and renal tubular cells. → [[Terpenoids]]</p>
+<h2 id="the-non-negotiable-sequence-logic">The Non-Negotiable Sequence Logic</h2>
+<p>Starting mast cell stabilization or collagen synthesis supplementation before Phase 0 is established:</p>
+<ul>
+<li>Mast cell stabilizers (quercetin) work better in a lower oxidative environment</li>
+<li>Collagen synthesis enzymes (prolyl hydroxylase, lysyl oxidase) are impaired by 4-HNE adducts — restoring them requires the redox environment that Phase 0 establishes</li>
+<li>TET demethylation needs both ascorbate (Phase 0) and alpha-ketoglutarate (mitochondrial restoration) — neither works without the other</li>
+</ul>
+<p><strong>Minimum Phase 0 establishment period: 2–4 weeks before adding Phase 2+ interventions.</strong></p>
+<h2 id="concurrent-bile-axis-foundation">Concurrent Bile-Axis Foundation</h2>
+<p>If upper GI dysbiosis is suspected or confirmed, the [[Bile-Micelle-Antioxidant Axis]] is also relevant in Phase 0:</p>
+<ul>
+<li><strong>Glycine 3–5g daily</strong> is non-optional — serves as glutathione precursor (this phase), mast cell GlyR stabilizer (Phase 2), and bile acid conjugation substrate (bile axis). <em>One supplement, three purposes.</em></li>
+<li><strong>Continue low-dose wild vinegar (1 tbsp raw ACV in water, 15 min before largest meal)</strong> to begin cephalic phase restoration. See [[Wild Vinegars]].</li>
+<li><strong>NAC at 1200mg/day (higher than the standard 600mg BID Phase 0 dose)</strong> also addresses upper GI biofilm matrix disruption. See [[Upper GI Biofilm Disruption]].</li>
+<li>If H. pylori is suspected (chronic gastritis, halitosis, refractory iron deficiency), add <strong>mastic gum 1000–2000mg on empty stomach</strong> + <strong>lactoferrin 200–400mg</strong> to the Phase 0 stack.</li>
+</ul>
+<p>Phase 0's role in the bile axis is <em>not</em> the full intervention (that comes in the 5-layer [[Upper GI Biofilm Disruption]] protocol), but the foundation interventions overlap meaningfully — Phase 0 isn't replaced, it's <em>augmented</em>.</p>
+<h2 id="connections">Connections</h2>
+<ul>
+<li>[[Supplement Stack]] — complete reference</li>
+<li>[[One Carbon Metabolism]] — why B vitamins matter here</li>
+<li>[[NAD Pool]] — why sulforaphane helps NAD⁺ (reduces PARP activation)</li>
+<li>[[Phase 1 - Gut Barrier]] — concurrent with Phase 0</li>
+<li>[[Lipid Oxidation Chemistry]] — what's being reduced</li>
+<li>[[Collagen Synthesis Pathway]] — what gets unlocked</li>
+<li>[[Bile-Micelle-Antioxidant Axis]] — the upper GI bile dysfunction layer</li>
+<li>[[Upper GI Biofilm Disruption]] — the biofilm work that overlaps with this phase</li>
+<li>[[Wild Vinegars]] — the daily cephalic phase + maintenance protocol</li>
+<li>[[Die-off Management]] — the protocol failure-mode prevention</li>
+<li>[[Microbiome Onramp Protocol]] — the rebiosis layer that follows biofilm clearing</li>
+</ul>
+0:{"rsc":["$","$1","c",{"children":[["$","div",null,{"className":"max-w-6xl mx-auto px-4 py-8","children":[["$","$L2",null,{"slug":"04-health-protocol-phase-0---source-control-and-redox"}],["$","div",null,{"className":"grid grid-cols-1 lg:grid-cols-[1fr_280px] gap-8","children":[["$","article",null,{"children":[["$","header",null,{"className":"mb-8","children":[["$","div",null,{"className":"flex items-center gap-2 text-sm text-muted mb-3","children":[["$","span",null,{"className":"px-2 py-0.5 bg-pickle-light text-pickle-dark rounded text-xs font-medium","children":"Health Protocol"}],["$","span",null,{"children":["Chapter ",18]}]]}],["$","h1",null,{"className":"text-3xl md:text-4xl font-bold text-foreground mb-3","children":"Phase 0 — Source Control and Redox Foundation"}],["$","p",null,{"className":"text-lg text-muted leading-relaxed","children":"tags: [protocol, health, phase-0, foundation, redox, glutathione]"}]]}],["$","div",null,{"className":"prose","dangerouslySetInnerHTML":{"__html":"$3"}}],"$L4"]}],"$L5"]}]]}],["$L6"],"$L7"]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"-f8JDEXe4WkXDL6nzUQi5"}
+4:["$","nav",null,{"className":"mt-12 pt-8 border-t border-border flex justify-between gap-4","children":[["$","div",null,{}],["$","div",null,{"className":"flex-1 p-4 bg-pickle-lighter rounded-lg text-center","children":["$","$L8",null,{"pose":"celebrating","size":"small","message":"You finished the book!","className":"inline-flex"}]}]]}]
+5:["$","aside",null,{"className":"hidden lg:block space-y-4 no-print","children":["$","div",null,{"className":"sticky top-20 space-y-4","children":[["$","div",null,{"className":"flex items-center gap-2","children":[["$","$L9",null,{"slug":"04-health-protocol-phase-0---source-control-and-redox"}],["$","$La",null,{}]]}],["$","$Lb",null,{"headings":[{"id":"phase-0-source-control-and-redox-foundation","text":"Phase 0 — Source Control and Redox Foundation","level":1},{"id":"why-phase-0-must-come-first","text":"Why Phase 0 Must Come First","level":2},{"id":"interventions-weeks-1-4","text":"Interventions — Weeks 1–4","level":2},{"id":"fat-source-control-immediate","text":"Fat Source Control (Immediate)","level":3},{"id":"nac-n-acetylcysteine-600mg-twice-daily","text":"NAC (N-Acetylcysteine) — 600mg twice daily","level":3},{"id":"glycine-3-5g-daily","text":"Glycine — 3–5g daily","level":3},{"id":"liposomal-vitamin-c-1g-twice-daily","text":"Liposomal Vitamin C — 1g twice daily","level":3},{"id":"sulforaphane-daily-from-broccoli-sprouts-or-supplement","text":"Sulforaphane — Daily from Broccoli Sprouts or Supplement","level":3},{"id":"astaxanthin-12mg-daily-with-fat-containing-meal","text":"Astaxanthin — 12mg daily with fat-containing meal","level":3},{"id":"the-non-negotiable-sequence-logic","text":"The Non-Negotiable Sequence Logic","level":2},{"id":"concurrent-bile-axis-foundation","text":"Concurrent Bile-Axis Foundation","level":2},{"id":"connections","text":"Connections","level":2}]}]]}]}]
+6:["$","script","script-0",{"src":"/_next/static/chunks/2gspel2gmkmqb.js","async":true}]
+7:["$","$Lc",null,{"children":["$","$d",null,{"name":"Next.MetadataOutlet","children":"$@e"}]}]
+e:null

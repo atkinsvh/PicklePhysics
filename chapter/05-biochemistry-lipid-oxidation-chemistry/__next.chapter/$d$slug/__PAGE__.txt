@@ -1,0 +1,88 @@
+1:"$Sreact.fragment"
+2:I[90114,["/_next/static/chunks/2cdxtyl33onme.js","/_next/static/chunks/30x6623ill3zz.js","/_next/static/chunks/2gspel2gmkmqb.js"],"default"]
+8:I[66489,["/_next/static/chunks/2cdxtyl33onme.js","/_next/static/chunks/30x6623ill3zz.js","/_next/static/chunks/2gspel2gmkmqb.js"],"default"]
+9:I[98352,["/_next/static/chunks/2cdxtyl33onme.js","/_next/static/chunks/30x6623ill3zz.js","/_next/static/chunks/2gspel2gmkmqb.js"],"default"]
+a:I[70411,["/_next/static/chunks/2cdxtyl33onme.js","/_next/static/chunks/30x6623ill3zz.js","/_next/static/chunks/2gspel2gmkmqb.js"],"default"]
+b:I[10432,["/_next/static/chunks/2cdxtyl33onme.js","/_next/static/chunks/30x6623ill3zz.js","/_next/static/chunks/2gspel2gmkmqb.js"],"default"]
+c:I[93070,["/_next/static/chunks/2cdxtyl33onme.js","/_next/static/chunks/30x6623ill3zz.js"],"OutletBoundary"]
+d:"$Sreact.suspense"
+3:T16c7,<h1 id="lipid-oxidation-chemistry">Lipid Oxidation Chemistry</h1>
+<blockquote>
+<p><em>The molecular mechanism by which PUFA-rich oils at frying temperatures produce the compounds responsible for the entire disease cascade.</em></p>
+</blockquote>
+<h2 id="the-peroxidation-chain-reaction">The Peroxidation Chain Reaction</h2>
+<p>Lipid peroxidation is autocatalytic — each cycle generates new radicals:</p>
+<pre><code>Initiation:   LH + R•  →  L• + RH         (H abstraction from bisallylic position)
+Propagation:  L• + O₂  →  LOO•             (oxygen addition, fast)
+              LOO• + LH → LOOH + L•        (chain transfer, rate-limiting)
+Branching:    LOOH + Fe²⁺ → LO• + OH⁻ + Fe³⁺   (Fenton — produces alkoxy radical)
+Termination:  LOO• + ArOH → LOOH + ArO•   (antioxidant donation)
+</code></pre>
+<p><strong>Why PUFAs are specifically vulnerable:</strong> The bisallylic positions (CH₂ between two double bonds) have C-H bond dissociation energies ~10 kcal/mol lower than allylic positions, which are ~15 kcal/mol lower than saturated C-H bonds. Initiation is geometrically and energetically favored at these positions.</p>
+<p><strong>Why the chain reaction is exponential at frying temperatures:</strong> At 180°C, propagation rate constants increase dramatically. A single initiation event can produce thousands of oxidized molecules before termination.</p>
+<h2 id="primary-oxidation-products">Primary Oxidation Products</h2>
+<h3 id="lipid-hydroperoxides-looh">Lipid Hydroperoxides (LOOH)</h3>
+<p>First detectable oxidation products. Measurable as peroxide value (PV). Not acutely toxic but unstable — decompose to secondary products at frying temperatures.</p>
+<h3 id="4-hydroxynonenal-4-hne">4-Hydroxynonenal (4-HNE)</h3>
+<p>The primary toxic aldehyde from linoleic acid (C18:2 ω-6) oxidation.</p>
+<p><strong>Formation:</strong> Oxidation of ω-6 PUFA → 13-HPODE → β-scission → 4-HNE + other aldehydes</p>
+<p><strong>Why it's uniquely harmful:</strong></p>
+<ul>
+<li>Bifunctional electrophile: both the aldehyde carbon (C1) and the α,β-unsaturated enone system (C3) are electrophilic</li>
+<li>Forms Michael adducts with cysteine, histidine, lysine residues in proteins</li>
+<li>Forms Schiff bases with primary amines (lysine, N-termini)</li>
+<li>Modifies DNA bases (guanine, deoxyadenosine)</li>
+<li>Cannot be escaped by cells — fat-soluble, membrane-permeable</li>
+<li>Detection threshold by taste/smell well below toxic concentrations</li>
+</ul>
+<p><strong>Specific protein targets (documented):</strong></p>
+<ul>
+<li>Prolyl hydroxylase → impaired collagen hydroxylation</li>
+<li>Lysyl oxidase → impaired collagen cross-linking</li>
+<li>Complex I and II → mitochondrial dysfunction</li>
+<li>MERTK and AXL → efferocytosis failure</li>
+<li>Autophagy machinery (Beclin-1, ATG5, p62) → impaired cellular cleanup</li>
+<li>Histone proteins H2A, H3, H4 → epigenetic modification</li>
+<li>IRS-1 (tyrosine residues) → insulin resistance (PCOS mechanism)</li>
+</ul>
+<h3 id="malondialdehyde-mda">Malondialdehyde (MDA)</h3>
+<p>Secondary oxidation product from PUFA hydroperoxide decomposition. More water-soluble than 4-HNE. Also modifies DNA (specifically guanine) and proteins. MDA-protein adducts are markers of oxidative stress measurable in plasma and tissue.</p>
+<h2 id="oxlams-oxidized-linoleic-acid-metabolites">OXLAMs — Oxidized Linoleic Acid Metabolites</h2>
+<p>The class includes: 9-HODE, 13-HODE, 9-oxoODE, 13-oxoODE, 9,10-EpOME, 12,13-EpOME.</p>
+<p><strong>Biological activities:</strong></p>
+<ul>
+<li>Direct TLR4 agonists — same receptor as LPS. This is not a downstream inflammatory consequence — it is direct pattern recognition receptor activation by a dietary compound.</li>
+<li>CD36 activation on macrophages → foam cell formation → MERTK downregulation</li>
+<li>Adipose tissue accumulation — OXLAMs are stored in adipose and released chronically</li>
+<li>Measurable in plasma and can serve as biomarkers of dietary oxidized fat exposure</li>
+</ul>
+<h2 id="total-polar-compounds-tpc">Total Polar Compounds (TPC)</h2>
+<p>The aggregate measure of all polar oxidation products in frying oil:</p>
+<ul>
+<li>Includes all of the above plus polar polymers, dimers, triglyceride oxidation products</li>
+<li>Cannot be reduced by deodorization (non-volatile fraction)</li>
+<li>The only fraud-resistant regulatory measure</li>
+<li>European standard: 25–27% maximum</li>
+<li>US: no federal standard</li>
+</ul>
+<p><strong>Why TPC rises with frying cycles:</strong>
+At each frying cycle: more PUFA oxidized → more polar products formed → TPC rises. Deodorization removes volatile early-warning compounds but leaves the non-volatile TPC fraction entirely intact.</p>
+<h2 id="the-detection-asymmetry">The Detection Asymmetry</h2>
+<p>Volatile early-warning compounds (hexanal, (E)-2-nonenal, diacetyl) are generated EARLIER in the oxidation cascade than the non-volatile toxic fraction. Human olfactory system evolved to detect precursor signals because those volatilize before consumption.</p>
+<p>Deodorization removes the precursor signals. Non-volatile toxicants remain. This is why deodorization is specifically fraudulent rather than merely unhelpful — it defeats the evolved detection system while leaving the harm it was evolved to detect.</p>
+<p>→ [[Evolutionary Sensory Framework]] | [[Deodorization as Fraud]]</p>
+<h2 id="connections">Connections</h2>
+<ul>
+<li>[[4-HNE]] (compound note)</li>
+<li>[[Oxidized Lipid Cascade]] — biological consequences</li>
+<li>[[TPC Standards]] — the regulatory instrument</li>
+<li>[[Deodorization as Fraud]] — why TPC is the only valid measure</li>
+<li>[[In-Fryer Antioxidants]] — radical chain termination prevention</li>
+<li>[[11-Step Protocol]] — removal from cooking fat</li>
+</ul>
+0:{"rsc":["$","$1","c",{"children":[["$","div",null,{"className":"max-w-6xl mx-auto px-4 py-8","children":[["$","$L2",null,{"slug":"05-biochemistry-lipid-oxidation-chemistry"}],["$","div",null,{"className":"grid grid-cols-1 lg:grid-cols-[1fr_280px] gap-8","children":[["$","article",null,{"children":[["$","header",null,{"className":"mb-8","children":[["$","div",null,{"className":"flex items-center gap-2 text-sm text-muted mb-3","children":[["$","span",null,{"className":"px-2 py-0.5 bg-pickle-light text-pickle-dark rounded text-xs font-medium","children":"Biochemistry"}],["$","span",null,{"children":["Chapter ",26]}]]}],["$","h1",null,{"className":"text-3xl md:text-4xl font-bold text-foreground mb-3","children":"Lipid Oxidation Chemistry"}],["$","p",null,{"className":"text-lg text-muted leading-relaxed","children":"tags: [biochemistry, lipid-oxidation, 4-HNE, OXLAMs, TPC]"}]]}],["$","div",null,{"className":"prose","dangerouslySetInnerHTML":{"__html":"$3"}}],"$L4"]}],"$L5"]}]]}],["$L6"],"$L7"]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"-f8JDEXe4WkXDL6nzUQi5"}
+4:["$","nav",null,{"className":"mt-12 pt-8 border-t border-border flex justify-between gap-4","children":[["$","div",null,{}],["$","div",null,{"className":"flex-1 p-4 bg-pickle-lighter rounded-lg text-center","children":["$","$L8",null,{"pose":"celebrating","size":"small","message":"You finished the book!","className":"inline-flex"}]}]]}]
+5:["$","aside",null,{"className":"hidden lg:block space-y-4 no-print","children":["$","div",null,{"className":"sticky top-20 space-y-4","children":[["$","div",null,{"className":"flex items-center gap-2","children":[["$","$L9",null,{"slug":"05-biochemistry-lipid-oxidation-chemistry"}],["$","$La",null,{}]]}],["$","$Lb",null,{"headings":[{"id":"lipid-oxidation-chemistry","text":"Lipid Oxidation Chemistry","level":1},{"id":"the-peroxidation-chain-reaction","text":"The Peroxidation Chain Reaction","level":2},{"id":"primary-oxidation-products","text":"Primary Oxidation Products","level":2},{"id":"lipid-hydroperoxides-looh","text":"Lipid Hydroperoxides (LOOH)","level":3},{"id":"4-hydroxynonenal-4-hne","text":"4-Hydroxynonenal (4-HNE)","level":3},{"id":"malondialdehyde-mda","text":"Malondialdehyde (MDA)","level":3},{"id":"oxlams-oxidized-linoleic-acid-metabolites","text":"OXLAMs — Oxidized Linoleic Acid Metabolites","level":2},{"id":"total-polar-compounds-tpc","text":"Total Polar Compounds (TPC)","level":2},{"id":"the-detection-asymmetry","text":"The Detection Asymmetry","level":2},{"id":"connections","text":"Connections","level":2}]}]]}]}]
+6:["$","script","script-0",{"src":"/_next/static/chunks/2gspel2gmkmqb.js","async":true}]
+7:["$","$Lc",null,{"children":["$","$d",null,{"name":"Next.MetadataOutlet","children":"$@e"}]}]
+e:null

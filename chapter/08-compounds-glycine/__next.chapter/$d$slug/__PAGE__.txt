@@ -1,0 +1,66 @@
+1:"$Sreact.fragment"
+2:I[90114,["/_next/static/chunks/2cdxtyl33onme.js","/_next/static/chunks/30x6623ill3zz.js","/_next/static/chunks/2gspel2gmkmqb.js"],"default"]
+8:I[66489,["/_next/static/chunks/2cdxtyl33onme.js","/_next/static/chunks/30x6623ill3zz.js","/_next/static/chunks/2gspel2gmkmqb.js"],"default"]
+9:I[98352,["/_next/static/chunks/2cdxtyl33onme.js","/_next/static/chunks/30x6623ill3zz.js","/_next/static/chunks/2gspel2gmkmqb.js"],"default"]
+a:I[70411,["/_next/static/chunks/2cdxtyl33onme.js","/_next/static/chunks/30x6623ill3zz.js","/_next/static/chunks/2gspel2gmkmqb.js"],"default"]
+b:I[10432,["/_next/static/chunks/2cdxtyl33onme.js","/_next/static/chunks/30x6623ill3zz.js","/_next/static/chunks/2gspel2gmkmqb.js"],"default"]
+c:I[93070,["/_next/static/chunks/2cdxtyl33onme.js","/_next/static/chunks/30x6623ill3zz.js"],"OutletBoundary"]
+d:"$Sreact.suspense"
+3:T1141,<h1 id="glycine-the-universal-thread">Glycine — The Universal Thread</h1>
+<blockquote>
+<p><em>The single compound appearing at more mechanistic nodes in this framework than any other. Its depletion from modern diets through elimination of connective tissue consumption is probably not coincidental to the modern disease landscape.</em></p>
+</blockquote>
+<h2 id="the-six-simultaneous-roles">The Six Simultaneous Roles</h2>
+<h3 id="1-glutathione-precursor-with-nac-cysteine">1. Glutathione Precursor (with NAC/cysteine)</h3>
+<p>The transsulfuration pathway: homocysteine → cystathionine → cysteine + glycine + glutamate → glutathione. Glycine is independently limiting — NAC provides cysteine, but without adequate glycine, glutathione synthesis still stalls.</p>
+<h3 id="2-collagen-precursor-structural">2. Collagen Precursor (structural)</h3>
+<p>One-third of all collagen by amino acid residue count. The Gly-X-Y repeat sequence requires glycine at every third position across every procollagen chain. Without adequate glycine, procollagen chains cannot complete the triple helix structure correctly.</p>
+<p>Modern diets low in glycine from elimination of:</p>
+<ul>
+<li>Skin (gelatin)</li>
+<li>Bone broth (collagen)</li>
+<li>Cartilage and connective tissue</li>
+<li>Whole animal consumption</li>
+</ul>
+<h3 id="3-mast-cell-stabilizer-glyr">3. Mast Cell Stabilizer (GlyR)</h3>
+<p>Mast cells express the glycine receptor (GlyR) — a glycine-gated chloride channel. When glycine binds:</p>
+<ul>
+<li>Chloride influx → membrane hyperpolarization</li>
+<li>Hyperpolarized mast cell has reduced intracellular calcium available for degranulation</li>
+<li>Activation threshold raised</li>
+<li><strong>Mechanism completely independent of quercetin (calcium channel), baicalin (STAT6), AKBA (5-LOX)</strong></li>
+</ul>
+<p>This is why glycine at 8g/L in the brine is a meaningful mast cell intervention through a mechanism that doesn't appear on any standard mast cell diagram.</p>
+<h3 id="4-one-carbon-metabolism-substrate">4. One-Carbon Metabolism Substrate</h3>
+<p>Glycine-N-methyltransferase uses glycine in the SAM cycle regulation. Also: formate from glycine catabolism enters the folate pool as 5,10-methyleneTHF — direct one-carbon unit supply to the SAM cycle.</p>
+<h3 id="5-nmda-receptor-co-agonist-sleep">5. NMDA Receptor Co-Agonist (Sleep)</h3>
+<p>Glycine activates the glycine binding site of NMDA receptors in the suprachiasmatic nucleus, improving sleep quality. Supplemental glycine (3g before bed) has clinical evidence for improved sleep onset and quality. Sleep is when most tissue repair occurs — this connects glycine to the tissue repair goals through the sleep physiology connection.</p>
+<h3 id="6-bile-acid-conjugation">6. Bile Acid Conjugation</h3>
+<p>Bile acids are conjugated with either glycine or taurine for export into bile. Glycine-conjugated bile acids improve fat-soluble compound absorption — connecting to the absorption of all the lipophilic therapeutic compounds in the formulation.</p>
+<h2 id="dosing">Dosing</h2>
+<p><strong>Therapeutic range:</strong> 3–10g daily (broad, well-tolerated, no established upper limit at reasonable doses)
+<strong>From fermented preparation:</strong> ~3.1g daily (at 8g/L brine × 13ml serving × 3 meals)
+<strong>Supplemental:</strong> additional 2–5g daily, dissolved in water or food (tasteless)
+<strong>Combined target:</strong> 5–8g daily total from all sources</p>
+<h2 id="the-depletion-pattern">The Depletion Pattern</h2>
+<p>Modern dietary glycine intake vs. estimated ancestral:</p>
+<ul>
+<li>Modern typical: ~2–3g daily (predominantly from muscle meat protein)</li>
+<li>Ancestral estimated: ~5–10g daily (whole animal consumption, organ meats, bone broth, skin, connective tissue)</li>
+</ul>
+<p>The deficit is not from reduced protein intake but from changed protein source selection — muscle meat is glycine-poor relative to collagen-rich foods that were ancestrally consumed by default.</p>
+<h2 id="connections">Connections</h2>
+<ul>
+<li>[[Phase 0 - Source Control and Redox]] — glutathione precursor</li>
+<li>[[Phase 4 - Structural Repair]] — collagen precursor</li>
+<li>[[Phase 2 - Mast Cell Stabilization]] — GlyR mechanism</li>
+<li>[[One Carbon Metabolism]] — one-carbon substrate</li>
+<li>[[Brine Formulation]] — 8g/L addition</li>
+<li>[[Collagen Synthesis Pathway]] — structural requirement</li>
+</ul>
+0:{"rsc":["$","$1","c",{"children":[["$","div",null,{"className":"max-w-6xl mx-auto px-4 py-8","children":[["$","$L2",null,{"slug":"08-compounds-glycine"}],["$","div",null,{"className":"grid grid-cols-1 lg:grid-cols-[1fr_280px] gap-8","children":[["$","article",null,{"children":[["$","header",null,{"className":"mb-8","children":[["$","div",null,{"className":"flex items-center gap-2 text-sm text-muted mb-3","children":[["$","span",null,{"className":"px-2 py-0.5 bg-pickle-light text-pickle-dark rounded text-xs font-medium","children":"Compounds"}],["$","span",null,{"children":["Chapter ",44]}]]}],["$","h1",null,{"className":"text-3xl md:text-4xl font-bold text-foreground mb-3","children":"Glycine — The Universal Thread"}],["$","p",null,{"className":"text-lg text-muted leading-relaxed","children":"tags: [compound, glycine, universal-thread, collagen, mast-cell]"}]]}],["$","div",null,{"className":"prose","dangerouslySetInnerHTML":{"__html":"$3"}}],"$L4"]}],"$L5"]}]]}],["$L6"],"$L7"]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"-f8JDEXe4WkXDL6nzUQi5"}
+4:["$","nav",null,{"className":"mt-12 pt-8 border-t border-border flex justify-between gap-4","children":[["$","div",null,{}],["$","div",null,{"className":"flex-1 p-4 bg-pickle-lighter rounded-lg text-center","children":["$","$L8",null,{"pose":"celebrating","size":"small","message":"You finished the book!","className":"inline-flex"}]}]]}]
+5:["$","aside",null,{"className":"hidden lg:block space-y-4 no-print","children":["$","div",null,{"className":"sticky top-20 space-y-4","children":[["$","div",null,{"className":"flex items-center gap-2","children":[["$","$L9",null,{"slug":"08-compounds-glycine"}],["$","$La",null,{}]]}],["$","$Lb",null,{"headings":[{"id":"glycine-the-universal-thread","text":"Glycine — The Universal Thread","level":1},{"id":"the-six-simultaneous-roles","text":"The Six Simultaneous Roles","level":2},{"id":"1-glutathione-precursor-with-nac-cysteine","text":"1. Glutathione Precursor (with NAC/cysteine)","level":3},{"id":"2-collagen-precursor-structural","text":"2. Collagen Precursor (structural)","level":3},{"id":"3-mast-cell-stabilizer-glyr","text":"3. Mast Cell Stabilizer (GlyR)","level":3},{"id":"4-one-carbon-metabolism-substrate","text":"4. One-Carbon Metabolism Substrate","level":3},{"id":"5-nmda-receptor-co-agonist-sleep","text":"5. NMDA Receptor Co-Agonist (Sleep)","level":3},{"id":"6-bile-acid-conjugation","text":"6. Bile Acid Conjugation","level":3},{"id":"dosing","text":"Dosing","level":2},{"id":"the-depletion-pattern","text":"The Depletion Pattern","level":2},{"id":"connections","text":"Connections","level":2}]}]]}]}]
+6:["$","script","script-0",{"src":"/_next/static/chunks/2gspel2gmkmqb.js","async":true}]
+7:["$","$Lc",null,{"children":["$","$d",null,{"name":"Next.MetadataOutlet","children":"$@e"}]}]
+e:null

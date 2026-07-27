@@ -1,0 +1,130 @@
+1:"$Sreact.fragment"
+2:I[90114,["/_next/static/chunks/2cdxtyl33onme.js","/_next/static/chunks/30x6623ill3zz.js","/_next/static/chunks/2gspel2gmkmqb.js"],"default"]
+8:I[66489,["/_next/static/chunks/2cdxtyl33onme.js","/_next/static/chunks/30x6623ill3zz.js","/_next/static/chunks/2gspel2gmkmqb.js"],"default"]
+9:I[98352,["/_next/static/chunks/2cdxtyl33onme.js","/_next/static/chunks/30x6623ill3zz.js","/_next/static/chunks/2gspel2gmkmqb.js"],"default"]
+a:I[70411,["/_next/static/chunks/2cdxtyl33onme.js","/_next/static/chunks/30x6623ill3zz.js","/_next/static/chunks/2gspel2gmkmqb.js"],"default"]
+b:I[10432,["/_next/static/chunks/2cdxtyl33onme.js","/_next/static/chunks/30x6623ill3zz.js","/_next/static/chunks/2gspel2gmkmqb.js"],"default"]
+c:I[93070,["/_next/static/chunks/2cdxtyl33onme.js","/_next/static/chunks/30x6623ill3zz.js"],"OutletBoundary"]
+d:"$Sreact.suspense"
+3:T2cd0,<h1 id="upper-gi-biofilm-disruption">Upper GI Biofilm Disruption</h1>
+<blockquote>
+<p><em>The mouth is the staging ground. The stomach is the second filter. The small intestine is where most of the action is. Address all three in sequence, with the keystone principle: vacate the niche, set the conditions, seed in the right order.</em></p>
+</blockquote>
+<h2 id="the-compartmental-problem">The Compartmental Problem</h2>
+<p>The upper GI is not a single environment. Each compartment has different conditions and supports different biofilm communities:</p>
+<table>
+<thead>
+<tr>
+<th>Compartment</th>
+<th>pH</th>
+<th>Dominant biofilm concern</th>
+<th>Re-inoculation source</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Oral cavity</td>
+<td>6.5–7.5</td>
+<td>Tongue, tonsil, periodontal, dental plaque</td>
+<td>Constant — every swallow, overnight migration</td>
+</tr>
+<tr>
+<td>Esophagus</td>
+<td>5–7</td>
+<td>Less biofilm; some esophageal microbiome dysbiosis</td>
+<td>Oral cavity</td>
+</tr>
+<tr>
+<td>Stomach</td>
+<td>1–3 (fasting)</td>
+<td><em>H. pylori</em> biofilm (30–50% global prevalence); fungal overgrowth</td>
+<td>Oral cavity, retrograde from duodenum</td>
+</tr>
+<tr>
+<td>Duodenum/Jejunum</td>
+<td>6–7</td>
+<td>SIBO with biofilm; bile salt deconjugation</td>
+<td>Oral, gastric, retrograde from lower GI</td>
+</tr>
+</tbody>
+</table>
+<p>If the oral cavity is not addressed, every other intervention is partial. If the stomach is not addressed, the duodenal interventions may not survive transit. The sequencing matters.</p>
+<h2 id="layer-1-oral-source-control-day-1">Layer 1 — Oral Source Control (Day 1+)</h2>
+<ul>
+<li><strong>Oil pulling</strong> with coconut oil + 1 drop oregano oil + 1 drop clove oil, 10–15 min AM before eating. Swish, don't swallow, spit. Lipid-phase dissolution of oral biofilm lipid components plus direct antimicrobial essential oil activity. <em>Clinical evidence for oral bacterial load and gingival inflammation reduction.</em></li>
+<li><strong>Tongue scraping</strong> every morning, stainless steel. Tongue biofilm is thick and reseeds constantly.</li>
+<li><strong>Xylitol</strong> 5–10g/day as mouthwash or gum. Disrupts <em>Streptococcus mutans</em> biofilm adhesion through competitive inhibition of the sucrose receptor. Also reduces <em>H. pylori</em> adhesion in the stomach.</li>
+<li><strong>Cranberry PACs</strong> (proanthocyanidins) 36–72mg daily. Fimbrial adhesion blockade — bacteria can't stick, can't form biofilm. Active against <em>H. pylori</em> and gram-negatives.</li>
+<li><strong>Mastic gum</strong> (Chios mastic) 1000–2000mg daily on empty stomach. Specific anti-<em>H. pylori</em> activity including clarithromycin-resistant strains. Most clinically-validated natural upper GI biofilm compound for H. pylori specifically.</li>
+</ul>
+<h2 id="layer-2-matrix-disruption-week-1">Layer 2 — Matrix Disruption (Week 1)</h2>
+<p>The EPS (extracellular polymeric substance) matrix has to be broken before antimicrobials can reach the embedded bacteria. Biofilm matrix composition is multi-component: proteins, polysaccharides, eDNA, lipids. Single-enzyme approaches fail.</p>
+<ul>
+<li><strong>NAC</strong> (N-acetylcysteine) 1200–1800mg/day, divided doses, on empty stomach. Disrupts disulfide bonds in matrix proteins. The vault's [[Phase 0 - Source Control and Redox]] already includes NAC at lower dose; upper GI biofilm work requires higher dose.</li>
+<li><strong>Serrapeptase</strong> 120,000–240,000 SPU/day, empty stomach, 30 min before food. Proteolytic enzyme digesting protein matrix components. <em>Enteric-coated essential — unprotected enzyme is destroyed in stomach acid.</em></li>
+<li><strong>Nattokinase</strong> 2000–4000 FU/day, empty stomach. Fibrinolytic — degrades the fibrin scaffold many biofilms use, including <em>H. pylori</em>.</li>
+<li><strong>Bromelain</strong> 500–1000mg/day, empty stomach. Pineapple protease with different cleavage specificity than serrapeptase — broader matrix coverage.</li>
+<li><strong>Cellulase + hemicellulase + beta-glucanase</strong> blend, with meals. Polysaccharide components of biofilm matrix that proteases can't reach.</li>
+<li><strong>Lactoferrin</strong> 200–400mg/day, empty stomach. Iron chelation starves biofilm of Fe²⁺. Biofilm formation is iron-dependent. Direct <em>H. pylori</em> bactericidal activity. <em>Clinical evidence: lactoferrin + antibiotic protocols show better H. pylori eradication than antibiotics alone.</em></li>
+</ul>
+<h2 id="layer-3-qs-inhibition-antimicrobial-weeks-1-4">Layer 3 — QS Inhibition + Antimicrobial (Weeks 1–4)</h2>
+<p>Sequence: <strong>disarm first, then kill.</strong> Quorum sensing inhibitors (QSIs) blind pathogens to each other's coordination, preventing biofilm reinforcement during the kill phase. Killing cells in an intact biofilm selects for resistant sub-populations within the matrix.</p>
+<ul>
+<li><strong>Cinnamaldehyde</strong> (cinnamon bark decoction or 100–200mg standardized extract) — most potent natural QS inhibitor. AHL-mediated systems. TRPA1 agonist — sensory confirmation of presence.</li>
+<li><strong>Allicin</strong> from fresh crushed garlic — 2 cloves, 10 min rest after crushing (alliinase converts alliin to allicin), eat with food. LasR/RhlR QS inhibitor, direct antimicrobial against gram-negatives.</li>
+<li><strong>Curcumin</strong> 500–1000mg/day with piperine 5–10mg, with fatty meal. LasR QS inhibitor, anti-biofilm, anti-inflammatory. Lipophilic — requires fat for absorption.</li>
+<li><strong>EGCG</strong> from green tea 400–800mg/day, with food. Iron chelation (biofilm Fe²⁺ deprivation), QS inhibition.</li>
+<li><strong>Oregano oil</strong> (carvacrol 60–80% standardization) 200–400mg/day, enteric-coated, with food. Direct antimicrobial and anti-biofilm. <em>Can be harsh on stomach — start at half dose.</em></li>
+<li><strong>Manuka honey</strong> 1–2 tsp/day, on empty stomach or with food. MGO has documented anti-biofilm activity even against MRSA biofilm. <em>Also introduces the L. kunkeei climax community from the [[Honey Culture System]].</em> Dual mechanism.</li>
+<li><strong>Berberine</strong> 500mg twice daily with meals. Anti-biofilm, antimicrobial, AMPK. Addresses SIFO (small intestinal fungal overgrowth) coexisting with SIBO.</li>
+</ul>
+<h2 id="layer-4-substrate-and-motility-support-concurrent">Layer 4 — Substrate and Motility Support (Concurrent)</h2>
+<ul>
+<li><strong>Ginger</strong> (fresh, in food or tea) — prokinetic, supports gastric emptying and small intestinal motility. Stagnant gut = biofilm-friendly gut. <em>Motility is itself an anti-biofilm intervention.</em></li>
+<li><strong>Digestive bitters</strong> 15 min before meals (dandelion root + gentian + artichoke) — vagal stimulation of bile flow, gastric acid, and pancreatic enzymes. Acidic environment and enzymatic activity disrupt biofilm.</li>
+<li><strong>Avoid PPIs</strong> if at all possible. They raise gastric pH, which paradoxically favors <em>H. pylori</em> (thrives at higher pH) and reduces natural antimicrobial barrier.</li>
+<li><strong>Intermittent fasting 16:8 minimum, with 24-hour fasts weekly during the active phase.</strong> Nutrient limitation disrupts biofilm integrity.</li>
+</ul>
+<h2 id="layer-5-rebiosis-weeks-2-6-overlapping">Layer 5 — Rebiosis (Weeks 2–6, Overlapping)</h2>
+<p>If biofilms are disrupted and the niche is not refilled, the same dysbiosis re-establishes within weeks. See [[Microbiome Onramp Protocol]] for the keystone species sequencing: Akkermansia first (mucin architect), Lactobacillus/Bifidobacterium second, honey culture + wild kefir climax community third.</p>
+<h2 id="the-die-off-reality">The Die-off Reality</h2>
+<p>Biofilm disruption produces a [[Die-off Management|Herxheimer reaction]] in 1–3 weeks. The protocol fails more often from people stopping at peak die-off than from any other reason. The die-off management stack is non-optional:</p>
+<ul>
+<li><strong>Binders</strong>: activated charcoal (500mg pre-bed), bentonite clay (1 tsp in water AM), psyllium husk (5–10g twice daily), modified citrus pectin (5g), chlorella (3–5g if tolerated)</li>
+<li><strong>Glutathione foundation</strong>: NAC + glycine + liposomal C + selenium + molybdenum</li>
+<li><strong>Drainage pathway support</strong>: hydration (3L+), lymphatic movement (walking, rebounding), sauna if accessible, magnesium for bowel motility</li>
+<li><strong>Tempo</strong>: start one compound every 3–4 days, begin at half dose, escalate binders before escalating killers</li>
+</ul>
+<h2 id="the-methane-vs-hydrogen-sibo-distinction">The Methane vs Hydrogen SIBO Distinction</h2>
+<p>If SIBO breath testing is available, the protocol adapts:</p>
+<ul>
+<li><strong>Hydrogen-dominant SIBO</strong> (diarrhea-predominant): the protocol above is well-targeted. Berberine, oregano, allicin, curcumin are hydrogen-SIBO active.</li>
+<li><strong>Methane-dominant SIBO</strong> (constipation-predominant, now renamed IMO — intestinal methanogen overgrowth): add <strong>Atrantil</strong> (Quebracho + horse chestnut + thymus combination) — clinically studied methane-targeted botanical. The <em>Archaea</em> (methanogens) require specific targeting that the standard protocol under-addresses.</li>
+</ul>
+<h2 id="the-h-pylori-specific-case">The H. pylori Specific Case</h2>
+<p>If H. pylori is confirmed (stool antigen, breath test, or clinical presentation — chronic gastritis, halitosis, refractory iron deficiency, peptic symptoms), the protocol above is best understood as <strong>complementary to or salvage after standard triple/quadruple therapy</strong>, not a replacement. Clinical-grade H. pylori eradication with antibiotics is the standard of care for active infection. The natural protocol supports antibiotic penetration into biofilm (lactoferrin, NAC), reduces reinfection risk (mastic gum, cranberry PACs), and addresses the post-eradication dysbiosis that antibiotics themselves create.</p>
+<h2 id="connection-to-the-bile-axis">Connection to the Bile Axis</h2>
+<p>Disrupting upper GI biofilm directly addresses the [[Bile-Micelle-Antioxidant Axis]]. Restored bile acid integrity → restored micelle formation → restored fat-soluble antioxidant absorption → improved handling of the OXLAM burden. This is why the upper GI biofilm layer was added to the framework — it's the upstream intervention for the bile dysfunction and the malabsorption cascade.</p>
+<h2 id="connections">Connections</h2>
+<ul>
+<li>[[Bile-Micelle-Antioxidant Axis]] — the theoretical framework</li>
+<li>[[Microbiome Onramp Protocol]] — the rebiosis layer</li>
+<li>[[Die-off Management]] — the protocol failure-mode prevention</li>
+<li>[[Gut Microbiome Ecology]] — the community context</li>
+<li>[[Quorum Sensing]] — the QS inhibitor mechanism</li>
+<li>[[Honey Culture System]] — manuka honey dual mechanism</li>
+<li>[[Wild Vinegars]] — daily maintenance layer</li>
+<li>[[Spice Extraction Methods]] — household preparation of the QS inhibitor stack</li>
+<li>[[Phase 0 - Source Control and Redox]] — the glutathione foundation</li>
+<li>[[Phase 2 - Mast Cell Stabilization]] — concurrent for MCAS-complicated cases</li>
+<li>[[Botanical Pack]] — sources for the QS inhibitor stack</li>
+<li>[[Polyphenols]] — curcumin, EGCG, cinnamaldehyde chemistry</li>
+<li>[[Terpenoids]] — carvacrol, thymol, eugenol chemistry</li>
+<li>[[Alkaloids]] — berberine mechanism</li>
+</ul>
+0:{"rsc":["$","$1","c",{"children":[["$","div",null,{"className":"max-w-6xl mx-auto px-4 py-8","children":[["$","$L2",null,{"slug":"06-microbiology-upper-gi-biofilm-disruption"}],["$","div",null,{"className":"grid grid-cols-1 lg:grid-cols-[1fr_280px] gap-8","children":[["$","article",null,{"children":[["$","header",null,{"className":"mb-8","children":[["$","div",null,{"className":"flex items-center gap-2 text-sm text-muted mb-3","children":[["$","span",null,{"className":"px-2 py-0.5 bg-pickle-light text-pickle-dark rounded text-xs font-medium","children":"Microbiology"}],["$","span",null,{"children":["Chapter ",36]}]]}],["$","h1",null,{"className":"text-3xl md:text-4xl font-bold text-foreground mb-3","children":"Upper GI Biofilm Disruption"}],["$","p",null,{"className":"text-lg text-muted leading-relaxed","children":"tags: [microbiology, upper-gi, biofilm, protocol, hub, sibo, h-pylori, oral-cavity]"}]]}],["$","div",null,{"className":"prose","dangerouslySetInnerHTML":{"__html":"$3"}}],"$L4"]}],"$L5"]}]]}],["$L6"],"$L7"]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"-f8JDEXe4WkXDL6nzUQi5"}
+4:["$","nav",null,{"className":"mt-12 pt-8 border-t border-border flex justify-between gap-4","children":[["$","div",null,{}],["$","div",null,{"className":"flex-1 p-4 bg-pickle-lighter rounded-lg text-center","children":["$","$L8",null,{"pose":"celebrating","size":"small","message":"You finished the book!","className":"inline-flex"}]}]]}]
+5:["$","aside",null,{"className":"hidden lg:block space-y-4 no-print","children":["$","div",null,{"className":"sticky top-20 space-y-4","children":[["$","div",null,{"className":"flex items-center gap-2","children":[["$","$L9",null,{"slug":"06-microbiology-upper-gi-biofilm-disruption"}],["$","$La",null,{}]]}],["$","$Lb",null,{"headings":[{"id":"upper-gi-biofilm-disruption","text":"Upper GI Biofilm Disruption","level":1},{"id":"the-compartmental-problem","text":"The Compartmental Problem","level":2},{"id":"layer-1-oral-source-control-day-1","text":"Layer 1 — Oral Source Control (Day 1+)","level":2},{"id":"layer-2-matrix-disruption-week-1","text":"Layer 2 — Matrix Disruption (Week 1)","level":2},{"id":"layer-3-qs-inhibition-antimicrobial-weeks-1-4","text":"Layer 3 — QS Inhibition + Antimicrobial (Weeks 1–4)","level":2},{"id":"layer-4-substrate-and-motility-support-concurrent","text":"Layer 4 — Substrate and Motility Support (Concurrent)","level":2},{"id":"layer-5-rebiosis-weeks-2-6-overlapping","text":"Layer 5 — Rebiosis (Weeks 2–6, Overlapping)","level":2},{"id":"the-die-off-reality","text":"The Die-off Reality","level":2},{"id":"the-methane-vs-hydrogen-sibo-distinction","text":"The Methane vs Hydrogen SIBO Distinction","level":2},{"id":"the-h-pylori-specific-case","text":"The H. pylori Specific Case","level":2},{"id":"connection-to-the-bile-axis","text":"Connection to the Bile Axis","level":2},{"id":"connections","text":"Connections","level":2}]}]]}]}]
+6:["$","script","script-0",{"src":"/_next/static/chunks/2gspel2gmkmqb.js","async":true}]
+7:["$","$Lc",null,{"children":["$","$d",null,{"name":"Next.MetadataOutlet","children":"$@e"}]}]
+e:null

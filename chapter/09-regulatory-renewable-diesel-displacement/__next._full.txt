@@ -1,0 +1,144 @@
+1:"$Sreact.fragment"
+2:I[86576,["/_next/static/chunks/2cdxtyl33onme.js","/_next/static/chunks/30x6623ill3zz.js"],"default"]
+3:I[71500,["/_next/static/chunks/2cdxtyl33onme.js","/_next/static/chunks/30x6623ill3zz.js"],"default"]
+4:I[12905,["/_next/static/chunks/2cdxtyl33onme.js","/_next/static/chunks/30x6623ill3zz.js"],"default"]
+5:I[39485,["/_next/static/chunks/2cdxtyl33onme.js","/_next/static/chunks/30x6623ill3zz.js"],"default"]
+6:I[49016,["/_next/static/chunks/2cdxtyl33onme.js","/_next/static/chunks/30x6623ill3zz.js"],"default"]
+7:I[72128,["/_next/static/chunks/2cdxtyl33onme.js","/_next/static/chunks/30x6623ill3zz.js"],"default"]
+8:I[66489,["/_next/static/chunks/2cdxtyl33onme.js","/_next/static/chunks/30x6623ill3zz.js","/_next/static/chunks/2gspel2gmkmqb.js"],"default"]
+9:I[8946,["/_next/static/chunks/2cdxtyl33onme.js","/_next/static/chunks/30x6623ill3zz.js","/_next/static/chunks/2gspel2gmkmqb.js"],""]
+a:I[17998,["/_next/static/chunks/2cdxtyl33onme.js","/_next/static/chunks/30x6623ill3zz.js"],"Image"]
+14:I[80991,["/_next/static/chunks/2cdxtyl33onme.js","/_next/static/chunks/30x6623ill3zz.js"],"default",1]
+:HL["/_next/static/chunks/0ji7bt98574e2.css","style"]
+:HL["/_next/static/media/345c85a432359eed-s.p.0zem_9y19rte6.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/8e451580e5e95631-s.p.27vw08z6_vw0m.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/ae7b4f62a68c82ac-s.p.3n5l2eibg0v7e.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/cfa8380cafbbf487-s.p.10lxx8g3llv2l.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/ea1df765ed99ddf9-s.p.02nvq2zrhh7ok.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/f30fd2e485acf1bc-s.p.35belnv3c2-b-.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+0:{"P":null,"c":["","chapter","09-regulatory-renewable-diesel-displacement"],"q":"","i":false,"f":[[["",{"children":["chapter",{"children":[["slug","09-regulatory-renewable-diesel-displacement","d",null],{"children":["__PAGE__",{}]}]}]},"$undefined","$undefined",16],[["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/chunks/0ji7bt98574e2.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}],["$","script","script-0",{"src":"/_next/static/chunks/2cdxtyl33onme.js","async":true,"nonce":"$undefined"}],["$","script","script-1",{"src":"/_next/static/chunks/30x6623ill3zz.js","async":true,"nonce":"$undefined"}]],["$","html",null,{"lang":"en","className":"lato_4f378528-module__vg9CXq__variable lobster_3ffb1501-module__zSC-9a__variable cinzel_decorative_860d8d00-module__447Jhq__variable h-full antialiased","children":["$","body",null,{"className":"min-h-full flex flex-col","style":{"background":"var(--reader-bg, #1a1a2e)","color":"var(--reader-color, #e5e7eb)","fontFamily":"var(--reader-font, var(--font-lato), sans-serif)","fontSize":"var(--reader-font-size, 18px)","lineHeight":"var(--reader-line-height, 1.8)"},"children":[["$","$L2",null,{}],["$","$L3",null,{}],["$","$L4",null,{"children":[["$","$L5",null,{}],["$","main",null,{"className":"flex-1","children":["$","$L6",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L7",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[["$","div",null,{"className":"min-h-[60vh] flex flex-col items-center justify-center px-4 text-center","children":[["$","$L8",null,{"pose":"questioning","size":"large","message":"Oops! Page not found."}],["$","h1",null,{"className":"text-4xl font-bold text-foreground mt-8 mb-4","children":"404 — Page Not Found"}],["$","p",null,{"className":"text-muted mb-8 max-w-md","children":"The page you are looking for does not exist or has been moved. Let us help you find your way back."}],["$","div",null,{"className":"flex gap-3","children":[["$","$L9",null,{"href":"/","className":"px-6 py-3 bg-pickle-green text-white font-semibold rounded-lg hover:bg-pickle-dark transition-colors","children":"Go Home"}],["$","$L9",null,{"href":"/read","className":"px-6 py-3 border border-border text-foreground font-semibold rounded-lg hover:border-pickle-green hover:text-pickle-green transition-colors","children":"Start Reading"}]]}]]}],[]],"forbidden":"$undefined","unauthorized":"$undefined"}]}]]}],["$","footer",null,{"className":"border-t mt-auto no-print","style":{"background":"var(--surface-color, #16162a)","borderColor":"var(--color-border)"},"children":[["$","div",null,{"className":"h-1 bg-gradient-to-r from-pickle-light via-pickle-green to-pickle-light"}],["$","div",null,{"className":"max-w-6xl mx-auto px-4 py-10","children":[["$","div",null,{"className":"grid grid-cols-1 md:grid-cols-3 gap-8","children":[["$","div",null,{"children":[["$","$L9",null,{"href":"/","className":"flex items-center gap-2 mb-3","children":[["$","$La",null,{"src":"/images/branding/simplified-logo-mark-v01-01.png","alt":"Ed's Picklery and Emporium","width":32,"height":32,"className":"h-8 w-8"}],["$","span",null,{"className":"font-semibold","style":{"color":"var(--reader-color)"},"children":"Ed's Picklery and Emporium"}]]}],["$","p",null,{"className":"text-sm","style":{"color":"var(--color-muted)"},"children":"Life saving pickles that cure disorders"}]]}],["$","div",null,{"children":[["$","h3",null,{"className":"font-semibold mb-3","style":{"color":"var(--reader-color)"},"children":"Navigation"}],["$","ul",null,{"className":"space-y-2","children":[["$","li","/",{"children":["$","$L9",null,{"href":"/","className":"text-sm transition-colors hover:text-pickle-green","style":{"color":"var(--color-muted)"},"children":"Home"}]}],["$","li","/read",{"children":["$","$L9",null,{"href":"/read","className":"text-sm transition-colors hover:text-pickle-green","style":{"color":"var(--color-muted)"},"children":"Read"}]}],["$","li","/contents",{"children":["$","$L9",null,{"href":"/contents","className":"text-sm transition-colors hover:text-pickle-green","style":{"color":"var(--color-muted)"},"children":"Contents"}]}],["$","li","/search",{"children":["$","$L9",null,{"href":"/search","className":"text-sm transition-colors hover:text-pickle-green","style":{"color":"var(--color-muted)"},"children":"Search"}]}],["$","li","/about",{"children":["$","$L9",null,{"href":"/about","className":"text-sm transition-colors hover:text-pickle-green","style":{"color":"var(--color-muted)"},"children":"About"}]}],"$Lb","$Lc"]}]]}],"$Ld"]}],"$Le"]}]]}]]}]}]]}],{"children":["$Lf",{"children":["$L10",{"children":["$L11",{},null,false,null]},null,false,"$@12"]},null,false,"$@12"]},null,false,null],"$L13",false]],"m":"$undefined","G":["$14",["$L15"]],"S":true,"h":null,"s":"$undefined","l":"$undefined","p":"$undefined","d":"$undefined","b":"-f8JDEXe4WkXDL6nzUQi5"}
+17:I[93070,["/_next/static/chunks/2cdxtyl33onme.js","/_next/static/chunks/30x6623ill3zz.js"],"OutletBoundary"]
+18:"$Sreact.suspense"
+1b:I[93070,["/_next/static/chunks/2cdxtyl33onme.js","/_next/static/chunks/30x6623ill3zz.js"],"ViewportBoundary"]
+1d:I[93070,["/_next/static/chunks/2cdxtyl33onme.js","/_next/static/chunks/30x6623ill3zz.js"],"MetadataBoundary"]
+b:["$","li","/resources",{"children":["$","$L9",null,{"href":"/resources","className":"text-sm transition-colors hover:text-pickle-green","style":{"color":"var(--color-muted)"},"children":"Resources"}]}]
+c:["$","li","/references",{"children":["$","$L9",null,{"href":"/references","className":"text-sm transition-colors hover:text-pickle-green","style":{"color":"var(--color-muted)"},"children":"References"}]}]
+d:["$","div",null,{"children":[["$","h3",null,{"className":"font-semibold mb-3","style":{"color":"var(--reader-color)"},"children":"About"}],["$","p",null,{"className":"text-sm mb-2","style":{"color":"var(--color-muted)"},"children":["Written by ","Nick James"]}],["$","p",null,{"className":"text-sm","style":{"color":"var(--color-muted)"},"children":"Educational content for curious minds."}]]}]
+e:["$","div",null,{"className":"mt-8 pt-6 border-t text-center","style":{"borderColor":"var(--color-border)"},"children":["$","p",null,{"className":"text-sm","style":{"color":"var(--color-muted)"},"children":["© ",2026," ","Ed's Picklery and Emporium",". All rights reserved."]}]}]
+f:["$","$1","c",{"children":[null,["$","$L6",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L7",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}]
+10:["$","$1","c",{"children":[null,["$","$L6",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L7",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}]
+11:["$","$1","c",{"children":["$L16",[["$","script","script-0",{"src":"/_next/static/chunks/2gspel2gmkmqb.js","async":true,"nonce":"$undefined"}]],["$","$L17",null,{"children":["$","$18",null,{"name":"Next.MetadataOutlet","children":"$@19"}]}]]}]
+1a:[]
+12:"$W1a"
+13:["$","$1","h",{"children":[null,["$","$L1b",null,{"children":"$L1c"}],["$","div",null,{"hidden":true,"children":["$","$L1d",null,{"children":["$","$18",null,{"name":"Next.Metadata","children":"$L1e"}]}]}],["$","meta",null,{"name":"next-size-adjust","content":""}]]}]
+15:["$","link","0",{"rel":"stylesheet","href":"/_next/static/chunks/0ji7bt98574e2.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]
+1f:I[90114,["/_next/static/chunks/2cdxtyl33onme.js","/_next/static/chunks/30x6623ill3zz.js","/_next/static/chunks/2gspel2gmkmqb.js"],"default"]
+20:T177d,<h1 id="renewable-diesel-displacement">Renewable Diesel Displacement</h1>
+<blockquote>
+<p><em>The economic counter-narrative that converts the opposition into stakeholders. Seed oil displaced from food service doesn't disappear — it becomes premium renewable diesel feedstock.</em></p>
+</blockquote>
+<h2 id="the-strategic-importance">The Strategic Importance</h2>
+<p>The fat processing regulation will be characterized by the food industry as causing economic harm to the seed oil sector. This characterization is incorrect and the economic displacement argument explains why:</p>
+<p>The proposed regulation doesn't destroy economic value in seed oils. It redirects seed oil from a use that harms the population consuming it to a use that:</p>
+<ul>
+<li>Displaces imported petroleum</li>
+<li>Supports domestic agricultural commodity value</li>
+<li>Earns enhanced regulatory credits</li>
+<li>Fits existing commercial infrastructure</li>
+</ul>
+<p>This converts a potential opposition coalition (agricultural states, seed oil processors) into potential supporters with positive economic interest in the regulation.</p>
+<h2 id="renewable-diesel-vs-biodiesel">Renewable Diesel vs. Biodiesel</h2>
+<p><strong>Biodiesel (FAME — Fatty Acid Methyl Ester):</strong></p>
+<ul>
+<li>Transesterification of vegetable oil with methanol</li>
+<li>Chemically distinct from petroleum diesel</li>
+<li>Blending limits (B20 maximum for most engines)</li>
+<li>Cold weather performance issues</li>
+<li>Infrastructure and compatibility constraints</li>
+</ul>
+<p><strong>Renewable diesel (HVO — Hydrotreated Vegetable Oil):</strong></p>
+<ul>
+<li>Hydrotreatment removes oxygen from triglycerides</li>
+<li>Chemically <strong>identical</strong> to petroleum diesel</li>
+<li>No blending limits — drop-in replacement at any ratio</li>
+<li>Equal or better cold weather performance</li>
+<li>No engine or infrastructure modification required</li>
+<li>Approved by commercial truck manufacturers (Cummins, Detroit, Volvo, Paccar)</li>
+</ul>
+<p>HVO is the closest thing to a frictionless petroleum replacement the transportation sector has seen. The only barrier is feedstock supply.</p>
+<h2 id="the-renewable-fuel-standard-credit-structure">The Renewable Fuel Standard Credit Structure</h2>
+<p>Under EPA's Renewable Fuel Standard (RFS):</p>
+<table>
+<thead>
+<tr>
+<th>Feedstock</th>
+<th>RIN Credit Type</th>
+<th>Carbon Intensity</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Virgin soybean oil → HVO</td>
+<td>D4 (Biomass-based diesel)</td>
+<td>Standard</td>
+</tr>
+<tr>
+<td><strong>Used Cooking Oil (UCO) → HVO</strong></td>
+<td><strong>D5 (Advanced biofuel)</strong></td>
+<td><strong>Enhanced (waste feedstock)</strong></td>
+</tr>
+</tbody>
+</table>
+<p>Used cooking oil earns enhanced D5 RIN credits because waste-feedstock lifecycle carbon accounting produces a lower carbon intensity score than virgin oil. The regulatory credit structure already prices in a UCO premium over virgin oil.</p>
+<p><strong>Commercial consequence:</strong> A TPC-compliant restaurant replacing oil at 27% TPC (rather than running to 60%+) produces:</p>
+<ul>
+<li>Higher volume of used cooking oil per month (more frequent replacement)</li>
+<li>Higher quality UCO (replaced earlier, less degraded, more suitable for processing)</li>
+<li>A waste stream worth MORE than oil replaced at 60% TPC due to the D5 credit premium</li>
+</ul>
+<p>Regulatory compliance and feedstock quality are aligned incentives. The TPC standard doesn't impose costs — it redirects costs to a higher-value output stream.</p>
+<h2 id="the-industrial-capacity-already-exists">The Industrial Capacity Already Exists</h2>
+<p>Major renewable diesel producers with existing or planned US capacity:</p>
+<ul>
+<li>Diamond Green Diesel (Darling International + Valero joint venture)</li>
+<li>Marathon Petroleum (converted Martinez, CA refinery)</li>
+<li>Phillips 66 (Rodeo, CA)</li>
+<li>Neste (imports + US expansion)</li>
+<li>REG (Renewable Energy Group, now Chevron)</li>
+</ul>
+<p>These facilities are actively competing for UCO and virgin oil feedstock. Supply is the constraint. The TPC regulation increases supply of both UCO (through more frequent replacement) and potentially redirected virgin soybean oil volume.</p>
+<h2 id="the-agricultural-state-political-economy">The Agricultural State Political Economy</h2>
+<p>US soybean production:</p>
+<ul>
+<li>~4.4 billion bushels annually</li>
+<li>Illinois, Iowa, Minnesota, Indiana, Ohio — all competitive Senate states</li>
+<li>Soybean processing industry has existing biofuel infrastructure</li>
+<li>The same companies that process soy for food also process soy for biodiesel/HVO</li>
+</ul>
+<p>A senator from Iowa has no incentive to oppose a regulation that:</p>
+<ul>
+<li>Maintains soybean demand through both food and fuel channels</li>
+<li>Creates premium UCO feedstock from the food service sector</li>
+<li>Positions the domestic agricultural sector as a petroleum displacement player</li>
+<li>Supports domestic fuel production and energy independence</li>
+</ul>
+<h2 id="the-petition-language">The Petition Language</h2>
+<p>Section VI of the petition specifically frames the economic displacement:</p>
+<p><em>"The proposed standards will reduce commercial demand for polyunsaturated seed oils in food service applications... The food industry will characterize this as economic harm. The characterization is incorrect. It is economic redirection — from a use that harms the population consuming it to a use that displaces imported petroleum and supports domestic agriculture simultaneously."</em></p>
+<p>The opposition is left with the position of arguing publicly that they prefer selling degraded oil as food over converting it to clean fuel — which does not survive public scrutiny.</p>
+<h2 id="connections">Connections</h2>
+<ul>
+<li>[[TPC Standards]] — the standard generating the redirection</li>
+<li>[[Petition Framework]] — where this argument appears</li>
+<li>[[Deodorization as Fraud]] — the practice being prohibited</li>
+</ul>
+16:["$","div",null,{"className":"max-w-6xl mx-auto px-4 py-8","children":[["$","$L1f",null,{"slug":"09-regulatory-renewable-diesel-displacement"}],["$","div",null,{"className":"grid grid-cols-1 lg:grid-cols-[1fr_280px] gap-8","children":[["$","article",null,{"children":[["$","header",null,{"className":"mb-8","children":[["$","div",null,{"className":"flex items-center gap-2 text-sm text-muted mb-3","children":[["$","span",null,{"className":"px-2 py-0.5 bg-pickle-light text-pickle-dark rounded text-xs font-medium","children":"Regulatory"}],["$","span",null,{"children":["Chapter ",52]}]]}],["$","h1",null,{"className":"text-3xl md:text-4xl font-bold text-foreground mb-3","children":"Renewable Diesel Displacement"}],["$","p",null,{"className":"text-lg text-muted leading-relaxed","children":"tags: [regulatory, biofuel, renewable-diesel, economics, HVO]"}]]}],["$","div",null,{"className":"prose","dangerouslySetInnerHTML":{"__html":"$20"}}],"$L21"]}],"$L22"]}]]}]
+23:I[98352,["/_next/static/chunks/2cdxtyl33onme.js","/_next/static/chunks/30x6623ill3zz.js","/_next/static/chunks/2gspel2gmkmqb.js"],"default"]
+24:I[70411,["/_next/static/chunks/2cdxtyl33onme.js","/_next/static/chunks/30x6623ill3zz.js","/_next/static/chunks/2gspel2gmkmqb.js"],"default"]
+25:I[10432,["/_next/static/chunks/2cdxtyl33onme.js","/_next/static/chunks/30x6623ill3zz.js","/_next/static/chunks/2gspel2gmkmqb.js"],"default"]
+21:["$","nav",null,{"className":"mt-12 pt-8 border-t border-border flex justify-between gap-4","children":[["$","div",null,{}],["$","div",null,{"className":"flex-1 p-4 bg-pickle-lighter rounded-lg text-center","children":["$","$L8",null,{"pose":"celebrating","size":"small","message":"You finished the book!","className":"inline-flex"}]}]]}]
+22:["$","aside",null,{"className":"hidden lg:block space-y-4 no-print","children":["$","div",null,{"className":"sticky top-20 space-y-4","children":[["$","div",null,{"className":"flex items-center gap-2","children":[["$","$L23",null,{"slug":"09-regulatory-renewable-diesel-displacement"}],["$","$L24",null,{}]]}],["$","$L25",null,{"headings":[{"id":"renewable-diesel-displacement","text":"Renewable Diesel Displacement","level":1},{"id":"the-strategic-importance","text":"The Strategic Importance","level":2},{"id":"renewable-diesel-vs-biodiesel","text":"Renewable Diesel vs. Biodiesel","level":2},{"id":"the-renewable-fuel-standard-credit-structure","text":"The Renewable Fuel Standard Credit Structure","level":2},{"id":"the-industrial-capacity-already-exists","text":"The Industrial Capacity Already Exists","level":2},{"id":"the-agricultural-state-political-economy","text":"The Agricultural State Political Economy","level":2},{"id":"the-petition-language","text":"The Petition Language","level":2},{"id":"connections","text":"Connections","level":2}]}]]}]}]
+1c:[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]
+26:I[187,["/_next/static/chunks/2cdxtyl33onme.js","/_next/static/chunks/30x6623ill3zz.js"],"IconMark"]
+19:null
+1e:[["$","title","0",{"children":"Renewable Diesel Displacement | Ed's Picklery and Emporium"}],["$","meta","1",{"name":"description","content":"tags: [regulatory, biofuel, renewable-diesel, economics, HVO]"}],["$","meta","2",{"property":"og:title","content":"Ed's Picklery and Emporium"}],["$","meta","3",{"property":"og:description","content":"Life saving pickles that cure disorders"}],["$","meta","4",{"property":"og:url","content":"https://edspickle.shop"}],["$","meta","5",{"property":"og:site_name","content":"Ed's Picklery and Emporium"}],["$","meta","6",{"property":"og:image","content":"https://edspickle.shop/images/branding/social-sharing-image-v01-01.png"}],["$","meta","7",{"property":"og:image:width","content":"1200"}],["$","meta","8",{"property":"og:image:height","content":"630"}],["$","meta","9",{"property":"og:type","content":"website"}],["$","meta","10",{"name":"twitter:card","content":"summary_large_image"}],["$","meta","11",{"name":"twitter:title","content":"Ed's Picklery and Emporium"}],["$","meta","12",{"name":"twitter:description","content":"Life saving pickles that cure disorders"}],["$","meta","13",{"name":"twitter:image","content":"https://edspickle.shop/images/branding/social-sharing-image-v01-01.png"}],["$","link","14",{"rel":"icon","href":"/favicon.ico?favicon.2vob68tjqpejf.ico","sizes":"256x256","type":"image/x-icon"}],["$","link","15",{"rel":"icon","href":"/images/branding/favicon-v01-01.png"}],["$","$L26","16",{}]]

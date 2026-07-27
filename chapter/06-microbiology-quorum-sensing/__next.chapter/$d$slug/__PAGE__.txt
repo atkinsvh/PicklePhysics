@@ -1,0 +1,113 @@
+1:"$Sreact.fragment"
+2:I[90114,["/_next/static/chunks/2cdxtyl33onme.js","/_next/static/chunks/30x6623ill3zz.js","/_next/static/chunks/2gspel2gmkmqb.js"],"default"]
+8:I[66489,["/_next/static/chunks/2cdxtyl33onme.js","/_next/static/chunks/30x6623ill3zz.js","/_next/static/chunks/2gspel2gmkmqb.js"],"default"]
+9:I[98352,["/_next/static/chunks/2cdxtyl33onme.js","/_next/static/chunks/30x6623ill3zz.js","/_next/static/chunks/2gspel2gmkmqb.js"],"default"]
+a:I[70411,["/_next/static/chunks/2cdxtyl33onme.js","/_next/static/chunks/30x6623ill3zz.js","/_next/static/chunks/2gspel2gmkmqb.js"],"default"]
+b:I[10432,["/_next/static/chunks/2cdxtyl33onme.js","/_next/static/chunks/30x6623ill3zz.js","/_next/static/chunks/2gspel2gmkmqb.js"],"default"]
+c:I[93070,["/_next/static/chunks/2cdxtyl33onme.js","/_next/static/chunks/30x6623ill3zz.js"],"OutletBoundary"]
+d:"$Sreact.suspense"
+3:T1cfd,<h1 id="quorum-sensing">Quorum Sensing</h1>
+<blockquote>
+<p><em>Bacterial multicellular coordination through diffusible chemical signals. The connection between bacterial methylation chemistry, host epigenetic substrate, and gut epithelial maintenance is more intimate than usually appreciated.</em></p>
+</blockquote>
+<h2 id="what-quorum-sensing-is">What Quorum Sensing Is</h2>
+<p>Bacteria produce, release, and detect small diffusible signal molecules whose local concentration reflects population density. Once concentration crosses a threshold (enough cells nearby), the population switches collective behavior: biofilm formation, virulence factor expression, bacteriocin production, or in beneficial bacteria, host-protective metabolite output.</p>
+<p>The three primary signal classes relevant to gut ecology:</p>
+<h3 id="acyl-homoserine-lactones-ahls-gram-negative">Acyl-Homoserine Lactones (AHLs) — Gram-negative</h3>
+<p>Species- or genus-specific signals. The primary QS system of Pseudomonas, E. coli, and related gram-negative gut residents. 3-oxo-C12-AHL from Pseudomonas directly modulates NF-κB in host immune cells — mammalian cells aren't just affected by bacterial outputs; they directly detect the coordination signal itself.</p>
+<h3 id="autoinducing-peptides-aips-gram-positive">Autoinducing Peptides (AIPs) — Gram-positive</h3>
+<p>Used by Staphylococcus, Enterococcus, some Lactobacillus species. Processed signal peptides detected through two-component membrane sensor systems.</p>
+<h3 id="autoinducer-2-ai-2-universal-cross-species-signal">Autoinducer-2 (AI-2) — Universal Cross-Species Signal</h3>
+<p><strong>The most important for this framework.</strong></p>
+<p>AI-2 is produced by LuxS enzyme and functions as a universal signal — both gram-positive and gram-negative gut bacteria produce and respond to it. It coordinates mixed-community behavior across genera.</p>
+<p><strong>The SAM/methylation connection:</strong>
+LuxS doesn't have a dedicated biosynthetic pathway. It is a side reaction of bacterial one-carbon metabolism — specifically cleaving S-ribosylhomocysteine (a breakdown product of SAH, S-adenosylhomocysteine). SAH is generated every time SAM donates a methyl group, in bacteria exactly as in host cells. Bacteria recycle SAH back to homocysteine and methionine through their own activated methyl cycle, and AI-2 production is a direct byproduct.</p>
+<p><strong>This means:</strong> The same biochemical cycle you are supporting nutritionally for human epigenetic function — methionine → SAM → SAH → homocysteine with B12 and folate as cofactors — is running in every gut bacterium. In many species, its output doubles as the molecule coordinating community-wide behavior. The methylation economies of your gut microbiome and your own cells are not separate systems sharing a body cavity — they are running parallel instances of the same chemical logic and producing outputs that talk directly between them.</p>
+<h3 id="indole-the-ahr-ligand-signal">Indole — The AhR Ligand Signal</h3>
+<p>Produced by tryptophanase from dietary tryptophan by L. rhamnosus, Clostridium sporogenes, and others.</p>
+<p><strong>The concentration paradox:</strong></p>
+<ul>
+<li>At LOW concentration: floral/jasmine quality → AhR ligand in host gut epithelium → tight junction upregulation, IL-22, IgA secretion → host tolerance maintenance signal</li>
+<li>At HIGH concentration: strongly fecal/repulsive → evolved avoidance signal for bacterial overgrowth</li>
+</ul>
+<p>The sensory system detects dose, not just compound identity. Healthy gut Lactobacillus producing physiological indole concentrations from adequate dietary tryptophan supply → continuous AhR activation → gut barrier maintenance. Overgrowth → excessive indole → sensory avoidance signal.</p>
+<p><strong>This converges with DIM:</strong> The aryl hydrocarbon receptor (AhR) is activated by:</p>
+<ol>
+<li>Bacterial indole derivatives (microbiome output)</li>
+<li>DIM from cruciferous vegetable glucosinolates (dietary input)</li>
+</ol>
+<p>Both inputs → same receptor → same outcome (tight junction genes, IL-22, IgA). The fermented preparation's red cabbage provides DIM precursors; the Lactobacillus culture provides indole. Two independent inputs to the same gut barrier maintenance signal.</p>
+<h2 id="quorum-quenching-disarming-without-killing">Quorum Quenching — Disarming Without Killing</h2>
+<p>Disrupting the communication system that coordinates pathogenic behavior without killing the organism. Advantages:</p>
+<ul>
+<li>Prevents biofilm formation before it establishes (much easier than clearing established biofilm)</li>
+<li>Doesn't impose the selection pressure for resistance that direct killing does</li>
+<li>Biofilm-embedded gram-negative bacteria are a chronic, low-grade LPS source; preventing biofilm formation addresses this upstream</li>
+</ul>
+<p><strong>Biofilm-autoimmune connection:</strong> Quorum-sensing-coordinated biofilms release matrix material (extracellular DNA, exopolysaccharide) that activates TLR9 and TLR2 independently of bacterial cell LPS. This creates a direct nuclear-material-pattern danger signal — the same signal that drives autoantibody production against self-nuclear material when [[Efferocytosis Failure|efferocytosis fails]]. QS disruption removes this persistent danger signal.</p>
+<h2 id="quorum-quenching-compounds-in-the-formulation">Quorum-Quenching Compounds in the Formulation</h2>
+<table>
+<thead>
+<tr>
+<th>Compound</th>
+<th>Source in formulation</th>
+<th>QS pathway targeted</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Allicin/ajoene</td>
+<td>Garlic</td>
+<td>LasR/RhlR (Pseudomonas-type gram-negatives)</td>
+</tr>
+<tr>
+<td>Quercetin</td>
+<td>Red onion, capers</td>
+<td>AHL-mediated QS, biofilm formation</td>
+</tr>
+<tr>
+<td>Curcumin</td>
+<td>Turmeric</td>
+<td>LasR-mediated QS</td>
+</tr>
+<tr>
+<td>Gingerols</td>
+<td>Ginger</td>
+<td>QS inhibition (multiple genera)</td>
+</tr>
+<tr>
+<td>EGCG</td>
+<td>Green tea</td>
+<td>QS and biofilm inhibition</td>
+</tr>
+<tr>
+<td><strong>Cinnamaldehyde</strong></td>
+<td><strong>Cinnamon bark</strong> (add specifically)</td>
+<td><strong>AHL systems — most potent natural QS inhibitor characterized</strong></td>
+</tr>
+</tbody>
+</table>
+<p><strong>Cinnamon bark is the highest-priority QS-specific addition.</strong> Cinnamaldehyde is also a TRPA1 agonist — the trigeminal tingle confirms its presence in the preparation. → [[Trigeminal Sensing]]</p>
+<h2 id="sophorolipids-from-honey-cultures">Sophorolipids from Honey Cultures</h2>
+<p>Starmerella bombicola from honey cultures produces sophorolipids — glycolipid biosurfactants that:</p>
+<ul>
+<li>Interfere with biofilm formation (QS prerequisite step)</li>
+<li>Improve lipophilic compound distribution in the brine</li>
+<li>Are produced continuously by the honey yeast culture as a secondary function alongside fermentation</li>
+</ul>
+<h2 id="connections">Connections</h2>
+<ul>
+<li>[[Gut Microbiome Ecology]] — the community context</li>
+<li>[[Honey Culture System]] — AI-2 production by honey Lactobacillus</li>
+<li>[[One Carbon Metabolism]] — the shared SAM chemistry</li>
+<li>[[Brine Formulation]] — glycine/SAM substrate</li>
+<li>[[Evolutionary Sensory Framework]] — indole concentration detection</li>
+<li>[[Phase 1 - Gut Barrier]] — AhR/indole/DIM pathway</li>
+<li>[[Botanical Pack]] — cinnamon bark addition</li>
+</ul>
+0:{"rsc":["$","$1","c",{"children":[["$","div",null,{"className":"max-w-6xl mx-auto px-4 py-8","children":[["$","$L2",null,{"slug":"06-microbiology-quorum-sensing"}],["$","div",null,{"className":"grid grid-cols-1 lg:grid-cols-[1fr_280px] gap-8","children":[["$","article",null,{"children":[["$","header",null,{"className":"mb-8","children":[["$","div",null,{"className":"flex items-center gap-2 text-sm text-muted mb-3","children":[["$","span",null,{"className":"px-2 py-0.5 bg-pickle-light text-pickle-dark rounded text-xs font-medium","children":"Microbiology"}],["$","span",null,{"children":["Chapter ",35]}]]}],["$","h1",null,{"className":"text-3xl md:text-4xl font-bold text-foreground mb-3","children":"Quorum Sensing"}],["$","p",null,{"className":"text-lg text-muted leading-relaxed","children":"tags: [microbiology, quorum-sensing, AI-2, indole, AhR, biofilm]"}]]}],["$","div",null,{"className":"prose","dangerouslySetInnerHTML":{"__html":"$3"}}],"$L4"]}],"$L5"]}]]}],["$L6"],"$L7"]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"-f8JDEXe4WkXDL6nzUQi5"}
+4:["$","nav",null,{"className":"mt-12 pt-8 border-t border-border flex justify-between gap-4","children":[["$","div",null,{}],["$","div",null,{"className":"flex-1 p-4 bg-pickle-lighter rounded-lg text-center","children":["$","$L8",null,{"pose":"celebrating","size":"small","message":"You finished the book!","className":"inline-flex"}]}]]}]
+5:["$","aside",null,{"className":"hidden lg:block space-y-4 no-print","children":["$","div",null,{"className":"sticky top-20 space-y-4","children":[["$","div",null,{"className":"flex items-center gap-2","children":[["$","$L9",null,{"slug":"06-microbiology-quorum-sensing"}],["$","$La",null,{}]]}],["$","$Lb",null,{"headings":[{"id":"quorum-sensing","text":"Quorum Sensing","level":1},{"id":"what-quorum-sensing-is","text":"What Quorum Sensing Is","level":2},{"id":"acyl-homoserine-lactones-ahls-gram-negative","text":"Acyl-Homoserine Lactones (AHLs) — Gram-negative","level":3},{"id":"autoinducing-peptides-aips-gram-positive","text":"Autoinducing Peptides (AIPs) — Gram-positive","level":3},{"id":"autoinducer-2-ai-2-universal-cross-species-signal","text":"Autoinducer-2 (AI-2) — Universal Cross-Species Signal","level":3},{"id":"indole-the-ahr-ligand-signal","text":"Indole — The AhR Ligand Signal","level":3},{"id":"quorum-quenching-disarming-without-killing","text":"Quorum Quenching — Disarming Without Killing","level":2},{"id":"quorum-quenching-compounds-in-the-formulation","text":"Quorum-Quenching Compounds in the Formulation","level":2},{"id":"sophorolipids-from-honey-cultures","text":"Sophorolipids from Honey Cultures","level":2},{"id":"connections","text":"Connections","level":2}]}]]}]}]
+6:["$","script","script-0",{"src":"/_next/static/chunks/2gspel2gmkmqb.js","async":true}]
+7:["$","$Lc",null,{"children":["$","$d",null,{"name":"Next.MetadataOutlet","children":"$@e"}]}]
+e:null

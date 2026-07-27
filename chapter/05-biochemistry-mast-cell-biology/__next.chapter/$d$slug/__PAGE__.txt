@@ -1,0 +1,142 @@
+1:"$Sreact.fragment"
+2:I[90114,["/_next/static/chunks/2cdxtyl33onme.js","/_next/static/chunks/30x6623ill3zz.js","/_next/static/chunks/2gspel2gmkmqb.js"],"default"]
+8:I[66489,["/_next/static/chunks/2cdxtyl33onme.js","/_next/static/chunks/30x6623ill3zz.js","/_next/static/chunks/2gspel2gmkmqb.js"],"default"]
+9:I[98352,["/_next/static/chunks/2cdxtyl33onme.js","/_next/static/chunks/30x6623ill3zz.js","/_next/static/chunks/2gspel2gmkmqb.js"],"default"]
+a:I[70411,["/_next/static/chunks/2cdxtyl33onme.js","/_next/static/chunks/30x6623ill3zz.js","/_next/static/chunks/2gspel2gmkmqb.js"],"default"]
+b:I[10432,["/_next/static/chunks/2cdxtyl33onme.js","/_next/static/chunks/30x6623ill3zz.js","/_next/static/chunks/2gspel2gmkmqb.js"],"default"]
+c:I[93070,["/_next/static/chunks/2cdxtyl33onme.js","/_next/static/chunks/30x6623ill3zz.js"],"OutletBoundary"]
+d:"$Sreact.suspense"
+3:T169d,<h1 id="mast-cell-biology">Mast Cell Biology</h1>
+<blockquote>
+<p><em>Immune sentinel cells at the interface of environmental input and systemic inflammatory response. The hyperactivated mast cell is both a victim and an amplifier of the oxidized lipid substrate problem.</em></p>
+</blockquote>
+<h2 id="normal-mast-cell-function">Normal Mast Cell Function</h2>
+<p>Mast cells are tissue-resident immune sentinel cells distributed throughout connective tissue — particularly at tissue-environment interfaces (gut mucosa, skin dermis, airway mucosa, around blood vessels and nerves). They are the first responders to:</p>
+<ul>
+<li>IgE-bound antigen (classical allergic pathway)</li>
+<li>Complement fragments (C3a, C5a)</li>
+<li>Pathogen-associated molecular patterns (PAMPs via TLR receptors)</li>
+<li>Damage-associated molecular patterns (DAMPs)</li>
+<li>Direct physical stimuli (pressure, temperature)</li>
+</ul>
+<p>Degranulation releases: histamine, heparin, tryptase, chymase, prostaglandins, leukotrienes, TNF-α, IL-4, IL-13, NGF.</p>
+<h2 id="how-oxidized-lipids-dysregulate-mast-cells">How Oxidized Lipids Dysregulate Mast Cells</h2>
+<h3 id="nlrp3-inflammasome-activation">NLRP3 Inflammasome Activation</h3>
+<p>4-HNE directly activates the NLRP3 inflammasome in mast cells:</p>
+<ul>
+<li>NLRP3 assembles the caspase-1 activation complex</li>
+<li>Active caspase-1 cleaves pro-IL-1β → IL-1β</li>
+<li>IL-1β acts in an autocrine loop, further sensitizing the mast cell</li>
+<li>Also signals to neighboring mast cells, amplifying regional sensitization</li>
+</ul>
+<h3 id="fc-ri-upregulation">FcεRI Upregulation</h3>
+<p>Chronic oxidative stress upregulates FcεRI (the high-affinity IgE receptor) surface expression:</p>
+<ul>
+<li>More IgE receptors = more IgE binding = greater sensitivity to IgE-mediated activation</li>
+<li>The mast cell now responds to smaller amounts of bound IgE-allergen complex</li>
+<li>Triggers that previously sub-threshold become activating</li>
+</ul>
+<h3 id="tlr4-and-cd36-direct-activation">TLR4 and CD36 Direct Activation</h3>
+<p>OXLAMs activate mast cells through TLR4 and CD36:</p>
+<ul>
+<li>This is non-IgE, non-allergen-dependent activation</li>
+<li>A continuous stimulus while dietary OXLAM exposure continues</li>
+<li>Creates a baseline pre-activation state that lowers the threshold for all other triggers</li>
+</ul>
+<h3 id="mast-cell-tryptase-and-connective-tissue">Mast Cell Tryptase and Connective Tissue</h3>
+<p>Activated mast cells release tryptase:</p>
+<ul>
+<li>MMP activation (particularly MMP-3) → collagen degradation</li>
+<li>Directly degrades connective tissue matrix independently of MMP</li>
+<li>Creates a local pro-inflammatory, pro-degradation environment in connective tissue</li>
+<li>This is the direct link between MCAS and EDS tissue damage amplification</li>
+</ul>
+<h2 id="the-histamine-paradox-in-treatment">The Histamine Paradox in Treatment</h2>
+<p>The fermented preparation is simultaneously:</p>
+<ul>
+<li>The highest dietary histamine source</li>
+<li>The best path to restoring histamine degradation capacity</li>
+</ul>
+<p>Resolution: the DAO enzyme bridge. During the 4–8 week transition period, exogenous DAO handles the histamine load from fermented food introduction while endogenous DAO capacity is being restored by L. rhamnosus GG colonization and the histamine-friendly microbiome developing in the main ferment.</p>
+<p>Young ferments (days 3–5) are lower histamine than long-fermented preparations — histamine accumulates with fermentation age. Start young, age gradually.</p>
+<h2 id="the-glycine-receptor-glyr-connection">The Glycine Receptor (GlyR) Connection</h2>
+<p>Mast cells express the glycine receptor — a glycine-gated chloride channel. When glycine binds:</p>
+<ul>
+<li>Chloride influx → membrane hyperpolarization</li>
+<li>Hyperpolarized cell has reduced intracellular calcium available for degranulation</li>
+<li>Activation threshold raised</li>
+<li>This is completely independent of all IgE, OXLAM, and complement pathways</li>
+</ul>
+<p>This is why glycine at 8g/L in the brine is a mast cell intervention through a mechanism that doesn't appear on any standard mast cell pathway diagram.</p>
+<h2 id="stabilization-compounds">Stabilization Compounds</h2>
+<table>
+<thead>
+<tr>
+<th>Compound</th>
+<th>Mechanism</th>
+<th>Source</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Quercetin</td>
+<td>Calcium channel inhibition; histidine decarboxylase</td>
+<td>Formulation, supplement</td>
+</tr>
+<tr>
+<td>Luteolin</td>
+<td>More potent than quercetin; BBB penetration</td>
+<td>Formulation, supplement</td>
+</tr>
+<tr>
+<td>AKBA</td>
+<td>5-LOX → leukotriene synthesis inhibition</td>
+<td>Formulation (frankincense), supplement</td>
+</tr>
+<tr>
+<td>Baicalin</td>
+<td>STAT6 inhibition → IgE class switching suppression</td>
+<td>Formulation (skullcap)</td>
+</tr>
+<tr>
+<td>Glycine</td>
+<td>GlyR hyperpolarization</td>
+<td>Brine additive</td>
+</tr>
+<tr>
+<td>Thymoquinone</td>
+<td>NLRP3 inhibition; 5-LOX; multiple pathways</td>
+<td>Formulation (nigella)</td>
+</tr>
+<tr>
+<td>Fucoidan</td>
+<td>Unique marine polysaccharide pathway</td>
+<td>Formulation (dulse)</td>
+</tr>
+<tr>
+<td>DAO enzyme</td>
+<td>Histamine degradation</td>
+<td>Supplement</td>
+</tr>
+<tr>
+<td>Butyrate</td>
+<td>Mast cell stabilization (separate from HDAC inhibition)</td>
+<td>Fermentation</td>
+</tr>
+</tbody>
+</table>
+<h2 id="connections">Connections</h2>
+<ul>
+<li>[[Phase 2 - Mast Cell Stabilization]] — the intervention phase</li>
+<li>[[EDS-MCAS-Eczema Cluster]] — the clinical context</li>
+<li>[[Oxidized Lipid Cascade]] — upstream cause</li>
+<li>[[Polyphenols]] — quercetin, luteolin, baicalin chemistry</li>
+<li>[[Brine Formulation]] — glycine and DAO mechanisms</li>
+<li>[[Gut Microbiome Ecology]] — LPS priming pathway</li>
+</ul>
+0:{"rsc":["$","$1","c",{"children":[["$","div",null,{"className":"max-w-6xl mx-auto px-4 py-8","children":[["$","$L2",null,{"slug":"05-biochemistry-mast-cell-biology"}],["$","div",null,{"className":"grid grid-cols-1 lg:grid-cols-[1fr_280px] gap-8","children":[["$","article",null,{"children":[["$","header",null,{"className":"mb-8","children":[["$","div",null,{"className":"flex items-center gap-2 text-sm text-muted mb-3","children":[["$","span",null,{"className":"px-2 py-0.5 bg-pickle-light text-pickle-dark rounded text-xs font-medium","children":"Biochemistry"}],["$","span",null,{"children":["Chapter ",27]}]]}],["$","h1",null,{"className":"text-3xl md:text-4xl font-bold text-foreground mb-3","children":"Mast Cell Biology"}],["$","p",null,{"className":"text-lg text-muted leading-relaxed","children":"tags: [biochemistry, immunology, mast-cell, MCAS, histamine]"}]]}],["$","div",null,{"className":"prose","dangerouslySetInnerHTML":{"__html":"$3"}}],"$L4"]}],"$L5"]}]]}],["$L6"],"$L7"]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"-f8JDEXe4WkXDL6nzUQi5"}
+4:["$","nav",null,{"className":"mt-12 pt-8 border-t border-border flex justify-between gap-4","children":[["$","div",null,{}],["$","div",null,{"className":"flex-1 p-4 bg-pickle-lighter rounded-lg text-center","children":["$","$L8",null,{"pose":"celebrating","size":"small","message":"You finished the book!","className":"inline-flex"}]}]]}]
+5:["$","aside",null,{"className":"hidden lg:block space-y-4 no-print","children":["$","div",null,{"className":"sticky top-20 space-y-4","children":[["$","div",null,{"className":"flex items-center gap-2","children":[["$","$L9",null,{"slug":"05-biochemistry-mast-cell-biology"}],["$","$La",null,{}]]}],["$","$Lb",null,{"headings":[{"id":"mast-cell-biology","text":"Mast Cell Biology","level":1},{"id":"normal-mast-cell-function","text":"Normal Mast Cell Function","level":2},{"id":"how-oxidized-lipids-dysregulate-mast-cells","text":"How Oxidized Lipids Dysregulate Mast Cells","level":2},{"id":"nlrp3-inflammasome-activation","text":"NLRP3 Inflammasome Activation","level":3},{"id":"fc-ri-upregulation","text":"FcεRI Upregulation","level":3},{"id":"tlr4-and-cd36-direct-activation","text":"TLR4 and CD36 Direct Activation","level":3},{"id":"mast-cell-tryptase-and-connective-tissue","text":"Mast Cell Tryptase and Connective Tissue","level":3},{"id":"the-histamine-paradox-in-treatment","text":"The Histamine Paradox in Treatment","level":2},{"id":"the-glycine-receptor-glyr-connection","text":"The Glycine Receptor (GlyR) Connection","level":2},{"id":"stabilization-compounds","text":"Stabilization Compounds","level":2},{"id":"connections","text":"Connections","level":2}]}]]}]}]
+6:["$","script","script-0",{"src":"/_next/static/chunks/2gspel2gmkmqb.js","async":true}]
+7:["$","$Lc",null,{"children":["$","$d",null,{"name":"Next.MetadataOutlet","children":"$@e"}]}]
+e:null
