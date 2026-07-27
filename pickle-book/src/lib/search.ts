@@ -1,91 +1,88 @@
-import type { ChapterData, SearchResult } from "./types";
-
-const STOP_WORDS = new Set([
-  "a", "an", "the", "and", "or", "but", "in", "on", "at", "to", "for",
-  "of", "with", "by", "from", "as", "is", "was", "are", "were", "be",
-  "been", "being", "have", "has", "had", "do", "does", "did", "will",
-  "would", "could", "should", "may", "might", "shall", "can", "need",
-  "this", "that", "these", "those", "i", "me", "my", "we", "our",
-  "you", "your", "he", "him", "his", "she", "her", "it", "its",
-  "they", "them", "their", "what", "which", "who", "where", "when",
-  "why", "how", "all", "each", "every", "both", "few", "more", "most",
-  "other", "some", "such", "no", "nor", "not", "only", "own", "same",
-  "so", "than", "too", "very", "just", "about", "also", "into", "its",
-]);
-
-function tokenize(text: string): string[] {
-  return text
-    .toLowerCase()
-    .replace(/[^\w\s-]/g, " ")
-    .split(/\s+/)
-    .filter((t) => t.length > 1 && !STOP_WORDS.has(t));
+import { getAllChapters } from "./markdown";
+import type { SearchResult } from "./types";
+function stripHtml(html: string): string {
+  return html
+    .replace(/<[^>]+>/g, " ")
+    .replace(/\s+/g, " ")
+    .trim();
 }
-
-function extractSnippet(html: string, queryTokens: string[], maxLength = 160): string {
-  const text = html.replace(/<[^>]+>/g, " ").replace(/\s+/g, " ").trim();
-  const sentences = text.split(/[.!?]+/).filter((s) => s.trim().length > 20);
-  if (sentences.length === 0) {
-    return text.length > maxLength ? text.slice(0, maxLength) + "..." : text;
+function highlightMatches(text: string, query: string): string {
+  if (!query) return text;
+  const words = query.split(/\s+/).filter(Boolean);
+  let result = text;
+  for (const word of words) {
+    const regex = new RegExp(`(${word.replace(/[.*+?^${}()|[\]\\]/g, "\\$&")})`, "gi");
+    result = result.replace(regex, `<mark>$1</mark>`);
   }
-  let bestIdx = 0;
-  let bestScore = 0;
-  for (let i = 0; i < sentences.length; i++) {
-    const lower = sentences[i].toLowerCase();
-    let score = 0;
-    for (const t of queryTokens) {
-      if (lower.includes(t)) score++;
-    }
-    if (score > bestScore) {
-      bestScore = score;
-      bestIdx = i;
+  return result;
+}
+function getSnippet(html: string, query: string, maxLength: number = 200): string {
+  const plain = stripHtml(html);
+  const words = query.toLowerCase().split(/\s+/).filter(Boolean);
+  let bestIndex = -1;
+  for (const word of words) {
+    const idx = plain.toLowerCase().indexOf(word);
+    if (idx !== -1) {
+      bestIndex = idx;
+      break;
     }
   }
-  const snippet = sentences.slice(bestIdx, bestIdx + 2).join(". ").trim();
-  return snippet.length > maxLength ? snippet.slice(0, maxLength) + "..." : snippet;
+  if (bestIndex === -1) {
+    return plain.slice(0, maxLength) + (plain.length > maxLength ? "..." : "");
+  }
+  const start = Math.max(0, bestIndex - 50);
+  const end = Math.min(plain.length, start + maxLength);
+  let snippet = plain.slice(start, end);
+  if (start > 0) snippet = "..." + snippet;
+  if (end < plain.length) snippet = snippet + "...";
+  return snippet;
 }
-
-export function buildSearchIndex(chapters: ChapterData[]): SearchResult[] {
-  return chapters
-    .filter((ch) => !ch.frontMatter.draft)
-    .map((ch) => ({
-      slug: ch.slug,
-      title: ch.frontMatter.title,
-      section: ch.frontMatter.section,
-      snippet: extractSnippet(ch.html, []),
-      score: 0,
-    }));
+function scoreResult(
+  title: string,
+  html: string,
+  section: string | undefined,
+  query: string
+): number {
+  const words = query.toLowerCase().split(/\s+/).filter(Boolean);
+  let score = 0;
+  const titleLower = title.toLowerCase();
+  const htmlLower = stripHtml(html).toLowerCase();
+  const sectionLower = (section || "").toLowerCase();
+  for (const word of words) {
+    if (titleLower.includes(word)) score += 10;
+    if (sectionLower.includes(word)) score += 5;
+    if (htmlLower.includes(word)) score += 1;
+    const regex = new RegExp(word, "gi");
+    const titleMatches = (titleLower.match(regex) || []).length;
+    score += titleMatches * 3;
+    const contentMatches = (htmlLower.match(regex) || []).length;
+    score += contentMatches * 0.5;
+  }
+  return score;
 }
-
-export function searchIndex(query: string, index: SearchResult[]): SearchResult[] {
+export function searchChapters(query: string): SearchResult[] {
   if (!query.trim()) return [];
-  const queryTokens = tokenize(query);
-  if (queryTokens.length === 0) return [];
-
+  const chapters = getAllChapters();
   const results: SearchResult[] = [];
-
-  for (const entry of index) {
-    let score = 0;
-    const titleLower = entry.title.toLowerCase();
-    const snippetLower = entry.snippet.toLowerCase();
-    const queryLower = query.toLowerCase();
-
-    if (titleLower.includes(queryLower)) score += 10;
-    else if (titleLower === queryLower) score += 15;
-
-    for (const t of queryTokens) {
-      if (titleLower.includes(t)) score += 3;
-      if (snippetLower.includes(t)) score += 1;
-    }
-
+  for (const chapter of chapters) {
+    const score = scoreResult(
+      chapter.frontMatter.title,
+      chapter.html,
+      chapter.frontMatter.section,
+      query
+    );
     if (score > 0) {
+      const snippet = getSnippet(chapter.html, query);
       results.push({
-        ...entry,
-        snippet: extractSnippet(entry.snippet, queryTokens),
+        slug: chapter.slug,
+        title: chapter.frontMatter.title,
+        section: chapter.frontMatter.section,
+        snippet: highlightMatches(snippet, query),
         score,
+        highlights: [],
       });
     }
   }
-
   results.sort((a, b) => b.score - a.score);
-  return results.slice(0, 20);
+  return results;
 }
